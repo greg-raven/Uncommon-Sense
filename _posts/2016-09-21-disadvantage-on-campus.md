@@ -1,7 +1,6 @@
 ---
 title: 'Disadvantage on campus'
 date: '2016-09-21'
-author: 'Greg Raven'
 layout: post
 categories:
     - education

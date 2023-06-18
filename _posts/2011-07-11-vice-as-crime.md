@@ -1,7 +1,6 @@
 ---
 title: 'Vice as crime'
 date: '2011-07-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - laws

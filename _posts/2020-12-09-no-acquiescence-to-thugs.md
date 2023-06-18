@@ -1,7 +1,6 @@
 ---
 title: 'No acquiescence to thugs'
 date: '2020-12-09'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'foreign policy'

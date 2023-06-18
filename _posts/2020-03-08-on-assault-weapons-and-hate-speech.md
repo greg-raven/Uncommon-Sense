@@ -1,7 +1,6 @@
 ---
 title: 'On assault weapons and hate speech'
 date: '2020-03-08'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

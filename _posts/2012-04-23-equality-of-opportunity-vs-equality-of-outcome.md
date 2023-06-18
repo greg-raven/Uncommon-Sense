@@ -1,7 +1,6 @@
 ---
 title: 'Equality of opportunity vs. equality of outcome'
 date: '2012-04-23'
-author: 'Greg Raven'
 layout: post
 categories:
     - equality

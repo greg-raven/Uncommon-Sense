@@ -1,7 +1,6 @@
 ---
 title: 'Political correctness vs. Western civilization'
 date: '2017-05-25'
-author: 'Greg Raven'
 layout: post
 categories:
     - culture

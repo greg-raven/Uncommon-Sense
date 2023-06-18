@@ -1,7 +1,6 @@
 ---
 title: 'Government health care'
 date: '2017-10-09'
-author: 'Greg Raven'
 layout: post
 categories:
     - Obamacare

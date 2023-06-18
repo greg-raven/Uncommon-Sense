@@ -1,7 +1,6 @@
 ---
 title: 'Protection against the mob'
 date: '2022-04-18'
-author: 'Greg Raven'
 layout: post
 categories:
     - democracy

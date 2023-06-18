@@ -1,7 +1,6 @@
 ---
 title: 'Undermining immigration laws'
 date: '2013-04-05'
-author: 'Greg Raven'
 layout: post
 categories:
     - immigration

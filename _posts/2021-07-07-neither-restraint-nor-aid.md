@@ -1,7 +1,6 @@
 ---
 title: 'Neither restraint nor aid'
 date: '2021-07-07'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

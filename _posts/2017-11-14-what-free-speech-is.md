@@ -1,7 +1,6 @@
 ---
 title: 'What free speech is'
 date: '2017-11-14'
-author: 'Greg Raven'
 layout: post
 categories:
     - speech

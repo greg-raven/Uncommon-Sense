@@ -1,7 +1,6 @@
 ---
 title: 'The equality of socialism'
 date: '2015-09-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

@@ -1,7 +1,6 @@
 ---
 title: 'The best form of government'
 date: '2010-02-22'
-author: 'Greg Raven'
 layout: post
 categories:
     - democracy

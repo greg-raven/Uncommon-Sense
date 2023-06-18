@@ -1,7 +1,6 @@
 ---
 title: 'Liberalism is suicide'
 date: '2013-12-19'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberalism

@@ -1,7 +1,6 @@
 ---
 title: 'Six rules for liberty'
 date: '2014-04-19'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

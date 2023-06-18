@@ -1,7 +1,6 @@
 ---
 title: 'Political promises'
 date: '2017-10-16'
-author: 'Greg Raven'
 layout: post
 categories:
     - demagogues

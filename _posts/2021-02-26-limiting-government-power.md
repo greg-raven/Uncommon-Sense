@@ -1,7 +1,6 @@
 ---
 title: 'Limiting government power'
 date: '2021-02-26'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

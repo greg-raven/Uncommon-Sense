@@ -1,7 +1,6 @@
 ---
 title: 'Equality under the law'
 date: '2015-03-28'
-author: 'Greg Raven'
 layout: post
 categories:
     - equality

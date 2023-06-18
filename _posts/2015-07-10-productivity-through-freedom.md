@@ -1,7 +1,6 @@
 ---
 title: 'Productivity through freedom'
 date: '2015-07-10'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

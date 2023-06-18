@@ -1,7 +1,6 @@
 ---
 title: 'Observing state corruption'
 date: '2009-12-20'
-author: 'Greg Raven'
 layout: post
 categories:
     - corruption

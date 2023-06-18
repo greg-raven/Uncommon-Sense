@@ -1,7 +1,6 @@
 ---
 title: 'Defining ‘vote’'
 date: '2009-11-02'
-author: 'Greg Raven'
 layout: post
 categories:
     - voting

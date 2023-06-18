@@ -1,7 +1,6 @@
 ---
 title: 'Death and taxes'
 date: '2023-04-19'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

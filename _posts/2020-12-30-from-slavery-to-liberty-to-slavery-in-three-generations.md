@@ -1,7 +1,6 @@
 ---
 title: 'From slavery to liberty to slavery in three generations'
 date: '2020-12-30'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

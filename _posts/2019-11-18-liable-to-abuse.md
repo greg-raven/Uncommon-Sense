@@ -1,7 +1,6 @@
 ---
 title: 'Liable to abuse'
 date: '2019-11-18'
-author: 'Greg Raven'
 layout: post
 categories:
     - money

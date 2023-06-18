@@ -1,7 +1,6 @@
 ---
 title: 'Recipe for catastrophe'
 date: '2019-10-01'
-author: 'Greg Raven'
 layout: post
 categories:
     - immigration

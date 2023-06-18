@@ -1,7 +1,6 @@
 ---
 title: 'Property rights'
 date: '2009-11-13'
-author: 'Greg Raven'
 layout: post
 categories:
     - rights

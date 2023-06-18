@@ -1,7 +1,6 @@
 ---
 title: 'Countries become cultivated by freedom'
 date: '2013-03-25'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

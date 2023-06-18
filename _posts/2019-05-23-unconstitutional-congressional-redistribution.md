@@ -1,7 +1,6 @@
 ---
 title: 'Unconstitutional Congressional redistribution'
 date: '2019-05-23'
-author: 'Greg Raven'
 layout: post
 categories:
     - welfare

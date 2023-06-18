@@ -1,7 +1,6 @@
 ---
 title: 'The Great Depression'
 date: '2017-02-06'
-author: 'Greg Raven'
 layout: post
 categories:
     - economics

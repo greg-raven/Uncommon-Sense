@@ -1,7 +1,6 @@
 ---
 title: 'Interpreting laws corrupts them'
 date: '2009-10-26'
-author: 'Greg Raven'
 layout: post
 categories:
     - laws

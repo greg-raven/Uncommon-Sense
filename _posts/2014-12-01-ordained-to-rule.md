@@ -1,7 +1,6 @@
 ---
 title: 'Ordained to rule'
 date: '2014-12-01'
-author: 'Greg Raven'
 layout: post
 categories:
     - demagogues

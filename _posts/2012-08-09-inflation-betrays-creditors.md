@@ -1,7 +1,6 @@
 ---
 title: 'Inflation betrays creditors'
 date: '2012-08-09'
-author: 'Greg Raven'
 layout: post
 categories:
     - economics

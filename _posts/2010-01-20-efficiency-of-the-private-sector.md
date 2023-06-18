@@ -1,7 +1,6 @@
 ---
 title: 'Efficiency of the private sector'
 date: '2010-01-20'
-author: 'Greg Raven'
 layout: post
 categories:
     - decentralization

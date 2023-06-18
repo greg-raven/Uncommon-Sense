@@ -1,7 +1,6 @@
 ---
 title: 'Government surveillance'
 date: '2011-10-19'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

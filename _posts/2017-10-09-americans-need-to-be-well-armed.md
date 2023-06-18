@@ -1,7 +1,6 @@
 ---
 title: 'Americans need to be well armed'
 date: '2017-10-09'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

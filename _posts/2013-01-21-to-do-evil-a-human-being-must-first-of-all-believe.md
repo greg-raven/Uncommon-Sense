@@ -1,7 +1,6 @@
 ---
 title: 'Good intentions'
 date: '2013-01-21'
-author: 'Greg Raven'
 layout: post
 categories:
     - evil

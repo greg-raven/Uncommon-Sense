@@ -1,7 +1,6 @@
 ---
 title: 'Socialism involves slavery'
 date: '2014-12-05'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

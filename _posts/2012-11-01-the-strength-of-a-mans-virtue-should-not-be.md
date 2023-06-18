@@ -1,7 +1,6 @@
 ---
 title: 'Measuring a man’s virtue'
 date: '2012-11-01'
-author: 'Greg Raven'
 layout: post
 categories:
     - virtue

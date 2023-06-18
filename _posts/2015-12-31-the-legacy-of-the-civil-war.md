@@ -1,7 +1,6 @@
 ---
 title: 'The legacy of the Civil War'
 date: '2015-12-31'
-author: 'Greg Raven'
 layout: post
 categories:
     - war

@@ -1,7 +1,6 @@
 ---
 title: 'Give ’em hell'
 date: '2022-12-28'
-author: 'Greg Raven'
 layout: post
 categories:
     - truth

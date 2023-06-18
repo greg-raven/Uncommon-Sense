@@ -1,7 +1,6 @@
 ---
 title: 'The free market and national wealth'
 date: '2019-08-31'
-author: 'Greg Raven'
 layout: post
 categories:
     - capitalism

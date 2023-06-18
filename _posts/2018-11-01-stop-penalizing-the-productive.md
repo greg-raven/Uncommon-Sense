@@ -1,7 +1,6 @@
 ---
 title: 'Stop penalizing the productive'
 date: '2018-11-01'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

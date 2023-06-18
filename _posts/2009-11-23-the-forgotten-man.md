@@ -1,7 +1,6 @@
 ---
 title: 'The forgotten man'
 date: '2009-11-23'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

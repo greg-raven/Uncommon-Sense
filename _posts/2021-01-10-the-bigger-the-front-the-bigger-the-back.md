@@ -1,7 +1,6 @@
 ---
 title: 'The bigger the front, the bigger the back'
 date: '2021-01-10'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

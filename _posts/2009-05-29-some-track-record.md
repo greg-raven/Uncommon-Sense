@@ -1,7 +1,6 @@
 ---
 title: 'Some track record'
 date: '2009-05-29'
-author: 'Greg Raven'
 layout: post
 categories:
     - taxation

@@ -1,7 +1,6 @@
 ---
 title: 'Fascism in America'
 date: '2019-05-24'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

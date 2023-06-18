@@ -1,7 +1,6 @@
 ---
 title: 'Running the country'
 date: '2010-10-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

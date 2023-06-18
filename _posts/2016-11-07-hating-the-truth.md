@@ -1,7 +1,6 @@
 ---
 title: 'Hating the truth'
 date: '2016-11-07'
-author: 'Greg Raven'
 layout: post
 categories:
     - truth

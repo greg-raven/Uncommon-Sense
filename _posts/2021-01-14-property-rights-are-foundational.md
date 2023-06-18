@@ -1,7 +1,6 @@
 ---
 title: 'Property rights are foundational'
 date: '2021-01-14'
-author: 'Greg Raven'
 layout: post
 categories:
     - property

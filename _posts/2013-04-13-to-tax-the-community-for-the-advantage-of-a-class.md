@@ -1,7 +1,6 @@
 ---
 title: 'Redistribution is plunder'
 date: '2013-04-13'
-author: 'Greg Raven'
 layout: post
 categories:
     - taxation

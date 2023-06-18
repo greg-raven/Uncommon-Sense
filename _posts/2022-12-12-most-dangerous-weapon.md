@@ -1,7 +1,6 @@
 ---
 title: 'Most dangerous weapon'
 date: '2022-12-12'
-author: 'Greg Raven'
 layout: post
 categories:
     - speech

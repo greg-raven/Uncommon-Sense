@@ -1,7 +1,6 @@
 ---
 title: 'Obedience and rebellion'
 date: '2010-07-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - collectivization

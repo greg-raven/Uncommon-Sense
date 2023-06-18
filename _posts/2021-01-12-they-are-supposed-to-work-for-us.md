@@ -1,7 +1,6 @@
 ---
 title: 'They are supposed to work for us'
 date: '2021-01-12'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

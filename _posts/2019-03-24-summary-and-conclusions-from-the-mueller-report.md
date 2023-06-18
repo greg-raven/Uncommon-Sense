@@ -1,7 +1,6 @@
 ---
 title: 'Summary and conclusions from the Mueller Report'
 date: '2019-03-24'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'informed electorate'

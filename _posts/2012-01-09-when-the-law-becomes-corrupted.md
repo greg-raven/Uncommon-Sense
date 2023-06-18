@@ -1,7 +1,6 @@
 ---
 title: 'When the law becomes corrupted'
 date: '2012-01-09'
-author: 'Greg Raven'
 layout: post
 categories:
     - corruption

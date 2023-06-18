@@ -1,7 +1,6 @@
 ---
 title: 'Freedom vs. responsibility'
 date: '2018-09-07'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

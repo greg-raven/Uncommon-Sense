@@ -1,7 +1,6 @@
 ---
 title: 'Freedom allows greatness'
 date: '2021-11-22'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

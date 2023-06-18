@@ -1,7 +1,6 @@
 ---
 title: 'Protect us from force and fraud'
 date: '2019-03-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

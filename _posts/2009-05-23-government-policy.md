@@ -1,7 +1,6 @@
 ---
 title: 'Government policy'
 date: '2009-05-23'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

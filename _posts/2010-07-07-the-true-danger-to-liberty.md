@@ -1,7 +1,6 @@
 ---
 title: 'The true danger to liberty'
 date: '2010-07-07'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

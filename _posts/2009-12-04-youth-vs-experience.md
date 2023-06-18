@@ -1,7 +1,6 @@
 ---
 title: 'Youth vs. experience'
 date: '2009-12-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - adulthood

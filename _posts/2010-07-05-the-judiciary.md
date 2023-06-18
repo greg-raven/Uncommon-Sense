@@ -1,7 +1,6 @@
 ---
 title: 'The judiciary'
 date: '2010-07-05'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

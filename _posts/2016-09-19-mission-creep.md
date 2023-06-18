@@ -1,7 +1,6 @@
 ---
 title: 'Mission creep'
 date: '2016-09-19'
-author: 'Greg Raven'
 layout: post
 categories:
     - evil

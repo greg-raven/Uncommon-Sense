@@ -1,7 +1,6 @@
 ---
 title: 'Elite contempt'
 date: '2012-10-05'
-author: 'Greg Raven'
 layout: post
 categories:
     - demagogues

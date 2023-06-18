@@ -1,7 +1,6 @@
 ---
 title: 'When they’re out of power they’re just funny'
 date: '2018-01-16'
-author: 'Greg Raven'
 layout: post
 categories:
     - demagogues

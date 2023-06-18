@@ -1,7 +1,6 @@
 ---
 title: 'The plight of the Athenians'
 date: '2012-11-20'
-author: 'Greg Raven'
 layout: post
 categories:
     - rights

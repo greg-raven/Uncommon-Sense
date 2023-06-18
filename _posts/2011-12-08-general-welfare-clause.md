@@ -1,7 +1,6 @@
 ---
 title: 'The general welfare clause'
 date: '2011-12-08'
-author: 'Greg Raven'
 layout: post
 categories:
     - welfare

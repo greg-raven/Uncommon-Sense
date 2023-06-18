@@ -1,7 +1,6 @@
 ---
 title: 'Combating socialism with socialism'
 date: '2016-05-26'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

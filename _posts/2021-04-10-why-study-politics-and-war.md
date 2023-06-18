@@ -1,7 +1,6 @@
 ---
 title: 'Why study politics and war'
 date: '2021-04-10'
-author: 'Greg Raven'
 layout: post
 categories:
     - culture

@@ -1,7 +1,6 @@
 ---
 title: 'Spending other people’s money'
 date: '2013-05-30'
-author: 'Greg Raven'
 layout: post
 categories:
     - welfare

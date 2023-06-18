@@ -1,7 +1,6 @@
 ---
 title: 'No prior restraint on speech'
 date: '2013-08-05'
-author: 'Greg Raven'
 layout: post
 categories:
     - speech

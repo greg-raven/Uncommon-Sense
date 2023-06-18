@@ -1,7 +1,6 @@
 ---
 title: 'Americans must put America first'
 date: '2010-09-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - citizenship

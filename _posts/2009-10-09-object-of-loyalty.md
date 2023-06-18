@@ -1,7 +1,6 @@
 ---
 title: 'Object of loyalty'
 date: '2009-10-09'
-author: 'Greg Raven'
 layout: post
 categories:
     - patriotism

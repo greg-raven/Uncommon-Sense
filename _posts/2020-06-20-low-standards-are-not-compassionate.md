@@ -1,7 +1,6 @@
 ---
 title: 'Low standards are not compassionate'
 date: '2020-06-20'
-author: 'Greg Raven'
 layout: post
 categories:
     - culture

@@ -1,7 +1,6 @@
 ---
 title: 'Racial differences in intelligence'
 date: '2021-08-03'
-author: 'Greg Raven'
 layout: post
 categories:
     - culture

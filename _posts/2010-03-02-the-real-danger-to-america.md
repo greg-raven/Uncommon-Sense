@@ -1,7 +1,6 @@
 ---
 title: 'The real danger to America'
 date: '2010-03-02'
-author: 'Greg Raven'
 layout: post
 categories:
     - democracy

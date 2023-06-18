@@ -1,7 +1,6 @@
 ---
 title: 'The people are masters'
 date: '2019-09-18'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

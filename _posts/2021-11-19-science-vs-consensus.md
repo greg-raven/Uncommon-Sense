@@ -1,7 +1,6 @@
 ---
 title: 'Science vs. consensus'
 date: '2021-11-19'
-author: 'Greg Raven'
 layout: post
 categories:
     - knowledge

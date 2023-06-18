@@ -1,7 +1,6 @@
 ---
 title: 'Journalists cannot serve two masters'
 date: '2021-03-01'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'informed electorate'

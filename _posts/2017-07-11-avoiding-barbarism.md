@@ -1,7 +1,6 @@
 ---
 title: 'Avoiding barbarism'
 date: '2017-07-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

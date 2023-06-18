@@ -1,7 +1,6 @@
 ---
 title: 'Pro-gun gun control'
 date: '2016-01-09'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

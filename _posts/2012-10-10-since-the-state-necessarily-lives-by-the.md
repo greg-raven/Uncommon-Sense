@@ -1,7 +1,6 @@
 ---
 title: 'The state is anti-capitalist'
 date: '2012-10-10'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

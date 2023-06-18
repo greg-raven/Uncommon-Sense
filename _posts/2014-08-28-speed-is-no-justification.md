@@ -1,7 +1,6 @@
 ---
 title: 'Speed is no justification'
 date: '2014-08-28'
-author: 'Greg Raven'
 layout: post
 categories:
     - evil

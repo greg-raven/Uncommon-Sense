@@ -1,7 +1,6 @@
 ---
 title: 'Bi-partisan theft'
 date: '2020-12-07'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

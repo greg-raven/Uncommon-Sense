@@ -1,7 +1,6 @@
 ---
 title: 'Thoughts vs. actions'
 date: '2018-02-20'
-author: 'Greg Raven'
 layout: post
 categories:
     - speech

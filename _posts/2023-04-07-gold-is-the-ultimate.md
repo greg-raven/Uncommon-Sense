@@ -1,7 +1,6 @@
 ---
 title: 'Gold is the ultimate'
 date: '2023-04-07'
-author: 'Greg Raven'
 layout: post
 categories:
     - money

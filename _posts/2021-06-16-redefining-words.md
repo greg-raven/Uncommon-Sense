@@ -1,7 +1,6 @@
 ---
 title: 'Redefining words'
 date: '2021-06-16'
-author: 'Greg Raven'
 layout: post
 categories:
     - language

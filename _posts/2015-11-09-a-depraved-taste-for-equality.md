@@ -1,7 +1,6 @@
 ---
 title: 'A depraved taste for equality'
 date: '2015-11-09'
-author: 'Greg Raven'
 layout: post
 categories:
     - equality

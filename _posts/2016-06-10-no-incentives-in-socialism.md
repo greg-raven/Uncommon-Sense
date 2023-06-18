@@ -1,7 +1,6 @@
 ---
 title: 'No incentives in socialism'
 date: '2016-06-10'
-author: 'Greg Raven'
 layout: post
 categories:
     - education

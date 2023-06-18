@@ -1,7 +1,6 @@
 ---
 title: 'Power to the people?'
 date: '2015-03-18'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberalism

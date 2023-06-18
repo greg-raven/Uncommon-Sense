@@ -1,7 +1,6 @@
 ---
 title: 'What is a ‘fair share’?'
 date: '2017-06-25'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

@@ -1,7 +1,6 @@
 ---
 title: 'Public sector vs. private'
 date: '2015-07-17'
-author: 'Greg Raven'
 layout: post
 categories:
     - collectivization

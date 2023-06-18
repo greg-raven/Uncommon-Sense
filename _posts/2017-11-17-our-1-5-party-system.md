@@ -1,7 +1,6 @@
 ---
 title: 'Our 1.5-party system'
 date: '2017-11-17'
-author: 'Greg Raven'
 layout: post
 categories:
     - politics

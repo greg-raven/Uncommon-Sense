@@ -1,7 +1,6 @@
 ---
 title: 'Conduct with other nations'
 date: '2015-08-12'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'foreign policy'

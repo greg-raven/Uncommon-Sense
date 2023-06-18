@@ -1,7 +1,6 @@
 ---
 title: 'A plea for Constitutional literacy on Constitution Day'
 date: '2014-09-17'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

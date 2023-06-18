@@ -1,7 +1,6 @@
 ---
 title: 'Timeless Second Amendment'
 date: '2014-03-12'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

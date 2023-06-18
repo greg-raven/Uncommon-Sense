@@ -1,7 +1,6 @@
 ---
 title: 'Foreign entanglements … modern version'
 date: '2016-10-05'
-author: 'Greg Raven'
 layout: post
 categories:
     - immigration

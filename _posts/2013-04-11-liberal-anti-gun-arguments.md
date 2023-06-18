@@ -1,7 +1,6 @@
 ---
 title: 'Liberal anti-gun arguments'
 date: '2013-04-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

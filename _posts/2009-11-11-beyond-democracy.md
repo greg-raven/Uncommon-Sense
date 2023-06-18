@@ -1,7 +1,6 @@
 ---
 title: 'Beyond democracy'
 date: '2009-11-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - democracy

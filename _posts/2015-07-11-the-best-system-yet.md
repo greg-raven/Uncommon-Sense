@@ -1,7 +1,6 @@
 ---
 title: 'The best system yet'
 date: '2015-07-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - capitalism

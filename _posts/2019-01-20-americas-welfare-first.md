@@ -1,7 +1,6 @@
 ---
 title: 'America’s welfare first'
 date: '2019-01-20'
-author: 'Greg Raven'
 layout: post
 categories:
     - nationalism

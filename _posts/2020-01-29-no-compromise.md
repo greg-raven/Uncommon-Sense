@@ -1,7 +1,6 @@
 ---
 title: 'There can be no compromise'
 date: '2020-01-29'
-author: 'Greg Raven'
 layout: post
 categories:
     - culture

@@ -1,7 +1,6 @@
 ---
 title: 'Good cop, bad cop'
 date: '2012-03-02'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

@@ -1,7 +1,6 @@
 ---
 title: 'Those behind the scenes'
 date: '2022-11-30'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

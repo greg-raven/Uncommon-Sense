@@ -1,7 +1,6 @@
 ---
 title: 'Let’s secure OUR borders'
 date: '2022-03-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - immigration

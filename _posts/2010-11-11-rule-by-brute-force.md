@@ -1,7 +1,6 @@
 ---
 title: 'Rule by brute force'
 date: '2010-11-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - collectivization

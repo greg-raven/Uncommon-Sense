@@ -1,7 +1,6 @@
 ---
 title: 'Life support for racism'
 date: '2018-07-29'
-author: 'Greg Raven'
 layout: post
 categories:
     - race

@@ -1,7 +1,6 @@
 ---
 title: 'Educated into stupidity'
 date: '2009-06-10'
-author: 'Greg Raven'
 layout: post
 categories:
     - education

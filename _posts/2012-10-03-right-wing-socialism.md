@@ -1,7 +1,6 @@
 ---
 title: '‘Right-wing’ socialism'
 date: '2012-10-03'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

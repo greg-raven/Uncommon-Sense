@@ -1,7 +1,6 @@
 ---
 title: 'Power tests character'
 date: '2012-10-22'
-author: 'Greg Raven'
 layout: post
 categories:
     - virtue

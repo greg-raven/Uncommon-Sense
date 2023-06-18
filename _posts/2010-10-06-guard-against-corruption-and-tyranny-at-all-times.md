@@ -1,7 +1,6 @@
 ---
 title: 'Guard against corruption and tyranny at all times'
 date: '2010-10-06'
-author: 'Greg Raven'
 layout: post
 categories:
     - corruption

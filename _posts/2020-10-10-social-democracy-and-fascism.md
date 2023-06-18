@@ -1,7 +1,6 @@
 ---
 title: 'Social democracy and fascism'
 date: '2020-10-10'
-author: 'Greg Raven'
 layout: post
 categories:
     - democracy

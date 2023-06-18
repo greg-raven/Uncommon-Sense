@@ -1,7 +1,6 @@
 ---
 title: 'Freedom is precarious'
 date: '2020-02-20'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

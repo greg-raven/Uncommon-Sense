@@ -1,7 +1,6 @@
 ---
 title: 'Might vs. justice'
 date: '2017-09-19'
-author: 'Greg Raven'
 layout: post
 categories:
     - rights

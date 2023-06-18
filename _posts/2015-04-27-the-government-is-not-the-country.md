@@ -1,7 +1,6 @@
 ---
 title: 'The government is not the country'
 date: '2015-04-27'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

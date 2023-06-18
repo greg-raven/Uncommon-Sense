@@ -1,7 +1,6 @@
 ---
 title: 'Choice of the governed'
 date: '2011-04-01'
-author: 'Greg Raven'
 layout: post
 categories:
     - religion

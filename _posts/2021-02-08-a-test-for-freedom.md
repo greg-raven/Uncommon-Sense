@@ -1,7 +1,6 @@
 ---
 title: 'A test for freedom'
 date: '2021-02-08'
-author: 'Greg Raven'
 layout: post
 categories:
     - individualism

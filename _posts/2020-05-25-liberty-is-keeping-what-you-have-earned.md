@@ -1,7 +1,6 @@
 ---
 title: 'Liberty is keeping what you have earned'
 date: '2020-05-25'
-author: 'Greg Raven'
 layout: post
 categories:
     - taxation

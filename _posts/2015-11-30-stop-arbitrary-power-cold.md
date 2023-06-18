@@ -1,7 +1,6 @@
 ---
 title: 'Stop arbitrary power cold'
 date: '2015-11-30'
-author: 'Greg Raven'
 layout: post
 categories:
     - decentralization

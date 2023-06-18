@@ -1,7 +1,6 @@
 ---
 title: 'Safety against foreign force'
 date: '2013-08-30'
-author: 'Greg Raven'
 layout: post
 categories:
     - war

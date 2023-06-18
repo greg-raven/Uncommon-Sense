@@ -1,7 +1,6 @@
 ---
 title: 'Truth needs no law'
 date: '2014-12-12'
-author: 'Greg Raven'
 layout: post
 categories:
     - truth

@@ -1,7 +1,6 @@
 ---
 title: 'The society we want'
 date: '2022-09-16'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

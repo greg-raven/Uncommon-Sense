@@ -1,7 +1,6 @@
 ---
 title: 'Most urgent fiscal consideration'
 date: '2010-11-13'
-author: 'Greg Raven'
 layout: post
 categories:
     - debt

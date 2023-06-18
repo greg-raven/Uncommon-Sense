@@ -1,7 +1,6 @@
 ---
 title: 'When government declares war on its people'
 date: '2009-08-17'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

@@ -1,7 +1,6 @@
 ---
 title: 'Free enterprise is best'
 date: '2012-10-05'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

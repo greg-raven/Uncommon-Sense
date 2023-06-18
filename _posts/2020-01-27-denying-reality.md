@@ -1,7 +1,6 @@
 ---
 title: 'Denying reality'
 date: '2020-01-27'
-author: 'Greg Raven'
 layout: post
 categories:
     - truth

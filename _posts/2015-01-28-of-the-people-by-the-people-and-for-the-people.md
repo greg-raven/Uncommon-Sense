@@ -1,7 +1,6 @@
 ---
 title: 'Of the people, by the people, and for the people'
 date: '2015-01-28'
-author: 'Greg Raven'
 layout: post
 categories:
     - demagogues

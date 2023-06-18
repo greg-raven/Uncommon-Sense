@@ -1,7 +1,6 @@
 ---
 title: 'Taking action for liberty'
 date: '2010-01-22'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

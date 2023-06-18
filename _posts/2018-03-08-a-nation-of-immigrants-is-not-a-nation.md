@@ -1,7 +1,6 @@
 ---
 title: 'A nation of immigrants is not a nation'
 date: '2018-03-08'
-author: 'Greg Raven'
 layout: post
 categories:
     - diversity

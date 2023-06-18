@@ -1,7 +1,6 @@
 ---
 title: Censorship
 date: '2009-11-20'
-author: 'Greg Raven'
 layout: post
 categories:
     - equality

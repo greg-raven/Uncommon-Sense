@@ -1,7 +1,6 @@
 ---
 title: 'Power seekers'
 date: '2016-02-12'
-author: 'Greg Raven'
 layout: post
 categories:
     - demagogues

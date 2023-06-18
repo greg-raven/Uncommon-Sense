@@ -1,7 +1,6 @@
 ---
 title: 'Central banks have the power to destroy'
 date: '2012-08-07'
-author: 'Greg Raven'
 layout: post
 categories:
     - money

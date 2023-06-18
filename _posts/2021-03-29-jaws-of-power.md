@@ -1,7 +1,6 @@
 ---
 title: 'Jaws of power'
 date: '2021-03-29'
-author: 'Greg Raven'
 layout: post
 categories:
     - collectivization

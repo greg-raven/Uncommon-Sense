@@ -1,7 +1,6 @@
 ---
 title: 'Western civilization'
 date: '2021-02-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - culture

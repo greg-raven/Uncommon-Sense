@@ -1,7 +1,6 @@
 ---
 title: 'The cost of idealism'
 date: '2009-05-07'
-author: 'Greg Raven'
 layout: post
 categories:
     - perfection

@@ -1,7 +1,6 @@
 ---
 title: 'Family and country'
 date: '2011-03-22'
-author: 'Greg Raven'
 layout: post
 categories:
     - collectivization

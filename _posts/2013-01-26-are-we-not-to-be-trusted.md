@@ -1,7 +1,6 @@
 ---
 title: 'Are we not to be trusted?'
 date: '2013-01-26'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

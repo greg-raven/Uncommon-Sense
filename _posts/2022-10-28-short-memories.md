@@ -1,7 +1,6 @@
 ---
 title: 'Short memories'
 date: '2022-10-28'
-author: 'Greg Raven'
 layout: post
 categories:
     - politics

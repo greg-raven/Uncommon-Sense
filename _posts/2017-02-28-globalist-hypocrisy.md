@@ -1,7 +1,6 @@
 ---
 title: 'Globalist hypocrisy'
 date: '2017-02-28'
-author: 'Greg Raven'
 layout: post
 categories:
     - collectivization

@@ -1,7 +1,6 @@
 ---
 title: 'Don’t trust SJWs'
 date: '2020-05-19'
-author: 'Greg Raven'
 layout: post
 categories:
     - culture

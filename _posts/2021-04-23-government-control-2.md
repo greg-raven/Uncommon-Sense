@@ -1,7 +1,6 @@
 ---
 title: 'Government control'
 date: '2021-04-23'
-author: 'Greg Raven'
 layout: post
 categories:
     - decentralization

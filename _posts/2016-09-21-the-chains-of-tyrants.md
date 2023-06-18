@@ -1,7 +1,6 @@
 ---
 title: 'The  chains of tyrants'
 date: '2016-09-21'
-author: 'Greg Raven'
 layout: post
 categories:
     - corruption

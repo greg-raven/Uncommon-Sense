@@ -1,7 +1,6 @@
 ---
 title: 'Exercise your rights'
 date: '2019-03-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - rights

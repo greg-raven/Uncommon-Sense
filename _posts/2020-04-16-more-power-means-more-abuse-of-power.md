@@ -1,7 +1,6 @@
 ---
 title: 'More power means more abuse of power'
 date: '2020-04-16'
-author: 'Greg Raven'
 layout: post
 categories:
     - corruption

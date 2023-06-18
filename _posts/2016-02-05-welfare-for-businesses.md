@@ -1,7 +1,6 @@
 ---
 title: 'Welfare for businesses'
 date: '2016-02-05'
-author: 'Greg Raven'
 layout: post
 categories:
     - welfare

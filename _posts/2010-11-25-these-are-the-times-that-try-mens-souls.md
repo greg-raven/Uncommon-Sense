@@ -1,7 +1,6 @@
 ---
 title: 'These are the times that try men’s souls'
 date: '2010-11-25'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

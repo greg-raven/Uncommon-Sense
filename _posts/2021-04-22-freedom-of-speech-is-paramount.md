@@ -1,7 +1,6 @@
 ---
 title: 'Freedom of speech is paramount'
 date: '2021-04-22'
-author: 'Greg Raven'
 layout: post
 categories:
     - speech

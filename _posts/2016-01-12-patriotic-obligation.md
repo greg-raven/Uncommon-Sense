@@ -1,7 +1,6 @@
 ---
 title: 'Patriotic obligation'
 date: '2016-01-12'
-author: 'Greg Raven'
 layout: post
 categories:
     - corruption

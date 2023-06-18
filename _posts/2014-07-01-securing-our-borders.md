@@ -1,7 +1,6 @@
 ---
 title: 'Securing our borders'
 date: '2014-07-01'
-author: 'Greg Raven'
 layout: post
 categories:
     - immigration

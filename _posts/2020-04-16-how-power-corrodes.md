@@ -1,7 +1,6 @@
 ---
 title: 'How power corrodes'
 date: '2020-04-16'
-author: 'Greg Raven'
 layout: post
 categories:
     - corruption

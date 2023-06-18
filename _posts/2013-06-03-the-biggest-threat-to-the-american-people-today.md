@@ -1,7 +1,6 @@
 ---
 title: 'The biggest threat to the American people'
 date: '2013-06-03'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

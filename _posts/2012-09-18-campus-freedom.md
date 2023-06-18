@@ -1,7 +1,6 @@
 ---
 title: 'Campus freedom'
 date: '2012-09-18'
-author: 'Greg Raven'
 layout: post
 categories:
     - education

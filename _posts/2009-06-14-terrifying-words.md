@@ -1,7 +1,6 @@
 ---
 title: 'Terrifying words'
 date: '2009-06-14'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

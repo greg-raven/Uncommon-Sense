@@ -1,7 +1,6 @@
 ---
 title: 'Why we need the Constitution'
 date: '2009-06-26'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

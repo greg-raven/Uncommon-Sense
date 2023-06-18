@@ -1,7 +1,6 @@
 ---
 title: 'The strongest argument for free enterprise'
 date: '2021-02-22'
-author: 'Greg Raven'
 layout: post
 categories:
     - capitalism

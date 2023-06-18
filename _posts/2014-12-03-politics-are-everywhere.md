@@ -1,7 +1,6 @@
 ---
 title: 'Politics are everywhere'
 date: '2014-12-03'
-author: 'Greg Raven'
 layout: post
 categories:
     - politics

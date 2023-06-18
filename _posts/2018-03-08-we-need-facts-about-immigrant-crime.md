@@ -1,7 +1,6 @@
 ---
 title: 'We need facts about immigrant crime'
 date: '2018-03-08'
-author: 'Greg Raven'
 layout: post
 categories:
     - immigration

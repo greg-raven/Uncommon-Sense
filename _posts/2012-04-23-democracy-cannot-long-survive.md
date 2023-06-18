@@ -1,7 +1,6 @@
 ---
 title: 'Democracy cannot long survive'
 date: '2012-04-23'
-author: 'Greg Raven'
 layout: post
 categories:
     - democracy

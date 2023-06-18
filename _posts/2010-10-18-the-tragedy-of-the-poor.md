@@ -1,7 +1,6 @@
 ---
 title: 'The tragedy of the poor'
 date: '2010-10-18'
-author: 'Greg Raven'
 layout: post
 categories:
     - self-improvement

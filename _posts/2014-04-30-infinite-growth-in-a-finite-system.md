@@ -1,7 +1,6 @@
 ---
 title: 'Infinite growth in a finite system'
 date: '2014-04-30'
-author: 'Greg Raven'
 layout: post
 categories:
     - economics

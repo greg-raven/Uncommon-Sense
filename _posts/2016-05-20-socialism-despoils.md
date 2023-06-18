@@ -1,7 +1,6 @@
 ---
 title: 'Socialism despoils'
 date: '2016-05-20'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

@@ -1,7 +1,6 @@
 ---
 title: 'Affirmative action'
 date: '2013-03-02'
-author: 'Greg Raven'
 layout: post
 categories:
     - equality

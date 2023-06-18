@@ -1,7 +1,6 @@
 ---
 title: 'True patriotism'
 date: '2020-05-07'
-author: 'Greg Raven'
 layout: post
 categories:
     - patriotism

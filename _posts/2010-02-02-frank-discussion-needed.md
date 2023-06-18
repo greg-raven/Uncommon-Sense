@@ -1,7 +1,6 @@
 ---
 title: 'Frank discussion needed'
 date: '2010-02-02'
-author: 'Greg Raven'
 layout: post
 categories:
     - race

@@ -1,7 +1,6 @@
 ---
 title: 'Freedom is easy to lose'
 date: '2012-04-16'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

@@ -1,7 +1,6 @@
 ---
 title: 'When to dissolve your government'
 date: '2009-12-08'
-author: 'Greg Raven'
 layout: post
 categories:
     - rebellion

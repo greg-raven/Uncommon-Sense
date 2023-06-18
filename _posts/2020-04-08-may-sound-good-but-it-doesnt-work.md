@@ -1,7 +1,6 @@
 ---
 title: 'May sound good, but it doesn’t work'
 date: '2020-04-08'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

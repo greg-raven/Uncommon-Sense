@@ -1,7 +1,6 @@
 ---
 title: 'The costs of illegal immigrants'
 date: '2013-09-18'
-author: 'Greg Raven'
 layout: post
 Source:
     - 'Supervisor Michael D. Antonovich, http://www.breitbart.com/big-government/2013/09/17/undocumented-la-county-parents-on-pace-to-receive-650m-in-welfare-benefits/'

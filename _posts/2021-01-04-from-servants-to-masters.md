@@ -1,7 +1,6 @@
 ---
 title: 'From servants to masters'
 date: '2021-01-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

@@ -1,7 +1,6 @@
 ---
 title: 'Demagogue defined'
 date: '2011-06-20'
-author: 'Greg Raven'
 layout: post
 categories:
     - demagogues

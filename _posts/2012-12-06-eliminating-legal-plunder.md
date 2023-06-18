@@ -1,7 +1,6 @@
 ---
 title: 'The law defends plunder'
 date: '2012-12-06'
-author: 'Greg Raven'
 layout: post
 categories:
     - taxation

@@ -1,7 +1,6 @@
 ---
 title: 'When plunder is organized by law'
 date: '2013-04-13'
-author: 'Greg Raven'
 layout: post
 categories:
     - taxation

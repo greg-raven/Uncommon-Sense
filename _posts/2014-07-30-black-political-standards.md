@@ -1,7 +1,6 @@
 ---
 title: 'Black political standards'
 date: '2014-07-30'
-author: 'Greg Raven'
 layout: post
 categories:
     - race

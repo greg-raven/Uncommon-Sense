@@ -1,7 +1,6 @@
 ---
 title: 'The perfect tool'
 date: '2021-02-16'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

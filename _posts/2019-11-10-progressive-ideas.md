@@ -1,7 +1,6 @@
 ---
 title: 'Progressive ideas'
 date: '2019-11-10'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

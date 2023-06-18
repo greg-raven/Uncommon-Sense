@@ -1,7 +1,6 @@
 ---
 title: 'Gold and freedom'
 date: '2012-08-16'
-author: 'Greg Raven'
 layout: post
 categories:
     - money

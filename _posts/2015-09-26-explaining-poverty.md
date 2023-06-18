@@ -1,7 +1,6 @@
 ---
 title: 'Explaining poverty'
 date: '2015-09-26'
-author: 'Greg Raven'
 layout: post
 categories:
     - prosperity

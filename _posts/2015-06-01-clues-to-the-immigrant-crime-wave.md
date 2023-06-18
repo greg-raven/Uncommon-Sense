@@ -1,7 +1,6 @@
 ---
 title: 'Clues to the immigrant crime wave'
 date: '2015-06-01'
-author: 'Greg Raven'
 layout: post
 categories:
     - immigration

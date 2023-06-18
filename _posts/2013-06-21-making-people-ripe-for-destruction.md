@@ -1,7 +1,6 @@
 ---
 title: 'Making people ripe for destruction'
 date: '2013-06-21'
-author: 'Greg Raven'
 layout: post
 categories:
     - morals

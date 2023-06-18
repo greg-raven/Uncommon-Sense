@@ -1,7 +1,6 @@
 ---
 title: 'Throwing off an abusive government'
 date: '2012-04-24'
-author: 'Greg Raven'
 layout: post
 categories:
     - rights

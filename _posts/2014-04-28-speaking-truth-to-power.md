@@ -1,7 +1,6 @@
 ---
 title: 'Who rules you'
 date: '2014-04-28'
-author: 'Greg Raven'
 layout: post
 categories:
     - speech

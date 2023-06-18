@@ -1,7 +1,6 @@
 ---
 title: 'The power to tax is the power to destroy'
 date: '2013-04-17'
-author: 'Greg Raven'
 layout: post
 categories:
     - taxation

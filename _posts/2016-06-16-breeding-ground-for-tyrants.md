@@ -1,7 +1,6 @@
 ---
 title: 'Breeding ground for tyrants'
 date: '2016-06-16'
-author: 'Greg Raven'
 layout: post
 categories:
     - decentralization

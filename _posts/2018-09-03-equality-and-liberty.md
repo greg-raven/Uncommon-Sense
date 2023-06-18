@@ -1,7 +1,6 @@
 ---
 title: 'Equality and liberty'
 date: '2018-09-03'
-author: 'Greg Raven'
 layout: post
 categories:
     - demagogues

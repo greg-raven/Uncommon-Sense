@@ -1,7 +1,6 @@
 ---
 title: Time-binding
 date: '2017-12-06'
-author: 'Greg Raven'
 layout: post
 categories:
     - knowledge

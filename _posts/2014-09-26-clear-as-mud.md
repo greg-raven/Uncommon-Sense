@@ -1,7 +1,6 @@
 ---
 title: 'Clear as mud'
 date: '2014-09-26'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'foreign policy'

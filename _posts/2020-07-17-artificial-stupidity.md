@@ -1,7 +1,6 @@
 ---
 title: 'Artificial stupidity'
 date: '2020-07-17'
-author: 'Greg Raven'
 layout: post
 categories:
     - education

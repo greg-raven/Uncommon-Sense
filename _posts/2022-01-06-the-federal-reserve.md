@@ -1,7 +1,6 @@
 ---
 title: 'The Federal Reserve'
 date: '2022-01-06'
-author: 'Greg Raven'
 layout: post
 categories:
     - money

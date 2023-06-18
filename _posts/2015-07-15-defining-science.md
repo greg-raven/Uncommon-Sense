@@ -1,7 +1,6 @@
 ---
 title: 'Defining science'
 date: '2015-07-15'
-author: 'Greg Raven'
 layout: post
 categories:
     - knowledge

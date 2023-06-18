@@ -1,7 +1,6 @@
 ---
 title: 'The haves and have-nots'
 date: '2020-07-01'
-author: 'Greg Raven'
 layout: post
 categories:
     - individualism

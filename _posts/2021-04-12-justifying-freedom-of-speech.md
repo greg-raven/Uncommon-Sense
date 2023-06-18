@@ -1,7 +1,6 @@
 ---
 title: 'Justifying freedom of speech'
 date: '2021-04-12'
-author: 'Greg Raven'
 layout: post
 categories:
     - speech

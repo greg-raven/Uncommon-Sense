@@ -1,7 +1,6 @@
 ---
 title: 'Our growing cultural deviancy'
 date: '2019-07-17'
-author: 'Greg Raven'
 layout: post
 categories:
     - culture

@@ -1,7 +1,6 @@
 ---
 title: 'Wars abroad, impoverishment at home'
 date: '2022-03-10'
-author: 'Greg Raven'
 layout: post
 categories:
     - war

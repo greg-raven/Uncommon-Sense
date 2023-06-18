@@ -1,7 +1,6 @@
 ---
 title: 'The de-evolution of schooling'
 date: '2016-03-02'
-author: 'Greg Raven'
 layout: post
 categories:
     - education

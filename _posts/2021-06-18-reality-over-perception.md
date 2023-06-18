@@ -1,7 +1,6 @@
 ---
 title: 'Reality over perception'
 date: '2021-06-18'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

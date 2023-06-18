@@ -1,7 +1,6 @@
 ---
 title: 'Minority rule'
 date: '2017-10-02'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

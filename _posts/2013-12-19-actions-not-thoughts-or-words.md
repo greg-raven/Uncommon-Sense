@@ -1,7 +1,6 @@
 ---
 title: 'Actions, not thoughts or words'
 date: '2013-12-19'
-author: 'Greg Raven'
 layout: post
 categories:
     - speech

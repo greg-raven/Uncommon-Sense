@@ -1,7 +1,6 @@
 ---
 title: 'It starts with the centralization of power'
 date: '2014-06-12'
-author: 'Greg Raven'
 layout: post
 categories:
     - collectivization

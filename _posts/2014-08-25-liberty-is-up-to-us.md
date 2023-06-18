@@ -1,7 +1,6 @@
 ---
 title: 'Liberty is up to us'
 date: '2014-08-25'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

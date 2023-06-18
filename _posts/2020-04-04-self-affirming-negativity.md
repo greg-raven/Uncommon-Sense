@@ -1,7 +1,6 @@
 ---
 title: 'Self-affirming negativity'
 date: '2020-04-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - perfection

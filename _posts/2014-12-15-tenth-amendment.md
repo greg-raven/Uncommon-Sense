@@ -1,7 +1,6 @@
 ---
 title: 'Tenth Commandment'
 date: '2014-12-15'
-author: 'Greg Raven'
 layout: post
 categories:
     - morals

@@ -1,7 +1,6 @@
 ---
 title: 'Eat the others'
 date: '2023-01-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - politics

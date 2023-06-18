@@ -1,7 +1,6 @@
 ---
 title: 'Hold onto the Constitution'
 date: '2019-07-26'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

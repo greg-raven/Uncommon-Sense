@@ -1,7 +1,6 @@
 ---
 title: 'Government control of the economy'
 date: '2011-03-02'
-author: 'Greg Raven'
 layout: post
 categories:
     - economics

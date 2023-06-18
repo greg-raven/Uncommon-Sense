@@ -1,7 +1,6 @@
 ---
 title: 'The logic of gun control'
 date: '2022-02-18'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

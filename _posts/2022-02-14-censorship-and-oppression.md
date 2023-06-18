@@ -1,7 +1,6 @@
 ---
 title: 'Censorship and oppression'
 date: '2022-02-14'
-author: 'Greg Raven'
 layout: post
 categories:
     - speech

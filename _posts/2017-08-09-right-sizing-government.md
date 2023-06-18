@@ -1,7 +1,6 @@
 ---
 title: 'Right-sizing government'
 date: '2017-08-09'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

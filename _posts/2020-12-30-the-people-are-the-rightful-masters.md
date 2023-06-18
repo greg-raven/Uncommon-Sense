@@ -1,7 +1,6 @@
 ---
 title: 'The people are the rightful masters'
 date: '2020-12-30'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

@@ -1,7 +1,6 @@
 ---
 title: 'The tyranny of the ‘good’'
 date: '2010-10-09'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'external authority'

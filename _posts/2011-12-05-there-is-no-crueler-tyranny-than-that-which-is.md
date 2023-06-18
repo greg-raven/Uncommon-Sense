@@ -1,7 +1,6 @@
 ---
 title: 'Institutionalized tyranny'
 date: '2011-12-05'
-author: 'Greg Raven'
 layout: post
 categories:
     - laws

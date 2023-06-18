@@ -1,7 +1,6 @@
 ---
 title: 'Repression of speech'
 date: '2020-11-13'
-author: 'Greg Raven'
 layout: post
 categories:
     - speech

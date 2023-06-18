@@ -1,7 +1,6 @@
 ---
 title: 'How best to make citizens happy'
 date: '2010-03-03'
-author: 'Greg Raven'
 layout: post
 categories:
     - democracy

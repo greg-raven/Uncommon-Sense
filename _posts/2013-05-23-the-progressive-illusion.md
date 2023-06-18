@@ -1,7 +1,6 @@
 ---
 title: 'The progressive illusion'
 date: '2013-05-23'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

@@ -1,7 +1,6 @@
 ---
 title: 'State welfare: Cui bono?'
 date: '2016-05-05'
-author: 'Greg Raven'
 layout: post
 categories:
     - welfare

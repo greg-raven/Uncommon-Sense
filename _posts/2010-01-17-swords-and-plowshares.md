@@ -1,7 +1,6 @@
 ---
 title: 'Swords and plowshares'
 date: '2010-01-17'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

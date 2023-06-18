@@ -1,7 +1,6 @@
 ---
 title: 'Try liberty'
 date: '2022-11-16'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

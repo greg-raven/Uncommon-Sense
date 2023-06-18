@@ -1,7 +1,6 @@
 ---
 title: 'Political correctness vs. free inquiry'
 date: '2012-03-14'
-author: 'Greg Raven'
 layout: post
 categories:
     - speech

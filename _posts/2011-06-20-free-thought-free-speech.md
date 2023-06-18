@@ -1,7 +1,6 @@
 ---
 title: 'Free thought, free speech'
 date: '2011-06-20'
-author: 'Greg Raven'
 layout: post
 categories:
     - speech

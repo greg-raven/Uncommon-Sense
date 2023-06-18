@@ -1,7 +1,6 @@
 ---
 title: 'Civil rights'
 date: '2013-12-03'
-author: 'Greg Raven'
 layout: post
 categories:
     - race

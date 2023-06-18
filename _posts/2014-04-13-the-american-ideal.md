@@ -1,7 +1,6 @@
 ---
 title: 'The American ideal'
 date: '2014-04-13'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

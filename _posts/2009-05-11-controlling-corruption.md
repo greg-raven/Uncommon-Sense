@@ -1,7 +1,6 @@
 ---
 title: 'Controlling corruption'
 date: '2009-05-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - decentralization

@@ -1,7 +1,6 @@
 ---
 title: 'What government does'
 date: '2012-01-09'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

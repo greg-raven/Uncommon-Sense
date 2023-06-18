@@ -1,7 +1,6 @@
 ---
 title: 'The importance of free speech'
 date: '2017-11-13'
-author: 'Greg Raven'
 layout: post
 categories:
     - speech

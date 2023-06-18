@@ -1,7 +1,6 @@
 ---
 title: 'Ministries of propaganda'
 date: '2012-11-19'
-author: 'Greg Raven'
 layout: post
 categories:
     - decentralization

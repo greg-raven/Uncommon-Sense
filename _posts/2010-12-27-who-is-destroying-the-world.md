@@ -1,7 +1,6 @@
 ---
 title: 'Who is destroying the world?'
 date: '2010-12-27'
-author: 'Greg Raven'
 layout: post
 categories:
     - evil

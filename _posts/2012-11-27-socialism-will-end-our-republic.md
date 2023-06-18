@@ -1,7 +1,6 @@
 ---
 title: 'Socialism will end our Republic'
 date: '2012-11-27'
-author: 'Greg Raven'
 layout: post
 categories:
     - democracy

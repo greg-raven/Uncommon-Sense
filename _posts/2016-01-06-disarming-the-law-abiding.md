@@ -1,7 +1,6 @@
 ---
 title: 'Disarming the law-abiding'
 date: '2016-01-06'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

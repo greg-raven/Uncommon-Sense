@@ -1,7 +1,6 @@
 ---
 title: 'Going from despotism to liberty'
 date: '2010-05-25'
-author: 'Greg Raven'
 layout: post
 categories:
     - rebellion

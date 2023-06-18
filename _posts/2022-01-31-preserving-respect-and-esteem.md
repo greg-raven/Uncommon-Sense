@@ -1,7 +1,6 @@
 ---
 title: 'Preserving respect and esteem'
 date: '2022-01-31'
-author: 'Greg Raven'
 layout: post
 categories:
     - truth

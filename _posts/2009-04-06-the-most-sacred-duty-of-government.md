@@ -1,7 +1,6 @@
 ---
 title: 'The most sacred duty of government'
 date: '2009-04-06'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

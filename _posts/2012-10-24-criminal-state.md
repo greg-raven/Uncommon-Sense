@@ -1,7 +1,6 @@
 ---
 title: 'The criminal state'
 date: '2012-10-24'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

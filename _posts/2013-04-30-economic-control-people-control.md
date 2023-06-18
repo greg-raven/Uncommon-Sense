@@ -1,7 +1,6 @@
 ---
 title: 'Economic control = people control'
 date: '2013-04-30'
-author: 'Greg Raven'
 layout: post
 categories:
     - economics

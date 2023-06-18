@@ -1,7 +1,6 @@
 ---
 title: 'The single biggest intrusion'
 date: '2019-03-28'
-author: 'Greg Raven'
 layout: post
 categories:
     - taxation

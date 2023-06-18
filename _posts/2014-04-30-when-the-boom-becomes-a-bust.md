@@ -1,7 +1,6 @@
 ---
 title: 'When the boom becomes a bust'
 date: '2014-04-30'
-author: 'Greg Raven'
 layout: post
 categories:
     - economics

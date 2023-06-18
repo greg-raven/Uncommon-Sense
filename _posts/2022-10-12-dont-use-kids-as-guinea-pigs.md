@@ -1,7 +1,6 @@
 ---
 title: 'Don’t use kids as guinea pigs'
 date: '2022-10-12'
-author: 'Greg Raven'
 layout: post
 categories:
     - education

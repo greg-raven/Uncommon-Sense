@@ -1,7 +1,6 @@
 ---
 title: 'Use it or lose it'
 date: '2021-12-29'
-author: 'Greg Raven'
 layout: post
 categories:
     - individualism

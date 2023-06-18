@@ -1,7 +1,6 @@
 ---
 title: 'Scrutinize government'
 date: '2016-09-29'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'informed electorate'

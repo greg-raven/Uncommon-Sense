@@ -1,7 +1,6 @@
 ---
 title: 'Income tax'
 date: '2013-06-03'
-author: 'Greg Raven'
 layout: post
 categories:
     - taxation

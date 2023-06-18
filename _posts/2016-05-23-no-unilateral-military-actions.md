@@ -1,7 +1,6 @@
 ---
 title: 'No unilateral military actions'
 date: '2016-05-23'
-author: 'Greg Raven'
 layout: post
 categories:
     - war

@@ -1,7 +1,6 @@
 ---
 title: 'Jettison the empire to save the republic'
 date: '2015-03-30'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'foreign policy'

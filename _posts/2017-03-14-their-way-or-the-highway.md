@@ -1,7 +1,6 @@
 ---
 title: 'Their way or the highway'
 date: '2017-03-14'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberalism

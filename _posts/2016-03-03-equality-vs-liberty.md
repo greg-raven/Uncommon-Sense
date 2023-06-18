@@ -1,7 +1,6 @@
 ---
 title: 'Equality vs. liberty'
 date: '2016-03-03'
-author: 'Greg Raven'
 layout: post
 categories:
     - equality

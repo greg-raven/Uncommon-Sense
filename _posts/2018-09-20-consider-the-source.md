@@ -1,7 +1,6 @@
 ---
 title: 'Consider the source'
 date: '2018-09-20'
-author: 'Greg Raven'
 layout: post
 categories:
     - knowledge

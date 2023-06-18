@@ -1,7 +1,6 @@
 ---
 title: 'Police protection'
 date: '2012-12-20'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

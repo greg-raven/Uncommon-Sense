@@ -1,7 +1,6 @@
 ---
 title: 'Academics’ undermining of America'
 date: '2017-10-25'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

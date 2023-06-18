@@ -1,7 +1,6 @@
 ---
 title: 'Police protection'
 date: '2011-06-08'
-author: 'Greg Raven'
 layout: post
 categories:
     - taxation

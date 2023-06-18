@@ -1,7 +1,6 @@
 ---
 title: 'In the name of liberalism'
 date: '2019-05-24'
-author: 'Greg Raven'
 layout: post
 categories:
     - collectivization

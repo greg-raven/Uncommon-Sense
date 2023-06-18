@@ -1,7 +1,6 @@
 ---
 title: 'The beginning of all freedom'
 date: '2016-09-08'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

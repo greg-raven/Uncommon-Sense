@@ -1,7 +1,6 @@
 ---
 title: 'Taxation equals slavery'
 date: '2021-03-09'
-author: 'Greg Raven'
 layout: post
 categories:
     - taxation

@@ -1,7 +1,6 @@
 ---
 title: 'Government waste'
 date: '2022-07-14'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

@@ -1,7 +1,6 @@
 ---
 title: 'Willful ignorance'
 date: '2017-02-05'
-author: 'Greg Raven'
 layout: post
 categories:
     - knowledge

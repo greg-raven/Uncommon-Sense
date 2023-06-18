@@ -1,7 +1,6 @@
 ---
 title: 'Public employee collective bargaining'
 date: '2011-03-01'
-author: 'Greg Raven'
 layout: post
 categories:
     - collectivization

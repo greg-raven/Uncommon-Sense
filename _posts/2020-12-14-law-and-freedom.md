@@ -1,7 +1,6 @@
 ---
 title: 'Law and freedom'
 date: '2020-12-14'
-author: 'Greg Raven'
 layout: post
 categories:
     - laws

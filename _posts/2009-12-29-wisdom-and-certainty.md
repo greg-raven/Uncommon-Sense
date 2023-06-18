@@ -1,7 +1,6 @@
 ---
 title: 'Wisdom and certainty'
 date: '2009-12-29'
-author: 'Greg Raven'
 layout: post
 categories:
     - knowledge

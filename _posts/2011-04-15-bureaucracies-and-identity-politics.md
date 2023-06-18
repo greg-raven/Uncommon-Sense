@@ -1,7 +1,6 @@
 ---
 title: 'Bureaucracies and identity politics'
 date: '2011-04-15'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

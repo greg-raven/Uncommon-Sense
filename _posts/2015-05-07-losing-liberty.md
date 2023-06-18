@@ -1,7 +1,6 @@
 ---
 title: 'Losing liberty'
 date: '2015-05-07'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

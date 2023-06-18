@@ -1,7 +1,6 @@
 ---
 title: 'Freedom and responsibility'
 date: '2015-04-24'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

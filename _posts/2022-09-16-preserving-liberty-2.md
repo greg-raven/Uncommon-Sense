@@ -1,7 +1,6 @@
 ---
 title: 'Preserving liberty through knowledge'
 date: '2022-09-16'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

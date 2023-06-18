@@ -1,7 +1,6 @@
 ---
 title: 'End taxation to ensure our liberty'
 date: '2010-04-19'
-author: 'Greg Raven'
 layout: post
 categories:
     - taxation

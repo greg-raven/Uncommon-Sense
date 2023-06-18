@@ -1,7 +1,6 @@
 ---
 title: 'Property rights = freedom'
 date: '2020-03-21'
-author: 'Greg Raven'
 layout: post
 categories:
     - property

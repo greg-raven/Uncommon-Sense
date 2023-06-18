@@ -1,7 +1,6 @@
 ---
 title: 'Peaceable revolution'
 date: '2011-02-24'
-author: 'Greg Raven'
 layout: post
 categories:
     - taxation

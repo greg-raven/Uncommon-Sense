@@ -1,7 +1,6 @@
 ---
 title: 'The judiciary as saboteurs'
 date: '2022-04-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

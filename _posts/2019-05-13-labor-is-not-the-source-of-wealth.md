@@ -1,7 +1,6 @@
 ---
 title: 'Labor is not the source of wealth'
 date: '2019-05-13'
-author: 'Greg Raven'
 layout: post
 categories:
     - economics

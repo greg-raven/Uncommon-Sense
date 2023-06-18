@@ -1,7 +1,6 @@
 ---
 title: 'Absolute rights'
 date: '2011-09-28'
-author: 'Greg Raven'
 layout: post
 categories:
     - rights

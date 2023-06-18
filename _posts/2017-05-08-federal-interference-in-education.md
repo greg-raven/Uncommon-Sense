@@ -1,7 +1,6 @@
 ---
 title: 'Federal interference in education'
 date: '2017-05-08'
-author: 'Greg Raven'
 layout: post
 categories:
     - education

@@ -1,7 +1,6 @@
 ---
 title: 'Destructive power of inflation'
 date: '2009-06-18'
-author: 'Greg Raven'
 layout: post
 categories:
     - economics

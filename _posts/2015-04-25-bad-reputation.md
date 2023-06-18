@@ -1,7 +1,6 @@
 ---
 title: 'Bad reputation'
 date: '2015-04-25'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

@@ -1,7 +1,6 @@
 ---
 title: 'Letter from President Donald J. Trump to the Speaker of the House of Representatives'
 date: '2019-12-17'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

@@ -1,7 +1,6 @@
 ---
 title: 'Paper is not money'
 date: '2009-10-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - money

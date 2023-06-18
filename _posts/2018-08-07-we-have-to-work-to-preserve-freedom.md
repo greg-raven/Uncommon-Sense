@@ -1,7 +1,6 @@
 ---
 title: 'We have to work to preserve freedom'
 date: '2018-08-07'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

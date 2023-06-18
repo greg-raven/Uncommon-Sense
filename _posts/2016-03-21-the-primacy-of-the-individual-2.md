@@ -1,7 +1,6 @@
 ---
 title: 'The primacy of the individual'
 date: '2016-03-21'
-author: 'Greg Raven'
 layout: post
 categories:
     - individualism

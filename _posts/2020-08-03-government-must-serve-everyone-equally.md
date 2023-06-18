@@ -1,7 +1,6 @@
 ---
 title: 'Government must serve everyone equally'
 date: '2020-08-03'
-author: 'Greg Raven'
 layout: post
 categories:
     - equality

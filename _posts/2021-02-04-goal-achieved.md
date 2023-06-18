@@ -1,7 +1,6 @@
 ---
 title: 'Goal achieved'
 date: '2021-02-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - corruption

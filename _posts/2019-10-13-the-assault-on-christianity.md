@@ -1,7 +1,6 @@
 ---
 title: 'The assault on Christianity'
 date: '2019-10-13'
-author: 'Greg Raven'
 layout: post
 categories:
     - religion

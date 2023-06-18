@@ -1,7 +1,6 @@
 ---
 title: 'How to make the Constitution work again'
 date: '2012-02-22'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

@@ -1,7 +1,6 @@
 ---
 title: 'How socialism gains a foothold'
 date: '2021-02-17'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

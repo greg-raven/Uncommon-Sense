@@ -1,7 +1,6 @@
 ---
 title: 'True freedom'
 date: '2017-07-13'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

@@ -1,7 +1,6 @@
 ---
 title: 'Our current madness'
 date: '2018-12-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

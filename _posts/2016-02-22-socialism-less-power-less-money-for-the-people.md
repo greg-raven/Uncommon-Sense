@@ -1,7 +1,6 @@
 ---
 title: 'Socialism: Less power, less money for the people'
 date: '2016-02-22'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

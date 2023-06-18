@@ -1,7 +1,6 @@
 ---
 title: 'Why weren’t guns behaving violently 100 years ago?'
 date: '2017-03-14'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

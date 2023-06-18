@@ -1,7 +1,6 @@
 ---
 title: 'Government doesn’t solve problems'
 date: '2012-02-10'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

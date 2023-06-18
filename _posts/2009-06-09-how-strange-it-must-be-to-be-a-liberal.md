@@ -1,7 +1,6 @@
 ---
 title: 'How strange it must be to be a liberal'
 date: '2009-06-09'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberalism

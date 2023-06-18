@@ -1,7 +1,6 @@
 ---
 title: 'Tenth Amendment'
 date: '2017-08-30'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

@@ -1,7 +1,6 @@
 ---
 title: 'Eliminating cronyism'
 date: '2011-10-05'
-author: 'Greg Raven'
 layout: post
 categories:
     - corruption

@@ -1,7 +1,6 @@
 ---
 title: 'Government control'
 date: '2010-05-10'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'external authority'

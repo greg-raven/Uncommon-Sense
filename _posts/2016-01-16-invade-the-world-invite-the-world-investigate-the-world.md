@@ -1,7 +1,6 @@
 ---
 title: 'Invade the world, invite the world, investigate the world'
 date: '2016-01-16'
-author: 'Greg Raven'
 layout: post
 categories:
     - rights

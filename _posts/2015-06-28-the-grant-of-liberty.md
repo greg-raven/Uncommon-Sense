@@ -1,7 +1,6 @@
 ---
 title: 'The grant of liberty'
 date: '2015-06-28'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

@@ -1,7 +1,6 @@
 ---
 title: 'Managing capital'
 date: '2010-10-18'
-author: 'Greg Raven'
 layout: post
 categories:
     - economics

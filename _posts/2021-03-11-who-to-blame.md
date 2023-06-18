@@ -1,7 +1,6 @@
 ---
 title: 'Who to blame'
 date: '2021-03-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

@@ -1,7 +1,6 @@
 ---
 title: 'Hard money'
 date: '2016-02-08'
-author: 'Greg Raven'
 layout: post
 categories:
     - money

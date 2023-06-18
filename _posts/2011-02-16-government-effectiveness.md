@@ -1,7 +1,6 @@
 ---
 title: 'Government effectiveness'
 date: '2011-02-16'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

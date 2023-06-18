@@ -1,7 +1,6 @@
 ---
 title: 'The power of accurate observation'
 date: '2009-09-20'
-author: 'Greg Raven'
 layout: post
 categories:
     - knowledge

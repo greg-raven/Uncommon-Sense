@@ -1,7 +1,6 @@
 ---
 title: 'Denigrating the rule of law'
 date: '2013-08-26'
-author: 'Greg Raven'
 layout: post
 categories:
     - laws

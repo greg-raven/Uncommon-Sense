@@ -1,7 +1,6 @@
 ---
 title: 'The militia protects our rights and liberties'
 date: '2014-08-18'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

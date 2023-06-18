@@ -1,7 +1,6 @@
 ---
 title: 'Science in the service of globalism'
 date: '2016-06-10'
-author: 'Greg Raven'
 layout: post
 categories:
     - environment

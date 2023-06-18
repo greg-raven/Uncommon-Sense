@@ -1,7 +1,6 @@
 ---
 title: 'Leftist political strategy'
 date: '2016-02-22'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

@@ -1,7 +1,6 @@
 ---
 title: 'Ending racism'
 date: '2015-03-23'
-author: 'Greg Raven'
 layout: post
 categories:
     - race

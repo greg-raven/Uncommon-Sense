@@ -1,7 +1,6 @@
 ---
 title: 'Protect the Constitution'
 date: '2018-07-12'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

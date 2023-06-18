@@ -1,7 +1,6 @@
 ---
 title: 'Firearms and the Constitution'
 date: '2012-11-19'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

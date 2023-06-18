@@ -1,7 +1,6 @@
 ---
 title: 'War on poverty'
 date: '2010-10-12'
-author: 'Greg Raven'
 layout: post
 categories:
     - prosperity

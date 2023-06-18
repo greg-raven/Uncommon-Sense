@@ -1,7 +1,6 @@
 ---
 title: 'Federal intervention'
 date: '2014-11-24'
-author: 'Greg Raven'
 layout: post
 categories:
     - education

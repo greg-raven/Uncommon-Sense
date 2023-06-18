@@ -1,7 +1,6 @@
 ---
 title: 'Depression and unemployment'
 date: '2010-12-01'
-author: 'Greg Raven'
 layout: post
 categories:
     - economics

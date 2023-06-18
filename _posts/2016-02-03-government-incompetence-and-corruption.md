@@ -1,7 +1,6 @@
 ---
 title: 'Government incompetence and corruption'
 date: '2016-02-03'
-author: 'Greg Raven'
 layout: post
 categories:
     - corruption

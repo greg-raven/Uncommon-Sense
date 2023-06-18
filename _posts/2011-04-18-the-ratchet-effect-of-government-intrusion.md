@@ -1,7 +1,6 @@
 ---
 title: 'The ratchet effect of government intrusion'
 date: '2011-04-18'
-author: 'Greg Raven'
 layout: post
 categories:
     - decentralization

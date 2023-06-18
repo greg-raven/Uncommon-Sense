@@ -1,7 +1,6 @@
 ---
 title: 'Clinging to victimhood'
 date: '2011-08-09'
-author: 'Greg Raven'
 layout: post
 categories:
     - welfare

@@ -1,7 +1,6 @@
 ---
 title: 'Victims of the war on poverty'
 date: '2015-11-12'
-author: 'Greg Raven'
 layout: post
 categories:
     - welfare

@@ -1,7 +1,6 @@
 ---
 title: 'Give me liberty or give me death'
 date: '2013-01-26'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

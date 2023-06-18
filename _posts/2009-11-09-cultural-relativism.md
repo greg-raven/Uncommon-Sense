@@ -1,7 +1,6 @@
 ---
 title: 'Cultural relativism'
 date: '2009-11-09'
-author: 'Greg Raven'
 layout: post
 categories:
     - culture

@@ -1,7 +1,6 @@
 ---
 title: 'The deity of the State'
 date: '2015-08-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - collectivization

@@ -1,7 +1,6 @@
 ---
 title: 'The greatest calamity'
 date: '2021-11-08'
-author: 'Greg Raven'
 layout: post
 categories:
     - debt

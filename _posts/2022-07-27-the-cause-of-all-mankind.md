@@ -1,7 +1,6 @@
 ---
 title: 'The cause of all mankind'
 date: '2022-07-27'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

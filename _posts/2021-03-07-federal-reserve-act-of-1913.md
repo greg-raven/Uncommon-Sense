@@ -1,7 +1,6 @@
 ---
 title: 'Federal Reserve Act of 1913'
 date: '2021-03-07'
-author: 'Greg Raven'
 layout: post
 categories:
     - money

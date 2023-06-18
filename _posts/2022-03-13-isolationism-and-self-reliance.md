@@ -1,7 +1,6 @@
 ---
 title: 'Isolationism and self-reliance'
 date: '2022-03-13'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'foreign policy'

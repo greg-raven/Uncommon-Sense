@@ -1,7 +1,6 @@
 ---
 title: 'Western values'
 date: '2013-08-27'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

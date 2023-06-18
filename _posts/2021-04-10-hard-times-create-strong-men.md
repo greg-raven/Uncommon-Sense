@@ -1,7 +1,6 @@
 ---
 title: 'Hard times create strong men'
 date: '2021-04-10'
-author: 'Greg Raven'
 layout: post
 categories:
     - culture

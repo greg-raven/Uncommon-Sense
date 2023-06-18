@@ -1,7 +1,6 @@
 ---
 title: 'Equal in slavery'
 date: '2009-05-05'
-author: 'Greg Raven'
 layout: post
 categories:
     - equality

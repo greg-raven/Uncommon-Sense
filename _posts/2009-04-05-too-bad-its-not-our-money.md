@@ -1,7 +1,6 @@
 ---
 title: 'Too bad it’s not our money'
 date: '2009-04-05'
-author: 'Greg Raven'
 layout: post
 categories:
     - corruption

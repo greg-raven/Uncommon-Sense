@@ -1,7 +1,6 @@
 ---
 title: 'The two purposes of propaganda'
 date: '2022-02-18'
-author: 'Greg Raven'
 layout: post
 categories:
     - politics

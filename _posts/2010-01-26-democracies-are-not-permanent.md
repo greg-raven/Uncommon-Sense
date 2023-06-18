@@ -1,7 +1,6 @@
 ---
 title: 'Democracies are not permanent'
 date: '2010-01-26'
-author: 'Greg Raven'
 layout: post
 categories:
     - democracy

@@ -1,7 +1,6 @@
 ---
 title: 'Getting rid of poverty'
 date: '2009-05-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - economics

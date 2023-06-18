@@ -1,7 +1,6 @@
 ---
 title: 'Unlimited power leads to despotism'
 date: '2012-09-25'
-author: 'Greg Raven'
 layout: post
 categories:
     - democracy

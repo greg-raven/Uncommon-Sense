@@ -1,7 +1,6 @@
 ---
 title: 'Make Federal borrowing illegal'
 date: '2011-07-21'
-author: 'Greg Raven'
 layout: post
 categories:
     - debt

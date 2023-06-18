@@ -1,7 +1,6 @@
 ---
 title: 'Hope and change'
 date: '2016-08-12'
-author: 'Greg Raven'
 layout: post
 categories:
     - rebellion

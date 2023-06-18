@@ -1,7 +1,6 @@
 ---
 title: Secession
 date: '2009-11-10'
-author: 'Greg Raven'
 layout: post
 categories:
     - decentralization

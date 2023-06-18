@@ -1,7 +1,6 @@
 ---
 title: 'Government vs. liberty'
 date: '2023-01-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

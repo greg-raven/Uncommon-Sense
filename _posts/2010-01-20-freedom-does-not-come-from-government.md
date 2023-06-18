@@ -1,7 +1,6 @@
 ---
 title: 'Freedom does not come from government'
 date: '2010-01-20'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

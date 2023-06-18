@@ -1,7 +1,6 @@
 ---
 title: 'Liberal treachery'
 date: '2010-02-22'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberalism

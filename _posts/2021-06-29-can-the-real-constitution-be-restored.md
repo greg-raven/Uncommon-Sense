@@ -1,7 +1,6 @@
 ---
 title: 'Can the real Constitution be restored?'
 date: '2021-06-29'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

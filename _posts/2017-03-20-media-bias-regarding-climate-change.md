@@ -1,7 +1,6 @@
 ---
 title: 'Media bias regarding climate change'
 date: '2017-03-20'
-author: 'Greg Raven'
 layout: post
 categories:
     - climate

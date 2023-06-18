@@ -1,7 +1,6 @@
 ---
 title: 'Diversity of enterprise for the wealth of a nation'
 date: '2012-09-22'
-author: 'Greg Raven'
 layout: post
 categories:
     - capitalism

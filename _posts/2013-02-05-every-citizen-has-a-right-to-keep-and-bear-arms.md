@@ -1,7 +1,6 @@
 ---
 title: 'The right to arms shall never be questioned'
 date: '2013-02-05'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

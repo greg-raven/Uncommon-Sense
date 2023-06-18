@@ -1,7 +1,6 @@
 ---
 title: 'We’ve been nice to the liberals for too long'
 date: '2012-09-17'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberalism

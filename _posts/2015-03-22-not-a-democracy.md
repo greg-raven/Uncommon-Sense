@@ -1,7 +1,6 @@
 ---
 title: 'Not a democracy'
 date: '2015-03-22'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

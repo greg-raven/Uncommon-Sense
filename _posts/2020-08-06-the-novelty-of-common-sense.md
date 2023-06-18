@@ -1,7 +1,6 @@
 ---
 title: 'The novelty of common sense'
 date: '2020-08-06'
-author: 'Greg Raven'
 layout: post
 categories:
     - virtue

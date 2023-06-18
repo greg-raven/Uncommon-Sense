@@ -1,7 +1,6 @@
 ---
 title: 'Do not condemn what you have never seen'
 date: '2016-04-29'
-author: 'Greg Raven'
 layout: post
 categories:
     - capitalism

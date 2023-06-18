@@ -1,7 +1,6 @@
 ---
 title: 'Invasion U.S.A.'
 date: '2021-01-31'
-author: 'Greg Raven'
 layout: post
 categories:
     - immigration

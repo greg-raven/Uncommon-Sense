@@ -1,7 +1,6 @@
 ---
 title: 'Money talks'
 date: '2021-08-10'
-author: 'Greg Raven'
 layout: post
 categories:
     - money

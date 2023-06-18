@@ -1,7 +1,6 @@
 ---
 title: 'All government is evil'
 date: '2022-07-26'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

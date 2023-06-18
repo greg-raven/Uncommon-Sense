@@ -1,7 +1,6 @@
 ---
 title: 'Oppression destroys society'
 date: '2019-06-12'
-author: 'Greg Raven'
 layout: post
 categories:
     - democracy

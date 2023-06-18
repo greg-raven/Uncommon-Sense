@@ -1,7 +1,6 @@
 ---
 title: 'Individual self defense'
 date: '2015-12-12'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

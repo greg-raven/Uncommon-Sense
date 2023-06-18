@@ -1,7 +1,6 @@
 ---
 title: 'True tax reform'
 date: '2016-08-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - taxation

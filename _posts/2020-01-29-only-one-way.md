@@ -1,7 +1,6 @@
 ---
 title: 'Only one way'
 date: '2020-01-29'
-author: 'Greg Raven'
 layout: post
 categories:
     - truth

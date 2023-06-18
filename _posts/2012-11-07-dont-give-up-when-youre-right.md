@@ -1,7 +1,6 @@
 ---
 title: 'Don’t give up when you’re right'
 date: '2012-11-07'
-author: 'Greg Raven'
 layout: post
 categories:
     - conviction

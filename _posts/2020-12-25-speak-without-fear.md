@@ -1,7 +1,6 @@
 ---
 title: 'Speak without fear'
 date: '2020-12-25'
-author: 'Greg Raven'
 layout: post
 categories:
     - speech

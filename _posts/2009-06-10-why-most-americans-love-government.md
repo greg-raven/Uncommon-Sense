@@ -1,7 +1,6 @@
 ---
 title: 'Why most Americans love government'
 date: '2009-06-10'
-author: 'Greg Raven'
 layout: post
 categories:
     - taxation

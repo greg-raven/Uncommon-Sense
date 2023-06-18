@@ -1,7 +1,6 @@
 ---
 title: 'Prison or liberty'
 date: '2020-12-25'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

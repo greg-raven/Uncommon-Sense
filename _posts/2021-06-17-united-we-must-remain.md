@@ -1,7 +1,6 @@
 ---
 title: 'United we must remain'
 date: '2021-06-17'
-author: 'Greg Raven'
 layout: post
 categories:
     - culture

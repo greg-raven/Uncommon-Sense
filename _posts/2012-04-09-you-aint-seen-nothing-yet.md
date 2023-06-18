@@ -1,7 +1,6 @@
 ---
 title: 'You ain’t seen nothing yet'
 date: '2012-04-09'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

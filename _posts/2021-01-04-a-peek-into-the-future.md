@@ -1,7 +1,6 @@
 ---
 title: 'A peek into the future'
 date: '2021-01-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - education

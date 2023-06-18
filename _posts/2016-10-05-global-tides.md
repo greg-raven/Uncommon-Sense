@@ -1,7 +1,6 @@
 ---
 title: 'Global tides'
 date: '2016-10-05'
-author: 'Greg Raven'
 layout: post
 categories:
     - nationalism

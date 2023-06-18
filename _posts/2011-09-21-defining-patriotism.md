@@ -1,7 +1,6 @@
 ---
 title: 'Defining patriotism'
 date: '2011-09-21'
-author: 'Greg Raven'
 layout: post
 categories:
     - patriotism

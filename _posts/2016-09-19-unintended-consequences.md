@@ -1,7 +1,6 @@
 ---
 title: 'Unintended consequences'
 date: '2016-09-19'
-author: 'Greg Raven'
 layout: post
 categories:
     - perfection

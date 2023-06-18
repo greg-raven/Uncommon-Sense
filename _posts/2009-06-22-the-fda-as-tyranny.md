@@ -1,7 +1,6 @@
 ---
 title: 'The FDA as tyranny'
 date: '2009-06-22'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

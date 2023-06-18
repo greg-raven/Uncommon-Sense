@@ -1,7 +1,6 @@
 ---
 title: 'Limiting the freedom of news'
 date: '2023-06-16'
-author: 'Greg Raven'
 layout: post
 categories:
     - speech

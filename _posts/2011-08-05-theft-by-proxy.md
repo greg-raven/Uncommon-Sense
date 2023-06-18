@@ -1,7 +1,6 @@
 ---
 title: 'Theft by proxy'
 date: '2011-08-05'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

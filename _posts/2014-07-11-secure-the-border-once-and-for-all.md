@@ -1,7 +1,6 @@
 ---
 title: 'Secure the border once and for all'
 date: '2014-07-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - immigration

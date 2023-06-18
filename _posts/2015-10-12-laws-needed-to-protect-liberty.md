@@ -1,7 +1,6 @@
 ---
 title: 'Laws needed to protect liberty'
 date: '2015-10-12'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

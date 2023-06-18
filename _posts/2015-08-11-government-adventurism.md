@@ -1,7 +1,6 @@
 ---
 title: 'Government adventurism'
 date: '2015-08-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'foreign policy'

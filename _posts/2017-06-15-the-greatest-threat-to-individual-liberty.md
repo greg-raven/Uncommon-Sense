@@ -1,7 +1,6 @@
 ---
 title: 'The greatest threat to individual liberty'
 date: '2017-06-15'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

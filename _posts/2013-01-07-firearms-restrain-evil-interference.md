@@ -1,7 +1,6 @@
 ---
 title: 'Firearms restrain evil interference'
 date: '2013-01-07'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

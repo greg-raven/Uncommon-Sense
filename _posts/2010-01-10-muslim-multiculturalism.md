@@ -1,7 +1,6 @@
 ---
 title: 'Muslim multiculturalism'
 date: '2010-01-10'
-author: 'Greg Raven'
 layout: post
 categories:
     - culture

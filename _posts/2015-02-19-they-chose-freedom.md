@@ -1,7 +1,6 @@
 ---
 title: 'They chose freedom'
 date: '2015-02-19'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

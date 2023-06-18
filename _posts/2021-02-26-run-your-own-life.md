@@ -1,7 +1,6 @@
 ---
 title: 'Run your own life'
 date: '2021-02-26'
-author: 'Greg Raven'
 layout: post
 categories:
     - individualism

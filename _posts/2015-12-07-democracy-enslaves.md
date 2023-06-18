@@ -1,7 +1,6 @@
 ---
 title: 'Democracy enslaves'
 date: '2015-12-07'
-author: 'Greg Raven'
 layout: post
 categories:
     - democracy

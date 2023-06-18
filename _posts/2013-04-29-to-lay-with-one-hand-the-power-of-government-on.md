@@ -1,7 +1,6 @@
 ---
 title: 'Redistribution is robbery'
 date: '2013-04-29'
-author: 'Greg Raven'
 layout: post
 categories:
     - taxation

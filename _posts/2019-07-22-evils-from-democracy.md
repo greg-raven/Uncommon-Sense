@@ -1,7 +1,6 @@
 ---
 title: 'Evils from democracy'
 date: '2019-07-22'
-author: 'Greg Raven'
 layout: post
 categories:
     - democracy

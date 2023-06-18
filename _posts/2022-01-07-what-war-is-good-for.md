@@ -1,7 +1,6 @@
 ---
 title: 'What war is good for'
 date: '2022-01-07'
-author: 'Greg Raven'
 layout: post
 categories:
     - war

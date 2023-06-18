@@ -1,7 +1,6 @@
 ---
 title: 'The career of a politician'
 date: '2022-02-01'
-author: 'Greg Raven'
 layout: post
 categories:
     - politics

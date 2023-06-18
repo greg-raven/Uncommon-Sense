@@ -1,7 +1,6 @@
 ---
 title: 'Government must be small'
 date: '2009-07-27'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

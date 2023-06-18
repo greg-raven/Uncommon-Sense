@@ -1,7 +1,6 @@
 ---
 title: 'Gun control'
 date: '2021-02-26'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

@@ -1,7 +1,6 @@
 ---
 title: 'Lay down with dogs, get up with fleas'
 date: '2009-06-16'
-author: 'Greg Raven'
 layout: post
 categories:
     - immigration

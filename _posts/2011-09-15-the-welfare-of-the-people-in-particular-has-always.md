@@ -1,7 +1,6 @@
 ---
 title: 'The alibi of tyrants'
 date: '2011-09-15'
-author: 'Greg Raven'
 layout: post
 categories:
     - collectivization

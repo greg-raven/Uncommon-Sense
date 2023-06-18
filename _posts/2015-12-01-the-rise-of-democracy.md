@@ -1,7 +1,6 @@
 ---
 title: 'The false premise of democracy'
 date: '2015-12-01'
-author: 'Greg Raven'
 layout: post
 categories:
     - democracy

@@ -1,7 +1,6 @@
 ---
 title: 'Crimes of ego'
 date: '2016-10-30'
-author: 'Greg Raven'
 layout: post
 categories:
     - evil

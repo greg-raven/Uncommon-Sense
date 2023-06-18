@@ -1,7 +1,6 @@
 ---
 title: 'The American dream'
 date: '2021-07-05'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

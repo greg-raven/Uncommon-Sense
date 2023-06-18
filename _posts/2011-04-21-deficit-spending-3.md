@@ -1,7 +1,6 @@
 ---
 title: 'Deficit spending'
 date: '2011-04-21'
-author: 'Greg Raven'
 layout: post
 categories:
     - taxation

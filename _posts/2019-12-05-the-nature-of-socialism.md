@@ -1,7 +1,6 @@
 ---
 title: 'The nature of socialism'
 date: '2019-12-05'
-author: 'Greg Raven'
 layout: post
 categories:
     - collectivization

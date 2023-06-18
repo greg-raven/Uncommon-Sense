@@ -1,7 +1,6 @@
 ---
 title: 'Power always corrupts'
 date: '2023-04-21'
-author: 'Greg Raven'
 layout: post
 categories:
     - corruption

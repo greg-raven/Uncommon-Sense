@@ -1,7 +1,6 @@
 ---
 title: 'Put up or shut up'
 date: '2020-12-30'
-author: 'Greg Raven'
 layout: post
 categories:
     - adulthood

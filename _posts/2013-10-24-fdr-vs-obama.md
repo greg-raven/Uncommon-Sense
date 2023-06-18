@@ -1,7 +1,6 @@
 ---
 title: 'FDR vs. Obama'
 date: '2013-10-24'
-author: 'Greg Raven'
 layout: post
 categories:
     - Obamacare

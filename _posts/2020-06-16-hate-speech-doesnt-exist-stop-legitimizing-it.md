@@ -1,7 +1,6 @@
 ---
 title: 'Hate speech doesn’t exist. Stop legitimizing it'
 date: '2020-06-16'
-author: 'Greg Raven'
 layout: post
 categories:
     - speech

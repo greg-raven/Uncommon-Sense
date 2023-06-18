@@ -1,7 +1,6 @@
 ---
 title: 'Politics as religion'
 date: '2020-01-15'
-author: 'Greg Raven'
 layout: post
 categories:
     - collectivization

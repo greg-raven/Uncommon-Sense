@@ -1,7 +1,6 @@
 ---
 title: 'Government must be for the common benefit'
 date: '2009-08-17'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

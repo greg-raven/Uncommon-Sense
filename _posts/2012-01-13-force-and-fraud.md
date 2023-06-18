@@ -1,7 +1,6 @@
 ---
 title: 'Preventing force and fraud'
 date: '2012-01-13'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'external authority'

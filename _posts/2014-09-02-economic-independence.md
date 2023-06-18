@@ -1,7 +1,6 @@
 ---
 title: 'Economic independence'
 date: '2014-09-02'
-author: 'Greg Raven'
 layout: post
 categories:
     - individualism

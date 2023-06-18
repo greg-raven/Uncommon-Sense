@@ -1,7 +1,6 @@
 ---
 title: 'The cost of false equality'
 date: '2020-11-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - economics

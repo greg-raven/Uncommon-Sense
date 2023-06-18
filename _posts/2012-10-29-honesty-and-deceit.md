@@ -1,7 +1,6 @@
 ---
 title: 'Honesty and deceit'
 date: '2012-10-29'
-author: 'Greg Raven'
 layout: post
 categories:
     - morals

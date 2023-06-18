@@ -1,7 +1,6 @@
 ---
 title: 'Government’s fatal attraction'
 date: '2011-05-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

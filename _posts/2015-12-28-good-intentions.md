@@ -1,7 +1,6 @@
 ---
 title: 'Good intentions'
 date: '2015-12-28'
-author: 'Greg Raven'
 layout: post
 categories:
     - collectivization

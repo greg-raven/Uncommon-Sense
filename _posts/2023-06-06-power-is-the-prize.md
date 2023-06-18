@@ -1,7 +1,6 @@
 ---
 title: 'Power is the prize'
 date: '2023-06-06'
-author: 'Greg Raven'
 layout: post
 categories:
     - corruption

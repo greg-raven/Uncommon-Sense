@@ -1,7 +1,6 @@
 ---
 title: 'Stop false climate teachings'
 date: '2021-11-23'
-author: 'Greg Raven'
 layout: post
 categories:
     - education

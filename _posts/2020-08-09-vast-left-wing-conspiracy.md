@@ -1,7 +1,6 @@
 ---
 title: 'Vast left-wing conspiracy'
 date: '2020-08-09'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

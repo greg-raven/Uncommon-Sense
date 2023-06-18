@@ -1,7 +1,6 @@
 ---
 title: 'History shows the dole is destructive'
 date: '2010-10-07'
-author: 'Greg Raven'
 layout: post
 categories:
     - welfare

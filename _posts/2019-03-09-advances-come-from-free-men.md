@@ -1,7 +1,6 @@
 ---
 title: 'Advances come from free men'
 date: '2019-03-09'
-author: 'Greg Raven'
 layout: post
 categories:
     - prosperity

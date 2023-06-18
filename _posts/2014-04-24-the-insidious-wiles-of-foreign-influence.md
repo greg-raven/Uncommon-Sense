@@ -1,7 +1,6 @@
 ---
 title: 'The insidious wiles of foreign influence'
 date: '2014-04-24'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'foreign policy'

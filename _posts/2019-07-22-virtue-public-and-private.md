@@ -1,7 +1,6 @@
 ---
 title: 'Virtue: Public and private'
 date: '2019-07-22'
-author: 'Greg Raven'
 layout: post
 categories:
     - virtue

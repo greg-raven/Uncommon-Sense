@@ -1,7 +1,6 @@
 ---
 title: 'The error of absolute state control of the economy'
 date: '2013-01-24'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

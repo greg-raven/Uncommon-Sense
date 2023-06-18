@@ -1,7 +1,6 @@
 ---
 title: 'The new racism'
 date: '2014-04-17'
-author: 'Greg Raven'
 layout: post
 categories:
     - race

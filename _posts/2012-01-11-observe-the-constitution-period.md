@@ -1,7 +1,6 @@
 ---
 title: 'Observe the Constitution, period'
 date: '2012-01-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

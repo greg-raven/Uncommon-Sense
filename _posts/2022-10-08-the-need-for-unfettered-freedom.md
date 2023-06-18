@@ -1,7 +1,6 @@
 ---
 title: 'The need for unfettered freedom'
 date: '2022-10-08'
-author: 'Greg Raven'
 layout: post
 categories:
     - speech

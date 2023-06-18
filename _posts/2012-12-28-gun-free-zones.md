@@ -1,7 +1,6 @@
 ---
 title: 'Gun-free zones'
 date: '2012-12-28'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

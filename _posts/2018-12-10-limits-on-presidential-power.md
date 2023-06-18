@@ -1,7 +1,6 @@
 ---
 title: 'Limits on presidential power'
 date: '2018-12-10'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

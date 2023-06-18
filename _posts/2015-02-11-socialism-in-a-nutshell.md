@@ -1,7 +1,6 @@
 ---
 title: 'Socialism in a nutshell'
 date: '2015-02-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

@@ -1,7 +1,6 @@
 ---
 title: 'Our currency determines our fate'
 date: '2009-06-18'
-author: 'Greg Raven'
 layout: post
 categories:
     - money

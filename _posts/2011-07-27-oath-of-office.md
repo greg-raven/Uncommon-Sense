@@ -1,7 +1,6 @@
 ---
 title: 'Oath of office'
 date: '2011-07-27'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

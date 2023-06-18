@@ -1,7 +1,6 @@
 ---
 title: 'Vindication of rights'
 date: '2013-02-05'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

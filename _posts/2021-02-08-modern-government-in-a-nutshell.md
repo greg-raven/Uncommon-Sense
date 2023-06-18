@@ -1,7 +1,6 @@
 ---
 title: 'Modern government in a nutshell'
 date: '2021-02-08'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

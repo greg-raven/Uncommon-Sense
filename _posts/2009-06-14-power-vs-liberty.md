@@ -1,7 +1,6 @@
 ---
 title: 'Power vs. liberty'
 date: '2009-06-14'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

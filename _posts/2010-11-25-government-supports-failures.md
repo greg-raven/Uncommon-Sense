@@ -1,7 +1,6 @@
 ---
 title: 'Government supports failures'
 date: '2010-11-25'
-author: 'Greg Raven'
 layout: post
 categories:
     - truth

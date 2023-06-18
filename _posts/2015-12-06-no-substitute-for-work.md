@@ -1,7 +1,6 @@
 ---
 title: 'No substitute for work'
 date: '2015-12-06'
-author: 'Greg Raven'
 layout: post
 categories:
     - self-improvement

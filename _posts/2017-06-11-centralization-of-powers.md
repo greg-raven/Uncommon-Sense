@@ -1,7 +1,6 @@
 ---
 title: 'Centralization of powers'
 date: '2017-06-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - collectivization

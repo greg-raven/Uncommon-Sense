@@ -1,7 +1,6 @@
 ---
 title: 'Importance of decentralization'
 date: '2011-11-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - decentralization

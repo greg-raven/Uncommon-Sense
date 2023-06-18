@@ -1,7 +1,6 @@
 ---
 title: 'Our immigration system is broken'
 date: '2014-06-15'
-author: 'Greg Raven'
 layout: post
 categories:
     - immigration

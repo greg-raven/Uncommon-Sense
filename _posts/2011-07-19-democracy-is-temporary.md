@@ -1,7 +1,6 @@
 ---
 title: 'Democracy is temporary'
 date: '2011-07-19'
-author: 'Greg Raven'
 layout: post
 categories:
     - democracy

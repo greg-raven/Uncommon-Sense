@@ -1,7 +1,6 @@
 ---
 title: 'Defining political correctness'
 date: '2017-03-20'
-author: 'Greg Raven'
 layout: post
 categories:
     - speech

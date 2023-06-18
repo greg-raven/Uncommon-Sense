@@ -1,7 +1,6 @@
 ---
 title: 'Integrity is not extremism'
 date: '2012-10-05'
-author: 'Greg Raven'
 layout: post
 categories:
     - virtue

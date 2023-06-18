@@ -1,7 +1,6 @@
 ---
 title: 'Too much of a bad thing'
 date: '2019-06-27'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

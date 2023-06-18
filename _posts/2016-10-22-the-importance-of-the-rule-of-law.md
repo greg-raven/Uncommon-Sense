@@ -1,7 +1,6 @@
 ---
 title: 'The importance of the rule of law'
 date: '2016-10-22'
-author: 'Greg Raven'
 layout: post
 categories:
     - corruption

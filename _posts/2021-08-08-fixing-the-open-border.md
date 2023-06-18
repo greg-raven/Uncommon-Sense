@@ -1,7 +1,6 @@
 ---
 title: 'Fixing the open border'
 date: '2021-08-08'
-author: 'Greg Raven'
 layout: post
 categories:
     - immigration

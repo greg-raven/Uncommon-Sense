@@ -1,7 +1,6 @@
 ---
 title: 'The truth about Afghanistan'
 date: '2021-08-15'
-author: 'Greg Raven'
 layout: post
 categories:
     - war

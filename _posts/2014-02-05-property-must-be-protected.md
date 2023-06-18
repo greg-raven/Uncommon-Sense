@@ -1,7 +1,6 @@
 ---
 title: 'Property must be protected'
 date: '2014-02-05'
-author: 'Greg Raven'
 layout: post
 categories:
     - property

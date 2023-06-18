@@ -1,7 +1,6 @@
 ---
 title: 'Raising the debt limit represents failure'
 date: '2013-09-01'
-author: 'Greg Raven'
 layout: post
 categories:
     - debt

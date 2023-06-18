@@ -1,7 +1,6 @@
 ---
 title: 'Thank you, Christian white men'
 date: '2014-08-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - culture

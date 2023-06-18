@@ -1,7 +1,6 @@
 ---
 title: 'Reason needs freedom of speech'
 date: '2022-02-08'
-author: 'Greg Raven'
 layout: post
 categories:
     - speech

@@ -1,7 +1,6 @@
 ---
 title: 'Intolerance and beliefs'
 date: '2021-09-03'
-author: 'Greg Raven'
 layout: post
 categories:
     - conviction

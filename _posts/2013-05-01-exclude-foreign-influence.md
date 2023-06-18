@@ -1,7 +1,6 @@
 ---
 title: 'Exclude foreign influence'
 date: '2013-05-01'
-author: 'Greg Raven'
 layout: post
 categories:
     - nationalism

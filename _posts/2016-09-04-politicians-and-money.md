@@ -1,7 +1,6 @@
 ---
 title: 'Politicians and money'
 date: '2016-09-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - corruption

@@ -1,7 +1,6 @@
 ---
 title: 'Empire abroad means repression at home'
 date: '2011-08-10'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'foreign policy'

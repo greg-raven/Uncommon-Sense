@@ -1,7 +1,6 @@
 ---
 title: 'False facts'
 date: '2023-06-16'
-author: 'Greg Raven'
 layout: post
 categories:
     - knowledge

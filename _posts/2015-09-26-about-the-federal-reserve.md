@@ -1,7 +1,6 @@
 ---
 title: 'About the Federal Reserve'
 date: '2015-09-26'
-author: 'Greg Raven'
 layout: post
 categories:
     - money

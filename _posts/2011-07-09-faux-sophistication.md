@@ -1,7 +1,6 @@
 ---
 title: 'Faux sophistication'
 date: '2011-07-09'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'external authority'

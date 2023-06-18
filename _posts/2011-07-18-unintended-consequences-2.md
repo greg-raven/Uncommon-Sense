@@ -1,7 +1,6 @@
 ---
 title: 'Unintended consequences'
 date: '2011-07-18'
-author: 'Greg Raven'
 layout: post
 categories:
     - economics

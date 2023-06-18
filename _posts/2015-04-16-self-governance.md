@@ -1,7 +1,6 @@
 ---
 title: 'Self governance'
 date: '2015-04-16'
-author: 'Greg Raven'
 layout: post
 categories:
     - individualism

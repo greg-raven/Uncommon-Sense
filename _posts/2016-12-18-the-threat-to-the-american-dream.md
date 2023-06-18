@@ -1,7 +1,6 @@
 ---
 title: 'The threat to the American Dream'
 date: '2016-12-18'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

@@ -1,7 +1,6 @@
 ---
 title: 'Error vs. reason'
 date: '2018-10-15'
-author: 'Greg Raven'
 layout: post
 categories:
     - speech

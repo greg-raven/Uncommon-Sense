@@ -1,7 +1,6 @@
 ---
 title: 'Reject appeals to authority'
 date: '2021-12-03'
-author: 'Greg Raven'
 layout: post
 categories:
     - knowledge

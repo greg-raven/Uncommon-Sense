@@ -1,7 +1,6 @@
 ---
 title: 'The case for sound currency'
 date: '2015-09-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - money

@@ -1,7 +1,6 @@
 ---
 title: Rebranding
 date: '2012-03-01'
-author: 'Greg Raven'
 layout: post
 categories:
     - demagogues

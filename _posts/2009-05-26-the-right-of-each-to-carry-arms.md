@@ -1,7 +1,6 @@
 ---
 title: 'The right of each to carry arms'
 date: '2009-05-26'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

@@ -1,7 +1,6 @@
 ---
 title: 'The importance of private property rights'
 date: '2017-06-19'
-author: 'Greg Raven'
 layout: post
 categories:
     - property

@@ -1,7 +1,6 @@
 ---
 title: 'Entangling alliances'
 date: '2016-10-25'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'foreign policy'

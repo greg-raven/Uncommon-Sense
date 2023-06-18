@@ -1,7 +1,6 @@
 ---
 title: 'Don’t let them take you alive'
 date: '2020-06-29'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'external authority'

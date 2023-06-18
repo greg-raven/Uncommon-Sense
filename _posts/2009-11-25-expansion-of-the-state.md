@@ -1,7 +1,6 @@
 ---
 title: 'Expansion of the state'
 date: '2009-11-25'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

@@ -1,7 +1,6 @@
 ---
 title: 'Paper money'
 date: '2011-03-28'
-author: 'Greg Raven'
 layout: post
 categories:
     - money

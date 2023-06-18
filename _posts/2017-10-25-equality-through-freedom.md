@@ -1,7 +1,6 @@
 ---
 title: 'Equality through freedom'
 date: '2017-10-25'
-author: 'Greg Raven'
 layout: post
 categories:
     - equality

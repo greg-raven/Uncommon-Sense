@@ -1,7 +1,6 @@
 ---
 title: 'Escaping ‘utopia’'
 date: '2011-09-29'
-author: 'Greg Raven'
 layout: post
 categories:
     - perfection

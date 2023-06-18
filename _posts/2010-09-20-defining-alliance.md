@@ -1,7 +1,6 @@
 ---
 title: 'Defining ‘alliance’'
 date: '2010-09-20'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'foreign policy'

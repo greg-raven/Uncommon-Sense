@@ -1,7 +1,6 @@
 ---
 title: 'Jury nullification'
 date: '2013-11-09'
-author: 'Greg Raven'
 layout: post
 categories:
     - juries

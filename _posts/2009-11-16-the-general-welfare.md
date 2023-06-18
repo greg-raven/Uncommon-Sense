@@ -1,7 +1,6 @@
 ---
 title: 'The general welfare'
 date: '2009-11-16'
-author: 'Greg Raven'
 layout: post
 categories:
     - decentralization

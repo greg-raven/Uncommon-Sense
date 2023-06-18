@@ -1,7 +1,6 @@
 ---
 title: 'Culture in a tailspin'
 date: '2014-05-05'
-author: 'Greg Raven'
 layout: post
 categories:
     - culture

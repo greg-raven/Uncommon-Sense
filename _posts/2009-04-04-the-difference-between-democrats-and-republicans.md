@@ -1,7 +1,6 @@
 ---
 title: 'The difference between Democrats and Republicans'
 date: '2009-04-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - politics

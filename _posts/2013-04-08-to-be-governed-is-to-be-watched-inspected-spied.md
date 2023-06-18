@@ -1,7 +1,6 @@
 ---
 title: 'On being governed'
 date: '2013-04-08'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'external authority'

@@ -1,7 +1,6 @@
 ---
 title: 'Wealth transfer means the death of freedom'
 date: '2009-04-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

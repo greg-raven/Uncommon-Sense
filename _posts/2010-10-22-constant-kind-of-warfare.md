@@ -1,7 +1,6 @@
 ---
 title: 'Constant kind of warfare'
 date: '2010-10-22'
-author: 'Greg Raven'
 layout: post
 categories:
     - taxation

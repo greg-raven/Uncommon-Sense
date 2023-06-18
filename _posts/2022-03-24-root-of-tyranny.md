@@ -1,7 +1,6 @@
 ---
 title: 'Root of tyranny'
 date: '2022-03-24'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'external authority'

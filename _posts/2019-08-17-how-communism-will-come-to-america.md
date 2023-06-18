@@ -1,7 +1,6 @@
 ---
 title: 'How communism will come to America'
 date: '2019-08-17'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

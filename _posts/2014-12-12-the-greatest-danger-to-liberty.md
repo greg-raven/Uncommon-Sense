@@ -1,7 +1,6 @@
 ---
 title: 'The greatest danger to liberty'
 date: '2014-12-12'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

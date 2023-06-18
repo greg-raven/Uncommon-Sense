@@ -1,7 +1,6 @@
 ---
 title: 'Enumerated powers'
 date: '2011-12-08'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

@@ -1,7 +1,6 @@
 ---
 title: 'The need for good leaders'
 date: '2016-09-21'
-author: 'Greg Raven'
 layout: post
 categories:
     - corruption

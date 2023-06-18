@@ -1,7 +1,6 @@
 ---
 title: 'Damaging effect of vote fraud'
 date: '2016-11-09'
-author: 'Greg Raven'
 layout: post
 categories:
     - voting

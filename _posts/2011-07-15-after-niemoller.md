@@ -1,7 +1,6 @@
 ---
 title: 'After Niemoller'
 date: '2011-07-15'
-author: 'Greg Raven'
 layout: post
 categories:
     - rights

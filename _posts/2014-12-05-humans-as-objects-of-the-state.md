@@ -1,7 +1,6 @@
 ---
 title: 'Humans as objects of the state'
 date: '2014-12-05'
-author: 'Greg Raven'
 layout: post
 categories:
     - collectivization

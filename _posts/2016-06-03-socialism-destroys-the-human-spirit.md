@@ -1,7 +1,6 @@
 ---
 title: 'Socialism destroys the human spirit'
 date: '2016-06-03'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

@@ -1,7 +1,6 @@
 ---
 title: 'Immoral morality of the elites'
 date: '2017-01-18'
-author: 'Greg Raven'
 layout: post
 categories:
     - collectivization

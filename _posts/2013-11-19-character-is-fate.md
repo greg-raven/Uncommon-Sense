@@ -1,7 +1,6 @@
 ---
 title: 'Character is fate'
 date: '2013-11-19'
-author: 'Greg Raven'
 layout: post
 categories:
     - Obamacare

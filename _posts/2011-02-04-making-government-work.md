@@ -1,7 +1,6 @@
 ---
 title: 'Making government work'
 date: '2011-02-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - decentralization

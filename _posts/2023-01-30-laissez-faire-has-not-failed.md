@@ -1,7 +1,6 @@
 ---
 title: 'Laissez-faire has not failed'
 date: '2023-01-30'
-author: 'Greg Raven'
 layout: post
 categories:
     - truth

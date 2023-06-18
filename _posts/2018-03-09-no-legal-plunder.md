@@ -1,7 +1,6 @@
 ---
 title: 'No legal plunder'
 date: '2018-03-09'
-author: 'Greg Raven'
 layout: post
 categories:
     - rights

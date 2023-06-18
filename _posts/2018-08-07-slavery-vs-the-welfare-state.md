@@ -1,7 +1,6 @@
 ---
 title: 'Slavery vs. the welfare state'
 date: '2018-08-07'
-author: 'Greg Raven'
 layout: post
 categories:
     - welfare

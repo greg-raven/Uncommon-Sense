@@ -1,7 +1,6 @@
 ---
 title: 'Education paradox'
 date: '2022-10-08'
-author: 'Greg Raven'
 layout: post
 categories:
     - education

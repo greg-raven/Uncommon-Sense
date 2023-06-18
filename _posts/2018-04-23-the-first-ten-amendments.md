@@ -1,7 +1,6 @@
 ---
 title: 'The first ten Amendments'
 date: '2018-04-23'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

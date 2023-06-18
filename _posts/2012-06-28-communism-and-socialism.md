@@ -1,7 +1,6 @@
 ---
 title: 'Communism and socialism'
 date: '2012-06-28'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

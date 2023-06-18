@@ -1,7 +1,6 @@
 ---
 title: 'Speak out against tyranny'
 date: '2010-07-19'
-author: 'Greg Raven'
 layout: post
 categories:
     - citizenship

@@ -1,7 +1,6 @@
 ---
 title: 'Preserving our liberty'
 date: '2021-12-08'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

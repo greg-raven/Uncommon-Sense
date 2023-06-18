@@ -1,7 +1,6 @@
 ---
 title: 'Protecting the country from its government'
 date: '2010-07-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - patriotism

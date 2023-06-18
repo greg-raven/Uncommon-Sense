@@ -1,7 +1,6 @@
 ---
 title: 'Defense as a duty'
 date: '2016-06-16'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

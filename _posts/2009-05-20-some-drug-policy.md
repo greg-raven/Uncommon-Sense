@@ -1,7 +1,6 @@
 ---
 title: 'Some drug policy'
 date: '2009-05-20'
-author: 'Greg Raven'
 layout: post
 categories:
     - demagogues

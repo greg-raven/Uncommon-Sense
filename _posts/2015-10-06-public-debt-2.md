@@ -1,7 +1,6 @@
 ---
 title: 'Public debt'
 date: '2015-10-06'
-author: 'Greg Raven'
 layout: post
 categories:
     - debt

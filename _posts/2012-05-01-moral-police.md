@@ -1,7 +1,6 @@
 ---
 title: 'The moral police'
 date: '2012-05-01'
-author: 'Greg Raven'
 layout: post
 categories:
     - morals

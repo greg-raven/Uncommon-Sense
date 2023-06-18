@@ -1,7 +1,6 @@
 ---
 title: 'Nature of liberty'
 date: '2016-03-09'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

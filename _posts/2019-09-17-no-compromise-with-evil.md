@@ -1,7 +1,6 @@
 ---
 title: 'No compromise with evil'
 date: '2019-09-17'
-author: 'Greg Raven'
 layout: post
 categories:
     - evil

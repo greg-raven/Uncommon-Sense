@@ -1,7 +1,6 @@
 ---
 title: 'Marxist breeding ground'
 date: '2022-02-16'
-author: 'Greg Raven'
 layout: post
 categories:
     - democracy

@@ -1,7 +1,6 @@
 ---
 title: 'Collective rights'
 date: '2011-02-21'
-author: 'Greg Raven'
 layout: post
 categories:
     - rights

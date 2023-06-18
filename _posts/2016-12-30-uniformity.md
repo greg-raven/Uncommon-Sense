@@ -1,7 +1,6 @@
 ---
 title: Uniformity
 date: '2016-12-30'
-author: 'Greg Raven'
 layout: post
 categories:
     - equality

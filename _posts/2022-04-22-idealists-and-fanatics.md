@@ -1,7 +1,6 @@
 ---
 title: 'Idealists and fanatics'
 date: '2022-04-22'
-author: 'Greg Raven'
 layout: post
 categories:
     - intolerance

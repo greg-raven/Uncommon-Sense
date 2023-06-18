@@ -1,7 +1,6 @@
 ---
 title: 'Teaching skepticism'
 date: '2011-09-02'
-author: 'Greg Raven'
 layout: post
 categories:
     - education

@@ -1,7 +1,6 @@
 ---
 title: 'Gold, silver, barter, and debt'
 date: '2014-05-05'
-author: 'Greg Raven'
 layout: post
 categories:
     - debt

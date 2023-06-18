@@ -1,7 +1,6 @@
 ---
 title: 'Arms and the man'
 date: '2016-11-10'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

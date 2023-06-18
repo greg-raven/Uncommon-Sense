@@ -1,7 +1,6 @@
 ---
 title: 'Not in the Constitution? Not legal.'
 date: '2015-06-30'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

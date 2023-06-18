@@ -1,7 +1,6 @@
 ---
 title: 'Being successful in America'
 date: '2016-12-30'
-author: 'Greg Raven'
 layout: post
 categories:
     - prosperity

@@ -1,7 +1,6 @@
 ---
 title: 'The root of democracy'
 date: '2018-11-12'
-author: 'Greg Raven'
 layout: post
 categories:
     - democracy

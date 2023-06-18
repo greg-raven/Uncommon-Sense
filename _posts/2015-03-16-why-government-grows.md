@@ -1,7 +1,6 @@
 ---
 title: 'Why government grows'
 date: '2015-03-16'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

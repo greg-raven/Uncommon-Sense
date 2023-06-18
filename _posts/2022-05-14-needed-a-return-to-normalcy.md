@@ -1,7 +1,6 @@
 ---
 title: 'Needed: A return to normalcy'
 date: '2022-05-14'
-author: 'Greg Raven'
 layout: post
 categories:
     - rebellion

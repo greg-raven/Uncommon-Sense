@@ -1,7 +1,6 @@
 ---
 title: Confession
 date: '2021-01-09'
-author: 'Greg Raven'
 layout: post
 categories:
     - speech

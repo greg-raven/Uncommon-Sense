@@ -1,7 +1,6 @@
 ---
 title: 'Progressivism in a nutshell'
 date: '2020-11-10'
-author: 'Greg Raven'
 layout: post
 categories:
     - culture

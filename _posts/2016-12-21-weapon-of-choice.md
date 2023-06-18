@@ -1,7 +1,6 @@
 ---
 title: 'Weapon of choice'
 date: '2016-12-21'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

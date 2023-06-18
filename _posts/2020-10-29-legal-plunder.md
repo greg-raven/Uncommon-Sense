@@ -1,7 +1,6 @@
 ---
 title: 'Legal plunder'
 date: '2020-10-29'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

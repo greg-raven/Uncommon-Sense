@@ -1,7 +1,6 @@
 ---
 title: 'Ethnic studies'
 date: '2016-10-24'
-author: 'Greg Raven'
 layout: post
 categories:
     - race

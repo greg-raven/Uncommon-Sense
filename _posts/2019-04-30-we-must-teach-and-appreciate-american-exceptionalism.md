@@ -1,7 +1,6 @@
 ---
 title: 'We must teach and appreciate American exceptionalism'
 date: '2019-04-30'
-author: 'Greg Raven'
 layout: post
 categories:
     - culture

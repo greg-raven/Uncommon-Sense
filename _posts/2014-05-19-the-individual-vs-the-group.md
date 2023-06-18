@@ -1,7 +1,6 @@
 ---
 title: 'The individual vs. the group'
 date: '2014-05-19'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

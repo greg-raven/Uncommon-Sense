@@ -1,7 +1,6 @@
 ---
 title: 'Private thoughts'
 date: '2021-03-07'
-author: 'Greg Raven'
 layout: post
 categories:
     - speech

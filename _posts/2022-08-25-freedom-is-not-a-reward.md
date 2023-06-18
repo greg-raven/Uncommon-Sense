@@ -1,7 +1,6 @@
 ---
 title: 'Freedom is not a reward'
 date: '2022-08-25'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

@@ -1,7 +1,6 @@
 ---
 title: 'The cost of good intentions'
 date: '2016-03-07'
-author: 'Greg Raven'
 layout: post
 categories:
     - collectivization

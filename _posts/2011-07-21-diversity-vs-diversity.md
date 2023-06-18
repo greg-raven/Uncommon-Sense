@@ -1,7 +1,6 @@
 ---
 title: 'Diversity vs. diversity'
 date: '2011-07-21'
-author: 'Greg Raven'
 layout: post
 categories:
     - diversity

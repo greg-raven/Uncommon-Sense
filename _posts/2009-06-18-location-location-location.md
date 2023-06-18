@@ -1,7 +1,6 @@
 ---
 title: 'Location, location, location'
 date: '2009-06-18'
-author: 'Greg Raven'
 layout: post
 categories:
     - environment

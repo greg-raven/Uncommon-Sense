@@ -1,7 +1,6 @@
 ---
 title: 'How to ensure your freedom'
 date: '2020-04-09'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

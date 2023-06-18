@@ -1,7 +1,6 @@
 ---
 title: 'Our government is above the law'
 date: '2009-04-07'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

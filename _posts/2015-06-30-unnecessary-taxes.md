@@ -1,7 +1,6 @@
 ---
 title: 'Unnecessary taxes'
 date: '2015-06-30'
-author: 'Greg Raven'
 layout: post
 categories:
     - taxation

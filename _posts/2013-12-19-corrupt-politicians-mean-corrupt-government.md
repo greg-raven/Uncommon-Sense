@@ -1,7 +1,6 @@
 ---
 title: 'Corrupt politicians mean corrupt government'
 date: '2013-12-19'
-author: 'Greg Raven'
 layout: post
 categories:
     - corruption

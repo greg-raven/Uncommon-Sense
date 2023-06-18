@@ -1,7 +1,6 @@
 ---
 title: 'Tyrants and war'
 date: '2022-02-22'
-author: 'Greg Raven'
 layout: post
 categories:
     - war

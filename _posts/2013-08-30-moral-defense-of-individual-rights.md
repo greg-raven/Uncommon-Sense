@@ -1,7 +1,6 @@
 ---
 title: 'Moral defense of individual rights'
 date: '2013-08-30'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

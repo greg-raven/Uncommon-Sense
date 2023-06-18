@@ -1,7 +1,6 @@
 ---
 title: 'Hear both sides'
 date: '2022-05-16'
-author: 'Greg Raven'
 layout: post
 categories:
     - press

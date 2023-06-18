@@ -1,7 +1,6 @@
 ---
 title: 'Resisting depotism'
 date: '2020-05-13'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'external authority'

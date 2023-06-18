@@ -1,7 +1,6 @@
 ---
 title: 'Formula for prosperity'
 date: '2017-05-23'
-author: 'Greg Raven'
 layout: post
 categories:
     - prosperity

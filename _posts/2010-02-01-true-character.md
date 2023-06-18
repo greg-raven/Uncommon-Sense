@@ -1,7 +1,6 @@
 ---
 title: 'True character'
 date: '2010-02-01'
-author: 'Greg Raven'
 layout: post
 categories:
     - virtue

@@ -1,7 +1,6 @@
 ---
 title: 'Blacks don’t need these ‘favors’'
 date: '2016-09-27'
-author: 'Greg Raven'
 layout: post
 categories:
     - race

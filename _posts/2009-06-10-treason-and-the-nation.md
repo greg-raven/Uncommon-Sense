@@ -1,7 +1,6 @@
 ---
 title: 'Treason and the nation'
 date: '2009-06-10'
-author: 'Greg Raven'
 layout: post
 categories:
     - corruption

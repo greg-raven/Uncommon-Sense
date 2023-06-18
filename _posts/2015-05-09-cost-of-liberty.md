@@ -1,7 +1,6 @@
 ---
 title: 'Cost of liberty'
 date: '2015-05-09'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

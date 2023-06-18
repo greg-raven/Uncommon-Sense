@@ -1,7 +1,6 @@
 ---
 title: 'Power and prophecies'
 date: '2021-06-12'
-author: 'Greg Raven'
 layout: post
 categories:
     - corruption

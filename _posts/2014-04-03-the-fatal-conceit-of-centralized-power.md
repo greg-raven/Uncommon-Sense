@@ -1,7 +1,6 @@
 ---
 title: 'The fatal conceit of centralized power'
 date: '2014-04-03'
-author: 'Greg Raven'
 layout: post
 categories:
     - decentralization

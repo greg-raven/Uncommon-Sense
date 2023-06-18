@@ -1,7 +1,6 @@
 ---
 title: 'As government expands, liberty contracts'
 date: '2010-01-20'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

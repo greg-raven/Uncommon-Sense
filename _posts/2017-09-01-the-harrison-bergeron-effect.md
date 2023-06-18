@@ -1,7 +1,6 @@
 ---
 title: 'The Harrison Bergeron effect'
 date: '2017-09-01'
-author: 'Greg Raven'
 layout: post
 categories:
     - equality

@@ -1,7 +1,6 @@
 ---
 title: 'Choosing serfdom'
 date: '2015-04-03'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

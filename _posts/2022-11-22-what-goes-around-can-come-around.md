@@ -1,7 +1,6 @@
 ---
 title: 'What goes around can come around'
 date: '2022-11-22'
-author: 'Greg Raven'
 layout: post
 categories:
     - intolerance

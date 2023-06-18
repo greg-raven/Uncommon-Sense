@@ -1,7 +1,6 @@
 ---
 title: 'Deepening the Great Depression'
 date: '2012-08-15'
-author: 'Greg Raven'
 layout: post
 categories:
     - money

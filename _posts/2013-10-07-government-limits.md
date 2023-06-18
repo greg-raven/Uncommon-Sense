@@ -1,7 +1,6 @@
 ---
 title: 'Government limits'
 date: '2013-10-07'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

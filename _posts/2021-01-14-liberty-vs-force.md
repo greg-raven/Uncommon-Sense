@@ -1,7 +1,6 @@
 ---
 title: 'Liberty vs. force'
 date: '2021-01-14'
-author: 'Greg Raven'
 layout: post
 categories:
     - politics

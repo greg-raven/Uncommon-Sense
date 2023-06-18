@@ -1,7 +1,6 @@
 ---
 title: 'Corrupting the system'
 date: '2011-06-07'
-author: 'Greg Raven'
 layout: post
 categories:
     - corruption

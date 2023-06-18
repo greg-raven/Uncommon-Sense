@@ -1,7 +1,6 @@
 ---
 title: 'The enemy within'
 date: '2022-10-27'
-author: 'Greg Raven'
 layout: post
 categories:
     - demagogues

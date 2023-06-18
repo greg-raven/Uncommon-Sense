@@ -1,7 +1,6 @@
 ---
 title: 'The bare minimum'
 date: '2016-01-22'
-author: 'Greg Raven'
 layout: post
 categories:
     - speech

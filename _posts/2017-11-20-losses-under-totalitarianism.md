@@ -1,7 +1,6 @@
 ---
 title: 'Losses under totalitarianism'
 date: '2017-11-20'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

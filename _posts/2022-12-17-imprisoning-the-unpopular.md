@@ -1,7 +1,6 @@
 ---
 title: 'Imprisoning the unpopular'
 date: '2022-12-17'
-author: 'Greg Raven'
 layout: post
 categories:
     - intolerance

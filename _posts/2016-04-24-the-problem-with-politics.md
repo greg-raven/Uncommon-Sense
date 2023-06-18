@@ -1,7 +1,6 @@
 ---
 title: 'The problem with politics'
 date: '2016-04-24'
-author: 'Greg Raven'
 layout: post
 categories:
     - politics

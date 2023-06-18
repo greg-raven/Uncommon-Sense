@@ -1,7 +1,6 @@
 ---
 title: 'Secondary agenda'
 date: '2015-11-30'
-author: 'Greg Raven'
 layout: post
 categories:
     - demagogues

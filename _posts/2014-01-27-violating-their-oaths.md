@@ -1,7 +1,6 @@
 ---
 title: 'Violating their oaths'
 date: '2014-01-27'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

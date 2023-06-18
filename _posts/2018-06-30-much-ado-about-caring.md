@@ -1,7 +1,6 @@
 ---
 title: 'Much ado about caring'
 date: '2018-06-30'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberalism

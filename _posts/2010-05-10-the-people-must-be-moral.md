@@ -1,7 +1,6 @@
 ---
 title: 'The people must be moral'
 date: '2010-05-10'
-author: 'Greg Raven'
 layout: post
 categories:
     - morals

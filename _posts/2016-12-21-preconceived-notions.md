@@ -1,7 +1,6 @@
 ---
 title: 'Preconceived notions'
 date: '2016-12-21'
-author: 'Greg Raven'
 layout: post
 categories:
     - truth

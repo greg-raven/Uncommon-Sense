@@ -1,7 +1,6 @@
 ---
 title: 'New taxes atop old'
 date: '2012-04-25'
-author: 'Greg Raven'
 layout: post
 categories:
     - taxation

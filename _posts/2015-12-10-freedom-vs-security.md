@@ -1,7 +1,6 @@
 ---
 title: 'Freedom vs. security'
 date: '2015-12-10'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

@@ -1,7 +1,6 @@
 ---
 title: 'Communists and anti-Communists'
 date: '2016-09-13'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

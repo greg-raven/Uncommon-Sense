@@ -1,7 +1,6 @@
 ---
 title: 'The profound tradition of firearm possession'
 date: '2013-05-10'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

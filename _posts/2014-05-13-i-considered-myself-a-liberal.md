@@ -1,7 +1,6 @@
 ---
 title: 'I considered myself a liberal …'
 date: '2014-05-13'
-author: 'Greg Raven'
 layout: post
 categories:
     - equality

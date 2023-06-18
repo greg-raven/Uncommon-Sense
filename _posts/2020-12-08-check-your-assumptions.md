@@ -1,7 +1,6 @@
 ---
 title: 'Check your assumptions'
 date: '2020-12-08'
-author: 'Greg Raven'
 layout: post
 categories:
     - knowledge

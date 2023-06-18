@@ -1,7 +1,6 @@
 ---
 title: 'From republic to democracy'
 date: '2015-11-06'
-author: 'Greg Raven'
 layout: post
 categories:
     - democracy

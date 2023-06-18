@@ -1,7 +1,6 @@
 ---
 title: 'Wolves and lambs'
 date: '2021-02-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - democracy

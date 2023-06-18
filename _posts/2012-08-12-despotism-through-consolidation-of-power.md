@@ -1,7 +1,6 @@
 ---
 title: 'Despotism through consolidation of power'
 date: '2012-08-12'
-author: 'Greg Raven'
 layout: post
 categories:
     - collectivization

@@ -1,7 +1,6 @@
 ---
 title: 'Currency duties'
 date: '2015-09-01'
-author: 'Greg Raven'
 layout: post
 categories:
     - money

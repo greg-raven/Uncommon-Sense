@@ -1,7 +1,6 @@
 ---
 title: 'Black and White Standards'
 date: '2012-10-31'
-author: 'Greg Raven'
 layout: post
 categories:
     - race

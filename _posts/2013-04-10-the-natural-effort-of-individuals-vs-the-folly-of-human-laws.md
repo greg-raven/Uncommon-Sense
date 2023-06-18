@@ -1,7 +1,6 @@
 ---
 title: 'The natural effort of individuals vs. the folly of human laws'
 date: '2013-04-10'
-author: 'Greg Raven'
 layout: post
 categories:
     - prosperity

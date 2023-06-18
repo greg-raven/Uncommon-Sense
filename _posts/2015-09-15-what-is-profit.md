@@ -1,7 +1,6 @@
 ---
 title: 'What is profit?'
 date: '2015-09-15'
-author: 'Greg Raven'
 layout: post
 categories:
     - capitalism

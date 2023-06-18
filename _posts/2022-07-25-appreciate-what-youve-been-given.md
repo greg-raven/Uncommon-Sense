@@ -1,7 +1,6 @@
 ---
 title: 'Appreciate what you’ve been given'
 date: '2022-07-25'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

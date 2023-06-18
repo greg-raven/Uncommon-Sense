@@ -1,7 +1,6 @@
 ---
 title: 'Our Bill of Rights'
 date: '2021-04-13'
-author: 'Greg Raven'
 layout: post
 categories:
     - rights

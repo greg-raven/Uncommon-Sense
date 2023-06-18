@@ -1,7 +1,6 @@
 ---
 title: 'Government power is limited'
 date: '2011-01-07'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

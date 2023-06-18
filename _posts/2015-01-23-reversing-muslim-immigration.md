@@ -1,7 +1,6 @@
 ---
 title: 'Reversing Muslim immigration'
 date: '2015-01-23'
-author: 'Greg Raven'
 layout: post
 categories:
     - immigration

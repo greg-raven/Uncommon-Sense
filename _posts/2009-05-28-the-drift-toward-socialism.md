@@ -1,7 +1,6 @@
 ---
 title: 'The drift toward socialism'
 date: '2009-05-28'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

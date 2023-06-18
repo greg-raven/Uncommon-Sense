@@ -1,7 +1,6 @@
 ---
 title: 'Secrecy in free society'
 date: '2011-02-06'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'informed electorate'

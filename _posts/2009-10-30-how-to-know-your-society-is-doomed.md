@@ -1,7 +1,6 @@
 ---
 title: 'How to know your society is doomed'
 date: '2009-10-30'
-author: 'Greg Raven'
 layout: post
 categories:
     - money

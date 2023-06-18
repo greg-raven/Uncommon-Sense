@@ -1,7 +1,6 @@
 ---
 title: 'Interpreting our Constitution'
 date: '2010-04-26'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

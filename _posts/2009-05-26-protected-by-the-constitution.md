@@ -1,7 +1,6 @@
 ---
 title: 'Protected by the Constitution'
 date: '2009-05-26'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

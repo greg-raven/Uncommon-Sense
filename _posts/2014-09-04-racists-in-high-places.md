@@ -1,7 +1,6 @@
 ---
 title: 'Racists in high places'
 date: '2014-09-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - demagogues

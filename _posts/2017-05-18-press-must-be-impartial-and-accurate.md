@@ -1,7 +1,6 @@
 ---
 title: 'Press must be impartial and accurate'
 date: '2017-05-18'
-author: 'Greg Raven'
 layout: post
 categories:
     - press

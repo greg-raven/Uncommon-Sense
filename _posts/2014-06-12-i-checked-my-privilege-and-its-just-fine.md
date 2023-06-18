@@ -1,7 +1,6 @@
 ---
 title: 'I checked my privilege, and it’s just fine'
 date: '2014-06-12'
-author: 'Greg Raven'
 layout: post
 categories:
     - language

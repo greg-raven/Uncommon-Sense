@@ -1,7 +1,6 @@
 ---
 title: 'The Five Wisdoms of politics'
 date: '2010-02-06'
-author: 'Greg Raven'
 layout: post
 categories:
     - politics

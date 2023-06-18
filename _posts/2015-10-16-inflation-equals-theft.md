@@ -1,7 +1,6 @@
 ---
 title: 'Inflation equals theft'
 date: '2015-10-16'
-author: 'Greg Raven'
 layout: post
 categories:
     - money

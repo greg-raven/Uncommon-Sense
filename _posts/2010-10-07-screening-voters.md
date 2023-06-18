@@ -1,7 +1,6 @@
 ---
 title: 'Screening voters'
 date: '2010-10-07'
-author: 'Greg Raven'
 layout: post
 categories:
     - voting

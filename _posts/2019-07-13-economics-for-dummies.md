@@ -1,7 +1,6 @@
 ---
 title: 'Economics for Dummies'
 date: '2019-07-13'
-author: 'Greg Raven'
 layout: post
 categories:
     - economics

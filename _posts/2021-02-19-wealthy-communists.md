@@ -1,7 +1,6 @@
 ---
 title: 'Wealthy communists'
 date: '2021-02-19'
-author: 'Greg Raven'
 layout: post
 categories:
     - collectivization

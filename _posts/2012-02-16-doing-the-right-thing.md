@@ -1,7 +1,6 @@
 ---
 title: 'Doing the right thing'
 date: '2012-02-16'
-author: 'Greg Raven'
 layout: post
 categories:
     - politics

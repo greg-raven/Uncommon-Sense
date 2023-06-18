@@ -1,7 +1,6 @@
 ---
 title: 'When politicians pass laws'
 date: '2020-02-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - capitalism

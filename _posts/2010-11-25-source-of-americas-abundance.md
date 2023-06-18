@@ -1,7 +1,6 @@
 ---
 title: 'Source of America’s abundance'
 date: '2010-11-25'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

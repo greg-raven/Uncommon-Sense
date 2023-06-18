@@ -1,7 +1,6 @@
 ---
 title: 'Redressing federal government excess'
 date: '2012-04-27'
-author: 'Greg Raven'
 layout: post
 categories:
     - rebellion

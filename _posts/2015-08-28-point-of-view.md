@@ -1,7 +1,6 @@
 ---
 title: 'Point of view'
 date: '2015-08-28'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberalism

@@ -1,7 +1,6 @@
 ---
 title: 'Our leaders'
 date: '2012-02-27'
-author: 'Greg Raven'
 layout: post
 categories:
     - knowledge

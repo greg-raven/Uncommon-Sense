@@ -1,7 +1,6 @@
 ---
 title: 'Patriots and Christians'
 date: '2010-10-01'
-author: 'Greg Raven'
 layout: post
 categories:
     - individualism

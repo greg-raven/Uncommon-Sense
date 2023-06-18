@@ -1,7 +1,6 @@
 ---
 title: 'Only the rich have property rights'
 date: '2012-01-18'
-author: 'Greg Raven'
 layout: post
 categories:
     - rights

@@ -1,7 +1,6 @@
 ---
 title: 'The totalitarian principle'
 date: '2014-04-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

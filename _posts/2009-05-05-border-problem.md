@@ -1,7 +1,6 @@
 ---
 title: 'Border problem'
 date: '2009-05-05'
-author: 'Greg Raven'
 layout: post
 categories:
     - immigration

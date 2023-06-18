@@ -1,7 +1,6 @@
 ---
 title: 'Legal plunder has many names'
 date: '2013-05-01'
-author: 'Greg Raven'
 layout: post
 categories:
     - taxation

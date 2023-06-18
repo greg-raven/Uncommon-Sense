@@ -1,7 +1,6 @@
 ---
 title: 'The Black Lives Matter movement is based on a lie'
 date: '2020-06-22'
-author: 'Greg Raven'
 layout: post
 categories:
     - race

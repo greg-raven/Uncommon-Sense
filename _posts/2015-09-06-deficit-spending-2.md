@@ -1,7 +1,6 @@
 ---
 title: 'Deficit spending'
 date: '2015-09-06'
-author: 'Greg Raven'
 layout: post
 categories:
     - economics

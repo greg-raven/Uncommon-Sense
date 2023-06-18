@@ -1,7 +1,6 @@
 ---
 title: 'Honest money needed'
 date: '2022-01-17'
-author: 'Greg Raven'
 layout: post
 categories:
     - money

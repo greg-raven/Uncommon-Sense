@@ -1,7 +1,6 @@
 ---
 title: 'Thieves petty and great'
 date: '2012-05-22'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

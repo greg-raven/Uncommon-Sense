@@ -1,7 +1,6 @@
 ---
 title: 'Extremism and moderation'
 date: '2009-04-17'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

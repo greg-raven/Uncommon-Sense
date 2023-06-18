@@ -1,7 +1,6 @@
 ---
 title: 'Best exercise'
 date: '2009-11-25'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

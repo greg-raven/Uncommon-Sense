@@ -1,7 +1,6 @@
 ---
 title: 'Undelegated powers'
 date: '2010-02-23'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

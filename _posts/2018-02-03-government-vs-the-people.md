@@ -1,7 +1,6 @@
 ---
 title: 'Government vs. the people'
 date: '2018-02-03'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

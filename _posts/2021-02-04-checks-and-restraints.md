@@ -1,7 +1,6 @@
 ---
 title: 'Checks and restraints'
 date: '2021-02-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

@@ -1,7 +1,6 @@
 ---
 title: 'Decadent language'
 date: '2020-10-05'
-author: 'Greg Raven'
 layout: post
 categories:
     - language

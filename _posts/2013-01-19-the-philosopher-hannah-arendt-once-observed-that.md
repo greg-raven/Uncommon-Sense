@@ -1,7 +1,6 @@
 ---
 title: 'Support the rule of law'
 date: '2013-01-19'
-author: 'Greg Raven'
 layout: post
 categories:
     - laws

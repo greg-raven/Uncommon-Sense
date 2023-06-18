@@ -1,7 +1,6 @@
 ---
 title: 'The nature of laws'
 date: '2017-03-13'
-author: 'Greg Raven'
 layout: post
 categories:
     - laws

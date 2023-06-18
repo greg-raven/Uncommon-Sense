@@ -1,7 +1,6 @@
 ---
 title: 'The goal of Newspeak'
 date: '2023-02-13'
-author: 'Greg Raven'
 layout: post
 categories:
     - speech

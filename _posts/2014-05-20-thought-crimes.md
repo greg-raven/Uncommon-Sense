@@ -1,7 +1,6 @@
 ---
 title: 'Thought crimes'
 date: '2014-05-20'
-author: 'Greg Raven'
 layout: post
 categories:
     - speech

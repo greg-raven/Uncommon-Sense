@@ -1,7 +1,6 @@
 ---
 title: 'The corrosive effect of welfare'
 date: '2014-04-09'
-author: 'Greg Raven'
 layout: post
 categories:
     - welfare

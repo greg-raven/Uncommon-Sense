@@ -1,7 +1,6 @@
 ---
 title: 'Politics vs. reality'
 date: '2011-07-05'
-author: 'Greg Raven'
 layout: post
 categories:
     - politics

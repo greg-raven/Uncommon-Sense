@@ -1,7 +1,6 @@
 ---
 title: 'Principles in politics'
 date: '2009-05-05'
-author: 'Greg Raven'
 layout: post
 categories:
     - virtue

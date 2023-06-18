@@ -1,7 +1,6 @@
 ---
 title: 'Guns are our friends'
 date: '2020-05-17'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

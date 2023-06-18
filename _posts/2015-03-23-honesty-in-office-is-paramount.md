@@ -1,7 +1,6 @@
 ---
 title: 'Honesty in office is paramount'
 date: '2015-03-23'
-author: 'Greg Raven'
 layout: post
 categories:
     - morals

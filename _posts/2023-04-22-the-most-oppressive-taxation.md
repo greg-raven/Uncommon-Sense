@@ -1,7 +1,6 @@
 ---
 title: 'The most oppressive taxation'
 date: '2023-04-22'
-author: 'Greg Raven'
 layout: post
 categories:
     - money

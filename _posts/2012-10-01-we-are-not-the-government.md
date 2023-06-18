@@ -1,7 +1,6 @@
 ---
 title: 'We are not the government'
 date: '2012-10-01'
-author: 'Greg Raven'
 layout: post
 categories:
     - democracy

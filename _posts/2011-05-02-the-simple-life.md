@@ -1,7 +1,6 @@
 ---
 title: 'The simple life'
 date: '2011-05-02'
-author: 'Greg Raven'
 layout: post
 categories:
     - prosperity

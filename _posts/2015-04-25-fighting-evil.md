@@ -1,7 +1,6 @@
 ---
 title: 'Fighting evil'
 date: '2015-04-25'
-author: 'Greg Raven'
 layout: post
 categories:
     - evil

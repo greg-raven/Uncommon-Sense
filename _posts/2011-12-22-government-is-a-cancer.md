@@ -1,7 +1,6 @@
 ---
 title: 'Government is a cancer'
 date: '2011-12-22'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

@@ -1,7 +1,6 @@
 ---
 title: 'The Constitution protects minorities'
 date: '2018-11-15'
-author: 'Greg Raven'
 layout: post
 categories:
     - individualism

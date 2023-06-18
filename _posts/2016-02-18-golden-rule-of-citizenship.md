@@ -1,7 +1,6 @@
 ---
 title: 'Golden Rule of citizenship'
 date: '2016-02-18'
-author: 'Greg Raven'
 layout: post
 categories:
     - citizenship

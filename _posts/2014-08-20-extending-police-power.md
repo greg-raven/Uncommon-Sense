@@ -1,7 +1,6 @@
 ---
 title: 'Extending police power'
 date: '2014-08-20'
-author: 'Greg Raven'
 layout: post
 categories:
     - laws

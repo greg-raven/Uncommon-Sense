@@ -1,7 +1,6 @@
 ---
 title: 'No worse tyranny'
 date: '2010-09-27'
-author: 'Greg Raven'
 layout: post
 categories:
     - taxation

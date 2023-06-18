@@ -1,7 +1,6 @@
 ---
 title: 'Self defense'
 date: '2015-03-09'
-author: 'Greg Raven'
 layout: post
 categories:
     - strength

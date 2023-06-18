@@ -1,7 +1,6 @@
 ---
 title: 'Government responsibility'
 date: '2009-04-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - economics

@@ -1,7 +1,6 @@
 ---
 title: 'Counterfeit truth'
 date: '2011-10-13'
-author: 'Greg Raven'
 layout: post
 categories:
     - truth

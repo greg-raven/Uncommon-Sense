@@ -1,7 +1,6 @@
 ---
 title: 'Liberty and justice'
 date: '2010-05-13'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

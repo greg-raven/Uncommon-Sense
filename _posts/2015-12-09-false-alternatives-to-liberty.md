@@ -1,7 +1,6 @@
 ---
 title: 'False alternatives to liberty'
 date: '2015-12-09'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

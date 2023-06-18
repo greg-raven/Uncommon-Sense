@@ -1,7 +1,6 @@
 ---
 title: 'The growth of the General Welfare and Commerce clauses'
 date: '2017-08-23'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

@@ -1,7 +1,6 @@
 ---
 title: 'The changing role of schools'
 date: '2019-09-25'
-author: 'Greg Raven'
 layout: post
 categories:
     - education

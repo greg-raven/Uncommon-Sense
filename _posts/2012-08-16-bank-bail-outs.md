@@ -1,7 +1,6 @@
 ---
 title: 'Bank bail-outs'
 date: '2012-08-16'
-author: 'Greg Raven'
 layout: post
 categories:
     - economics

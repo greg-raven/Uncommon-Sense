@@ -1,7 +1,6 @@
 ---
 title: 'Products of freedom'
 date: '2014-04-22'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

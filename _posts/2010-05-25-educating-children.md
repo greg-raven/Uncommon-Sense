@@ -1,7 +1,6 @@
 ---
 title: 'Educating children'
 date: '2010-05-25'
-author: 'Greg Raven'
 layout: post
 categories:
     - education

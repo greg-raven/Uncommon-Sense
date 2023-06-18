@@ -1,7 +1,6 @@
 ---
 title: Thanksgiving
 date: '2019-12-12'
-author: 'Greg Raven'
 layout: post
 categories:
     - culture

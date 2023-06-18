@@ -1,7 +1,6 @@
 ---
 title: 'Obligation to tolerate speech'
 date: '2011-06-20'
-author: 'Greg Raven'
 layout: post
 categories:
     - speech

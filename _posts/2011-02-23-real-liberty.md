@@ -1,7 +1,6 @@
 ---
 title: 'Real liberty'
 date: '2011-02-23'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

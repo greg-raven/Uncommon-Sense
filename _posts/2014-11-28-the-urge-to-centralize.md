@@ -1,7 +1,6 @@
 ---
 title: 'The urge to centralize'
 date: '2014-11-28'
-author: 'Greg Raven'
 layout: post
 categories:
     - collectivization

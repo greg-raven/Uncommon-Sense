@@ -1,7 +1,6 @@
 ---
 title: 'Power struggle'
 date: '2021-01-23'
-author: 'Greg Raven'
 layout: post
 categories:
     - speech

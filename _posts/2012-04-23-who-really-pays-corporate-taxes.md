@@ -1,7 +1,6 @@
 ---
 title: 'Who really pays corporate taxes'
 date: '2012-04-23'
-author: 'Greg Raven'
 layout: post
 categories:
     - taxation

@@ -1,7 +1,6 @@
 ---
 title: 'Darfur is the natural state of the world'
 date: '2018-03-08'
-author: 'Greg Raven'
 layout: post
 categories:
     - culture

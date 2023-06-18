@@ -1,7 +1,6 @@
 ---
 title: 'Virtue of free markets'
 date: '2021-05-10'
-author: 'Greg Raven'
 layout: post
 categories:
     - economics

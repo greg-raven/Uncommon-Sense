@@ -1,7 +1,6 @@
 ---
 title: 'It’s dangerous to be correct'
 date: '2009-06-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - truth

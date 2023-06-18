@@ -1,7 +1,6 @@
 ---
 title: 'How socialism becomes fascism'
 date: '2019-05-20'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

@@ -1,7 +1,6 @@
 ---
 title: 'Beware the technocracy'
 date: '2019-09-18'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'external authority'

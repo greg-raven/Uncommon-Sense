@@ -1,7 +1,6 @@
 ---
 title: 'Liberty or servitude'
 date: '2023-01-23'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

@@ -1,7 +1,6 @@
 ---
 title: 'Republican government'
 date: '2009-05-06'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

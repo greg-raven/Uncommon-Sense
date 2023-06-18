@@ -1,7 +1,6 @@
 ---
 title: 'Swimming against the stream'
 date: '2023-01-12'
-author: 'Greg Raven'
 layout: post
 categories:
     - speech

@@ -1,7 +1,6 @@
 ---
 title: 'Unconstitutional appropriations'
 date: '2015-08-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - welfare

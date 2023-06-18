@@ -1,7 +1,6 @@
 ---
 title: 'Socialism is a failure'
 date: '2011-03-22'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

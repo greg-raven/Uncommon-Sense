@@ -1,7 +1,6 @@
 ---
 title: 'Observations from an indignant millennial'
 date: '2019-06-24'
-author: 'Greg Raven'
 layout: post
 categories:
     - collectivization

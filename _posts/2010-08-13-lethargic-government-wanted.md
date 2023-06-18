@@ -1,7 +1,6 @@
 ---
 title: 'Lethargic government wanted'
 date: '2010-08-13'
-author: 'Greg Raven'
 layout: post
 categories:
     - decentralization

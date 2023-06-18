@@ -1,7 +1,6 @@
 ---
 title: 'Appropriate form of government'
 date: '2016-10-31'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

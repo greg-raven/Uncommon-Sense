@@ -1,7 +1,6 @@
 ---
 title: 'Enemies of the people'
 date: '2015-08-06'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

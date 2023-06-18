@@ -1,7 +1,6 @@
 ---
 title: 'People’s choice'
 date: '2009-11-03'
-author: 'Greg Raven'
 layout: post
 categories:
     - democracy

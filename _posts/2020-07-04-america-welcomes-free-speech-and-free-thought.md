@@ -1,7 +1,6 @@
 ---
 title: 'America welcomes free speech and free thought'
 date: '2020-07-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - speech

@@ -1,7 +1,6 @@
 ---
 title: 'The U.S. has no reliable Islamic allies'
 date: '2017-11-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - religion

@@ -1,7 +1,6 @@
 ---
 title: 'Encouraged by inequality'
 date: '2020-03-23'
-author: 'Greg Raven'
 layout: post
 categories:
     - capitalism

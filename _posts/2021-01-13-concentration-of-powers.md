@@ -1,7 +1,6 @@
 ---
 title: 'Concentration of powers'
 date: '2021-01-13'
-author: 'Greg Raven'
 layout: post
 categories:
     - collectivization

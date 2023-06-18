@@ -1,7 +1,6 @@
 ---
 title: 'This is our problem right here'
 date: '2013-02-12'
-author: 'Greg Raven'
 layout: post
 categories:
     - education

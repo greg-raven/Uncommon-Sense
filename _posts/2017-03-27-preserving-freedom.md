@@ -1,7 +1,6 @@
 ---
 title: 'Preserving freedom'
 date: '2017-03-27'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

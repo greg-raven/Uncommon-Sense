@@ -1,7 +1,6 @@
 ---
 title: 'Liberty is not for wimps'
 date: '2017-03-14'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

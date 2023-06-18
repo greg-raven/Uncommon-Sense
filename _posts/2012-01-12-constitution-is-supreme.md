@@ -1,7 +1,6 @@
 ---
 title: 'The Constitution is supreme'
 date: '2012-01-12'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

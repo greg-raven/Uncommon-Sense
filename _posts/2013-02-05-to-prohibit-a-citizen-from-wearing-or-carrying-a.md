@@ -1,7 +1,6 @@
 ---
 title: 'Occasional crime cannot trump Constitutional rights'
 date: '2013-02-05'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

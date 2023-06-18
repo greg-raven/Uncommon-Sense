@@ -1,7 +1,6 @@
 ---
 title: 'Honest differences'
 date: '2021-03-15'
-author: 'Greg Raven'
 layout: post
 categories:
     - speech

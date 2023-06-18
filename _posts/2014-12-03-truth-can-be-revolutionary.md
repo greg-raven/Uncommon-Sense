@@ -1,7 +1,6 @@
 ---
 title: 'Truth can be revolutionary'
 date: '2014-12-03'
-author: 'Greg Raven'
 layout: post
 categories:
     - truth

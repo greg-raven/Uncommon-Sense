@@ -1,7 +1,6 @@
 ---
 title: 'Moral indignation'
 date: '2011-10-12'
-author: 'Greg Raven'
 layout: post
 categories:
     - evil

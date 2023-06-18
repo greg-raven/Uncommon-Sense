@@ -1,7 +1,6 @@
 ---
 title: 'Why import foreign criminals?'
 date: '2018-03-08'
-author: 'Greg Raven'
 layout: post
 categories:
     - immigration

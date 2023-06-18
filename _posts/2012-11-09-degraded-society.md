@@ -1,7 +1,6 @@
 ---
 title: 'Degraded society'
 date: '2012-11-09'
-author: 'Greg Raven'
 layout: post
 categories:
     - culture

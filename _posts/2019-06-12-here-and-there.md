@@ -1,7 +1,6 @@
 ---
 title: 'Here and there'
 date: '2019-06-12'
-author: 'Greg Raven'
 layout: post
 categories:
     - culture

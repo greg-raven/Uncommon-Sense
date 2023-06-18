@@ -1,7 +1,6 @@
 ---
 title: 'Which shall govern?'
 date: '2018-02-08'
-author: 'Greg Raven'
 layout: post
 categories:
     - individualism

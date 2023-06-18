@@ -1,7 +1,6 @@
 ---
 title: 'Government and social constructs'
 date: '2016-03-01'
-author: 'Greg Raven'
 layout: post
 categories:
     - race

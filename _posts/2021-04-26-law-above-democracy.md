@@ -1,7 +1,6 @@
 ---
 title: 'Law above democracy'
 date: '2021-04-26'
-author: 'Greg Raven'
 layout: post
 categories:
     - democracy

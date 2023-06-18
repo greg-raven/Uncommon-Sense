@@ -1,7 +1,6 @@
 ---
 title: 'Who’s responsible?'
 date: '2019-01-16'
-author: 'Greg Raven'
 layout: post
 categories:
     - culture

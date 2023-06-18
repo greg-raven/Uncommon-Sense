@@ -1,7 +1,6 @@
 ---
 title: 'Guard the public liberty'
 date: '2013-01-25'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

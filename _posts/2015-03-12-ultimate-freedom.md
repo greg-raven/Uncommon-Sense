@@ -1,7 +1,6 @@
 ---
 title: 'Ultimate freedom'
 date: '2015-03-12'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

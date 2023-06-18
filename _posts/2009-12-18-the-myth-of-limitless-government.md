@@ -1,7 +1,6 @@
 ---
 title: 'The myth of limitless government'
 date: '2009-12-18'
-author: 'Greg Raven'
 layout: post
 categories:
     - rights

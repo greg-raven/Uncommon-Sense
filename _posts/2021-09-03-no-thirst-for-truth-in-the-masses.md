@@ -1,7 +1,6 @@
 ---
 title: 'No thirst for truth in the masses'
 date: '2021-09-03'
-author: 'Greg Raven'
 layout: post
 categories:
     - truth

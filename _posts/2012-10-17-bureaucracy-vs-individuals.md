@@ -1,7 +1,6 @@
 ---
 title: 'Bureaucracy cannot tolerate individuals'
 date: '2012-10-17'
-author: 'Greg Raven'
 layout: post
 categories:
     - individualism

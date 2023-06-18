@@ -1,7 +1,6 @@
 ---
 title: 'Ensure liberty by keeping government small'
 date: '2020-03-31'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

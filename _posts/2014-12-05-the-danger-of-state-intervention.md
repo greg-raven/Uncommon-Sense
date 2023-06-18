@@ -1,7 +1,6 @@
 ---
 title: 'The danger of state intervention'
 date: '2014-12-05'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

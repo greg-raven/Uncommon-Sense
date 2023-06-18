@@ -1,7 +1,6 @@
 ---
 title: 'Liberty under democracies'
 date: '2016-08-26'
-author: 'Greg Raven'
 layout: post
 categories:
     - democracy

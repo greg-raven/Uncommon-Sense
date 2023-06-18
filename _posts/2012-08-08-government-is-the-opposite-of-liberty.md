@@ -1,7 +1,6 @@
 ---
 title: 'Government is the opposite of liberty'
 date: '2012-08-08'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

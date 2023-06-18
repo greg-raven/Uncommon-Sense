@@ -1,7 +1,6 @@
 ---
 title: 'Inherent right of the people'
 date: '2011-09-28'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'external authority'

@@ -1,7 +1,6 @@
 ---
 title: 'Capitalism is a natural phenomenon'
 date: '2012-10-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

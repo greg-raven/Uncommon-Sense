@@ -1,7 +1,6 @@
 ---
 title: 'White slavery vs. black slavery'
 date: '2018-02-19'
-author: 'Greg Raven'
 layout: post
 categories:
     - history

@@ -1,7 +1,6 @@
 ---
 title: 'The Obama solution to illegal immigration'
 date: '2014-06-17'
-author: 'Greg Raven'
 layout: post
 categories:
     - immigration

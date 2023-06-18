@@ -1,7 +1,6 @@
 ---
 title: 'Politicians and other people’s money'
 date: '2010-10-18'
-author: 'Greg Raven'
 layout: post
 categories:
     - taxation

@@ -1,7 +1,6 @@
 ---
 title: 'Education is a weapon'
 date: '2020-10-30'
-author: 'Greg Raven'
 layout: post
 categories:
     - education

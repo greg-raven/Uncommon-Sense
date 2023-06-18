@@ -1,7 +1,6 @@
 ---
 title: 'Distribution of powers'
 date: '2013-06-21'
-author: 'Greg Raven'
 layout: post
 categories:
     - decentralization

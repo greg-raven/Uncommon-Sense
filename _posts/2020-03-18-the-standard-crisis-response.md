@@ -1,7 +1,6 @@
 ---
 title: 'The standard crisis response'
 date: '2020-03-18'
-author: 'Greg Raven'
 layout: post
 categories:
     - collectivization

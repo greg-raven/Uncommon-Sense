@@ -1,7 +1,6 @@
 ---
 title: 'A formula for never-ending strife'
 date: '2015-01-06'
-author: 'Greg Raven'
 layout: post
 categories:
     - equality

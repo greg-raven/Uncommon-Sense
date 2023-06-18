@@ -1,7 +1,6 @@
 ---
 title: 'Government efficiency'
 date: '2020-05-25'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

@@ -1,7 +1,6 @@
 ---
 title: 'The benefits and hypocrisy of playing the slavery card'
 date: '2021-11-18'
-author: 'Greg Raven'
 layout: post
 categories:
     - race

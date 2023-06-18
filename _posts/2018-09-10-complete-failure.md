@@ -1,7 +1,6 @@
 ---
 title: 'Complete failure'
 date: '2018-09-10'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

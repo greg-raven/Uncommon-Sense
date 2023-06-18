@@ -1,7 +1,6 @@
 ---
 title: Bureaucrats
 date: '2015-11-05'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

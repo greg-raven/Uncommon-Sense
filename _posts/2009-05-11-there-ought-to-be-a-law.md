@@ -1,7 +1,6 @@
 ---
 title: 'There ought to be a law'
 date: '2009-05-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

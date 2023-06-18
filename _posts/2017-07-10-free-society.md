@@ -1,7 +1,6 @@
 ---
 title: 'Free society'
 date: '2017-07-10'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

@@ -1,7 +1,6 @@
 ---
 title: 'Toxic femininity'
 date: '2019-11-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - democracy

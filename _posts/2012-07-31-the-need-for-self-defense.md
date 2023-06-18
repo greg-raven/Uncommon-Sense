@@ -1,7 +1,6 @@
 ---
 title: 'The need for self-defense'
 date: '2012-07-31'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

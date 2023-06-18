@@ -1,7 +1,6 @@
 ---
 title: 'Controlling the masses'
 date: '2021-09-07'
-author: 'Greg Raven'
 layout: post
 categories:
     - education

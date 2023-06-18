@@ -1,7 +1,6 @@
 ---
 title: 'Equally free and independent'
 date: '2020-07-03'
-author: 'Greg Raven'
 layout: post
 categories:
     - equality

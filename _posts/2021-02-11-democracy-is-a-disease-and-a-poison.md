@@ -1,7 +1,6 @@
 ---
 title: 'Democracy is a disease and a poison'
 date: '2021-02-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - democracy

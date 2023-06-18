@@ -1,7 +1,6 @@
 ---
 title: 'The real reason for small government'
 date: '2013-08-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - taxation

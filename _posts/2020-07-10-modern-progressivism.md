@@ -1,7 +1,6 @@
 ---
 title: 'Modern ‘progressivism’'
 date: '2020-07-10'
-author: 'Greg Raven'
 layout: post
 categories:
     - culture

@@ -1,7 +1,6 @@
 ---
 title: 'Individual opportunity'
 date: '2022-11-23'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

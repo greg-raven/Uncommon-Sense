@@ -1,7 +1,6 @@
 ---
 title: 'Federal censorship'
 date: '2023-05-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - speech

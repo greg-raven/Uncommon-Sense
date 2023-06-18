@@ -1,7 +1,6 @@
 ---
 title: 'The logic of the Constitution in two sentences'
 date: '2009-04-07'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

@@ -1,7 +1,6 @@
 ---
 title: 'Most important number in the immigration debate'
 date: '2016-09-18'
-author: 'Greg Raven'
 layout: post
 categories:
     - immigration

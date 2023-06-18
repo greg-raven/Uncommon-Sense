@@ -1,7 +1,6 @@
 ---
 title: 'That time is now'
 date: '2021-11-01'
-author: 'Greg Raven'
 layout: post
 categories:
     - corruption

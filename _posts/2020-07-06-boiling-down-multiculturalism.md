@@ -1,7 +1,6 @@
 ---
 title: 'Boiling down ‘multiculturalism’'
 date: '2020-07-06'
-author: 'Greg Raven'
 layout: post
 categories:
     - culture

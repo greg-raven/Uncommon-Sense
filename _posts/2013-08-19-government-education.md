@@ -1,7 +1,6 @@
 ---
 title: 'Government education'
 date: '2013-08-19'
-author: 'Greg Raven'
 layout: post
 categories:
     - education

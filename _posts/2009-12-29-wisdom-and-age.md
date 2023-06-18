@@ -1,7 +1,6 @@
 ---
 title: 'Wisdom and age'
 date: '2009-12-29'
-author: 'Greg Raven'
 layout: post
 categories:
     - education

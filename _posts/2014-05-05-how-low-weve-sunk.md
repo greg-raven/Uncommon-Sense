@@ -1,7 +1,6 @@
 ---
 title: 'How low we’ve sunk'
 date: '2014-05-05'
-author: 'Greg Raven'
 layout: post
 categories:
     - culture

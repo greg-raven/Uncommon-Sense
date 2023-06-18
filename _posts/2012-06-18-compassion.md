@@ -1,7 +1,6 @@
 ---
 title: Compassion
 date: '2012-06-18'
-author: 'Greg Raven'
 layout: post
 categories:
     - laws

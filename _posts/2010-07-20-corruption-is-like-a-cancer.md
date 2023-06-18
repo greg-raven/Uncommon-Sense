@@ -1,7 +1,6 @@
 ---
 title: 'Corruption is like a cancer'
 date: '2010-07-20'
-author: 'Greg Raven'
 layout: post
 categories:
     - corruption

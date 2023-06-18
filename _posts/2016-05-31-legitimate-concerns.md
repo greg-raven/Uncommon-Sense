@@ -1,7 +1,6 @@
 ---
 title: 'Legitimate concerns'
 date: '2016-05-31'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'informed electorate'

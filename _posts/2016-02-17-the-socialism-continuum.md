@@ -1,7 +1,6 @@
 ---
 title: 'The socialism continuum'
 date: '2016-02-17'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

@@ -1,7 +1,6 @@
 ---
 title: 'Why we fight'
 date: '2016-03-09'
-author: 'Greg Raven'
 layout: post
 categories:
     - equality

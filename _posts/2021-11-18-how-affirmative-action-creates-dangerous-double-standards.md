@@ -1,7 +1,6 @@
 ---
 title: 'How Affirmative Action creates dangerous double standards'
 date: '2021-11-18'
-author: 'Greg Raven'
 layout: post
 categories:
     - race

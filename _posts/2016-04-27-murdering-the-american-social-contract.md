@@ -1,7 +1,6 @@
 ---
 title: 'Murdering the American social contract'
 date: '2016-04-27'
-author: 'Greg Raven'
 layout: post
 categories:
     - rights

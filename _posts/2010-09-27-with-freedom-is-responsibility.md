@@ -1,7 +1,6 @@
 ---
 title: 'With freedom comes responsibility'
 date: '2010-09-27'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

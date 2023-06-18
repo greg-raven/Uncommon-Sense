@@ -1,7 +1,6 @@
 ---
 title: 'Carrying a gun'
 date: '2011-10-16'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

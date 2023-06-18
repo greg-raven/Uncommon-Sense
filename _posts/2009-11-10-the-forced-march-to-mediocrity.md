@@ -1,7 +1,6 @@
 ---
 title: 'The forced march to mediocrity'
 date: '2009-11-10'
-author: 'Greg Raven'
 layout: post
 categories:
     - economics

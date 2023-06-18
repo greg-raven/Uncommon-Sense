@@ -1,7 +1,6 @@
 ---
 title: 'What government must to do be considered legitimate'
 date: '2018-11-01'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

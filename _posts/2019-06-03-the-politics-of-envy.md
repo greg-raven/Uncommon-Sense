@@ -1,7 +1,6 @@
 ---
 title: 'The politics of envy'
 date: '2019-06-03'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

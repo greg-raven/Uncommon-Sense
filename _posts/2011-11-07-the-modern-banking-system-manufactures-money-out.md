@@ -1,7 +1,6 @@
 ---
 title: 'Money from thin air'
 date: '2011-11-07'
-author: 'Greg Raven'
 layout: post
 categories:
     - money

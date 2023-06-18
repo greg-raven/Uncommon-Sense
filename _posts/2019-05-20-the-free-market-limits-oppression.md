@@ -1,7 +1,6 @@
 ---
 title: 'The free market limits oppression'
 date: '2019-05-20'
-author: 'Greg Raven'
 layout: post
 categories:
     - capitalism

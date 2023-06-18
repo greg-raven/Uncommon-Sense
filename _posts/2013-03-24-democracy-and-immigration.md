@@ -1,7 +1,6 @@
 ---
 title: 'Democracy and immigration'
 date: '2013-03-24'
-author: 'Greg Raven'
 layout: post
 categories:
     - immigration

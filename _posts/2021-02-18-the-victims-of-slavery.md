@@ -1,7 +1,6 @@
 ---
 title: 'The victims of slavery'
 date: '2021-02-18'
-author: 'Greg Raven'
 layout: post
 categories:
     - race

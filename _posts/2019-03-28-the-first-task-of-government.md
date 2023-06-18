@@ -1,7 +1,6 @@
 ---
 title: 'The first task of government'
 date: '2019-03-28'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

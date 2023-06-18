@@ -1,7 +1,6 @@
 ---
 title: 'Where to place your confidence'
 date: '2010-02-05'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

@@ -1,7 +1,6 @@
 ---
 title: 'These things I believe'
 date: '2015-04-08'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

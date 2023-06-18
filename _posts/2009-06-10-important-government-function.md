@@ -1,7 +1,6 @@
 ---
 title: 'Important government function'
 date: '2009-06-10'
-author: 'Greg Raven'
 layout: post
 categories:
     - money

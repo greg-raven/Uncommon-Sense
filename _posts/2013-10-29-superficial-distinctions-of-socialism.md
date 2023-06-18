@@ -1,7 +1,6 @@
 ---
 title: 'Superficial distinctions of socialism'
 date: '2013-10-29'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

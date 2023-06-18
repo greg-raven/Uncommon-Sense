@@ -1,7 +1,6 @@
 ---
 title: 'Everybody knows'
 date: '2017-05-19'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'informed electorate'

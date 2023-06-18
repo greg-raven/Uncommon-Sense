@@ -1,7 +1,6 @@
 ---
 title: 'A right of the individual'
 date: '2012-06-20'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

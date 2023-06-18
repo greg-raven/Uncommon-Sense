@@ -1,7 +1,6 @@
 ---
 title: 'Our only threat comes from within'
 date: '2020-03-16'
-author: 'Greg Raven'
 layout: post
 categories:
     - culture

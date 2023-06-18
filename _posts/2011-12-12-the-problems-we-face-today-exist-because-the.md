@@ -1,7 +1,6 @@
 ---
 title: 'Givers vs. takers'
 date: '2011-12-12'
-author: 'Greg Raven'
 layout: post
 categories:
     - democracy

@@ -1,7 +1,6 @@
 ---
 title: 'Why republics fall'
 date: '2015-04-15'
-author: 'Greg Raven'
 layout: post
 categories:
     - corruption

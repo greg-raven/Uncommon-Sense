@@ -1,7 +1,6 @@
 ---
 title: 'Trading away future liberty'
 date: '2009-09-21'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

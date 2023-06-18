@@ -1,7 +1,6 @@
 ---
 title: 'Conscience vs rights'
 date: '2014-04-14'
-author: 'Greg Raven'
 layout: post
 categories:
     - rights

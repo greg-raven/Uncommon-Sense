@@ -1,7 +1,6 @@
 ---
 title: 'Importance of our Constitution'
 date: '2010-10-07'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

@@ -1,7 +1,6 @@
 ---
 title: 'The larceny of taxation'
 date: '2010-04-19'
-author: 'Greg Raven'
 layout: post
 categories:
     - taxation

@@ -1,7 +1,6 @@
 ---
 title: 'What our Federal government should be'
 date: '2019-01-28'
-author: 'Greg Raven'
 layout: post
 categories:
     - decentralization

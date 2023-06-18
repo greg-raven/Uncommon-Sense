@@ -1,7 +1,6 @@
 ---
 title: 'Numbers don’t change morality'
 date: '2013-08-27'
-author: 'Greg Raven'
 layout: post
 categories:
     - democracy

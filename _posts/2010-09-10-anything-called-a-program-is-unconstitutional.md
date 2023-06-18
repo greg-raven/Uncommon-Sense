@@ -1,7 +1,6 @@
 ---
 title: 'Anything called a ‘program’ is unconstitutional'
 date: '2010-09-10'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

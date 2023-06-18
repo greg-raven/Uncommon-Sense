@@ -1,7 +1,6 @@
 ---
 title: 'Delayed misery'
 date: '2012-02-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

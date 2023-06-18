@@ -1,7 +1,6 @@
 ---
 title: 'The law of the land'
 date: '2015-04-03'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

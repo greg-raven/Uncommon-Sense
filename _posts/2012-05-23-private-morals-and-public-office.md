@@ -1,7 +1,6 @@
 ---
 title: 'Private morals and public office'
 date: '2012-05-23'
-author: 'Greg Raven'
 layout: post
 categories:
     - virtue

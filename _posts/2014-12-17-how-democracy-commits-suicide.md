@@ -1,7 +1,6 @@
 ---
 title: 'How democracy commits suicide'
 date: '2014-12-17'
-author: 'Greg Raven'
 layout: post
 categories:
     - democracy

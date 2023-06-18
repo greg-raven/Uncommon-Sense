@@ -1,7 +1,6 @@
 ---
 title: 'Losing the branches of our government'
 date: '2014-08-28'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

@@ -1,7 +1,6 @@
 ---
 title: 'Limited government'
 date: '2015-12-24'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

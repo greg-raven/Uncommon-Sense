@@ -1,7 +1,6 @@
 ---
 title: 'Master and servant'
 date: '2019-07-12'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

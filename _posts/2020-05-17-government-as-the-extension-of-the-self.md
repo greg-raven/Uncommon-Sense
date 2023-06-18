@@ -1,7 +1,6 @@
 ---
 title: 'Government as the extension of the self'
 date: '2020-05-17'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberalism

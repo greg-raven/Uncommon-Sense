@@ -1,7 +1,6 @@
 ---
 title: 'Government is not the solution'
 date: '2020-06-26'
-author: 'Greg Raven'
 layout: post
 categories:
     - collectivization

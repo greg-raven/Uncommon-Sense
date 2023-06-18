@@ -1,7 +1,6 @@
 ---
 title: 'Destructive government'
 date: '2011-06-03'
-author: 'Greg Raven'
 layout: post
 categories:
     - rebellion

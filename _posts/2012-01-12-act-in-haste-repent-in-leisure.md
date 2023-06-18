@@ -1,7 +1,6 @@
 ---
 title: 'Act in haste, repent in leisure'
 date: '2012-01-12'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

@@ -1,7 +1,6 @@
 ---
 title: 'False words'
 date: '2020-10-02'
-author: 'Greg Raven'
 layout: post
 categories:
     - truth

@@ -1,7 +1,6 @@
 ---
 title: 'The end of the Republic'
 date: '2010-04-25'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

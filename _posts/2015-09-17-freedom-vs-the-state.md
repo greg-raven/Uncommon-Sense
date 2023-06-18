@@ -1,7 +1,6 @@
 ---
 title: 'Freedom vs. the state'
 date: '2015-09-17'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

@@ -1,7 +1,6 @@
 ---
 title: 'Problem solvers'
 date: '2022-11-24'
-author: 'Greg Raven'
 layout: post
 categories:
     - politics

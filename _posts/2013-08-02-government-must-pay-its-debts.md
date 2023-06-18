@@ -1,7 +1,6 @@
 ---
 title: 'Government must pay its debts'
 date: '2013-08-02'
-author: 'Greg Raven'
 layout: post
 categories:
     - debt

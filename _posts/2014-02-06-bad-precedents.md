@@ -1,7 +1,6 @@
 ---
 title: 'Bad precedents'
 date: '2014-02-06'
-author: 'Greg Raven'
 layout: post
 categories:
     - laws

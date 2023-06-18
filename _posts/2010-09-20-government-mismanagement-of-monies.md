@@ -1,7 +1,6 @@
 ---
 title: 'Government mismanagement of monies'
 date: '2010-09-20'
-author: 'Greg Raven'
 layout: post
 categories:
     - economics

@@ -1,7 +1,6 @@
 ---
 title: 'Legacy of lawlessness'
 date: '2014-01-22'
-author: 'Greg Raven'
 layout: post
 categories:
     - demagogues

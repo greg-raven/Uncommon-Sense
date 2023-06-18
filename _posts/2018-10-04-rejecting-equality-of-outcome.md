@@ -1,7 +1,6 @@
 ---
 title: 'Rejecting ‘equality of outcome’'
 date: '2018-10-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - equality

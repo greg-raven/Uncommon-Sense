@@ -1,7 +1,6 @@
 ---
 title: 'The last refuge'
 date: '2011-07-13'
-author: 'Greg Raven'
 layout: post
 categories:
     - demagogues

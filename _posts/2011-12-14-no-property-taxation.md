@@ -1,7 +1,6 @@
 ---
 title: 'No property taxation'
 date: '2011-12-14'
-author: 'Greg Raven'
 layout: post
 categories:
     - taxation

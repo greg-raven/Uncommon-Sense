@@ -1,7 +1,6 @@
 ---
 title: 'Instant democracy doesn’t work'
 date: '2011-03-01'
-author: 'Greg Raven'
 layout: post
 categories:
     - democracy

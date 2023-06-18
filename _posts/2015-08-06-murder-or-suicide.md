@@ -1,7 +1,6 @@
 ---
 title: 'Murder or suicide'
 date: '2015-08-06'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

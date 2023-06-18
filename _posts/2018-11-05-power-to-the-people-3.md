@@ -1,7 +1,6 @@
 ---
 title: 'Power to the people?'
 date: '2018-11-05'
-author: 'Greg Raven'
 layout: post
 categories:
     - demagogues

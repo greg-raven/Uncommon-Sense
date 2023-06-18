@@ -1,7 +1,6 @@
 ---
 title: 'Why plan ahead?'
 date: '2011-06-21'
-author: 'Greg Raven'
 layout: post
 categories:
     - economics

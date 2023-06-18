@@ -1,7 +1,6 @@
 ---
 title: 'Your rights'
 date: '2011-02-23'
-author: 'Greg Raven'
 layout: post
 categories:
     - rights

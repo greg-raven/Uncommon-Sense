@@ -1,7 +1,6 @@
 ---
 title: 'A right of the people'
 date: '2012-12-31'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

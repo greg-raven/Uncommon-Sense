@@ -1,7 +1,6 @@
 ---
 title: 'Constitutional liberties are being jettisoned'
 date: '2013-04-28'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

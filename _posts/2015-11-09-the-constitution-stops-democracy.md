@@ -1,7 +1,6 @@
 ---
 title: 'The Constitution stops democracy'
 date: '2015-11-09'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

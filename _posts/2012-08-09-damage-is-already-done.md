@@ -1,7 +1,6 @@
 ---
 title: 'The damage is already done'
 date: '2012-08-09'
-author: 'Greg Raven'
 layout: post
 categories:
     - waste

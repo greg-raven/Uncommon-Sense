@@ -1,7 +1,6 @@
 ---
 title: 'Real wealth and virtual wealth'
 date: '2009-11-18'
-author: 'Greg Raven'
 layout: post
 categories:
     - debt

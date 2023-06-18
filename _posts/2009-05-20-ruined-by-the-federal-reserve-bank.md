@@ -1,7 +1,6 @@
 ---
 title: 'U.S. ruined by the Federal Reserve Bank'
 date: '2009-05-20'
-author: 'Greg Raven'
 layout: post
 categories:
     - money

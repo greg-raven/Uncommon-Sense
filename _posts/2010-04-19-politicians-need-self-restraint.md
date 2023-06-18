@@ -1,7 +1,6 @@
 ---
 title: 'Politicians need self-restraint'
 date: '2010-04-19'
-author: 'Greg Raven'
 layout: post
 categories:
     - rebellion

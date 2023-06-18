@@ -1,7 +1,6 @@
 ---
 title: 'The crossroads in our history'
 date: '2016-10-13'
-author: 'Greg Raven'
 layout: post
 categories:
     - corruption

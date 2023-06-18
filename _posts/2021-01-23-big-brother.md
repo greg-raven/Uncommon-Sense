@@ -1,7 +1,6 @@
 ---
 title: 'Big Brother'
 date: '2021-01-23'
-author: 'Greg Raven'
 layout: post
 categories:
     - collectivization

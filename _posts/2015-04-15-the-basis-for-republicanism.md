@@ -1,7 +1,6 @@
 ---
 title: 'The basis for republicanism'
 date: '2015-04-15'
-author: 'Greg Raven'
 layout: post
 categories:
     - individualism

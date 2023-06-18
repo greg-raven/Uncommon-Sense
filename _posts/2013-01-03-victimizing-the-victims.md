@@ -1,7 +1,6 @@
 ---
 title: 'Victimizing the victims'
 date: '2013-01-03'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

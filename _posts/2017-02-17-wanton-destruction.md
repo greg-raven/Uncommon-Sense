@@ -1,7 +1,6 @@
 ---
 title: 'Wanton destruction'
 date: '2017-02-17'
-author: 'Greg Raven'
 layout: post
 categories:
     - culture

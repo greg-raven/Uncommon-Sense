@@ -1,7 +1,6 @@
 ---
 title: 'Deterioration of government'
 date: '2014-08-20'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

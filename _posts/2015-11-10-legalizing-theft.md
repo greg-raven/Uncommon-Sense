@@ -1,7 +1,6 @@
 ---
 title: 'Legalizing theft'
 date: '2015-11-10'
-author: 'Greg Raven'
 layout: post
 categories:
     - democracy

@@ -1,7 +1,6 @@
 ---
 title: 'No freedom in socialism'
 date: '2016-05-19'
-author: 'Greg Raven'
 layout: post
 categories:
     - economics

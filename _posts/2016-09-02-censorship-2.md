@@ -1,7 +1,6 @@
 ---
 title: Censorship
 date: '2016-09-02'
-author: 'Greg Raven'
 layout: post
 categories:
     - speech

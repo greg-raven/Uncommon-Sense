@@ -1,7 +1,6 @@
 ---
 title: 'Authority and responsibility'
 date: '2016-11-30'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

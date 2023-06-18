@@ -1,7 +1,6 @@
 ---
 title: 'Reality in education'
 date: '2009-05-25'
-author: 'Greg Raven'
 layout: post
 categories:
     - education

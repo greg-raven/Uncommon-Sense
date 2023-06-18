@@ -1,7 +1,6 @@
 ---
 title: 'All lawful authority'
 date: '2023-05-26'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

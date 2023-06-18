@@ -1,7 +1,6 @@
 ---
 title: 'Cooperation vs. force'
 date: '2019-11-02'
-author: 'Greg Raven'
 layout: post
 categories:
     - capitalism

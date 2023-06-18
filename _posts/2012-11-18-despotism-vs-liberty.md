@@ -1,7 +1,6 @@
 ---
 title: 'Despotism vs. liberty'
 date: '2012-11-18'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

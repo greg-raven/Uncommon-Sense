@@ -1,7 +1,6 @@
 ---
 title: 'Strict immigration laws protect our nation'
 date: '2019-05-08'
-author: 'Greg Raven'
 layout: post
 categories:
     - immigration

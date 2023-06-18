@@ -1,7 +1,6 @@
 ---
 title: 'African dictators'
 date: '2009-10-27'
-author: 'Greg Raven'
 layout: post
 categories:
     - demagogues

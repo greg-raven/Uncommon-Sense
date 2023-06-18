@@ -1,7 +1,6 @@
 ---
 title: 'A time for choosing'
 date: '2020-05-25'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

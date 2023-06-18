@@ -1,7 +1,6 @@
 ---
 title: 'Question the ‘shepherds’'
 date: '2011-11-22'
-author: 'Greg Raven'
 layout: post
 categories:
     - demagogues

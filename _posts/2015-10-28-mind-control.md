@@ -1,7 +1,6 @@
 ---
 title: 'Mind control'
 date: '2015-10-28'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'external authority'

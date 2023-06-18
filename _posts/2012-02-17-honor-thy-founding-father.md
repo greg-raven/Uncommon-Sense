@@ -1,7 +1,6 @@
 ---
 title: 'Honor thy Founding Father'
 date: '2012-02-17'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

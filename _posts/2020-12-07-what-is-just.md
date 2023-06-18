@@ -1,7 +1,6 @@
 ---
 title: 'What is ‘just’'
 date: '2020-12-07'
-author: 'Greg Raven'
 layout: post
 categories:
     - economics

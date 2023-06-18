@@ -1,7 +1,6 @@
 ---
 title: 'The fundamental theory of American law'
 date: '2012-12-03'
-author: 'Greg Raven'
 layout: post
 categories:
     - politics

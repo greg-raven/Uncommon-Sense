@@ -1,7 +1,6 @@
 ---
 title: 'Collectivist promised'
 date: '2014-04-13'
-author: 'Greg Raven'
 layout: post
 categories:
     - collectivization

@@ -1,7 +1,6 @@
 ---
 title: 'Debt rises with income'
 date: '2023-05-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - economics

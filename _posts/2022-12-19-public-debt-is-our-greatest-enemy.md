@@ -1,7 +1,6 @@
 ---
 title: 'Public debt is our greatest enemy'
 date: '2022-12-19'
-author: 'Greg Raven'
 layout: post
 categories:
     - economics

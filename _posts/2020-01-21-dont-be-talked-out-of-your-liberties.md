@@ -1,7 +1,6 @@
 ---
 title: 'Don’t be talked out of your liberties'
 date: '2020-01-21'
-author: 'Greg Raven'
 layout: post
 categories:
     - demagogues

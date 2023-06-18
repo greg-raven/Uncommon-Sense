@@ -1,7 +1,6 @@
 ---
 title: 'Opposites: Force and reason'
 date: '2016-03-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - reason

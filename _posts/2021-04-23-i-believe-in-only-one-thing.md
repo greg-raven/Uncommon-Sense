@@ -1,7 +1,6 @@
 ---
 title: 'I believe in only one thing'
 date: '2021-04-23'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

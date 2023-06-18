@@ -1,7 +1,6 @@
 ---
 title: 'Ultimate absurdity'
 date: '2020-06-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - collectivization

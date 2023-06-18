@@ -1,7 +1,6 @@
 ---
 title: 'Looking good in comparison'
 date: '2021-10-29'
-author: 'Greg Raven'
 layout: post
 categories:
     - politics

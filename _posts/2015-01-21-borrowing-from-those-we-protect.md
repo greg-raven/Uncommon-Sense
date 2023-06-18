@@ -1,7 +1,6 @@
 ---
 title: 'Borrowing from those we protect'
 date: '2015-01-21'
-author: 'Greg Raven'
 layout: post
 categories:
     - economics

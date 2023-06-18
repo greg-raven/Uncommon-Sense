@@ -1,7 +1,6 @@
 ---
 title: 'The pretense of caring'
 date: '2020-04-16'
-author: 'Greg Raven'
 layout: post
 categories:
     - demagogues

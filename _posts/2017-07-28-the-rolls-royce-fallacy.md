@@ -1,7 +1,6 @@
 ---
 title: 'The Rolls Royce fallacy'
 date: '2017-07-28'
-author: 'Greg Raven'
 layout: post
 categories:
     - economics

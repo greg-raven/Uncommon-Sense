@@ -1,7 +1,6 @@
 ---
 title: 'All might be free'
 date: '2023-06-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

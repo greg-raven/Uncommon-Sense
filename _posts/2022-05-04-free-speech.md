@@ -1,7 +1,6 @@
 ---
 title: 'Free speech'
 date: '2022-05-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - speech

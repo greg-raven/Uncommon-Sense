@@ -1,7 +1,6 @@
 ---
 title: 'Real purpose of the 2nd Amendment'
 date: '2014-01-14'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

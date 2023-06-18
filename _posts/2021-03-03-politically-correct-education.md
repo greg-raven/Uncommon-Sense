@@ -1,7 +1,6 @@
 ---
 title: 'Politically-correct education'
 date: '2021-03-03'
-author: 'Greg Raven'
 layout: post
 categories:
     - education

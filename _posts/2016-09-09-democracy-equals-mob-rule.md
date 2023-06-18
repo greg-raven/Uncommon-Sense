@@ -1,7 +1,6 @@
 ---
 title: 'Democracy equals mob rule'
 date: '2016-09-09'
-author: 'Greg Raven'
 layout: post
 categories:
     - democracy

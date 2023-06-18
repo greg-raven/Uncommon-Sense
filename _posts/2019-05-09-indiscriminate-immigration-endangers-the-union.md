@@ -1,7 +1,6 @@
 ---
 title: 'Indiscriminate immigration endangers the Union'
 date: '2019-05-09'
-author: 'Greg Raven'
 layout: post
 categories:
     - immigration

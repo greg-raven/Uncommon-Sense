@@ -1,7 +1,6 @@
 ---
 title: 'Gun control is just one step'
 date: '2016-03-14'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

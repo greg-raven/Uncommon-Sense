@@ -1,7 +1,6 @@
 ---
 title: 'Today’s corporate press'
 date: '2020-07-24'
-author: 'Greg Raven'
 layout: post
 categories:
     - knowledge

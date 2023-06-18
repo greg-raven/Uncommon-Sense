@@ -1,7 +1,6 @@
 ---
 title: 'The Bill of Rights'
 date: '2019-10-17'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

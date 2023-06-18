@@ -1,7 +1,6 @@
 ---
 title: 'The legacy of the U.N.'
 date: '2012-03-23'
-author: 'Greg Raven'
 layout: post
 categories:
     - war

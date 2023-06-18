@@ -1,7 +1,6 @@
 ---
 title: 'The cost of socialism'
 date: '2014-12-12'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

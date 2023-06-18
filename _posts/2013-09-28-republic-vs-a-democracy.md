@@ -1,7 +1,6 @@
 ---
 title: 'Republic vs. a democracy'
 date: '2013-09-28'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

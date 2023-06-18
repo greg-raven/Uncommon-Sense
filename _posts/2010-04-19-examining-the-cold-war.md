@@ -1,7 +1,6 @@
 ---
 title: 'Examining the Cold War'
 date: '2010-04-19'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

@@ -1,7 +1,6 @@
 ---
 title: 'From freedom to tyranny'
 date: '2016-02-15'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

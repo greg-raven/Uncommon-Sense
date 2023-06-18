@@ -1,7 +1,6 @@
 ---
 title: 'Freedom from black-robed demagogues'
 date: '2017-07-26'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

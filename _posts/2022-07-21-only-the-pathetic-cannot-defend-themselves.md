@@ -1,7 +1,6 @@
 ---
 title: 'Only the pathetic cannot defend themselves'
 date: '2022-07-21'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

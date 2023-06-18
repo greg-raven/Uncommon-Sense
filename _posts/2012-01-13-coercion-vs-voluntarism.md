@@ -1,7 +1,6 @@
 ---
 title: 'Coercion vs. voluntarism'
 date: '2012-01-13'
-author: 'Greg Raven'
 layout: post
 categories:
     - individualism

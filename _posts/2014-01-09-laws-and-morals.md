@@ -1,7 +1,6 @@
 ---
 title: 'Laws and morals'
 date: '2014-01-09'
-author: 'Greg Raven'
 layout: post
 categories:
     - morals

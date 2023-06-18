@@ -1,7 +1,6 @@
 ---
 title: 'Free speech in peace and in war'
 date: '2022-02-18'
-author: 'Greg Raven'
 layout: post
 categories:
     - speech

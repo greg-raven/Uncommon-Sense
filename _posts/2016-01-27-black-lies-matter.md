@@ -1,7 +1,6 @@
 ---
 title: 'Black lies matter'
 date: '2016-01-27'
-author: 'Greg Raven'
 layout: post
 categories:
     - culture

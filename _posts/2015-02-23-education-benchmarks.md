@@ -1,7 +1,6 @@
 ---
 title: 'Education benchmarks'
 date: '2015-02-23'
-author: 'Greg Raven'
 layout: post
 categories:
     - education

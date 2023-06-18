@@ -1,7 +1,6 @@
 ---
 title: 'The ignorance of the educated'
 date: '2020-05-03'
-author: 'Greg Raven'
 layout: post
 categories:
     - education

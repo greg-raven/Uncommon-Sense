@@ -1,7 +1,6 @@
 ---
 title: 'Last official act'
 date: '2011-11-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - money

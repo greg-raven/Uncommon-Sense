@@ -1,7 +1,6 @@
 ---
 title: 'Politicians vs. free market capitalism'
 date: '2017-12-19'
-author: 'Greg Raven'
 layout: post
 categories:
     - capitalism

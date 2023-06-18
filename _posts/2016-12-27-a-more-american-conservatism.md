@@ -1,7 +1,6 @@
 ---
 title: 'A more American conservatism'
 date: '2016-12-27'
-author: 'Greg Raven'
 layout: post
 categories:
     - conservatism

@@ -1,7 +1,6 @@
 ---
 title: 'Comparative greeds'
 date: '2018-07-29'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

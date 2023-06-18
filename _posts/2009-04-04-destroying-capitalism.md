@@ -1,7 +1,6 @@
 ---
 title: 'Destroying capitalism'
 date: '2009-04-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

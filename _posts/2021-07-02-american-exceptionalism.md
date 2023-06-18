@@ -1,7 +1,6 @@
 ---
 title: 'American exceptionalism'
 date: '2021-07-02'
-author: 'Greg Raven'
 layout: post
 categories:
     - history

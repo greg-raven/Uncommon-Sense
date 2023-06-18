@@ -1,7 +1,6 @@
 ---
 title: 'Government expands at will'
 date: '2022-08-12'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

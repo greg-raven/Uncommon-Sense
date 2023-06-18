@@ -1,7 +1,6 @@
 ---
 title: 'Any man can be a radical'
 date: '2023-06-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - individualism

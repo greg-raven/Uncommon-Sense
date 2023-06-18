@@ -1,7 +1,6 @@
 ---
 title: 'Minimum-wage laws'
 date: '2015-03-18'
-author: 'Greg Raven'
 layout: post
 categories:
     - economics

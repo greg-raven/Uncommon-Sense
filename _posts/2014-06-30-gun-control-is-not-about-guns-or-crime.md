@@ -1,7 +1,6 @@
 ---
 title: 'Gun control is not about guns or crime'
 date: '2014-06-30'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

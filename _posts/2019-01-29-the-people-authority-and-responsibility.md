@@ -1,7 +1,6 @@
 ---
 title: 'The people, authority, and responsibility'
 date: '2019-01-29'
-author: 'Greg Raven'
 layout: post
 categories:
     - individualism

@@ -1,7 +1,6 @@
 ---
 title: 'The slavery of the herd'
 date: '2023-05-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - individualism

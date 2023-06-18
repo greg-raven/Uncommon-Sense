@@ -1,7 +1,6 @@
 ---
 title: 'Life, liberty, and property'
 date: '2022-12-09'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

@@ -1,7 +1,6 @@
 ---
 title: 'Fight big government'
 date: '2021-01-19'
-author: 'Greg Raven'
 layout: post
 categories:
     - collectivization

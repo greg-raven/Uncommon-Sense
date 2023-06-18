@@ -1,7 +1,6 @@
 ---
 title: 'Being politically correct'
 date: '2013-10-16'
-author: 'Greg Raven'
 layout: post
 categories:
     - speech

@@ -1,7 +1,6 @@
 ---
 title: 'Demagogues and demaslaves'
 date: '2013-09-18'
-author: 'Greg Raven'
 layout: post
 categories:
     - demagogues

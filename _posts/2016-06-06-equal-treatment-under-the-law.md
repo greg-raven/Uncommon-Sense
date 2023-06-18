@@ -1,7 +1,6 @@
 ---
 title: 'Equal treatment under the law'
 date: '2016-06-06'
-author: 'Greg Raven'
 layout: post
 categories:
     - laws

@@ -1,7 +1,6 @@
 ---
 title: 'Lenin was correct'
 date: '2015-08-24'
-author: 'Greg Raven'
 layout: post
 categories:
     - money

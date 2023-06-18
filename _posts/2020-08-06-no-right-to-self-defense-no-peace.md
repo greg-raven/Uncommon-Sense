@@ -1,7 +1,6 @@
 ---
 title: 'No right to self-defense, no peace'
 date: '2020-08-06'
-author: 'Greg Raven'
 layout: post
 categories:
     - property

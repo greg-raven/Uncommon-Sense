@@ -1,7 +1,6 @@
 ---
 title: 'How society controls crime'
 date: '2013-01-31'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

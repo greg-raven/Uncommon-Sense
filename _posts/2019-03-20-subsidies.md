@@ -1,7 +1,6 @@
 ---
 title: Subsidies
 date: '2019-03-20'
-author: 'Greg Raven'
 layout: post
 categories:
     - taxation

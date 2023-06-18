@@ -1,7 +1,6 @@
 ---
 title: 'Get informed'
 date: '2020-03-10'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'informed electorate'

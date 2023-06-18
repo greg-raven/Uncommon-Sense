@@ -1,7 +1,6 @@
 ---
 title: 'The best argument for small government'
 date: '2020-05-15'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

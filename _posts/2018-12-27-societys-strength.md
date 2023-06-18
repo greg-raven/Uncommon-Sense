@@ -1,7 +1,6 @@
 ---
 title: 'Society’s strength'
 date: '2018-12-27'
-author: 'Greg Raven'
 layout: post
 categories:
     - morals

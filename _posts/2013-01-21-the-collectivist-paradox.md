@@ -1,7 +1,6 @@
 ---
 title: 'The collectivist paradox'
 date: '2013-01-21'
-author: 'Greg Raven'
 layout: post
 categories:
     - collectivization

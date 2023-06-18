@@ -1,7 +1,6 @@
 ---
 title: 'The tyranny of majority rule'
 date: '2015-03-31'
-author: 'Greg Raven'
 layout: post
 categories:
     - democracy

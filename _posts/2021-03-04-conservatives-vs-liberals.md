@@ -1,7 +1,6 @@
 ---
 title: 'Conservatives vs. liberals'
 date: '2021-03-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - politics

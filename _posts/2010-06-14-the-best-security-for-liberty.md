@@ -1,7 +1,6 @@
 ---
 title: 'The best security for liberty'
 date: '2010-06-14'
-author: 'Greg Raven'
 layout: post
 categories:
     - knowledge

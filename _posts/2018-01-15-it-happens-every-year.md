@@ -1,7 +1,6 @@
 ---
 title: 'It happens every year'
 date: '2018-01-15'
-author: 'Greg Raven'
 layout: post
 categories:
     - race

@@ -1,7 +1,6 @@
 ---
 title: 'The origin of the species'
 date: '2009-05-20'
-author: 'Greg Raven'
 layout: post
 categories:
     - evolution

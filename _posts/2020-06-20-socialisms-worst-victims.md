@@ -1,7 +1,6 @@
 ---
 title: 'Socialism’s worst victims'
 date: '2020-06-20'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

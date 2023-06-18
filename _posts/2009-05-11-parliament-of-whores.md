@@ -1,7 +1,6 @@
 ---
 title: 'Parliament of whores'
 date: '2009-05-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

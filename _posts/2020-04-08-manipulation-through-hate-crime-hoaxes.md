@@ -1,7 +1,6 @@
 ---
 title: 'Manipulation through hate-crime hoaxes'
 date: '2020-04-08'
-author: 'Greg Raven'
 layout: post
 categories:
     - race

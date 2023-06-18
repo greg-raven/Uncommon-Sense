@@ -1,7 +1,6 @@
 ---
 title: 'Democracy is a threat to the American republic'
 date: '2017-03-15'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

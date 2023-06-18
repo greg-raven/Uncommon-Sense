@@ -1,7 +1,6 @@
 ---
 title: 'Liberty trumps union'
 date: '2009-11-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - decentralization

@@ -1,7 +1,6 @@
 ---
 title: 'Peace or freedom'
 date: '2009-05-26'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

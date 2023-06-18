@@ -1,7 +1,6 @@
 ---
 title: 'Take action for liberty'
 date: '2021-02-26'
-author: 'Greg Raven'
 layout: post
 categories:
     - demagogues

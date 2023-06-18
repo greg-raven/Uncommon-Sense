@@ -1,7 +1,6 @@
 ---
 title: 'The progressive mindset'
 date: '2015-02-16'
-author: 'Greg Raven'
 layout: post
 categories:
     - intolerance

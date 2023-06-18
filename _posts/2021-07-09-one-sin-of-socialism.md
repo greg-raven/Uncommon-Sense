@@ -1,7 +1,6 @@
 ---
 title: 'One sin of socialism'
 date: '2021-07-09'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

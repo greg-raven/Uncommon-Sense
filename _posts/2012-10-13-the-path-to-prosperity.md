@@ -1,7 +1,6 @@
 ---
 title: 'The path to prosperity'
 date: '2012-10-13'
-author: 'Greg Raven'
 layout: post
 categories:
     - prosperity

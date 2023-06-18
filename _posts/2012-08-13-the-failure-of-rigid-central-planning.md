@@ -1,7 +1,6 @@
 ---
 title: 'The failure of rigid central planning'
 date: '2012-08-13'
-author: 'Greg Raven'
 layout: post
 categories:
     - collectivization

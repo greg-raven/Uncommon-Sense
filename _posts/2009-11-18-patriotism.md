@@ -1,7 +1,6 @@
 ---
 title: Patriotism
 date: '2009-11-18'
-author: 'Greg Raven'
 layout: post
 categories:
     - patriotism

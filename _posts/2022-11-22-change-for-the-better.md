@@ -1,7 +1,6 @@
 ---
 title: 'Change for the better'
 date: '2022-11-22'
-author: 'Greg Raven'
 layout: post
 categories:
     - laws

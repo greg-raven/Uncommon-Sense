@@ -1,7 +1,6 @@
 ---
 title: 'The George Soros factor'
 date: '2020-05-17'
-author: 'Greg Raven'
 layout: post
 categories:
     - corruption

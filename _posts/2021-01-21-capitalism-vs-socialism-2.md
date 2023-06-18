@@ -1,7 +1,6 @@
 ---
 title: 'Capitalism vs. socialism'
 date: '2021-01-21'
-author: 'Greg Raven'
 layout: post
 categories:
     - capitalism

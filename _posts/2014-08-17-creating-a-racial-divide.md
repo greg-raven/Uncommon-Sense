@@ -1,7 +1,6 @@
 ---
 title: 'Creating a racial divide'
 date: '2014-08-17'
-author: 'Greg Raven'
 layout: post
 categories:
     - race

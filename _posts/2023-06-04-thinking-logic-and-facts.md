@@ -1,7 +1,6 @@
 ---
 title: 'Thinking, logic, and facts'
 date: '2023-06-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'informed electorate'

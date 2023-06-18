@@ -1,7 +1,6 @@
 ---
 title: 'Actors and politics'
 date: '2020-01-27'
-author: 'Greg Raven'
 layout: post
 categories:
     - culture

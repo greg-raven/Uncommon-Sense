@@ -1,7 +1,6 @@
 ---
 title: Dystrophy
 date: '2015-01-29'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'external authority'

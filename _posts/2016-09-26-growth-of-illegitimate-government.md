@@ -1,7 +1,6 @@
 ---
 title: 'Growth of illegitimate government'
 date: '2016-09-26'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

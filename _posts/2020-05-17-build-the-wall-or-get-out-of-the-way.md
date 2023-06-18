@@ -1,7 +1,6 @@
 ---
 title: 'Build the wall or get out of the way'
 date: '2020-05-17'
-author: 'Greg Raven'
 layout: post
 categories:
     - immigration

@@ -1,7 +1,6 @@
 ---
 title: 'Government altruism'
 date: '2017-11-17'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

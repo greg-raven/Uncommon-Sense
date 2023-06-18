@@ -1,7 +1,6 @@
 ---
 title: 'Communist schools result in communist leaders'
 date: '2013-02-16'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberalism

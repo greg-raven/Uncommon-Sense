@@ -1,7 +1,6 @@
 ---
 title: 'Why does the state exist?'
 date: '2019-04-01'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

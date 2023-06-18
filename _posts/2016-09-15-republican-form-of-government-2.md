@@ -1,7 +1,6 @@
 ---
 title: 'Republican form of government'
 date: '2016-09-15'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

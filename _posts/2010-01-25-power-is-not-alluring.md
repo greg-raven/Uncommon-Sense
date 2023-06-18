@@ -1,7 +1,6 @@
 ---
 title: 'Power is not alluring'
 date: '2010-01-25'
-author: 'Greg Raven'
 layout: post
 categories:
     - individualism

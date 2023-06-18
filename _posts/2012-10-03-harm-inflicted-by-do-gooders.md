@@ -1,7 +1,6 @@
 ---
 title: 'The harm inflicted by do-gooders'
 date: '2012-10-03'
-author: 'Greg Raven'
 layout: post
 categories:
     - individualism

@@ -1,7 +1,6 @@
 ---
 title: 'Defining ‘politics’'
 date: '2015-12-03'
-author: 'Greg Raven'
 layout: post
 categories:
     - politics

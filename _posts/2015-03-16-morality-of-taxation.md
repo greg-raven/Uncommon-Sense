@@ -1,7 +1,6 @@
 ---
 title: 'Morality of taxation'
 date: '2015-03-16'
-author: 'Greg Raven'
 layout: post
 categories:
     - taxation

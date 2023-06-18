@@ -1,7 +1,6 @@
 ---
 title: 'Government intervention'
 date: '2014-09-15'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

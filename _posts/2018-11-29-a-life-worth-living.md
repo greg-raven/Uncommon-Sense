@@ -1,7 +1,6 @@
 ---
 title: 'A life worth living'
 date: '2018-11-29'
-author: 'Greg Raven'
 layout: post
 categories:
     - service

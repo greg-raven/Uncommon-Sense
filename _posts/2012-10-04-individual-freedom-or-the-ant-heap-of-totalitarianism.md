@@ -1,7 +1,6 @@
 ---
 title: 'Individual freedom, or the ant heap of totalitarianism'
 date: '2012-10-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

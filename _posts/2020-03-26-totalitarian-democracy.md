@@ -1,7 +1,6 @@
 ---
 title: 'Totalitarian democracy'
 date: '2020-03-26'
-author: 'Greg Raven'
 layout: post
 categories:
     - collectivization

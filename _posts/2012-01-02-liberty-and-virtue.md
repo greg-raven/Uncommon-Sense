@@ -1,7 +1,6 @@
 ---
 title: 'Liberty and virtue'
 date: '2012-01-02'
-author: 'Greg Raven'
 layout: post
 categories:
     - virtue

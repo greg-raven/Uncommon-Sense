@@ -1,7 +1,6 @@
 ---
 title: 'Charlatans need followers'
 date: '2012-01-06'
-author: 'Greg Raven'
 layout: post
 categories:
     - individualism

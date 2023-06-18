@@ -1,7 +1,6 @@
 ---
 title: 'Lawlessness breeds more lawlessness'
 date: '2015-03-20'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

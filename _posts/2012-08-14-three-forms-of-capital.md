@@ -1,7 +1,6 @@
 ---
 title: 'Three forms of capital'
 date: '2012-08-14'
-author: 'Greg Raven'
 layout: post
 categories:
     - capitalism

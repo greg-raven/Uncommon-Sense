@@ -1,7 +1,6 @@
 ---
 title: 'Thought control and conditioning'
 date: '2021-01-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - collectivization

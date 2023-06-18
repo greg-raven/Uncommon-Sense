@@ -1,7 +1,6 @@
 ---
 title: 'Government medicine'
 date: '2011-12-14'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

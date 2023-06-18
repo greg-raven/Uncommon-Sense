@@ -1,7 +1,6 @@
 ---
 title: 'Value your freedoms'
 date: '2020-06-17'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

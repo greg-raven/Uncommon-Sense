@@ -1,7 +1,6 @@
 ---
 title: 'Natural progress'
 date: '2012-08-14'
-author: 'Greg Raven'
 layout: post
 categories:
     - self-improvement

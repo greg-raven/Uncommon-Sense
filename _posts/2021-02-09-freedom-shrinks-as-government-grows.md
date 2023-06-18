@@ -1,7 +1,6 @@
 ---
 title: 'Freedom shrinks as government grows'
 date: '2021-02-09'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

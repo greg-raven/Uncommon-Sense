@@ -1,7 +1,6 @@
 ---
 title: 'Nation without borders'
 date: '2011-05-27'
-author: 'Greg Raven'
 layout: post
 categories:
     - immigration

@@ -1,7 +1,6 @@
 ---
 title: 'Envy cannot be our master'
 date: '2020-03-10'
-author: 'Greg Raven'
 layout: post
 categories:
     - equality

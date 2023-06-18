@@ -1,7 +1,6 @@
 ---
 title: 'Declaration of independence'
 date: '2014-07-03'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

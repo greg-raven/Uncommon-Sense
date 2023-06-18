@@ -1,7 +1,6 @@
 ---
 title: 'Take off the mask'
 date: '2020-09-25'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberalism

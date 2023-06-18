@@ -1,7 +1,6 @@
 ---
 title: 'The Tenth Amendment'
 date: '2012-04-02'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

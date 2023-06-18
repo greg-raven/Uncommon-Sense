@@ -1,7 +1,6 @@
 ---
 title: 'Totalitarian liberals'
 date: '2020-07-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - education

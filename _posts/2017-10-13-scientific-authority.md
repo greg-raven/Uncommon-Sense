@@ -1,7 +1,6 @@
 ---
 title: 'Scientific authority'
 date: '2017-10-13'
-author: 'Greg Raven'
 layout: post
 categories:
     - truth

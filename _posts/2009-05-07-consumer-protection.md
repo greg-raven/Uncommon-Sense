@@ -1,7 +1,6 @@
 ---
 title: 'Consumer protection'
 date: '2009-05-07'
-author: 'Greg Raven'
 layout: post
 categories:
     - regulations

@@ -1,7 +1,6 @@
 ---
 title: 'Endangered species'
 date: '2011-10-10'
-author: 'Greg Raven'
 layout: post
 categories:
     - adulthood

@@ -1,7 +1,6 @@
 ---
 title: 'Socialism as slavery'
 date: '2022-10-05'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

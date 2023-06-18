@@ -1,7 +1,6 @@
 ---
 title: 'Liberty is innate'
 date: '2015-12-28'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

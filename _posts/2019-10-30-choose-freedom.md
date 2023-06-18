@@ -1,7 +1,6 @@
 ---
 title: 'Choose freedom'
 date: '2019-10-30'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

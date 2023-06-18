@@ -1,7 +1,6 @@
 ---
 title: 'Socialism is a system that invites abuse'
 date: '2020-03-16'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

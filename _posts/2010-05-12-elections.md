@@ -1,7 +1,6 @@
 ---
 title: 'Elections cynically viewed'
 date: '2010-05-12'
-author: 'Greg Raven'
 layout: post
 categories:
     - voting

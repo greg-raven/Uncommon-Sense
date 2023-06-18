@@ -1,7 +1,6 @@
 ---
 title: 'Exposing government deceit'
 date: '2020-11-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - press

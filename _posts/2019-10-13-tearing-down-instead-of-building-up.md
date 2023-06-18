@@ -1,7 +1,6 @@
 ---
 title: 'Tearing down instead of building up'
 date: '2019-10-13'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

@@ -1,7 +1,6 @@
 ---
 title: 'Life under socialism'
 date: '2009-06-02'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

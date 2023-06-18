@@ -1,7 +1,6 @@
 ---
 title: 'Immigrants must assimilate'
 date: '2023-05-26'
-author: 'Greg Raven'
 layout: post
 categories:
     - immigration

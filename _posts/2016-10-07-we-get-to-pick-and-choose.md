@@ -1,7 +1,6 @@
 ---
 title: 'We get to pick and choose'
 date: '2016-10-07'
-author: 'Greg Raven'
 layout: post
 categories:
     - immigration

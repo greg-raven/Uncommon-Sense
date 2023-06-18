@@ -1,7 +1,6 @@
 ---
 title: 'The unaware'
 date: '2009-06-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - knowledge

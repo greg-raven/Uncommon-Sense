@@ -1,7 +1,6 @@
 ---
 title: 'Protection against monarchs, etc.'
 date: '2010-02-24'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

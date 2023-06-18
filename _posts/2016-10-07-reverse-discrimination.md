@@ -1,7 +1,6 @@
 ---
 title: 'Reverse discrimination'
 date: '2016-10-07'
-author: 'Greg Raven'
 layout: post
 categories:
     - press

@@ -1,7 +1,6 @@
 ---
 title: 'The nature of a powerful bureaucratic class'
 date: '2012-10-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

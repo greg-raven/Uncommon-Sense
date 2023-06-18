@@ -1,7 +1,6 @@
 ---
 title: 'The power of the free man'
 date: '2009-04-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'foreign policy'

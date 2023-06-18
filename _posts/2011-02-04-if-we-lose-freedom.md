@@ -1,7 +1,6 @@
 ---
 title: 'If we lose freedom'
 date: '2011-02-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

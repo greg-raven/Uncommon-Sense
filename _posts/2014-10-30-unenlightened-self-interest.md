@@ -1,7 +1,6 @@
 ---
 title: 'Unenlightened self-interest'
 date: '2014-10-30'
-author: 'Greg Raven'
 layout: post
 categories:
     - demagogues

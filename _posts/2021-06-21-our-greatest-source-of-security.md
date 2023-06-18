@@ -1,7 +1,6 @@
 ---
 title: 'Our greatest source of security'
 date: '2021-06-21'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

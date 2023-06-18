@@ -1,7 +1,6 @@
 ---
 title: 'Equality vs. freedom'
 date: '2014-12-10'
-author: 'Greg Raven'
 layout: post
 categories:
     - equality

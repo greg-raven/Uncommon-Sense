@@ -1,7 +1,6 @@
 ---
 title: 'More laws for more control'
 date: '2020-09-23'
-author: 'Greg Raven'
 layout: post
 categories:
     - laws

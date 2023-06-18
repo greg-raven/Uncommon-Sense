@@ -1,7 +1,6 @@
 ---
 title: 'Welfare state vs. property rights'
 date: '2012-08-09'
-author: 'Greg Raven'
 layout: post
 categories:
     - money

@@ -1,7 +1,6 @@
 ---
 title: 'A dangerous sign of the times'
 date: '2022-08-01'
-author: 'Greg Raven'
 layout: post
 categories:
     - collectivization

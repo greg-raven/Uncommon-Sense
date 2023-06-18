@@ -1,7 +1,6 @@
 ---
 title: 'Favoring limits on freedom'
 date: '2016-05-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - culture

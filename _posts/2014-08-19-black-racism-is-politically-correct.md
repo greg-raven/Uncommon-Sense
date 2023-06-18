@@ -1,7 +1,6 @@
 ---
 title: 'Black racism is politically correct'
 date: '2014-08-19'
-author: 'Greg Raven'
 layout: post
 categories:
     - race

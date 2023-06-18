@@ -1,7 +1,6 @@
 ---
 title: 'Limits on general welfare'
 date: '2017-08-23'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

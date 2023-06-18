@@ -1,7 +1,6 @@
 ---
 title: 'Hyphenated Americanism'
 date: '2010-05-24'
-author: 'Greg Raven'
 layout: post
 categories:
     - citizenship

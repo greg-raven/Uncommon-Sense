@@ -1,7 +1,6 @@
 ---
 title: 'Slavery for the masses'
 date: '2020-08-27'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

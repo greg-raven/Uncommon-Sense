@@ -1,7 +1,6 @@
 ---
 title: 'The big lie'
 date: '2020-03-20'
-author: 'Greg Raven'
 layout: post
 categories:
     - truth

@@ -1,7 +1,6 @@
 ---
 title: 'Assault weapons'
 date: '2020-05-21'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

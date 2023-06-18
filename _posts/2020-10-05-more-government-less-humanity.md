@@ -1,7 +1,6 @@
 ---
 title: 'More government = less humanity'
 date: '2020-10-05'
-author: 'Greg Raven'
 layout: post
 categories:
     - collectivization

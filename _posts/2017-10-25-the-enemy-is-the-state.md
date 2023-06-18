@@ -1,7 +1,6 @@
 ---
 title: 'The enemy is the State'
 date: '2017-10-25'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

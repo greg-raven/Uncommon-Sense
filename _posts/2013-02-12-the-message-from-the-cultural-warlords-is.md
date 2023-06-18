@@ -1,7 +1,6 @@
 ---
 title: 'Normal Americans are barriers to social progress'
 date: '2013-02-12'
-author: 'Greg Raven'
 layout: post
 categories:
     - culture

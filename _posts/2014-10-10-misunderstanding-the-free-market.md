@@ -1,7 +1,6 @@
 ---
 title: 'Misunderstanding the free market'
 date: '2014-10-10'
-author: 'Greg Raven'
 layout: post
 categories:
     - economics

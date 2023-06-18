@@ -1,7 +1,6 @@
 ---
 title: 'Keep it simple'
 date: '2017-01-18'
-author: 'Greg Raven'
 layout: post
 categories:
     - laws

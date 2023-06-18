@@ -1,7 +1,6 @@
 ---
 title: 'The growth of centralized government'
 date: '2017-05-23'
-author: 'Greg Raven'
 layout: post
 categories:
     - collectivization

@@ -1,7 +1,6 @@
 ---
 title: 'Proportionality in government power'
 date: '2010-09-30'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

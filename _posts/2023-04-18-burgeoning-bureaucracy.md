@@ -1,7 +1,6 @@
 ---
 title: 'Burgeoning bureaucracy'
 date: '2023-04-18'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

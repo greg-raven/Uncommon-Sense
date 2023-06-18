@@ -1,7 +1,6 @@
 ---
 title: 'How to conquer and enslave'
 date: '2012-06-14'
-author: 'Greg Raven'
 layout: post
 categories:
     - debt

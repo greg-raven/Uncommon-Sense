@@ -1,7 +1,6 @@
 ---
 title: 'Spendthrift rulers'
 date: '2011-03-01'
-author: 'Greg Raven'
 layout: post
 categories:
     - waste

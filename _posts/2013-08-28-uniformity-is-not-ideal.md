@@ -1,7 +1,6 @@
 ---
 title: 'Uniformity is not ideal'
 date: '2013-08-28'
-author: 'Greg Raven'
 layout: post
 categories:
     - equality

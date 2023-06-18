@@ -1,7 +1,6 @@
 ---
 title: 'The State as the supreme diety'
 date: '2016-02-22'
-author: 'Greg Raven'
 layout: post
 categories:
     - rights

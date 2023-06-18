@@ -1,7 +1,6 @@
 ---
 title: Disinformation
 date: '2022-05-10'
-author: 'Greg Raven'
 layout: post
 categories:
     - corruption

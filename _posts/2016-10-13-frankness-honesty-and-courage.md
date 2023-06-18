@@ -1,7 +1,6 @@
 ---
 title: 'Frankness, honesty, and courage'
 date: '2016-10-13'
-author: 'Greg Raven'
 layout: post
 categories:
     - truth

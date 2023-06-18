@@ -1,7 +1,6 @@
 ---
 title: 'Diversity: That culture you risked your life to flee from'
 date: '2018-03-08'
-author: 'Greg Raven'
 layout: post
 categories:
     - diversity

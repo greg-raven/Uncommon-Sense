@@ -1,7 +1,6 @@
 ---
 title: 'Freedom giving way to control'
 date: '2012-02-27'
-author: 'Greg Raven'
 layout: post
 categories:
     - collectivization

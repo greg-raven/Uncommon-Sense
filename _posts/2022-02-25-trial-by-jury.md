@@ -1,7 +1,6 @@
 ---
 title: 'Trial by jury'
 date: '2022-02-25'
-author: 'Greg Raven'
 layout: post
 categories:
     - juries

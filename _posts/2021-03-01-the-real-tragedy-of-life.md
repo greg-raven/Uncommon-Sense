@@ -1,7 +1,6 @@
 ---
 title: 'The real tragedy of life'
 date: '2021-03-01'
-author: 'Greg Raven'
 layout: post
 categories:
     - truth

@@ -1,7 +1,6 @@
 ---
 title: 'Systematically making us slaves'
 date: '2021-01-01'
-author: 'Greg Raven'
 layout: post
 categories:
     - collectivization

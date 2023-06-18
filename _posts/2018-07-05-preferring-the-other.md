@@ -1,7 +1,6 @@
 ---
 title: 'Preferring the ‘other’'
 date: '2018-07-05'
-author: 'Greg Raven'
 layout: post
 categories:
     - nationalism

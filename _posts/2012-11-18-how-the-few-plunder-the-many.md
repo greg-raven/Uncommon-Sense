@@ -1,7 +1,6 @@
 ---
 title: 'How the few plunder the many'
 date: '2012-11-18'
-author: 'Greg Raven'
 layout: post
 categories:
     - taxation

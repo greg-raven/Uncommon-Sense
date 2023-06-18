@@ -1,7 +1,6 @@
 ---
 title: 'The importance of accountability'
 date: '2020-12-14'
-author: 'Greg Raven'
 layout: post
 categories:
     - laws

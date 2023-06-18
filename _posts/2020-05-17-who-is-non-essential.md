@@ -1,7 +1,6 @@
 ---
 title: 'Who is non-essential?'
 date: '2020-05-17'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

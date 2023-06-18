@@ -1,7 +1,6 @@
 ---
 title: 'The limits of their compassion'
 date: '2022-11-24'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberalism

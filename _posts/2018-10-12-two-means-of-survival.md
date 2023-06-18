@@ -1,7 +1,6 @@
 ---
 title: 'Two means of survival'
 date: '2018-10-12'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

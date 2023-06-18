@@ -1,7 +1,6 @@
 ---
 title: 'Death by fiat currency'
 date: '2019-12-20'
-author: 'Greg Raven'
 layout: post
 categories:
     - money

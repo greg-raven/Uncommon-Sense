@@ -1,7 +1,6 @@
 ---
 title: 'Unarmed people cannot guarantee security'
 date: '2013-02-01'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

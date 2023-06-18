@@ -1,7 +1,6 @@
 ---
 title: 'The mirage of social justice'
 date: '2016-02-19'
-author: 'Greg Raven'
 layout: post
 categories:
     - equality

@@ -1,7 +1,6 @@
 ---
 title: 'White privilege'
 date: '2015-02-05'
-author: 'Greg Raven'
 layout: post
 categories:
     - race

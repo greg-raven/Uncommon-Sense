@@ -1,7 +1,6 @@
 ---
 title: 'A fatal tendency of mankind'
 date: '2016-05-30'
-author: 'Greg Raven'
 layout: post
 categories:
     - culture

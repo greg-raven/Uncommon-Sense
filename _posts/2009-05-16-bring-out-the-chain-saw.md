@@ -1,7 +1,6 @@
 ---
 title: 'Bring out the chain saw'
 date: '2009-05-16'
-author: 'Greg Raven'
 layout: post
 categories:
     - economics

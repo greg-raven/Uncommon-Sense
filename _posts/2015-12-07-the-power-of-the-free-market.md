@@ -1,7 +1,6 @@
 ---
 title: 'The power of the free market'
 date: '2015-12-07'
-author: 'Greg Raven'
 layout: post
 categories:
     - prosperity

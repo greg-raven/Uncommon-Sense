@@ -1,7 +1,6 @@
 ---
 title: 'Our tax system'
 date: '2019-12-12'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

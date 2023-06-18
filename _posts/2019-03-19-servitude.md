@@ -1,7 +1,6 @@
 ---
 title: Servitude
 date: '2019-03-19'
-author: 'Greg Raven'
 layout: post
 categories:
     - taxation

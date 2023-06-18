@@ -1,7 +1,6 @@
 ---
 title: 'Violence vs. truth'
 date: '2017-09-19'
-author: 'Greg Raven'
 layout: post
 categories:
     - reason

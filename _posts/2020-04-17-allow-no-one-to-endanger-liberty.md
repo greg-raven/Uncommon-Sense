@@ -1,7 +1,6 @@
 ---
 title: 'Allow no one to endanger liberty'
 date: '2020-04-17'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

@@ -1,7 +1,6 @@
 ---
 title: 'Making the best use of knowledge'
 date: '2020-10-23'
-author: 'Greg Raven'
 layout: post
 categories:
     - knowledge

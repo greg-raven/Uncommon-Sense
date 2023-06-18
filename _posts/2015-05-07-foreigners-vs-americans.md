@@ -1,7 +1,6 @@
 ---
 title: 'Foreigners vs. Americans'
 date: '2015-05-07'
-author: 'Greg Raven'
 layout: post
 categories:
     - citizenship

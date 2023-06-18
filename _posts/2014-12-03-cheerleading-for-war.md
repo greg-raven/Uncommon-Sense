@@ -1,7 +1,6 @@
 ---
 title: 'Cheerleading for war'
 date: '2014-12-03'
-author: 'Greg Raven'
 layout: post
 categories:
     - war

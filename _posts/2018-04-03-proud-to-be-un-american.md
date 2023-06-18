@@ -1,7 +1,6 @@
 ---
 title: 'Proud to be un-American'
 date: '2018-04-03'
-author: 'Greg Raven'
 layout: post
 categories:
     - immigration

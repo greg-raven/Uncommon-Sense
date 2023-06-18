@@ -1,7 +1,6 @@
 ---
 title: 'Man must be bigger than the state'
 date: '2016-05-10'
-author: 'Greg Raven'
 layout: post
 categories:
     - strength

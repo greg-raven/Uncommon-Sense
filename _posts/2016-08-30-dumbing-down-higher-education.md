@@ -1,7 +1,6 @@
 ---
 title: 'Dumbing down higher education'
 date: '2016-08-30'
-author: 'Greg Raven'
 layout: post
 categories:
     - education

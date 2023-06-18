@@ -1,7 +1,6 @@
 ---
 title: 'Economical numbers'
 date: '2015-10-07'
-author: 'Greg Raven'
 layout: post
 categories:
     - debt

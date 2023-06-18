@@ -1,7 +1,6 @@
 ---
 title: 'Fourth of July'
 date: '2009-07-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - conservatism

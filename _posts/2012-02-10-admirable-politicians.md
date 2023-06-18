@@ -1,7 +1,6 @@
 ---
 title: 'Admiring liars'
 date: '2012-02-10'
-author: 'Greg Raven'
 layout: post
 categories:
     - demagogues

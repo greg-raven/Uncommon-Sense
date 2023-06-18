@@ -1,7 +1,6 @@
 ---
 title: 'Changing climate change'
 date: '2020-01-28'
-author: 'Greg Raven'
 layout: post
 categories:
     - climate

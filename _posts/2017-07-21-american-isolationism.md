@@ -1,7 +1,6 @@
 ---
 title: 'American isolationism'
 date: '2017-07-21'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'foreign policy'

@@ -1,7 +1,6 @@
 ---
 title: 'No loving care from the government'
 date: '2016-05-30'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

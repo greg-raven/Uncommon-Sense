@@ -1,7 +1,6 @@
 ---
 title: 'Campaign finance'
 date: '2010-01-25'
-author: 'Greg Raven'
 layout: post
 categories:
     - money

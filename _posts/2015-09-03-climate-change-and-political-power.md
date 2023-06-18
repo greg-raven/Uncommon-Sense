@@ -1,7 +1,6 @@
 ---
 title: 'Climate change and political power'
 date: '2015-09-03'
-author: 'Greg Raven'
 layout: post
 categories:
     - climate

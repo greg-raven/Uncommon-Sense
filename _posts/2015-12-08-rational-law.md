@@ -1,7 +1,6 @@
 ---
 title: 'Rational law'
 date: '2015-12-08'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

@@ -1,7 +1,6 @@
 ---
 title: 'Collective immorality'
 date: '2022-08-12'
-author: 'Greg Raven'
 layout: post
 categories:
     - collectivization

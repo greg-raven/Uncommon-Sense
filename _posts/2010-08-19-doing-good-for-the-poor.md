@@ -1,7 +1,6 @@
 ---
 title: 'Doing good for the poor'
 date: '2010-08-19'
-author: 'Greg Raven'
 layout: post
 categories:
     - welfare

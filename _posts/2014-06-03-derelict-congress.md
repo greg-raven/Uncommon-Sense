@@ -1,7 +1,6 @@
 ---
 title: 'Dereliction of Congress'
 date: '2014-06-03'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'foreign policy'

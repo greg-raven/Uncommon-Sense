@@ -1,7 +1,6 @@
 ---
 title: 'Socialism must be voluntary'
 date: '2019-05-13'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

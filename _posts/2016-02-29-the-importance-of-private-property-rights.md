@@ -1,7 +1,6 @@
 ---
 title: 'The importance of private property'
 date: '2016-02-29'
-author: 'Greg Raven'
 layout: post
 categories:
     - property

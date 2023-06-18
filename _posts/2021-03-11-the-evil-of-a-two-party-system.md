@@ -1,7 +1,6 @@
 ---
 title: 'The evil of a two-party system'
 date: '2021-03-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - politics

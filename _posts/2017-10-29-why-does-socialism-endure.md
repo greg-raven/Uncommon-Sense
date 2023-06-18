@@ -1,7 +1,6 @@
 ---
 title: 'Why does socialism endure?'
 date: '2017-10-29'
-author: 'Greg Raven'
 layout: post
 categories:
     - press

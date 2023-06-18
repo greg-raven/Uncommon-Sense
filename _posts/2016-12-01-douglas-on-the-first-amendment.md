@@ -1,7 +1,6 @@
 ---
 title: 'Douglas on the First Amendment'
 date: '2016-12-01'
-author: 'Greg Raven'
 layout: post
 categories:
     - speech

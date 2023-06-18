@@ -1,7 +1,6 @@
 ---
 title: 'We believe …'
 date: '2014-06-12'
-author: 'Greg Raven'
 layout: post
 categories:
     - conservatism

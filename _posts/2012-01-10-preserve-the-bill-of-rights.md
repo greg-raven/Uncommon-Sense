@@ -1,7 +1,6 @@
 ---
 title: 'Preserve the Bill of Rights'
 date: '2012-01-10'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

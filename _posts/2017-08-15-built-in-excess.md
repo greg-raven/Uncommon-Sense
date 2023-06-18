@@ -1,7 +1,6 @@
 ---
 title: 'Built-in excess'
 date: '2017-08-15'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

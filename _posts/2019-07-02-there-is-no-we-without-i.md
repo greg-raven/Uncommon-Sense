@@ -1,7 +1,6 @@
 ---
 title: 'There is no ‘we’ without ‘I’'
 date: '2019-07-02'
-author: 'Greg Raven'
 layout: post
 categories:
     - collectivization

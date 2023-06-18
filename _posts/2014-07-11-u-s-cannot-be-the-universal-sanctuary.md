@@ -1,7 +1,6 @@
 ---
 title: 'U.S. cannot be the universal sanctuary'
 date: '2014-07-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - immigration

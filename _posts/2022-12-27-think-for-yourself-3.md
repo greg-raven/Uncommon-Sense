@@ -1,7 +1,6 @@
 ---
 title: 'Think for yourself'
 date: '2022-12-27'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'external authority'

@@ -1,7 +1,6 @@
 ---
 title: 'Preserving liberty through arms'
 date: '2012-12-21'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

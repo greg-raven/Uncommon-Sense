@@ -1,7 +1,6 @@
 ---
 title: 'Destroy civilization by first destroying the money'
 date: '2015-10-02'
-author: 'Greg Raven'
 layout: post
 categories:
     - money

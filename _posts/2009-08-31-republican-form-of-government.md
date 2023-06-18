@@ -1,7 +1,6 @@
 ---
 title: 'Republican form of government'
 date: '2009-08-31'
-author: 'Greg Raven'
 layout: post
 categories:
     - democracy

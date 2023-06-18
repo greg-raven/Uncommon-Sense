@@ -1,7 +1,6 @@
 ---
 title: 'Democracy is destroying diversity'
 date: '2011-04-08'
-author: 'Greg Raven'
 layout: post
 categories:
     - diversity

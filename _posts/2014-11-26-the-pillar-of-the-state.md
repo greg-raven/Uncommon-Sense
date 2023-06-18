@@ -1,7 +1,6 @@
 ---
 title: 'The pillar of the state'
 date: '2014-11-26'
-author: 'Greg Raven'
 layout: post
 categories:
     - demagogues

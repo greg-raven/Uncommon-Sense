@@ -1,7 +1,6 @@
 ---
 title: 'Inequality before the law'
 date: '2020-11-17'
-author: 'Greg Raven'
 layout: post
 categories:
     - equality

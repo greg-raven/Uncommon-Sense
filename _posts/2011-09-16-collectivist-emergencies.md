@@ -1,7 +1,6 @@
 ---
 title: 'Collectivist emergencies'
 date: '2011-09-16'
-author: 'Greg Raven'
 layout: post
 categories:
     - collectivization

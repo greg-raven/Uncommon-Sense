@@ -1,7 +1,6 @@
 ---
 title: 'The four boxes of liberty'
 date: '2009-07-29'
-author: 'Greg Raven'
 layout: post
 categories:
     - juries

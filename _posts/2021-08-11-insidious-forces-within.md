@@ -1,7 +1,6 @@
 ---
 title: 'Insidious forces within'
 date: '2021-08-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - corruption

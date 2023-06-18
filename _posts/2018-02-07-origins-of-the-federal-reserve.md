@@ -1,7 +1,6 @@
 ---
 title: 'Origins of the Federal Reserve'
 date: '2018-02-07'
-author: 'Greg Raven'
 layout: post
 categories:
     - money

@@ -1,7 +1,6 @@
 ---
 title: 'Don’t fear the truth'
 date: '2020-03-18'
-author: 'Greg Raven'
 layout: post
 categories:
     - truth

@@ -1,7 +1,6 @@
 ---
 title: 'Benefits of diversity?'
 date: '2015-04-26'
-author: 'Greg Raven'
 layout: post
 categories:
     - diversity

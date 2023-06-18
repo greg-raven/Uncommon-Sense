@@ -1,7 +1,6 @@
 ---
 title: 'If you really wanted to destroy the U.S., then …'
 date: '2022-12-01'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

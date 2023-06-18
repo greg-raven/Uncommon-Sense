@@ -1,7 +1,6 @@
 ---
 title: 'Becoming American'
 date: '2020-01-27'
-author: 'Greg Raven'
 layout: post
 categories:
     - equality

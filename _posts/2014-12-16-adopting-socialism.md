@@ -1,7 +1,6 @@
 ---
 title: 'Adopting socialism'
 date: '2014-12-16'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

@@ -1,7 +1,6 @@
 ---
 title: 'Socialism and Marxism'
 date: '2018-01-23'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

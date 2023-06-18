@@ -1,7 +1,6 @@
 ---
 title: 'The power to covet'
 date: '2009-05-28'
-author: 'Greg Raven'
 layout: post
 categories:
     - democracy

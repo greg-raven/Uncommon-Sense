@@ -1,7 +1,6 @@
 ---
 title: 'Closet capitalists'
 date: '2020-01-19'
-author: 'Greg Raven'
 layout: post
 categories:
     - capitalism

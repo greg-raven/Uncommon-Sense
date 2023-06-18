@@ -1,7 +1,6 @@
 ---
 title: 'Curb your shame'
 date: '2021-03-26'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'informed electorate'

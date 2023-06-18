@@ -1,7 +1,6 @@
 ---
 title: 'The problem of governments'
 date: '2020-08-28'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

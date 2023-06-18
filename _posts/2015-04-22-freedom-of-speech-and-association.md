@@ -1,7 +1,6 @@
 ---
 title: 'Freedom of speech and association'
 date: '2015-04-22'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

@@ -1,7 +1,6 @@
 ---
 title: 'The camel’s nose under the tent'
 date: '2017-11-20'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

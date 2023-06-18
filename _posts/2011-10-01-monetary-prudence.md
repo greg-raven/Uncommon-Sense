@@ -1,7 +1,6 @@
 ---
 title: 'Monetary prudence'
 date: '2011-10-01'
-author: 'Greg Raven'
 layout: post
 categories:
     - money

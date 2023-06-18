@@ -1,7 +1,6 @@
 ---
 title: 'Living document or dead letter?'
 date: '2010-10-24'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

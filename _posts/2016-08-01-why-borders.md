@@ -1,7 +1,6 @@
 ---
 title: 'Why borders?'
 date: '2016-08-01'
-author: 'Greg Raven'
 layout: post
 categories:
     - culture

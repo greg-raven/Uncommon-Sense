@@ -1,7 +1,6 @@
 ---
 title: 'The Constitution is the benchmark'
 date: '2017-09-08'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

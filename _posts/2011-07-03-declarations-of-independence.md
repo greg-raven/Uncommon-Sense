@@ -1,7 +1,6 @@
 ---
 title: 'Declarations of independence'
 date: '2011-07-03'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

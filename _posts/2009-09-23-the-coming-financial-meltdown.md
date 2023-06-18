@@ -1,7 +1,6 @@
 ---
 title: 'The coming financial meltdown'
 date: '2009-09-23'
-author: 'Greg Raven'
 layout: post
 categories:
     - debt

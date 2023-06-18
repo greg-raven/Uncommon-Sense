@@ -1,7 +1,6 @@
 ---
 title: 'One reason for optimism'
 date: '2021-08-08'
-author: 'Greg Raven'
 layout: post
 categories:
     - language

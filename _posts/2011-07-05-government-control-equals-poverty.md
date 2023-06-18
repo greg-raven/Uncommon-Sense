@@ -1,7 +1,6 @@
 ---
 title: 'Government control equals poverty'
 date: '2011-07-05'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

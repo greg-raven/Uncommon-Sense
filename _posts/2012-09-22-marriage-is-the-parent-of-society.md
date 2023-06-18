@@ -1,7 +1,6 @@
 ---
 title: 'Marriage is the parent of society'
 date: '2012-09-22'
-author: 'Greg Raven'
 layout: post
 categories:
     - culture

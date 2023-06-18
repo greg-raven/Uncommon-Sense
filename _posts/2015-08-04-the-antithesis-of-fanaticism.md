@@ -1,7 +1,6 @@
 ---
 title: 'The antithesis of fanaticism'
 date: '2015-08-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - conservatism

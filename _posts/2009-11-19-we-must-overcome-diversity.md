@@ -1,7 +1,6 @@
 ---
 title: 'We must overcome ‘diversity’'
 date: '2009-11-19'
-author: 'Greg Raven'
 layout: post
 categories:
     - diversity

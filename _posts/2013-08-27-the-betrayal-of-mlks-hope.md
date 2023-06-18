@@ -1,7 +1,6 @@
 ---
 title: 'The betrayal of MLK’s hope'
 date: '2013-08-27'
-author: 'Greg Raven'
 layout: post
 categories:
     - equality

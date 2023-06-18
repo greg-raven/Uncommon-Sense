@@ -1,7 +1,6 @@
 ---
 title: 'The tyranny of the majority'
 date: '2009-11-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - democracy

@@ -1,7 +1,6 @@
 ---
 title: 'Pausing immigration to rid newcomers of foreign attachments'
 date: '2019-05-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - citizenship

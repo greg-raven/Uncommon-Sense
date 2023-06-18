@@ -1,7 +1,6 @@
 ---
 title: 'Putting the trans in transition'
 date: '2021-05-31'
-author: 'Greg Raven'
 layout: post
 categories:
     - morals

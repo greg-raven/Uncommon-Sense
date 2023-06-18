@@ -1,7 +1,6 @@
 ---
 title: 'Act now to ensure your safety'
 date: '2020-08-27'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

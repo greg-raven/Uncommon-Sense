@@ -1,7 +1,6 @@
 ---
 title: 'The Constitution is the law of the land'
 date: '2013-06-02'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

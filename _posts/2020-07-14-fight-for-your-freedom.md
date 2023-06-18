@@ -1,7 +1,6 @@
 ---
 title: 'Fight for your freedom'
 date: '2020-07-14'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

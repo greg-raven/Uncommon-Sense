@@ -1,7 +1,6 @@
 ---
 title: 'Don’t disarm law-abiding citizens'
 date: '2022-12-17'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

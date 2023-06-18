@@ -1,7 +1,6 @@
 ---
 title: 'Familiarity vs. knowledge'
 date: '2019-01-10'
-author: 'Greg Raven'
 layout: post
 categories:
     - education

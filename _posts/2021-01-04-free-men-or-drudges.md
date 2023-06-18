@@ -1,7 +1,6 @@
 ---
 title: 'Free men or drudges?'
 date: '2021-01-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

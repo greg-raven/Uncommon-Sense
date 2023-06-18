@@ -1,7 +1,6 @@
 ---
 title: 'A republic, not a democracy'
 date: '2015-03-31'
-author: 'Greg Raven'
 layout: post
 categories:
     - democracy

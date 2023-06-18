@@ -1,7 +1,6 @@
 ---
 title: 'Destroying liberties'
 date: '2016-05-31'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

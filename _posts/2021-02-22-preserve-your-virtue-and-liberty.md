@@ -1,7 +1,6 @@
 ---
 title: 'Preserve your virtue and liberty'
 date: '2021-02-22'
-author: 'Greg Raven'
 layout: post
 categories:
     - morals

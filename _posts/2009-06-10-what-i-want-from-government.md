@@ -1,7 +1,6 @@
 ---
 title: 'What I want from government'
 date: '2009-06-10'
-author: 'Greg Raven'
 layout: post
 categories:
     - money

@@ -1,7 +1,6 @@
 ---
 title: 'Inside progressivism'
 date: '2017-02-08'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

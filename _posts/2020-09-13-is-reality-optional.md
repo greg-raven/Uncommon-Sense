@@ -1,7 +1,6 @@
 ---
 title: 'Is reality optional?'
 date: '2020-09-13'
-author: 'Greg Raven'
 layout: post
 categories:
     - economics

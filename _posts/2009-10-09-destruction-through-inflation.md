@@ -1,7 +1,6 @@
 ---
 title: 'Destruction through inflation'
 date: '2009-10-09'
-author: 'Greg Raven'
 layout: post
 categories:
     - money

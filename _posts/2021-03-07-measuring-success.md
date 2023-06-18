@@ -1,7 +1,6 @@
 ---
 title: 'Measuring success'
 date: '2021-03-07'
-author: 'Greg Raven'
 layout: post
 categories:
     - strength

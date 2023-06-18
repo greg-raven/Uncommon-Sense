@@ -1,7 +1,6 @@
 ---
 title: 'Beware the cure'
 date: '2020-10-29'
-author: 'Greg Raven'
 layout: post
 categories:
     - demagogues

@@ -1,7 +1,6 @@
 ---
 title: 'No favored nations'
 date: '2013-08-26'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'foreign policy'

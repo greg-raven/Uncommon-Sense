@@ -1,7 +1,6 @@
 ---
 title: 'If you see something, say something'
 date: '2018-05-30'
-author: 'Greg Raven'
 layout: post
 categories:
     - citizenship

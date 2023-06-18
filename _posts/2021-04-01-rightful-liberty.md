@@ -1,7 +1,6 @@
 ---
 title: 'Rightful liberty'
 date: '2021-04-01'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

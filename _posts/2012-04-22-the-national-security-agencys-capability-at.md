@@ -1,7 +1,6 @@
 ---
 title: 'The NSA'
 date: '2012-04-22'
-author: 'Greg Raven'
 layout: post
 categories:
     - speech

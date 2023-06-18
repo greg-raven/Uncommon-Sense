@@ -1,7 +1,6 @@
 ---
 title: 'Honesty in government'
 date: '2017-09-20'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

@@ -1,7 +1,6 @@
 ---
 title: 'It’s the result, not the intention'
 date: '2014-12-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

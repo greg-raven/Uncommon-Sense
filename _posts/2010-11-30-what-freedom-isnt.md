@@ -1,7 +1,6 @@
 ---
 title: 'What freedom isn’t'
 date: '2010-11-30'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

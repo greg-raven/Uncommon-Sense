@@ -1,7 +1,6 @@
 ---
 title: 'The history of the Revolution'
 date: '2021-10-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - history

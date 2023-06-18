@@ -1,7 +1,6 @@
 ---
 title: 'Separation of powers'
 date: '2016-06-22'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

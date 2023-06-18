@@ -1,7 +1,6 @@
 ---
 title: 'Think before voting'
 date: '2023-04-07'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'informed electorate'

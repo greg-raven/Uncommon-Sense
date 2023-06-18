@@ -1,7 +1,6 @@
 ---
 title: 'Fiat currencies allow government theft'
 date: '2018-01-30'
-author: 'Greg Raven'
 layout: post
 categories:
     - economics

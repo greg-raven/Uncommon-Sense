@@ -1,7 +1,6 @@
 ---
 title: 'The importance of natural born citizens'
 date: '2014-07-01'
-author: 'Greg Raven'
 layout: post
 categories:
     - citizenship

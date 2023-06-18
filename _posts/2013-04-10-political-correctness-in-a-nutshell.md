@@ -1,7 +1,6 @@
 ---
 title: 'Political correctness in a nutshell'
 date: '2013-04-10'
-author: 'Greg Raven'
 layout: post
 categories:
     - individualism

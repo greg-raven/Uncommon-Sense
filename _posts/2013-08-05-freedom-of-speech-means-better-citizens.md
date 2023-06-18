@@ -1,7 +1,6 @@
 ---
 title: 'Freedom of speech means better citizens'
 date: '2013-08-05'
-author: 'Greg Raven'
 layout: post
 categories:
     - speech

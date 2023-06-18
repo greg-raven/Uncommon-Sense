@@ -1,7 +1,6 @@
 ---
 title: 'Your vote is important'
 date: '2020-05-23'
-author: 'Greg Raven'
 layout: post
 categories:
     - voting

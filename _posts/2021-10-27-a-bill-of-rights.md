@@ -1,7 +1,6 @@
 ---
 title: 'A Bill of Rights'
 date: '2021-10-27'
-author: 'Greg Raven'
 layout: post
 categories:
     - rights

@@ -1,7 +1,6 @@
 ---
 title: 'Rebellious minorities'
 date: '2015-11-18'
-author: 'Greg Raven'
 layout: post
 categories:
     - speech

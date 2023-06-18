@@ -1,7 +1,6 @@
 ---
 title: 'Work vs. welfare'
 date: '2014-07-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - welfare

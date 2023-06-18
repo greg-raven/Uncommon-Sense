@@ -1,7 +1,6 @@
 ---
 title: 'The purpose of a college education'
 date: '2010-10-12'
-author: 'Greg Raven'
 layout: post
 categories:
     - race

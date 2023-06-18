@@ -1,7 +1,6 @@
 ---
 title: 'Democracy equals brute force'
 date: '2018-11-09'
-author: 'Greg Raven'
 layout: post
 categories:
     - democracy

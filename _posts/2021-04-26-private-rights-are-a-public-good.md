@@ -1,7 +1,6 @@
 ---
 title: 'Private rights are a public good'
 date: '2021-04-26'
-author: 'Greg Raven'
 layout: post
 categories:
     - property

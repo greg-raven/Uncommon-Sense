@@ -1,7 +1,6 @@
 ---
 title: 'Govern yourself'
 date: '2011-12-06'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'external authority'

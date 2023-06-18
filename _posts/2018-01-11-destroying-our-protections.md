@@ -1,7 +1,6 @@
 ---
 title: 'Destroying our protections'
 date: '2018-01-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

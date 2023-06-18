@@ -1,7 +1,6 @@
 ---
 title: 'Society does not equal the State'
 date: '2016-02-12'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

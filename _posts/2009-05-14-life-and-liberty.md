@@ -1,7 +1,6 @@
 ---
 title: 'Life and liberty'
 date: '2009-05-14'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

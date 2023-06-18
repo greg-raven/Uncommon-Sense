@@ -1,7 +1,6 @@
 ---
 title: 'Costs of diversity'
 date: '2010-11-25'
-author: 'Greg Raven'
 layout: post
 categories:
     - diversity

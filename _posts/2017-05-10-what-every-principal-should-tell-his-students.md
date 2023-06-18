@@ -1,7 +1,6 @@
 ---
 title: 'What every principal should tell his students'
 date: '2017-05-10'
-author: 'Greg Raven'
 layout: post
 categories:
     - education

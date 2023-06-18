@@ -1,7 +1,6 @@
 ---
 title: 'The best and brightest'
 date: '2016-05-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

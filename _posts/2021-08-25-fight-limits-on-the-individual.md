@@ -1,7 +1,6 @@
 ---
 title: 'Fight limits on the individual'
 date: '2021-08-25'
-author: 'Greg Raven'
 layout: post
 categories:
     - individualism

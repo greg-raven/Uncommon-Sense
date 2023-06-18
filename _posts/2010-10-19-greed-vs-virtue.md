@@ -1,7 +1,6 @@
 ---
 title: 'Greed vs. virtue'
 date: '2010-10-19'
-author: 'Greg Raven'
 layout: post
 categories:
     - capitalism

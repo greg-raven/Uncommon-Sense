@@ -1,7 +1,6 @@
 ---
 title: 'Politicians and pickpockets'
 date: '2018-04-23'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

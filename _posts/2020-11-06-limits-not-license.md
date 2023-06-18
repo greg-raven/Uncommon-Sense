@@ -1,7 +1,6 @@
 ---
 title: 'Limits, not license'
 date: '2020-11-06'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

@@ -1,7 +1,6 @@
 ---
 title: 'Government power'
 date: '2017-06-22'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

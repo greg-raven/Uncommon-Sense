@@ -1,7 +1,6 @@
 ---
 title: 'The monied aristocracy'
 date: '2009-10-09'
-author: 'Greg Raven'
 layout: post
 categories:
     - debt

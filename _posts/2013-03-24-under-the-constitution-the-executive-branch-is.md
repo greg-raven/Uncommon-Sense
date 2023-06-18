@@ -1,7 +1,6 @@
 ---
 title: 'Law enforcement by the executive branch'
 date: '2013-03-24'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

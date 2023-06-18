@@ -1,7 +1,6 @@
 ---
 title: 'Un-Constitutional spending'
 date: '2010-07-08'
-author: 'Greg Raven'
 layout: post
 categories:
     - taxation

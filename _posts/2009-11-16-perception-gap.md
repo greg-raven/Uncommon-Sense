@@ -1,7 +1,6 @@
 ---
 title: 'Perception gap'
 date: '2009-11-16'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'foreign policy'

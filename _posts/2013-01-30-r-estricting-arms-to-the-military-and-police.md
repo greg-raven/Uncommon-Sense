@@ -1,7 +1,6 @@
 ---
 title: 'Restricting arms'
 date: '2013-01-30'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

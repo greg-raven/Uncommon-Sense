@@ -1,7 +1,6 @@
 ---
 title: 'Suicide, not a train wreck'
 date: '2013-10-27'
-author: 'Greg Raven'
 layout: post
 categories:
     - Obamacare

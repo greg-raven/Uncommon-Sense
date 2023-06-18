@@ -1,7 +1,6 @@
 ---
 title: 'Our only reliable guide'
 date: '2019-04-10'
-author: 'Greg Raven'
 layout: post
 categories:
     - conservatism

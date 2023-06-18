@@ -1,7 +1,6 @@
 ---
 title: 'Federal forces'
 date: '2014-12-30'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

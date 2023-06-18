@@ -1,7 +1,6 @@
 ---
 title: 'The fallacy of democracy'
 date: '2020-10-23'
-author: 'Greg Raven'
 layout: post
 categories:
     - democracy

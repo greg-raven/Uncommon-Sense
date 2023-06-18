@@ -1,7 +1,6 @@
 ---
 title: 'American unity'
 date: '2014-02-03'
-author: 'Greg Raven'
 layout: post
 categories:
     - citizenship

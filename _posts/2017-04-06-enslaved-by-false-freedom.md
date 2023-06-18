@@ -1,7 +1,6 @@
 ---
 title: 'Enslaved by false freedom'
 date: '2017-04-06'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

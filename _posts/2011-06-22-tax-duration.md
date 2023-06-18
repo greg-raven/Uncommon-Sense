@@ -1,7 +1,6 @@
 ---
 title: 'Tax duration'
 date: '2011-06-22'
-author: 'Greg Raven'
 layout: post
 categories:
     - taxation

@@ -1,7 +1,6 @@
 ---
 title: 'Unlawful commands'
 date: '2021-06-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - laws

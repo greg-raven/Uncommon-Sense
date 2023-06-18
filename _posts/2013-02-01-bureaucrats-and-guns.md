@@ -1,7 +1,6 @@
 ---
 title: 'Bureaucrats and guns'
 date: '2013-02-01'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

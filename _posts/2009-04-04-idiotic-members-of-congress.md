@@ -1,7 +1,6 @@
 ---
 title: 'Idiotic members of Congress'
 date: '2009-04-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

@@ -1,7 +1,6 @@
 ---
 title: 'Might doesn’t make right'
 date: '2016-02-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - laws

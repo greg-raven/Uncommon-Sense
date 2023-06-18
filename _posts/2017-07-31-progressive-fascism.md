@@ -1,7 +1,6 @@
 ---
 title: 'Progressive fascism'
 date: '2017-07-31'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

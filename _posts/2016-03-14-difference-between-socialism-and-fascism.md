@@ -1,7 +1,6 @@
 ---
 title: 'Difference between socialism and fascism'
 date: '2016-03-14'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

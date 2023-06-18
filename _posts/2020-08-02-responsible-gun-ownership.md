@@ -1,7 +1,6 @@
 ---
 title: 'Responsible gun ownership'
 date: '2020-08-02'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

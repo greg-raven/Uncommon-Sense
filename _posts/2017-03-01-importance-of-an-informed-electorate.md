@@ -1,7 +1,6 @@
 ---
 title: 'Importance of an informed electorate'
 date: '2017-03-01'
-author: 'Greg Raven'
 layout: post
 categories:
     - history

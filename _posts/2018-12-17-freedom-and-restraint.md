@@ -1,7 +1,6 @@
 ---
 title: 'Freedom and restraint'
 date: '2018-12-17'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

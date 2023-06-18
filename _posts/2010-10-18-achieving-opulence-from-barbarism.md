@@ -1,7 +1,6 @@
 ---
 title: 'Achieving opulence from barbarism'
 date: '2010-10-18'
-author: 'Greg Raven'
 layout: post
 categories:
     - prosperity

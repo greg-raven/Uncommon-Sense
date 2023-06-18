@@ -1,7 +1,6 @@
 ---
 title: 'Congress is not authorized'
 date: '2021-03-22'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

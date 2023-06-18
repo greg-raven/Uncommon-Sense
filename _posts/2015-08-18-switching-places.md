@@ -1,7 +1,6 @@
 ---
 title: 'Switching places'
 date: '2015-08-18'
-author: 'Greg Raven'
 layout: post
 categories:
     - politics

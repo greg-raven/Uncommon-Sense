@@ -1,7 +1,6 @@
 ---
 title: 'Dependency on handouts'
 date: '2015-05-09'
-author: 'Greg Raven'
 layout: post
 categories:
     - welfare

@@ -1,7 +1,6 @@
 ---
 title: 'Imposing the revolution'
 date: '2021-02-25'
-author: 'Greg Raven'
 layout: post
 categories:
     - collectivization

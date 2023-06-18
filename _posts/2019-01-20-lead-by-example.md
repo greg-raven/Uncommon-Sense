@@ -1,7 +1,6 @@
 ---
 title: 'Lead by example'
 date: '2019-01-20'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'foreign policy'

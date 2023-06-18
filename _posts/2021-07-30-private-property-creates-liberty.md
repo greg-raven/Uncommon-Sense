@@ -1,7 +1,6 @@
 ---
 title: 'Private property creates liberty'
 date: '2021-07-30'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

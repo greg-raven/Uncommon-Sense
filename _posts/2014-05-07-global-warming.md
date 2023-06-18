@@ -1,7 +1,6 @@
 ---
 title: 'Global warming'
 date: '2014-05-07'
-author: 'Greg Raven'
 layout: post
 categories:
     - climate

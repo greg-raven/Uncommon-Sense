@@ -1,7 +1,6 @@
 ---
 title: 'Fighting the central bank'
 date: '2015-09-21'
-author: 'Greg Raven'
 layout: post
 categories:
     - economics

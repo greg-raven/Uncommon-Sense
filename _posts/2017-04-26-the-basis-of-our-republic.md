@@ -1,7 +1,6 @@
 ---
 title: 'The basis of our republic'
 date: '2017-04-26'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

@@ -1,7 +1,6 @@
 ---
 title: 'There must be no limit'
 date: '2022-05-03'
-author: 'Greg Raven'
 layout: post
 categories:
     - speech

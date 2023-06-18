@@ -1,7 +1,6 @@
 ---
 title: 'Who pays taxes?'
 date: '2011-03-31'
-author: 'Greg Raven'
 layout: post
 categories:
     - taxation

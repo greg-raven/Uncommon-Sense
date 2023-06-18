@@ -1,7 +1,6 @@
 ---
 title: 'Seductions of power'
 date: '2021-01-12'
-author: 'Greg Raven'
 layout: post
 categories:
     - equality

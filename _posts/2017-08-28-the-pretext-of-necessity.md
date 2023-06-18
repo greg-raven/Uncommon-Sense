@@ -1,7 +1,6 @@
 ---
 title: 'The pretext of ‘necessity’'
 date: '2017-08-28'
-author: 'Greg Raven'
 layout: post
 categories:
     - demagogues

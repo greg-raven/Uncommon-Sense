@@ -1,7 +1,6 @@
 ---
 title: 'Preserving our republican form of government'
 date: '2011-04-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

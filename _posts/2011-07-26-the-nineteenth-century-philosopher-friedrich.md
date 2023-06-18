@@ -1,7 +1,6 @@
 ---
 title: 'Embrace the fruit, reject the tree'
 date: '2011-07-26'
-author: 'Greg Raven'
 layout: post
 categories:
     - religion

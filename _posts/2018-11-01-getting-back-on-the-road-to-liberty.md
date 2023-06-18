@@ -1,7 +1,6 @@
 ---
 title: 'Getting back on the road to liberty'
 date: '2018-11-01'
-author: 'Greg Raven'
 layout: post
 categories:
     - democracy

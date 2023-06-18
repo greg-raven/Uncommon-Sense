@@ -1,7 +1,6 @@
 ---
 title: 'The Obamacare roll-out'
 date: '2013-10-08'
-author: 'Greg Raven'
 layout: post
 categories:
     - Obamacare

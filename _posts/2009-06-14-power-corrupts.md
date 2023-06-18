@@ -1,7 +1,6 @@
 ---
 title: 'Power corrupts'
 date: '2009-06-14'
-author: 'Greg Raven'
 layout: post
 categories:
     - decentralization

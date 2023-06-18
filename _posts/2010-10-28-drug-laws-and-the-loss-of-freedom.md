@@ -1,7 +1,6 @@
 ---
 title: 'Drug laws and the loss of freedom'
 date: '2010-10-28'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

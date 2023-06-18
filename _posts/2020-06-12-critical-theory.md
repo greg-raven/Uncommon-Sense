@@ -1,7 +1,6 @@
 ---
 title: 'Critical theory'
 date: '2020-06-12'
-author: 'Greg Raven'
 layout: post
 categories:
     - culture

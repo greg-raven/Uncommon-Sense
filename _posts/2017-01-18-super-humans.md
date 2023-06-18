@@ -1,7 +1,6 @@
 ---
 title: 'Super humans'
 date: '2017-01-18'
-author: 'Greg Raven'
 layout: post
 categories:
     - economics

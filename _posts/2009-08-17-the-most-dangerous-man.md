@@ -1,7 +1,6 @@
 ---
 title: 'The most dangerous man'
 date: '2009-08-17'
-author: 'Greg Raven'
 layout: post
 categories:
     - knowledge

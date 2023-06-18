@@ -1,7 +1,6 @@
 ---
 title: 'Economic power vs. political power'
 date: '2017-08-26'
-author: 'Greg Raven'
 layout: post
 categories:
     - economics

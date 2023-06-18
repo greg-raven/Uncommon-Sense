@@ -1,7 +1,6 @@
 ---
 title: 'False compassion'
 date: '2019-01-15'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

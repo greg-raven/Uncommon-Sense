@@ -1,7 +1,6 @@
 ---
 title: 'Tyranny of the masses'
 date: '2011-12-22'
-author: 'Greg Raven'
 layout: post
 categories:
     - democracy

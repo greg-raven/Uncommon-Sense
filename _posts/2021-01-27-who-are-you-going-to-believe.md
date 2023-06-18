@@ -1,7 +1,6 @@
 ---
 title: 'Who are you going to believe?'
 date: '2021-01-27'
-author: 'Greg Raven'
 layout: post
 categories:
     - knowledge

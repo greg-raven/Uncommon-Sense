@@ -1,7 +1,6 @@
 ---
 title: 'Too dangerous'
 date: '2022-10-08'
-author: 'Greg Raven'
 layout: post
 categories:
     - demagogues

@@ -1,7 +1,6 @@
 ---
 title: 'Government power vs. individual liberty'
 date: '2009-05-28'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

@@ -1,7 +1,6 @@
 ---
 title: 'Modern ‘progressives’'
 date: '2019-09-21'
-author: 'Greg Raven'
 layout: post
 categories:
     - culture

@@ -1,7 +1,6 @@
 ---
 title: 'The religion of democracy'
 date: '2019-08-07'
-author: 'Greg Raven'
 layout: post
 categories:
     - democracy

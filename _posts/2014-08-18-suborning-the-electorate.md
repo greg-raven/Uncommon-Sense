@@ -1,7 +1,6 @@
 ---
 title: 'Subverting the will of the electorate'
 date: '2014-08-18'
-author: 'Greg Raven'
 layout: post
 categories:
     - demagogues

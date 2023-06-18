@@ -1,7 +1,6 @@
 ---
 title: 'Greatest threat to America today'
 date: '2012-08-20'
-author: 'Greg Raven'
 layout: post
 categories:
     - taxation

@@ -1,7 +1,6 @@
 ---
 title: 'Language must be correct'
 date: '2013-12-26'
-author: 'Greg Raven'
 layout: post
 categories:
     - language

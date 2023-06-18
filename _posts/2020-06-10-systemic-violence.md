@@ -1,7 +1,6 @@
 ---
 title: 'Systemic violence'
 date: '2020-06-10'
-author: 'Greg Raven'
 layout: post
 categories:
     - culture

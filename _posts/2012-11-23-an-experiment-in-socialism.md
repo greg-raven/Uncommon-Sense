@@ -1,7 +1,6 @@
 ---
 title: 'An experiment in socialism'
 date: '2012-11-23'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

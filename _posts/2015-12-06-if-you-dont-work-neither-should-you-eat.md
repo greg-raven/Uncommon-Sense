@@ -1,7 +1,6 @@
 ---
 title: 'If you don’t work, neither should you eat'
 date: '2015-12-06'
-author: 'Greg Raven'
 layout: post
 categories:
     - individualism

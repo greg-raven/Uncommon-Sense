@@ -1,7 +1,6 @@
 ---
 title: 'Propaganda’s purpose'
 date: '2023-01-31'
-author: 'Greg Raven'
 layout: post
 categories:
     - demagogues

@@ -1,7 +1,6 @@
 ---
 title: 'Dishonorable persons'
 date: '2009-11-16'
-author: 'Greg Raven'
 layout: post
 categories:
     - virtue

@@ -1,7 +1,6 @@
 ---
 title: 'Racial preferences forever'
 date: '2014-07-22'
-author: 'Greg Raven'
 layout: post
 categories:
     - race

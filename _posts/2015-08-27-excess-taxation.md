@@ -1,7 +1,6 @@
 ---
 title: 'Excess taxation'
 date: '2015-08-27'
-author: 'Greg Raven'
 layout: post
 categories:
     - taxation

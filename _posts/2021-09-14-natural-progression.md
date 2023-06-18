@@ -1,7 +1,6 @@
 ---
 title: 'Natural progression'
 date: '2021-09-14'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

@@ -1,7 +1,6 @@
 ---
 title: 'War of the poor against the rich'
 date: '2009-08-17'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

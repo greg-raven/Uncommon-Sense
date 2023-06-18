@@ -1,7 +1,6 @@
 ---
 title: 'The fruits of democracy'
 date: '2015-09-06'
-author: 'Greg Raven'
 layout: post
 categories:
     - democracy

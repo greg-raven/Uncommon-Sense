@@ -1,7 +1,6 @@
 ---
 title: 'Think border walls don’t work?'
 date: '2015-09-03'
-author: 'Greg Raven'
 layout: post
 categories:
     - immigration

@@ -1,7 +1,6 @@
 ---
 title: 'Remaining free'
 date: '2016-05-23'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

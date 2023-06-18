@@ -1,7 +1,6 @@
 ---
 title: 'Gradual losses'
 date: '2017-03-23'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

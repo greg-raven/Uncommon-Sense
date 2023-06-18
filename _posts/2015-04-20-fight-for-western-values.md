@@ -1,7 +1,6 @@
 ---
 title: 'Fight for Western values'
 date: '2015-04-20'
-author: 'Greg Raven'
 layout: post
 categories:
     - culture

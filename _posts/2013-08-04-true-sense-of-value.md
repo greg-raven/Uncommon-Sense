@@ -1,7 +1,6 @@
 ---
 title: 'True sense of value'
 date: '2013-08-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - service

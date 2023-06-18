@@ -1,7 +1,6 @@
 ---
 title: 'Virtue signalling'
 date: '2020-04-07'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberalism

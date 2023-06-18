@@ -1,7 +1,6 @@
 ---
 title: 'Defending unpopular truth'
 date: '2013-02-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - truth

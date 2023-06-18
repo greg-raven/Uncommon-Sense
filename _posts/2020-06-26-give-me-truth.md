@@ -1,7 +1,6 @@
 ---
 title: 'Give me truth'
 date: '2020-06-26'
-author: 'Greg Raven'
 layout: post
 categories:
     - truth

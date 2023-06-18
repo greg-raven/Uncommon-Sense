@@ -1,7 +1,6 @@
 ---
 title: Transparency
 date: '2016-08-15'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'informed electorate'

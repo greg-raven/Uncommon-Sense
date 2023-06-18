@@ -1,7 +1,6 @@
 ---
 title: 'The moral obligation to be skeptical'
 date: '2012-12-31'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'informed electorate'

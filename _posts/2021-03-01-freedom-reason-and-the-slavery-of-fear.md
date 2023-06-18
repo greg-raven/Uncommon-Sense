@@ -1,7 +1,6 @@
 ---
 title: 'Freedom, reason, and the slavery of fear'
 date: '2021-03-01'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

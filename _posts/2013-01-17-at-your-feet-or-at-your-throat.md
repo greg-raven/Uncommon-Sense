@@ -1,7 +1,6 @@
 ---
 title: 'At your feet or at your throat'
 date: '2013-01-17'
-author: 'Greg Raven'
 layout: post
 categories:
     - demagogues

@@ -1,7 +1,6 @@
 ---
 title: 'Virtue and freedom'
 date: '2015-07-26'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

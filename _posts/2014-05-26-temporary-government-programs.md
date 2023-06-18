@@ -1,7 +1,6 @@
 ---
 title: 'Temporary government programs'
 date: '2014-05-26'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

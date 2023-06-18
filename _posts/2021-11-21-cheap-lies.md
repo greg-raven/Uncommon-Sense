@@ -1,7 +1,6 @@
 ---
 title: 'Cheap lies'
 date: '2021-11-21'
-author: 'Greg Raven'
 layout: post
 categories:
     - war

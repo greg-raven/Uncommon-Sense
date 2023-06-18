@@ -1,7 +1,6 @@
 ---
 title: 'Equal rights'
 date: '2011-08-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - equality

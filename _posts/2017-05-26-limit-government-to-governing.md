@@ -1,7 +1,6 @@
 ---
 title: 'Limit government to governing'
 date: '2017-05-26'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

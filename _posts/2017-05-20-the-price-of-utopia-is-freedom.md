@@ -1,7 +1,6 @@
 ---
 title: 'The price of utopia is freedom'
 date: '2017-05-20'
-author: 'Greg Raven'
 layout: post
 categories:
     - collectivization

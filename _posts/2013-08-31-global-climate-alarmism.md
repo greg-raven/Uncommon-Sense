@@ -1,7 +1,6 @@
 ---
 title: 'Global climate alarmism'
 date: '2013-08-31'
-author: 'Greg Raven'
 layout: post
 categories:
     - environment

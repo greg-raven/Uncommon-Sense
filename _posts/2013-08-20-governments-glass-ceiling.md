@@ -1,7 +1,6 @@
 ---
 title: 'Government’s glass ceiling'
 date: '2013-08-20'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

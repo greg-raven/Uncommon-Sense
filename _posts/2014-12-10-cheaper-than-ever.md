@@ -1,7 +1,6 @@
 ---
 title: 'Cheaper than ever'
 date: '2014-12-10'
-author: 'Greg Raven'
 layout: post
 categories:
     - economics

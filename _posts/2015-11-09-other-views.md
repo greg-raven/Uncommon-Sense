@@ -1,7 +1,6 @@
 ---
 title: 'Other views'
 date: '2015-11-09'
-author: 'Greg Raven'
 layout: post
 categories:
     - speech

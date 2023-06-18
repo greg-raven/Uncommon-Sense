@@ -1,7 +1,6 @@
 ---
 title: 'Past, present, and future'
 date: '2017-07-14'
-author: 'Greg Raven'
 layout: post
 categories:
     - culture

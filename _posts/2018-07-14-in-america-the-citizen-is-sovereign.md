@@ -1,7 +1,6 @@
 ---
 title: 'In America, the citizen is sovereign'
 date: '2018-07-14'
-author: 'Greg Raven'
 layout: post
 categories:
     - individualism

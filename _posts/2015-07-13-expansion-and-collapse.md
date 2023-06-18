@@ -1,7 +1,6 @@
 ---
 title: 'Expansion and collapse'
 date: '2015-07-13'
-author: 'Greg Raven'
 layout: post
 categories:
     - economics

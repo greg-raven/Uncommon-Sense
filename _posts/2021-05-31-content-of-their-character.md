@@ -1,7 +1,6 @@
 ---
 title: 'Content of their character'
 date: '2021-05-31'
-author: 'Greg Raven'
 layout: post
 categories:
     - culture

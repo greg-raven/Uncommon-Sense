@@ -1,7 +1,6 @@
 ---
 title: 'Truth vs. lies'
 date: '2014-12-03'
-author: 'Greg Raven'
 layout: post
 categories:
     - truth

@@ -1,7 +1,6 @@
 ---
 title: 'The need to be well-informed'
 date: '2010-01-22'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'informed electorate'

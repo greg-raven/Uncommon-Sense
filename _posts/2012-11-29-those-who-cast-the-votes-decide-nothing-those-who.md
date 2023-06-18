@@ -1,7 +1,6 @@
 ---
 title: Voting
 date: '2012-11-29'
-author: 'Greg Raven'
 layout: post
 categories:
     - voting

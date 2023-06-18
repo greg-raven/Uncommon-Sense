@@ -1,7 +1,6 @@
 ---
 title: 'Running toward a cliff'
 date: '2020-10-29'
-author: 'Greg Raven'
 layout: post
 categories:
     - individualism

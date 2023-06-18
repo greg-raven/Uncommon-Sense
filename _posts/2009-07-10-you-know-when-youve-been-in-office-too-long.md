@@ -1,7 +1,6 @@
 ---
 title: 'You know when you’ve been in office too long'
 date: '2009-07-10'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

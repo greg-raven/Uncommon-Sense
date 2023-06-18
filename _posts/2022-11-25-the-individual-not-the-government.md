@@ -1,7 +1,6 @@
 ---
 title: 'The individual, not the government'
 date: '2022-11-25'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

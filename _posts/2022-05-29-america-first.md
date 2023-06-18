@@ -1,7 +1,6 @@
 ---
 title: 'America first'
 date: '2022-05-29'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'foreign policy'

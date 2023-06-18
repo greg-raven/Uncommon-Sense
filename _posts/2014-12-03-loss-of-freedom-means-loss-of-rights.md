@@ -1,7 +1,6 @@
 ---
 title: 'Loss of freedom means loss of rights'
 date: '2014-12-03'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

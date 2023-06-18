@@ -1,7 +1,6 @@
 ---
 title: 'The militia is the people'
 date: '2015-07-21'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

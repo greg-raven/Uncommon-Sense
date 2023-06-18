@@ -1,7 +1,6 @@
 ---
 title: 'Retaining the blessings of liberty'
 date: '2010-07-06'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

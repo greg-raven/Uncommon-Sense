@@ -1,7 +1,6 @@
 ---
 title: 'The danger of direct democracy'
 date: '2012-08-12'
-author: 'Greg Raven'
 layout: post
 categories:
     - democracy

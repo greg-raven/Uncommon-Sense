@@ -1,7 +1,6 @@
 ---
 title: 'The free market'
 date: '2021-12-29'
-author: 'Greg Raven'
 layout: post
 categories:
     - economics

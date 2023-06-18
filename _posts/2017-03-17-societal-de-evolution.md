@@ -1,7 +1,6 @@
 ---
 title: 'Societal de-evolution'
 date: '2017-03-17'
-author: 'Greg Raven'
 layout: post
 categories:
     - culture

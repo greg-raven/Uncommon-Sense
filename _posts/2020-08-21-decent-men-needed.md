@@ -1,7 +1,6 @@
 ---
 title: 'Decent men needed'
 date: '2020-08-21'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

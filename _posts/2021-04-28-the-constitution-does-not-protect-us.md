@@ -1,7 +1,6 @@
 ---
 title: 'The Constitution does not protect us'
 date: '2021-04-28'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

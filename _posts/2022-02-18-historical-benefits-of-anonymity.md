@@ -1,7 +1,6 @@
 ---
 title: 'Historical benefits of anonymity'
 date: '2022-02-18'
-author: 'Greg Raven'
 layout: post
 categories:
     - speech

@@ -1,7 +1,6 @@
 ---
 title: 'Electoral college'
 date: '2020-11-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - democracy

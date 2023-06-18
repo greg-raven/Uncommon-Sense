@@ -1,7 +1,6 @@
 ---
 title: 'How to limit government?'
 date: '2015-05-09'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

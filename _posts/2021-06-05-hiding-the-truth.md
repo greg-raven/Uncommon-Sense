@@ -1,7 +1,6 @@
 ---
 title: 'Hiding the truth'
 date: '2021-06-05'
-author: 'Greg Raven'
 layout: post
 categories:
     - truth

@@ -1,7 +1,6 @@
 ---
 title: 'Violence by proxy'
 date: '2019-03-07'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

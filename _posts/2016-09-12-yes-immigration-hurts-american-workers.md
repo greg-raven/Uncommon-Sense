@@ -1,7 +1,6 @@
 ---
 title: '‘Yes, immigration hurts American workers’'
 date: '2016-09-12'
-author: 'Greg Raven'
 layout: post
 categories:
     - immigration

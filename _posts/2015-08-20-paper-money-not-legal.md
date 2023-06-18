@@ -1,7 +1,6 @@
 ---
 title: 'Paper money not legal'
 date: '2015-08-20'
-author: 'Greg Raven'
 layout: post
 categories:
     - money

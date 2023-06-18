@@ -1,7 +1,6 @@
 ---
 title: 'Illegal immigration is wrong'
 date: '2017-09-09'
-author: 'Greg Raven'
 layout: post
 categories:
     - immigration

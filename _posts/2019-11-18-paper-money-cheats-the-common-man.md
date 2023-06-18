@@ -1,7 +1,6 @@
 ---
 title: 'Paper money cheats the common man'
 date: '2019-11-18'
-author: 'Greg Raven'
 layout: post
 categories:
     - money

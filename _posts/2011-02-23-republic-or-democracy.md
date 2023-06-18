@@ -1,7 +1,6 @@
 ---
 title: 'Republic or democracy?'
 date: '2011-02-23'
-author: 'Greg Raven'
 layout: post
 categories:
     - democracy

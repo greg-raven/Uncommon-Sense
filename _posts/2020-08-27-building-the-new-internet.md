@@ -1,7 +1,6 @@
 ---
 title: 'Building the new Internet'
 date: '2020-08-27'
-author: 'Greg Raven'
 layout: post
 categories:
     - speech

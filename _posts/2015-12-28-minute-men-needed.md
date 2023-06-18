@@ -1,7 +1,6 @@
 ---
 title: 'Minute Men needed'
 date: '2015-12-28'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

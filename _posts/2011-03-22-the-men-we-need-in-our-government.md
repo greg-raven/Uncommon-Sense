@@ -1,7 +1,6 @@
 ---
 title: 'The men we need in our government'
 date: '2011-03-22'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

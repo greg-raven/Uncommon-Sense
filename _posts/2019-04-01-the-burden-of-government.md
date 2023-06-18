@@ -1,7 +1,6 @@
 ---
 title: 'The burden of government'
 date: '2019-04-01'
-author: 'Greg Raven'
 layout: post
 categories:
     - taxation

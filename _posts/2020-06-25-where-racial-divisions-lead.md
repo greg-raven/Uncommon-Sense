@@ -1,7 +1,6 @@
 ---
 title: 'Where racial divisions lead'
 date: '2020-06-25'
-author: 'Greg Raven'
 layout: post
 categories:
     - race

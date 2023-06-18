@@ -1,7 +1,6 @@
 ---
 title: 'The law vs fads'
 date: '2020-05-17'
-author: 'Greg Raven'
 layout: post
 categories:
     - laws

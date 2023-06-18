@@ -1,7 +1,6 @@
 ---
 title: 'Government only supports losers'
 date: '2017-05-23'
-author: 'Greg Raven'
 layout: post
 categories:
     - waste

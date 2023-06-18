@@ -1,7 +1,6 @@
 ---
 title: 'Congress will not restrain from taxation'
 date: '2013-04-10'
-author: 'Greg Raven'
 layout: post
 categories:
     - taxation

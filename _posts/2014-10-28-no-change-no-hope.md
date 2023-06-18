@@ -1,7 +1,6 @@
 ---
 title: 'No change, no hope.'
 date: '2014-10-28'
-author: 'Greg Raven'
 layout: post
 categories:
     - race

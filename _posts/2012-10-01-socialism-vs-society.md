@@ -1,7 +1,6 @@
 ---
 title: 'Socialism vs. society'
 date: '2012-10-01'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

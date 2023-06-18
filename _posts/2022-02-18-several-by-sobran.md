@@ -1,7 +1,6 @@
 ---
 title: 'Several by Sobran'
 date: '2022-02-18'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

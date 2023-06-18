@@ -1,7 +1,6 @@
 ---
 title: 'The evil of legalizing theft'
 date: '2012-04-24'
-author: 'Greg Raven'
 layout: post
 categories:
     - taxation

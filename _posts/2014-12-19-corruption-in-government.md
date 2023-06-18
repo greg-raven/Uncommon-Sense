@@ -1,7 +1,6 @@
 ---
 title: 'Corruption in government'
 date: '2014-12-19'
-author: 'Greg Raven'
 layout: post
 categories:
     - corruption

@@ -1,7 +1,6 @@
 ---
 title: 'Privacy rights'
 date: '2011-12-08'
-author: 'Greg Raven'
 layout: post
 categories:
     - rights

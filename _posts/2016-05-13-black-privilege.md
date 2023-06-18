@@ -1,7 +1,6 @@
 ---
 title: 'Black privilege'
 date: '2016-05-13'
-author: 'Greg Raven'
 layout: post
 categories:
     - race

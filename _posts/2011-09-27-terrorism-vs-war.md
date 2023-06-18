@@ -1,7 +1,6 @@
 ---
 title: 'Terrorism vs. war'
 date: '2011-09-27'
-author: 'Greg Raven'
 layout: post
 categories:
     - war

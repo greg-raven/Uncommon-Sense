@@ -1,7 +1,6 @@
 ---
 title: 'What’s the difference?'
 date: '2019-02-06'
-author: 'Greg Raven'
 layout: post
 categories:
     - education

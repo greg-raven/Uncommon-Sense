@@ -1,7 +1,6 @@
 ---
 title: 'Let experience solve it'
 date: '2023-06-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - knowledge

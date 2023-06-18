@@ -1,7 +1,6 @@
 ---
 title: 'Benefits of rebellion'
 date: '2009-12-14'
-author: 'Greg Raven'
 layout: post
 categories:
     - rebellion

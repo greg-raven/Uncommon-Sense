@@ -1,7 +1,6 @@
 ---
 title: 'Taking Western civilization for granted'
 date: '2017-05-17'
-author: 'Greg Raven'
 layout: post
 categories:
     - culture

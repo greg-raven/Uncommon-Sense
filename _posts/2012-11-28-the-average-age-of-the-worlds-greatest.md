@@ -1,7 +1,6 @@
 ---
 title: 'The path of civilization'
 date: '2012-11-28'
-author: 'Greg Raven'
 layout: post
 categories:
     - history

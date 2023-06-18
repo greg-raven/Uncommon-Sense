@@ -1,7 +1,6 @@
 ---
 title: 'Complete education'
 date: '2018-12-22'
-author: 'Greg Raven'
 layout: post
 categories:
     - education

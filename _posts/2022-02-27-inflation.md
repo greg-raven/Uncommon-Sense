@@ -1,7 +1,6 @@
 ---
 title: Inflation
 date: '2022-02-27'
-author: 'Greg Raven'
 layout: post
 categories:
     - economics

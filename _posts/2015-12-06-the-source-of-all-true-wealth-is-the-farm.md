@@ -1,7 +1,6 @@
 ---
 title: 'The source of all true wealth is the farm'
 date: '2015-12-06'
-author: 'Greg Raven'
 layout: post
 categories:
     - economics

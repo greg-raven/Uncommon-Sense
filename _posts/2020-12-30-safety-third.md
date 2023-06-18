@@ -1,7 +1,6 @@
 ---
 title: 'Safety third'
 date: '2020-12-30'
-author: 'Greg Raven'
 layout: post
 categories:
     - rebellion

@@ -1,7 +1,6 @@
 ---
 title: 'Rent control'
 date: '2012-01-23'
-author: 'Greg Raven'
 layout: post
 categories:
     - economics

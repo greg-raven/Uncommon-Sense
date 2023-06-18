@@ -1,7 +1,6 @@
 ---
 title: 'Trading liberty for safety'
 date: '2009-04-07'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

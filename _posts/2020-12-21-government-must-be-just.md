@@ -1,7 +1,6 @@
 ---
 title: 'Government must be just'
 date: '2020-12-21'
-author: 'Greg Raven'
 layout: post
 categories:
     - laws

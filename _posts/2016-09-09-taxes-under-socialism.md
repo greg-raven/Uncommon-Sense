@@ -1,7 +1,6 @@
 ---
 title: 'Taxes under socialism'
 date: '2016-09-09'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

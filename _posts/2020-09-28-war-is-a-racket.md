@@ -1,7 +1,6 @@
 ---
 title: 'War is a racket'
 date: '2020-09-28'
-author: 'Greg Raven'
 layout: post
 categories:
     - war

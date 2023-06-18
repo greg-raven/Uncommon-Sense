@@ -1,7 +1,6 @@
 ---
 title: 'Weaning people from the state teat'
 date: '2013-03-12'
-author: 'Greg Raven'
 layout: post
 categories:
     - individualism

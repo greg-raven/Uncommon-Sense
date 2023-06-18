@@ -1,7 +1,6 @@
 ---
 title: 'Immigration reform'
 date: '2013-12-22'
-author: 'Greg Raven'
 layout: post
 categories:
     - immigration

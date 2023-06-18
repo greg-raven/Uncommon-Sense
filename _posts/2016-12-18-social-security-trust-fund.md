@@ -1,7 +1,6 @@
 ---
 title: 'Social Security Trust Fund'
 date: '2016-12-18'
-author: 'Greg Raven'
 layout: post
 categories:
     - corruption

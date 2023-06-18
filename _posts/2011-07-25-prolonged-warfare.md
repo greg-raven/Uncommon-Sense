@@ -1,7 +1,6 @@
 ---
 title: 'Prolonged warfare'
 date: '2011-07-25'
-author: 'Greg Raven'
 layout: post
 categories:
     - war

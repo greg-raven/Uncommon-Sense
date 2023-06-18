@@ -1,7 +1,6 @@
 ---
 title: 'Dealing with invaders'
 date: '2009-06-16'
-author: 'Greg Raven'
 layout: post
 categories:
     - immigration

@@ -1,7 +1,6 @@
 ---
 title: Bankrupters
 date: '2022-11-24'
-author: 'Greg Raven'
 layout: post
 categories:
     - money

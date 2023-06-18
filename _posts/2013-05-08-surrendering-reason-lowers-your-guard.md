@@ -1,7 +1,6 @@
 ---
 title: 'Surrendering reason lowers your guard'
 date: '2013-05-08'
-author: 'Greg Raven'
 layout: post
 categories:
     - reason

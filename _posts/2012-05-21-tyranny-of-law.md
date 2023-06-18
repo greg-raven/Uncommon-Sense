@@ -1,7 +1,6 @@
 ---
 title: 'The tyranny of the law'
 date: '2012-05-21'
-author: 'Greg Raven'
 layout: post
 categories:
     - laws

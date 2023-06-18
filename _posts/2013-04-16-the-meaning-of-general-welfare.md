@@ -1,7 +1,6 @@
 ---
 title: 'The meaning of ‘general welfare’'
 date: '2013-04-16'
-author: 'Greg Raven'
 layout: post
 categories:
     - taxation

@@ -1,7 +1,6 @@
 ---
 title: 'Even if everybody knows …'
 date: '2012-05-10'
-author: 'Greg Raven'
 layout: post
 categories:
     - democracy

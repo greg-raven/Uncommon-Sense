@@ -1,7 +1,6 @@
 ---
 title: 'One-world governance vs. the Constitution'
 date: '2017-06-03'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

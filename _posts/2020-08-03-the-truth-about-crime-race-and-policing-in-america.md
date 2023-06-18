@@ -1,7 +1,6 @@
 ---
 title: 'The truth about crime, race, and policing in America'
 date: '2020-08-03'
-author: 'Greg Raven'
 layout: post
 categories:
     - race

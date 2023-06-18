@@ -1,7 +1,6 @@
 ---
 title: 'Descent into monarchy'
 date: '2017-06-25'
-author: 'Greg Raven'
 layout: post
 categories:
     - property

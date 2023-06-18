@@ -1,7 +1,6 @@
 ---
 title: 'Fanatical hatred'
 date: '2021-03-05'
-author: 'Greg Raven'
 layout: post
 categories:
     - collectivization

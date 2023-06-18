@@ -1,7 +1,6 @@
 ---
 title: 'Hidden taxation'
 date: '2016-02-01'
-author: 'Greg Raven'
 layout: post
 categories:
     - money

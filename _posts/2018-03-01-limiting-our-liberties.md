@@ -1,7 +1,6 @@
 ---
 title: 'Limiting our liberties'
 date: '2018-03-01'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

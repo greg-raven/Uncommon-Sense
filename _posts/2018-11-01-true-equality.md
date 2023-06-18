@@ -1,7 +1,6 @@
 ---
 title: 'True equality'
 date: '2018-11-01'
-author: 'Greg Raven'
 layout: post
 categories:
     - equality

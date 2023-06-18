@@ -1,7 +1,6 @@
 ---
 title: 'Rules for politicians'
 date: '2010-04-19'
-author: 'Greg Raven'
 layout: post
 categories:
     - money

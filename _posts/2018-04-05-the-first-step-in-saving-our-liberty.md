@@ -1,7 +1,6 @@
 ---
 title: 'The first step in saving our liberty'
 date: '2018-04-05'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

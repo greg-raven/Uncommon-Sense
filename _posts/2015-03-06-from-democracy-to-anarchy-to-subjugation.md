@@ -1,7 +1,6 @@
 ---
 title: 'From democracy to anarchy to subjugation'
 date: '2015-03-06'
-author: 'Greg Raven'
 layout: post
 categories:
     - democracy

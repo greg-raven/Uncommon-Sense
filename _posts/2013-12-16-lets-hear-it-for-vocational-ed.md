@@ -1,7 +1,6 @@
 ---
 title: 'Let’s hear it for vocational ed'
 date: '2013-12-16'
-author: 'Greg Raven'
 layout: post
 categories:
     - education

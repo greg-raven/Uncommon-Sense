@@ -1,7 +1,6 @@
 ---
 title: 'Repeal welfare laws'
 date: '2012-09-20'
-author: 'Greg Raven'
 layout: post
 categories:
     - welfare

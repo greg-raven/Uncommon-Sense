@@ -1,7 +1,6 @@
 ---
 title: 'Keeping bureaucrats honest'
 date: '2015-11-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

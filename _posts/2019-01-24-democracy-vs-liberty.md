@@ -1,7 +1,6 @@
 ---
 title: 'Democracy vs. liberty'
 date: '2019-01-24'
-author: 'Greg Raven'
 layout: post
 categories:
     - democracy

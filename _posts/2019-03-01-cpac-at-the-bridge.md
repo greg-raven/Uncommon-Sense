@@ -1,7 +1,6 @@
 ---
 title: 'CPAC at the Bridge'
 date: '2019-03-01'
-author: 'Greg Raven'
 layout: post
 categories:
     - citizenship

@@ -1,7 +1,6 @@
 ---
 title: 'The smallest minority'
 date: '2011-07-09'
-author: 'Greg Raven'
 layout: post
 categories:
     - individualism

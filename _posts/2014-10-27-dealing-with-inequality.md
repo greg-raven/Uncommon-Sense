@@ -1,7 +1,6 @@
 ---
 title: 'Dealing with inequality'
 date: '2014-10-27'
-author: 'Greg Raven'
 layout: post
 categories:
     - equality

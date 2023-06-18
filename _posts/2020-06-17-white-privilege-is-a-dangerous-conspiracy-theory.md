@@ -1,7 +1,6 @@
 ---
 title: '‘White privilege’ is a dangerous conspiracy theory'
 date: '2020-06-17'
-author: 'Greg Raven'
 layout: post
 categories:
     - race

@@ -1,7 +1,6 @@
 ---
 title: 'Here’s how to handle the situation in Seattle'
 date: '2020-06-15'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'foreign policy'

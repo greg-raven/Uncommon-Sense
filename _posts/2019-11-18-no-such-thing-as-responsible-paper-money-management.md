@@ -1,7 +1,6 @@
 ---
 title: 'No such thing as responsible paper money management'
 date: '2019-11-18'
-author: 'Greg Raven'
 layout: post
 categories:
     - money

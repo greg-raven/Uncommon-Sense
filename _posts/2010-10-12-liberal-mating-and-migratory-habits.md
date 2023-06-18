@@ -1,7 +1,6 @@
 ---
 title: 'Liberal mating and migratory habits'
 date: '2010-10-12'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberalism

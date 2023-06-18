@@ -1,7 +1,6 @@
 ---
 title: 'Islam and the West'
 date: '2015-02-15'
-author: 'Greg Raven'
 layout: post
 categories:
     - culture

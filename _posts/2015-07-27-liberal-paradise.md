@@ -1,7 +1,6 @@
 ---
 title: 'Liberal paradise'
 date: '2015-07-27'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberalism

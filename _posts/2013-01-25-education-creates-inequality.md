@@ -1,7 +1,6 @@
 ---
 title: 'Education creates inequality'
 date: '2013-01-25'
-author: 'Greg Raven'
 layout: post
 categories:
     - education

@@ -1,7 +1,6 @@
 ---
 title: '‘Gun control’ and murder'
 date: '2012-07-30'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'Second Amendment'

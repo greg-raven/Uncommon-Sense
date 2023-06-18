@@ -1,7 +1,6 @@
 ---
 title: 'Bureaucracies vs. citizens'
 date: '2010-11-29'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

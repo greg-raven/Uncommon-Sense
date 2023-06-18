@@ -1,7 +1,6 @@
 ---
 title: 'Government’s view of the economy'
 date: '2009-04-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - taxation

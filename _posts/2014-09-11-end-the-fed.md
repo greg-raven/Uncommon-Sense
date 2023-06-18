@@ -1,7 +1,6 @@
 ---
 title: 'End the Fed'
 date: '2014-09-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - economics

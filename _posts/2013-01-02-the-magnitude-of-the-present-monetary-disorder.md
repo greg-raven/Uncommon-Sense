@@ -1,7 +1,6 @@
 ---
 title: 'Our present money disorder'
 date: '2013-01-02'
-author: 'Greg Raven'
 layout: post
 categories:
     - money

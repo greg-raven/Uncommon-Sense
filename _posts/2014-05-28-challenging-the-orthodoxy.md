@@ -1,7 +1,6 @@
 ---
 title: 'Challenging the orthodoxy'
 date: '2014-05-28'
-author: 'Greg Raven'
 layout: post
 categories:
     - knowledge

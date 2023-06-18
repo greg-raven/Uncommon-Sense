@@ -1,7 +1,6 @@
 ---
 title: 'Taxation = theft'
 date: '2020-02-09'
-author: 'Greg Raven'
 layout: post
 categories:
     - taxation

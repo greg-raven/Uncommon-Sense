@@ -1,7 +1,6 @@
 ---
 title: 'Courage first'
 date: '2023-01-17'
-author: 'Greg Raven'
 layout: post
 categories:
     - strength

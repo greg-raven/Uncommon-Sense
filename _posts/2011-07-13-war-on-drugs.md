@@ -1,7 +1,6 @@
 ---
 title: 'The war on drugs'
 date: '2011-07-13'
-author: 'Greg Raven'
 layout: post
 categories:
     - laws

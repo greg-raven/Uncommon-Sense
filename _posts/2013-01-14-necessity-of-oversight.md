@@ -1,7 +1,6 @@
 ---
 title: 'The necessity of oversight'
 date: '2013-01-14'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'informed electorate'

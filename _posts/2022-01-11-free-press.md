@@ -1,7 +1,6 @@
 ---
 title: 'Free press'
 date: '2022-01-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - press

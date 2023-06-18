@@ -1,7 +1,6 @@
 ---
 title: 'The greatest dangers to liberty'
 date: '2016-02-22'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

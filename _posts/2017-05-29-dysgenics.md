@@ -1,7 +1,6 @@
 ---
 title: Dysgenics
 date: '2017-05-29'
-author: 'Greg Raven'
 layout: post
 categories:
     - war

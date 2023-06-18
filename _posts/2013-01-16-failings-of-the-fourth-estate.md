@@ -1,7 +1,6 @@
 ---
 title: 'Failings of the fourth estate'
 date: '2013-01-16'
-author: 'Greg Raven'
 layout: post
 categories:
     - press

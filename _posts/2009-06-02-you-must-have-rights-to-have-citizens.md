@@ -1,7 +1,6 @@
 ---
 title: 'You must have rights to have citizens'
 date: '2009-06-02'
-author: 'Greg Raven'
 layout: post
 categories:
     - rights

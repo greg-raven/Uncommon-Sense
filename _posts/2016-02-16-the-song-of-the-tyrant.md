@@ -1,7 +1,6 @@
 ---
 title: 'The song of the tyrant'
 date: '2016-02-16'
-author: 'Greg Raven'
 layout: post
 categories:
     - demagogues

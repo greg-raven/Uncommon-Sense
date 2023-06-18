@@ -1,7 +1,6 @@
 ---
 title: 'Keep your eye on the prize'
 date: '2018-11-01'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

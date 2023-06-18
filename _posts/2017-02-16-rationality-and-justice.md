@@ -1,7 +1,6 @@
 ---
 title: 'Rationality and justice'
 date: '2017-02-16'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

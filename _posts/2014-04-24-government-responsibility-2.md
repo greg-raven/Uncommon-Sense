@@ -1,7 +1,6 @@
 ---
 title: 'Government responsibility'
 date: '2014-04-24'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

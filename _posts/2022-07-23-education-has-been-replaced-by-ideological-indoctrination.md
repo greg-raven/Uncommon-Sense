@@ -1,7 +1,6 @@
 ---
 title: 'Education has been replaced by ideological indoctrination'
 date: '2022-07-23'
-author: 'Greg Raven'
 layout: post
 categories:
     - education

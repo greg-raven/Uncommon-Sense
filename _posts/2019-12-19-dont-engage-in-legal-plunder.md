@@ -1,7 +1,6 @@
 ---
 title: 'Don’t engage in ‘legal’ plunder'
 date: '2019-12-19'
-author: 'Greg Raven'
 layout: post
 categories:
     - taxation

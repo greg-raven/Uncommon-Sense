@@ -1,7 +1,6 @@
 ---
 title: 'The basis for advancement'
 date: '2015-09-16'
-author: 'Greg Raven'
 layout: post
 categories:
     - self-improvement

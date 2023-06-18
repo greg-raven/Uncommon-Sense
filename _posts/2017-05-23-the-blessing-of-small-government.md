@@ -1,7 +1,6 @@
 ---
 title: 'The blessing of small government'
 date: '2017-05-23'
-author: 'Greg Raven'
 layout: post
 categories:
     - conservatism

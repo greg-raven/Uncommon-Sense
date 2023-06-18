@@ -1,7 +1,6 @@
 ---
 title: 'Power in high places'
 date: '2017-03-29'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

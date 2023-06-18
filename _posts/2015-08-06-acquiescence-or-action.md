@@ -1,7 +1,6 @@
 ---
 title: 'Acquiescence or action'
 date: '2015-08-06'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

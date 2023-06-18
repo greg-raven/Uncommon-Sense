@@ -1,7 +1,6 @@
 ---
 title: 'The sacred obligation of the Constitution'
 date: '2010-03-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

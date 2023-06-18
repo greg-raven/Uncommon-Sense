@@ -1,7 +1,6 @@
 ---
 title: 'No liberty without the sword and the purse'
 date: '2023-04-17'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

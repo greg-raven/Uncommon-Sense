@@ -1,7 +1,6 @@
 ---
 title: 'Causes of downfall'
 date: '2015-03-21'
-author: 'Greg Raven'
 layout: post
 categories:
     - culture

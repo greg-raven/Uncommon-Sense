@@ -1,7 +1,6 @@
 ---
 title: 'Preserve the rule of law'
 date: '2015-02-25'
-author: 'Greg Raven'
 layout: post
 categories:
     - Constitution

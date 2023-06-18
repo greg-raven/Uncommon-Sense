@@ -1,7 +1,6 @@
 ---
 title: 'No right to arbitrary power'
 date: '2022-11-21'
-author: 'Greg Raven'
 layout: post
 categories:
     - 'external authority'

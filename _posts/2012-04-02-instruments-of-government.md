@@ -1,7 +1,6 @@
 ---
 title: 'Instruments of government'
 date: '2012-04-02'
-author: 'Greg Raven'
 layout: post
 categories:
     - rebellion

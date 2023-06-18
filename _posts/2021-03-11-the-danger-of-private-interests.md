@@ -1,7 +1,6 @@
 ---
 title: 'The danger of private interests'
 date: '2021-03-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - democracy

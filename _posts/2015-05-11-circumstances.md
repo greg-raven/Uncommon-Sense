@@ -1,7 +1,6 @@
 ---
 title: Circumstances
 date: '2015-05-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - individualism

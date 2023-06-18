@@ -1,7 +1,6 @@
 ---
 title: 'Democracy leads to tyranny'
 date: '2020-01-08'
-author: 'Greg Raven'
 layout: post
 categories:
     - democracy

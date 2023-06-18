@@ -1,7 +1,6 @@
 ---
 title: 'Modern ‘diversity’'
 date: '2018-01-09'
-author: 'Greg Raven'
 layout: post
 categories:
     - speech

@@ -1,7 +1,6 @@
 ---
 title: 'The two faces of multiculturalism'
 date: '2016-03-26'
-author: 'Greg Raven'
 layout: post
 categories:
     - culture

@@ -1,7 +1,6 @@
 ---
 title: 'True cost of government'
 date: '2013-08-04'
-author: 'Greg Raven'
 layout: post
 categories:
     - regulations

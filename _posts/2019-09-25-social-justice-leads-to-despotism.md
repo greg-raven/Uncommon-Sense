@@ -1,7 +1,6 @@
 ---
 title: '‘Social justice’ leads to despotism'
 date: '2019-09-25'
-author: 'Greg Raven'
 layout: post
 categories:
     - liberty

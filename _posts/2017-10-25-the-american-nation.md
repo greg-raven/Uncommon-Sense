@@ -1,7 +1,6 @@
 ---
 title: 'The American nation'
 date: '2017-10-25'
-author: 'Greg Raven'
 layout: post
 categories:
     - culture

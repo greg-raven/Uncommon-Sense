@@ -1,7 +1,6 @@
 ---
 title: 'Danger: Government at work'
 date: '2021-01-07'
-author: 'Greg Raven'
 layout: post
 categories:
     - laws

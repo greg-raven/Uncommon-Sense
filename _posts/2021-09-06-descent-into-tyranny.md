@@ -1,7 +1,6 @@
 ---
 title: 'Descent into tyranny'
 date: '2021-09-06'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

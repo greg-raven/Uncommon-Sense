@@ -1,7 +1,6 @@
 ---
 title: 'Burdensome government'
 date: '2013-10-11'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

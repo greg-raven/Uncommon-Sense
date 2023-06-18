@@ -1,7 +1,6 @@
 ---
 title: 'Welfare dependence creates slaves'
 date: '2020-06-20'
-author: 'Greg Raven'
 layout: post
 categories:
     - race

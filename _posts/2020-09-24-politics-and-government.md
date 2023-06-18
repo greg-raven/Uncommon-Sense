@@ -1,7 +1,6 @@
 ---
 title: 'Politics and government'
 date: '2020-09-24'
-author: 'Greg Raven'
 layout: post
 categories:
     - government

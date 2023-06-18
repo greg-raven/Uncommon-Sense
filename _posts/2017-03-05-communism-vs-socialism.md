@@ -1,7 +1,6 @@
 ---
 title: 'Communism vs. socialism'
 date: '2017-03-05'
-author: 'Greg Raven'
 layout: post
 categories:
     - socialism

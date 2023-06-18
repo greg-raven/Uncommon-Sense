@@ -1,7 +1,6 @@
 ---
 title: 'The urge to censor'
 date: '2019-01-18'
-author: 'Greg Raven'
 layout: post
 categories:
     - speech

@@ -1,7 +1,6 @@
 ---
 title: 'Defining ‘plebiscite’'
 date: '2010-09-20'
-author: 'Greg Raven'
 layout: post
 categories:
     - voting

@@ -1,7 +1,6 @@
 ---
 title: 'Invisible truths'
 date: '2018-12-19'
-author: 'Greg Raven'
 layout: post
 categories:
     - truth

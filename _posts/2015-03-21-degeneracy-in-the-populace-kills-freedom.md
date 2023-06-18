@@ -1,7 +1,6 @@
 ---
 title: 'Degeneracy in the populace kills freedom'
 date: '2015-03-21'
-author: 'Greg Raven'
 layout: post
 categories:
     - culture

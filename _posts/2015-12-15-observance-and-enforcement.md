@@ -1,7 +1,6 @@
 ---
 title: 'Observance and enforcement'
 date: '2015-12-15'
-author: 'Greg Raven'
 layout: post
 categories:
     - laws

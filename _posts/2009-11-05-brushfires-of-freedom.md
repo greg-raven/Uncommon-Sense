@@ -1,7 +1,6 @@
 ---
 title: 'People must be incorruptible'
 date: '2009-11-05'
-author: 'Greg Raven'
 layout: post
 categories:
     - morals
