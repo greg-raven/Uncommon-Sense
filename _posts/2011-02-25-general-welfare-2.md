@@ -1,7 +1,7 @@
 ---
 title: 'General welfare'
 date: '2011-02-25'
-author: 'Greg Raven'
+author: 'James Madison'
 layout: post
 categories:
     - money

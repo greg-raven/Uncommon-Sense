@@ -1,7 +1,7 @@
 ---
 title: 'Legislative growth'
 date: '2011-08-11'
-author: 'Greg Raven'
+author: 'James Madison'
 layout: post
 categories:
     - government

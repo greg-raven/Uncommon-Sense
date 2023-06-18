@@ -1,7 +1,7 @@
 ---
 title: 'Analyzing data'
 date: '2009-04-04'
-author: 'Greg Raven'
+author: 'anonymous'
 layout: post
 categories:
     - knowledge

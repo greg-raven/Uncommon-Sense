@@ -1,7 +1,7 @@
 ---
 title: 'Federal jurisdiction is limited'
 date: '2011-11-13'
-author: 'Greg Raven'
+author: 'James Madison'
 layout: post
 categories:
     - Constitution

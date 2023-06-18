@@ -1,7 +1,7 @@
 ---
 title: 'Fluctuating policies'
 date: '2011-06-20'
-author: 'Greg Raven'
+author: 'James Madison'
 layout: post
 categories:
     - regulations

@@ -1,7 +1,7 @@
 ---
 title: 'Distrust of powerful men'
 date: '2009-04-04'
-author: 'Greg Raven'
+author: 'James Madison'
 layout: post
 categories:
     - virtue

@@ -1,7 +1,7 @@
 ---
 title: 'First duty of citizens'
 date: '2021-03-20'
-author: 'Greg Raven'
+author: 'James Madison'
 layout: post
 categories:
     - liberty

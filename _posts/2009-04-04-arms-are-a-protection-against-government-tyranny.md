@@ -1,7 +1,7 @@
 ---
 title: 'Arms are a protection against government tyranny'
 date: '2009-04-04'
-author: 'Greg Raven'
+author: 'Thomas Jefferson'
 layout: post
 categories:
     - 'Second Amendment'

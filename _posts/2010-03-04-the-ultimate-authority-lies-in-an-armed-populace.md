@@ -1,12 +1,8 @@
 ---
 title: 'The ultimate authority lies in an armed populace'
 date: '2010-03-04'
-author: 'Greg Raven'
+author: 'James Madison'
 layout: post
-jd_tweet_this:
-    - 'yes'
-wp_jd_target:
-    - 'https://www.gregraven.website/quotes/?p=1002'
 categories:
     - 'Second Amendment'
 tags:

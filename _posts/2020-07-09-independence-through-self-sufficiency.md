@@ -1,7 +1,7 @@
 ---
 title: 'Independence through self-sufficiency'
 date: '2020-07-09'
-author: 'Greg Raven'
+author: 'James Madison'
 layout: post
 categories:
     - individualism

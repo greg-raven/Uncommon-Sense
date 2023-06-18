@@ -1,7 +1,7 @@
 ---
 title: 'The prime function of government'
 date: '2021-01-14'
-author: 'Greg Raven'
+author: 'James Madison'
 layout: post
 categories:
     - property

@@ -1,7 +1,7 @@
 ---
 title: 'Public debt'
 date: '2011-05-06'
-author: 'Greg Raven'
+author: 'James Madison'
 layout: post
 categories:
     - debt

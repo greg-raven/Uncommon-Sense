@@ -1,7 +1,7 @@
 ---
 title: 'Why a republic?'
 date: '2015-04-15'
-author: 'Greg Raven'
+author: 'James Madison'
 layout: post
 categories:
     - Constitution

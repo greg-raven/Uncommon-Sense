@@ -1,7 +1,7 @@
 ---
 title: 'From democracy to anarchy'
 date: '2016-06-13'
-author: 'Greg Raven'
+author: 'James Madison'
 layout: post
 categories:
     - democracy

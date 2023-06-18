@@ -1,12 +1,8 @@
 ---
 title: 'Trustworthiness of government'
 date: '2009-12-17'
-author: 'Greg Raven'
+author: 'James Madison'
 layout: post
-jd_tweet_this:
-    - 'yes'
-wp_jd_target:
-    - ''
 categories:
     - 'Second Amendment'
 tags:

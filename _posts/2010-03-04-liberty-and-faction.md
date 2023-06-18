@@ -1,12 +1,8 @@
 ---
 title: 'Liberty and faction'
 date: '2010-03-04'
-author: 'Greg Raven'
+author: 'James Madison'
 layout: post
-wp_jd_target:
-    - 'https://www.gregraven.website/quotes/?p=1001'
-jd_tweet_this:
-    - 'yes'
 categories:
     - liberty
 tags:

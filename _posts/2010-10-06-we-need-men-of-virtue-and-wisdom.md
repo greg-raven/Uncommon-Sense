@@ -1,7 +1,7 @@
 ---
 title: 'We need men of virtue and wisdom'
 date: '2010-10-06'
-author: 'Greg Raven'
+author: 'James Madison'
 layout: post
 categories:
     - virtue

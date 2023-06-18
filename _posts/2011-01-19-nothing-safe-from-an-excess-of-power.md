@@ -1,7 +1,7 @@
 ---
 title: 'Nothing safe from an excess of power'
 date: '2011-01-19'
-author: 'Greg Raven'
+author: 'James Madison'
 layout: post
 categories:
     - property

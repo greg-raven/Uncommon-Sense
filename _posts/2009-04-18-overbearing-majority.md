@@ -1,7 +1,7 @@
 ---
 title: 'Overbearing majority'
 date: '2009-04-18'
-author: 'Greg Raven'
+author: 'James Madison'
 layout: post
 categories:
     - democracy

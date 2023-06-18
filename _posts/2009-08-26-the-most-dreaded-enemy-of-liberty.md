@@ -1,7 +1,7 @@
 ---
 title: 'The most dreaded enemy of liberty'
 date: '2009-08-26'
-author: 'Greg Raven'
+author: 'James Madison'
 layout: post
 categories:
     - taxation

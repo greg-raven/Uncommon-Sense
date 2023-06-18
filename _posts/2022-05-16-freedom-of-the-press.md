@@ -1,7 +1,7 @@
 ---
 title: 'Freedom of the press'
 date: '2022-05-16'
-author: 'Greg Raven'
+author: 'James Madison'
 layout: post
 categories:
     - speech

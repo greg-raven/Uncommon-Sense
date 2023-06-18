@@ -1,7 +1,7 @@
 ---
 title: 'Arms for free men'
 date: '2009-04-04'
-author: 'Greg Raven'
+author: 'Thomas Jefferson'
 layout: post
 categories:
     - 'Second Amendment'

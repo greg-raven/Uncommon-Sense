@@ -1,7 +1,7 @@
 ---
 title: 'Formula for tyranny'
 date: '2015-07-12'
-author: 'Greg Raven'
+author: 'James Madison'
 layout: post
 categories:
     - 'Second Amendment'

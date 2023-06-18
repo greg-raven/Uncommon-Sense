@@ -1,7 +1,7 @@
 ---
 title: 'Commerce Clause'
 date: '2010-07-08'
-author: 'Greg Raven'
+author: 'James Madison'
 layout: post
 categories:
     - taxation

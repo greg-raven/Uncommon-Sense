@@ -1,7 +1,7 @@
 ---
 title: 'Conspiracy against peace'
 date: '2022-03-22'
-author: 'Greg Raven'
+author: 'James Madison'
 layout: post
 categories:
     - war

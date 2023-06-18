@@ -1,7 +1,7 @@
 ---
 title: 'No elective despotism'
 date: '2012-04-09'
-author: 'Greg Raven'
+author: 'James Madison'
 layout: post
 categories:
     - government

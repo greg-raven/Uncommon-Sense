@@ -1,7 +1,7 @@
 ---
 title: 'The foundation of self-government'
 date: '2010-06-12'
-author: 'Greg Raven'
+author: 'James Madison'
 layout: post
 categories:
     - government

@@ -1,7 +1,7 @@
 ---
 title: 'Enlightened free-market'
 date: '2022-12-17'
-author: 'Greg Raven'
+author: 'James Madison'
 layout: post
 categories:
     - economics

@@ -6,7 +6,7 @@ layout: post
 categories:
     - socialism
 tags:
-    - Unknown
+    - anonymous
 ---
 
 Socialism is resentment disguised as compassion enforced by tyranny disguised as tolerance.

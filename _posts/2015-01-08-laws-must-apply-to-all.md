@@ -1,7 +1,7 @@
 ---
 title: 'Laws must apply to all'
 date: '2015-01-08'
-author: 'Greg Raven'
+author: 'James Madison'
 layout: post
 categories:
     - laws

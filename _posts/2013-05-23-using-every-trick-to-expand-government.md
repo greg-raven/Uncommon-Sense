@@ -1,7 +1,7 @@
 ---
 title: 'Using every trick to expand government'
 date: '2013-05-23'
-author: 'Greg Raven'
+author: 'James Madison'
 layout: post
 categories:
     - government

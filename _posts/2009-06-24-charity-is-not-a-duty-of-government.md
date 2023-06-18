@@ -1,7 +1,7 @@
 ---
 title: 'Charity is not a duty of government'
 date: '2009-06-24'
-author: 'Greg Raven'
+author: 'James Madison'
 layout: post
 categories:
     - socialism

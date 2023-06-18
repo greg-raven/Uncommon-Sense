@@ -1,7 +1,7 @@
 ---
 title: 'General Welfare'
 date: '2009-08-28'
-author: 'Greg Raven'
+author: 'James Madison'
 layout: post
 categories:
     - Constitution

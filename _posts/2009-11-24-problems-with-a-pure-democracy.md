@@ -1,12 +1,8 @@
 ---
 title: 'Problems with a pure democracy'
 date: '2009-11-24'
-author: 'Greg Raven'
+author: 'James Madison'
 layout: post
-jd_tweet_this:
-    - 'yes'
-wp_jd_target:
-    - 'https://www.gregraven.website/quotes/?p=904'
 categories:
     - democracy
 tags:

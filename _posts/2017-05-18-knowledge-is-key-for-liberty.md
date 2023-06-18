@@ -1,7 +1,7 @@
 ---
 title: 'Knowledge is key for liberty'
 date: '2017-05-18'
-author: 'Greg Raven'
+author: 'James Madison'
 layout: post
 categories:
     - knowledge

@@ -1,7 +1,7 @@
 ---
 title: 'Majority makes right?'
 date: '2015-05-04'
-author: 'Greg Raven'
+author: 'James Madison'
 layout: post
 categories:
     - democracy

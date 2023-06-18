@@ -1,7 +1,7 @@
 ---
 title: 'The historical background of the Constitution'
 date: '2022-10-08'
-author: 'Greg Raven'
+author: 'James Madison'
 layout: post
 categories:
     - Constitution

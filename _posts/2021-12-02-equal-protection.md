@@ -1,7 +1,7 @@
 ---
 title: 'Equal protection'
 date: '2021-12-02'
-author: 'Greg Raven'
+author: 'James Madison'
 layout: post
 categories:
     - equality

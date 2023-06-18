@@ -1,7 +1,7 @@
 ---
 title: 'Regulations and special interests'
 date: '2011-03-22'
-author: 'Greg Raven'
+author: 'James Madison'
 layout: post
 categories:
     - regulations

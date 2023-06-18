@@ -1,7 +1,7 @@
 ---
 title: 'Controlling government'
 date: '2015-10-15'
-author: 'Greg Raven'
+author: 'James Madison'
 layout: post
 categories:
     - government

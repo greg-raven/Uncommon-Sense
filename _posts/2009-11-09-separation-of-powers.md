@@ -1,7 +1,7 @@
 ---
 title: 'Separation of powers'
 date: '2009-11-09'
-author: 'Greg Raven'
+author: 'James Madison'
 layout: post
 categories:
     - Constitution
