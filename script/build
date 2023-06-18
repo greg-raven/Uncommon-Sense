@@ -1,0 +1,6 @@
+#!/bin/sh
+
+set -e
+
+echo "Building Impeach45 ..."
+bundle exec jekyll build

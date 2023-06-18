@@ -1,0 +1,34 @@
+---
+title: 'Don’t conflate capitalism and corporatism'
+date: '2020-04-10'
+author: 'Greg Raven'
+layout: post
+categories:
+    - capitalism
+tags:
+    - 'Ayn Rand'
+---
+
+There is a very important confusion. What we have to distinguish between are capitalist industrialists who operate on a free market and the kind of capitalists who operate with government help.
+
+Since the United States has been a mixed economy from the beginning — not a fully free capitalist country, but merely the freest up to that point in history — there were government controls and government interference into the economy from the beginning. Only these controls were marginal and minimal and were not able, at first, to hamper the Magnificent progress of this country.
+
+Now, there are two ways to get rich and only two. One is to produce your wealth and to trade with other people through voluntary trade to mutual benefit. Or, to acquire wealth by force.
+
+To acquire it by force one must be either an actual criminal or a legalized criminal. That is, a man who uses the power of government to grant him special privileges, not possessed by his competitors, and thus acquire wealth by legalized force — by the force of law. Both kinds of capitalists existed to this country from the beginning, and this is the crucial point: All the evils popularly ascribed to capitalists and the capitalism in the 19th century were committed by government interference into the economy by those capitalists who were not free enterprisers, who did not function by free-market competition, and did not rise by merit — or not by merit exclusively — but predominantly and primarily by government help.
+
+The best example of the situation existed in the history of the railroads. The railroad that aroused the greatest popular resentment — with some justice — was the Central Pacific of California, now known as the Southern Pacific. This was one of the two railroads built by government subsidies. This was the first transcontinental railroad. In the 19th century, the government gave subsidies to the Union Pacific and Central Pacific, two private groups, to create the Transcontinental Railroad, building from both ends of the continent. In both cases, the main motive of the men involved in building this railroad — though not the exclusive but the main motive — was to acquire the subsidies, not to build a railroad.
+
+More than that, there was yet no economic need for a transcontinental railroad. There was not enough freight to carry to justify private investment. But the government, under propaganda similar to today’s — and such excuses as the prestige of the country — decided to build a railroad and it did so by giving subsidies to private groups. This is a classic example of a capitalist of a mixed economy. That is a man who rises not by merit and economic judgment but by government pull and special privilege.
+
+The builders of this Continental railroad had an advantage that no private competitor could match. They had government subsidies. As a consequence, the Central Pacific held a monopoly in the state of California for about 30 years. Not only did they have the original advantage but controlling and bribing the legislature of California, they had laws passed which for bed the entry of any competitor into California. To be exact, the law forbade any competing railroad to enter any California port, and since most of the freight traffic came through the port, it meant that no railroad could survive economically in the state of California if it did not have access to the port. Several attempts were made by competing private companies to break that monopoly of the Central Pacific in California and, of course, they failed.
+
+Now the Central Pacific engaged in truly immoral and improper economic practices. Namely, they changed their freight rates arbitrarily every year, charging as much as the farmers produced, leaving them practically nothing as profit and barely any seed for the next harvest. Now the statíst collectivist intellectuals, of course, blamed the railroad, private industry. The famous novel by Frank Norris, Octopus, denouncing the railroads, was based on the activity of the Central Pacific and was the foundation for the enormous popular hatred of railroads. Yet observe. Who was the villain in the picture? Not private enterprise, not the free market, but an act of government, originally the subsidies of the federal government and then reinforced by the legislation of California, which maintained the monopoly of the Central Pacific and permitted it to engage in all such abuses, delivering the public into its power. It is an act of government. Special privileges are required to establish any kind of coercive monopoly and the history of the Central Pacific is a classic example of it. It was the government and the legislature that were guilty of the abuses involved. Instead of identifying this fact, it was free enterprise — the free market — that took the blame.
+
+If it is asked whether it’s a question of dishonest legislators, it is not. The issue there is that *no* legislator who has the power of control can be either honest or dishonest. The dishonesty lies not in the person but in the institution. When a government holds arbitrary power over the economy, no matter what the controls and regulations, they will necessarily be unjust because they would necessarily be weighted by force in favor of one group of people at the expense of the others.
+
+The proper lesson to have learned should have been the realization that government controls and create only harm, injustice, and distortions in the economy, and should be repealed. The government should not have had the power to interfere in the economy. It should not have held economic power. But since it did, and so long as it did, the abuses necessarily had to take place with each control leading to further and more disastrous controls. To this day, people have not yet grasped that lesson and whenever anything goes wrong in any industry, it is always the free market — the free capitalists — that take the blame. I stress this without exception: If you investigate you will always find that the source of the evils or the abuses was the government controls, not free enterprises or the free market.
+
+Source: Excerpts from “The Robber Barons,” by Ayn Rand. H/T [LibertyPen on YouTube](https://youtu.be/hK18v2Vn8Ug)
+
+<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="473" loading="lazy" src="https://www.youtube.com/embed/hK18v2Vn8Ug?feature=oembed" title="Ayn Rand - Don't Confuse the Two Kinds of Capitalism" width="840"></iframe></div></figure>

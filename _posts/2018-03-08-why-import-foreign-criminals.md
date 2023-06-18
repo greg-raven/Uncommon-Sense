@@ -1,0 +1,12 @@
+---
+title: 'Why import foreign criminals?'
+date: '2018-03-08'
+author: 'Greg Raven'
+layout: post
+categories:
+    - immigration
+tags:
+    - 'Ann Coulter'
+---
+
+We have no choice about native-born criminals. We can do something about the people our government chooses to bring here and set loose on the public. Murderous immigrants aren’t a naturally occurring phenomenon, like an earthquake. They are entirely a result of government policy.

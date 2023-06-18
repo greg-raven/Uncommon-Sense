@@ -1,0 +1,12 @@
+---
+title: 'Liberal spending'
+date: '2009-04-04'
+author: 'Greg Raven'
+layout: post
+categories:
+    - welfare
+tags:
+    - 'G. Gordon Liddy'
+---
+
+A liberal is someone who feels a great debt to his fellow man, which debt he proposes to pay off with your money.

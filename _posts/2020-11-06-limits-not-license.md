@@ -1,0 +1,12 @@
+---
+title: 'Limits, not license'
+date: '2020-11-06'
+author: 'Greg Raven'
+layout: post
+categories:
+    - Constitution
+tags:
+    - 'Ayn Rand'
+---
+
+Today, when a concerted effort is made to obliterate this point, it cannot be repeated too often that the Constitution is a limitation on the government, not on private individuals — that it does not prescribe the conduct of private individuals, only the conduct of the government — that it is not a charter *for* government power, but a charter of the citizen’s protection *against* the government.

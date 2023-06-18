@@ -1,0 +1,12 @@
+---
+title: 'Practical politics'
+date: '2009-05-05'
+author: 'Greg Raven'
+layout: post
+categories:
+    - politics
+tags:
+    - 'H. L. Mencken'
+---
+
+The whole aim of practical politics is to keep the populace alarmed and hence clamorous to be led to safety by menacing it with an endless series of hobgoblins, all of them imaginary.

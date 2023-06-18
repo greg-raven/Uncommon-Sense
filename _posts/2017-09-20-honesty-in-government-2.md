@@ -1,0 +1,12 @@
+---
+title: 'Honesty in government'
+date: '2017-09-20'
+author: 'Greg Raven'
+layout: post
+categories:
+    - government
+tags:
+    - 'Thomas Jefferson'
+---
+
+An honest man can feel no pleasure in the exercise of power over his fellow citizens.

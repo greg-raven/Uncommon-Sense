@@ -1,0 +1,16 @@
+---
+title: 'An experiment in socialism'
+date: '2012-11-23'
+author: 'Greg Raven'
+layout: post
+categories:
+    - socialism
+tags:
+    - 'William Bradford'
+---
+
+\[T\]he experience that was had in this common course and condition, tried sundry years and that amongst godly and sober men, may well evince the vanity of that conceit of Plato’s and other ancients applauded by some of later times; and that the taking away of property and bringing in community into a commonwealth would make them happy and flourishing; as if they were wiser than God.  
+  
+For this community (so far as it was) was found to breed much confusion and discontent and retard much employment that would have been to their benefit and comfort. For the young men, that were most able and fit for labor and service, did repine that they should spend their time and strength to work for other men’s wives and children without any recompense. The strong, or man of parts, had no more in division of victuals and clothes than he that was weak and not able to do a quarter the other could; this was thought injustice. The aged and graver men to be ranked and equalized in labors and victuals, clothes etc., with the meaner and younger sort, thought it some indignity and disrespect unto them. And for men’s wives to be commanded to do service for other men, as dressing their meat, washing their clothes, etc., they deemed it a kind of slavery, neither could many husbands well brook it. Upon the point all being to have alike, and all to do alike, they thought themselves in the like condition, and one as good as another; and so, if it did not cut off those relations that God hath set amongst men, yet it did at least much diminish and take off the mutual respects that should be preserved amongst them. And would have been worse if they had been men of another condition. Let none object this is men’s corruption, and nothing to the course itself. I answer, seeing all men have this corruption in them, God in His wisdom saw another course fitter for them.
+
+All this while no supply was heard of, neither knew they when they might expect any. So they began to think how they might raise as much corn as they could, and obtain a better crop than they had done, that they might not still thus languish in misery. At length, after much debate of things, the Governor (with the advice of the chiefest amongst them) gave way that they should set corn every man for his own particular, and in that regard trust to themselves; in all other thing to go on in the general way as before. And so assigned to every family a parcel of land, according to the proportion of their number, for that end, only for present use (but made no division for inheritance) and ranged all boys and youth under some family. This had very good success, for it made all hands very industrious, so as much more corn was planted than otherwise would have been by any means the Governor or any other could use, and saved him a great deal of trouble, and gave far better content. The women now went willingly into the field, and took their little ones with them to set corn; which before would allege weakness and inability; whom to have compelled would have been thought great tyranny and oppression.

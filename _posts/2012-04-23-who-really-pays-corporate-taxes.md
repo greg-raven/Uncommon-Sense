@@ -1,0 +1,12 @@
+---
+title: 'Who really pays corporate taxes'
+date: '2012-04-23'
+author: 'Greg Raven'
+layout: post
+categories:
+    - taxation
+tags:
+    - 'Calvin Coolidge'
+---
+
+No matter what anyone may say about making the rich and the corporations pay taxes, in the end they come out of the people who toil.

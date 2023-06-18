@@ -1,0 +1,12 @@
+---
+title: 'Ignorance begets ignorance'
+date: '2009-06-11'
+author: 'Greg Raven'
+layout: post
+categories:
+    - 'informed electorate'
+tags:
+    - anonymous
+---
+
+Ignorant people elect ignorant rulers.

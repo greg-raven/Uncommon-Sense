@@ -1,0 +1,22 @@
+---
+title: 'Federal censorship'
+date: '2023-05-11'
+author: 'Greg Raven'
+layout: post
+categories:
+    - speech
+tags:
+    - 'John Sauer'
+---
+
+Federal censorship activities are not in retreat, they are expanding. Federal Executive officials are expanding the topics on which they seek censorship, it’s expanding to more and more agencies, and it’s expanding to any social media platform they can reach. So we are not in a situation where this is something that occurred in the past. We have overwhelming evidence that it’s growing and growing and growing, and there’s little indication that there will ever be any voluntary relinquishment of the power to dictate what ordinary Americans can say on social media, so it’s a problem that is growing. It’s a looming threat.
+
+A second point that I would make is that censorship — as I said in my opening statement, both now and every other time when there’s been censorship throughout human history — is not about truth. It is about political power: It’s about obtaining power, it’s about preserving power, and it’s about expanding power. And the evidence of this again is overwhelming. You see it right there in the documents, some of which were just quoted. You see the White House saying, “what we really want you to take down (Facebook, Twitter, and so forth) is borderline content.” “Borderline content” that’s described in the e-mails as “often true.” It’s often true. “It involves core political speech we want you to take that down because that is what is most effectively undermining the narratives that we want to be out there on social media.” That’s an egregious violation the First Amendment. It is viewpoint discrimination.
+
+I would also point out that many of the comments have been made on the other side today have said we can’t let there be misinformation on social media because a tiny minority of the hundred million people who might see it might take it and do something bad. You might call that the “Minority Report” approach to the First Amendment. It’s absolute poppycock. It turns the First Amendment absolutely on its head. The the promise of the First Amendment is that no official — high or petty — will be able to dictate what Americans do. Americans can make their own opinions. They are adults. They can read the evidence. They can perform their own factual opinions in their own opinions. And that is the core, in the heartland, of the First Amendment, which we see radically perverted in the communications between the White House and virtually every other federal agency that’s discussed in my extensive written testimony.
+
+I would also emphasize censorship does not make Americans safer, it does not make them healthier, and it does not protect our democracy. Censorship is what kills, not freedom. Freedom is what preserves our liberty. Freedom is what makes us safe and healthy as a society. So this notion that we’ve got to have censorship because it’s going to be a threat to our democracy? What could be more anti-democratic than Federal censorship dictating what ordinary Americans can say on social media? The First Amendment in social media radically democratized speech. The First Amendment is the most pro-democratic political statement in history perhaps, because what it says is every ordinary citizen can decide for themselves without interference from federal officials as to what their opinion is, and we can participate in a free market of ideas with freedom of expression, freedom of Association, to engage in that, and that’s what we see under direct assault by a whole army of federal officials, in this case.
+
+And finally I would emphasize that this should not be a partisan issue. Censorship violates the First Amendment, no matter what viewpoint federal officials are going after. Everyone in this chamber should oppose the sorts of pressure, collusion, deception — all the things you see in our evidence in this case. Federal officials should not be in the business of saying what Americans can and cannot say on social media.
+
+And those are the conclusions that I would offer the American people.

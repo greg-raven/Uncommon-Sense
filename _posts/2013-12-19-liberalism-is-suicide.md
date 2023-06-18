@@ -1,0 +1,12 @@
+---
+title: 'Liberalism is suicide'
+date: '2013-12-19'
+author: 'Greg Raven'
+layout: post
+categories:
+    - liberalism
+tags:
+    - 'James Burnham'
+---
+
+Liberalism is the ideology of western suicide. When once this initial and final sentence is understood, everything about liberalism — the beliefs, emotions and values associated with it, the nature of its enchantment, its practical record, its future — falls into place.

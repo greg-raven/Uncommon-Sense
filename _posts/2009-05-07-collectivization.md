@@ -1,0 +1,12 @@
+---
+title: Collectivization
+date: '2009-05-07'
+author: 'Greg Raven'
+layout: post
+categories:
+    - collectivization
+tags:
+    - 'William F. Buckley'
+---
+
+Back in the thirties we were told we must collectivize the nation because the people were so poor. Now we are told we must collectivize the nation because the people are so rich.

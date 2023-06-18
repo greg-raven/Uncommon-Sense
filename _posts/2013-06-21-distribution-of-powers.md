@@ -1,0 +1,12 @@
+---
+title: 'Distribution of powers'
+date: '2013-06-21'
+author: 'Greg Raven'
+layout: post
+categories:
+    - decentralization
+tags:
+    - 'Thomas Jefferson'
+---
+
+I believe the States can best govern our home concerns, and the General Government our foreign ones. I wish, therefore, to see maintained that wholesome distribution of powers established by the constitution for the limitation of both; and never to see all offices transferred to Washington, where, further withdrawn from the eyes of the people, they may more secretly be bought and sold as at market.

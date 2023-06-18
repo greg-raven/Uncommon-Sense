@@ -1,0 +1,12 @@
+---
+title: '‘Gun control’ has not worked'
+date: '2012-12-21'
+author: 'Greg Raven'
+layout: post
+categories:
+    - 'Second Amendment'
+tags:
+    - 'Lt. Lowell Duckett'
+---
+
+Gun control has not worked in D.C. The only people who have guns are criminals. We have the strictest gun laws in the nation and one of the highest murder rates. It’s quicker to pull your Smith and Wesson than to dial 911 if you’re being robbed.

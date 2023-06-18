@@ -1,0 +1,12 @@
+---
+title: 'Wise governance'
+date: '2016-03-07'
+author: 'Greg Raven'
+layout: post
+categories:
+    - government
+tags:
+    - 'Thomas Jefferson'
+---
+
+A wise and frugal government, which shall restrain men from injuring one another, which shall leave them otherwise free to regulate their own pursuits of industry and improvement, and shall not take from the mouth of labor the bread it has earned. This is the sum of good government, and this is necessary to close the circle of our felicity.

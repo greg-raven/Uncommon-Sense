@@ -1,0 +1,18 @@
+---
+title: 'When to dissolve your government'
+date: '2009-12-08'
+author: 'Greg Raven'
+layout: post
+jd_tweet_this:
+    - 'yes'
+wp_jd_target:
+    - 'https://www.gregraven.website/quotes/?p=915'
+sharing_disabled:
+    - '1'
+categories:
+    - rebellion
+tags:
+    - 'Thomas Jefferson'
+---
+
+When the representative body have lost the confidence of their constituents, when they have notoriously made sale of their most valuable rights, when they have assumed to themselves powers which the people never put into their hands, then indeed their continuing in office becomes dangerous to the State, and calls for an exercise of the power of dissolution.

@@ -1,0 +1,13 @@
+---
+title: 'Modern ‘progressivism’'
+date: '2020-07-10'
+author: 'Greg Raven'
+layout: post
+categories:
+    - culture
+    - socialism
+tags:
+    - 'Greg Raven'
+---
+
+Being a ‘progressive’ these days means 1) calling for the destruction of that which is known to work, in favor of that which is known *not* to work, and 2) normalizing the abnormal.

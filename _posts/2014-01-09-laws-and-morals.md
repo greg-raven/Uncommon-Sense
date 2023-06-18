@@ -1,0 +1,12 @@
+---
+title: 'Laws and morals'
+date: '2014-01-09'
+author: 'Greg Raven'
+layout: post
+categories:
+    - morals
+tags:
+    - 'Robert Bork'
+---
+
+\[A\] society deadened by a smothering network of laws while finding release in moral chaos is not likely to be either happy or stable.
