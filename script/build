@@ -2,5 +2,5 @@
 
 set -e
 
-echo "Building Impeach45 ..."
+echo "Building the example site..."
 bundle exec jekyll build
