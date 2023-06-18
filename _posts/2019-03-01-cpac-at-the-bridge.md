@@ -33,7 +33,7 @@ Nearly half a million more immigrants in that time frame got in through the dive
 
 Nearly half of all illegal aliens in the country have violated the terms of their short-term visitor or work visas. More than 10.8 million people received such visas alone in fiscal year 2015, including 500,000 foreign university and graduate students on academic visas and nearly 700,000 total foreign guest workers (both skilled and unskilled, not to mention their spouses, many of whom are allowed to work here as well).
 
-Congress has repeatedly mandated a nationwide visa entry-exit system to track legal short-term visa holders. But one has yet to be built—even in the wake of the 9/11 terrorist attacks, which were perpetrated in part by several illegal alien visa overstayers. E-verify has been stalled. Sanctuary cities metastasized. And BOTH parties are to blame – yeah I’m looking at you, Paul Ryan, Mitch McConnell, the Bush family, Mitt Romney and the ghost of John McCain.
+Congress has repeatedly mandated a nationwide visa entry-exit system to track legal short-term visa holders. But one has yet to be built — even in the wake of the 9/11 terrorist attacks, which were perpetrated in part by several illegal alien visa overstayers. E-verify has been stalled. Sanctuary cities metastasized. And BOTH parties are to blame – yeah I’m looking at you, Paul Ryan, Mitch McConnell, the Bush family, Mitt Romney and the ghost of John McCain.
 
 This unrelenting inflow of new green card holders, short-term foreign visa holders, legal temporary workers, refugees and asylees is supplemented by 13 to 30 million illegal aliens who expect amnesty and chain migration privileges from Washington despite breaking immigration laws governing everything from border jumping to ID fraud, benefits fraud, tax fraud, and marriage fraud, to human and drug trafficking, to employment rules, deportation orders, and visa overstays.
 
@@ -59,13 +59,13 @@ Color of Change and the smear machine racket known as the Southern Poverty Law C
 
 Nice is not enough. Logic and facts and appeals to decency and fairness are not enough. Bemoaning double standards is not enough. Ultimately our future will not be secured in a Fox News anchor chair or a think tank office or on a cruise ship or at a cushy GOP retreat. The future is on the frontlines. At the edge of the bridge.
 
-> Then out spake brave Horatius,  
-> The captain of the Gate.  
-> To every man upon this earth  
-> Death cometh soon or late.  
->  And how can man die better  
-> Than facing fearful odds,  
-> For the ashes of his fathers  
+> Then out spake brave Horatius,
+> The captain of the Gate.
+> To every man upon this earth
+> Death cometh soon or late.
+>  And how can man die better
+> Than facing fearful odds,
+> For the ashes of his fathers
 > And the temples of his Gods?
 
 Instead of throwing allies under that bridge, movement conservatives who have preached so comfortably here in the Beltway about defending America while preserving the status quo need to help provide financial and moral support to the disrupters willing to fight fire with fire. Maybe it’s providence that I am privileged to speak here on the 7th anniversary of Andrew Breitbart’s death. He was a disrupter. We need more disrupters. We need legislative action at the local and state level. We need politicians who will DO SOMETHING to stop the sowers of hate and their handmaidens. Use the tools at your disposal. Don’t just stand there. DO SOMETHING.

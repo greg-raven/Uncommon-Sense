@@ -8,7 +8,7 @@ tags:
     - 'Alyssa Ahlgren'
 ---
 
-I’m sitting in a small coffee shop near Nokomis trying to think of what to write about. I scroll through my newsfeed on my phone looking at the latest headlines of Democratic candidates calling for policies to ‘fix’ the so-called injustices of capitalism. I put my phone down and continue to look around. I see people talking freely, working on their MacBooks, ordering food they get in an instant, seeing cars go by outside, and it dawned on me.
+I’m sitting in a small coffee shop near Nokomis trying to think of what to write about. I scroll through my newsfeed on my phone looking at the latest headlines of Democratic candidates calling for policies to “fix” the so-called injustices of capitalism. I put my phone down and continue to look around. I see people talking freely, working on their MacBooks, ordering food they get in an instant, seeing cars go by outside, and it dawned on me.
 
 We live in the most privileged time in the most prosperous nation and we’ve become completely blind to it. Vehicles, food, technology, freedom to associate with whom we choose. These things are so ingrained in our American way of life we don’t give them a second thought. We are so well off here in the United States that our poverty line begins 31 times above the global average. Thirty. One. Times.
 

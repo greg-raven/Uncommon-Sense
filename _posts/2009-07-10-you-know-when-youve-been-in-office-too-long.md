@@ -8,4 +8,4 @@ tags:
     - 'Ronald Reagan'
 ---
 
-When you start talking about government as ‘we’ instead of ‘they,’ you have been in office too long.
+When you start talking about government as “we” instead of “they,” you have been in office too long.
