@@ -1,7 +1,6 @@
 ---
 title: 'Liberty and faction'
 date: '2010-03-04'
-author: 'James Madison'
 layout: post
 categories:
     - liberty

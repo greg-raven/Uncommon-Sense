@@ -1,7 +1,6 @@
 ---
 title: 'Protection of property'
 date: '2021-04-22'
-author: 'James Madison'
 layout: post
 categories:
     - property

@@ -1,7 +1,6 @@
 ---
 title: 'Loss of liberty'
 date: '2009-04-04'
-author: 'James Madison'
 layout: post
 categories:
     - liberty

@@ -1,7 +1,6 @@
 ---
 title: 'The election cycle'
 date: '2014-10-28'
-author: 'John Adams'
 layout: post
 categories:
     - voting

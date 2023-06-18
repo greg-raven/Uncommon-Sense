@@ -1,7 +1,6 @@
 ---
 title: 'Who can endure these doctrines?'
 date: '2023-06-16'
-author: 'C. S. Lewis'
 layout: post
 categories:
     - individualism

@@ -1,7 +1,6 @@
 ---
 title: 'Belief in the free market'
 date: '2009-04-04'
-author: 'Milton Friedman'
 layout: post
 categories:
     - capitalism

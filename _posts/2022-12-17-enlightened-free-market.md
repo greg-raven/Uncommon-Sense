@@ -1,7 +1,6 @@
 ---
 title: 'Enlightened free-market'
 date: '2022-12-17'
-author: 'James Madison'
 layout: post
 categories:
     - economics

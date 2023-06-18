@@ -1,7 +1,6 @@
 ---
 title: 'Trustworthiness of government'
 date: '2009-12-17'
-author: 'James Madison'
 layout: post
 categories:
     - 'Second Amendment'

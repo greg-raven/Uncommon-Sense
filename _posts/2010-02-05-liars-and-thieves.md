@@ -1,7 +1,6 @@
 ---
 title: 'Liars and thieves'
 date: '2010-02-05'
-author: 'Theodore Roosevelt'
 layout: post
 categories:
     - truth

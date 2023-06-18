@@ -1,7 +1,6 @@
 ---
 title: 'Consequences for Congress'
 date: '2010-10-21'
-author: 'James Madison'
 layout: post
 categories:
     - Constitution

@@ -1,7 +1,6 @@
 ---
 title: 'Commerce Clause'
 date: '2010-07-08'
-author: 'James Madison'
 layout: post
 categories:
     - taxation

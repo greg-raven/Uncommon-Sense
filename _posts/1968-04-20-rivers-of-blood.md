@@ -1,7 +1,6 @@
 ---
 title: '‘Rivers of Blood’'
 date: '1968-04-20'
-author: 'Enoch Powell'
 layout: post
 categories:
     - culture

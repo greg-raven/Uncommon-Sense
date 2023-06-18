@@ -1,7 +1,6 @@
 ---
 title: 'New arrivals must support our Constitution'
 date: '2019-05-08'
-author: 'James Madison'
 layout: post
 categories:
     - immigration

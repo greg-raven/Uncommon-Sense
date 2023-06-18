@@ -1,7 +1,6 @@
 ---
 title: 'No sane country would permit birthright citizenship'
 date: '1993-09-20'
-author: 'Harry Reid'
 layout: post
 categories:
     - citizenship

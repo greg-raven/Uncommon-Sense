@@ -1,7 +1,6 @@
 ---
 title: 'Truth and fiction'
 date: '2009-11-20'
-author: 'Mark Twain'
 layout: post
 categories:
     - truth

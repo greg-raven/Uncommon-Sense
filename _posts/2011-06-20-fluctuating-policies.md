@@ -1,7 +1,6 @@
 ---
 title: 'Fluctuating policies'
 date: '2011-06-20'
-author: 'James Madison'
 layout: post
 categories:
     - regulations

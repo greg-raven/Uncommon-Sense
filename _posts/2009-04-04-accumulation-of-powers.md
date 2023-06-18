@@ -1,7 +1,6 @@
 ---
 title: 'Accumulation of powers'
 date: '2009-04-04'
-author: 'James Madison'
 layout: post
 categories:
     - decentralization

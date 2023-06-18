@@ -1,7 +1,6 @@
 ---
 title: 'Arms for free men'
 date: '2009-04-04'
-author: 'Thomas Jefferson'
 layout: post
 categories:
     - 'Second Amendment'

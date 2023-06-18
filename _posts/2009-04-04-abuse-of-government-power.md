@@ -1,7 +1,6 @@
 ---
 title: 'Abuse of government power'
 date: '2009-04-04'
-author: 'James Madison'
 layout: post
 categories:
     - government

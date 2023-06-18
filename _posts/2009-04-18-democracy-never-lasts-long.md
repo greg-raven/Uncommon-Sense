@@ -1,7 +1,6 @@
 ---
 title: 'Democracy never lasts long'
 date: '2009-04-18'
-author: 'John Adams'
 layout: post
 categories:
     - democracy

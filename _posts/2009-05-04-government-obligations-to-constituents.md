@@ -1,7 +1,6 @@
 ---
 title: 'Government obligations to constituents'
 date: '2009-05-04'
-author: 'James Madison'
 layout: post
 categories:
     - government

@@ -1,7 +1,6 @@
 ---
 title: 'Overbearing majority'
 date: '2009-04-18'
-author: 'James Madison'
 layout: post
 categories:
     - democracy

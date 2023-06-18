@@ -1,7 +1,6 @@
 ---
 title: 'Perspectives on immigration: Cut legal admissions by two-thirds'
 date: '1994-08-10'
-author: 'Harry Reid'
 layout: post
 categories:
     - immigration

@@ -1,7 +1,6 @@
 ---
 title: 'Majority makes right?'
 date: '2015-05-04'
-author: 'James Madison'
 layout: post
 categories:
     - democracy

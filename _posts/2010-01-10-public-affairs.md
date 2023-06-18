@@ -1,7 +1,6 @@
 ---
 title: 'Public affairs'
 date: '2010-01-10'
-author: 'John Adams'
 layout: post
 categories:
     - government

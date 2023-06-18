@@ -1,7 +1,6 @@
 ---
 title: 'Analyzing data'
 date: '2009-04-04'
-author: 'anonymous'
 layout: post
 categories:
     - knowledge

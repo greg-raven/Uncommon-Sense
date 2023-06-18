@@ -1,7 +1,6 @@
 ---
 title: 'The real danger of oppression'
 date: '2009-09-20'
-author: 'James Madison'
 layout: post
 categories:
     - government

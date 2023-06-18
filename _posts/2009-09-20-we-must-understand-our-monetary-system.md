@@ -1,7 +1,6 @@
 ---
 title: 'We must understand our monetary system'
 date: '2009-09-20'
-author: 'John Adams'
 layout: post
 categories:
     - money

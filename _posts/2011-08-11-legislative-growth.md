@@ -1,7 +1,6 @@
 ---
 title: 'Legislative growth'
 date: '2011-08-11'
-author: 'James Madison'
 layout: post
 categories:
     - government

@@ -1,7 +1,6 @@
 ---
 title: 'The ultimate authority lies in an armed populace'
 date: '2010-03-04'
-author: 'James Madison'
 layout: post
 categories:
     - 'Second Amendment'

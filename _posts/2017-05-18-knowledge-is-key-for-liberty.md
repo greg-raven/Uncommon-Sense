@@ -1,7 +1,6 @@
 ---
 title: 'Knowledge is key for liberty'
 date: '2017-05-18'
-author: 'James Madison'
 layout: post
 categories:
     - knowledge

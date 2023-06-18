@@ -1,7 +1,6 @@
 ---
 title: 'The misfortune of government'
 date: '2020-04-17'
-author: 'James Madison'
 layout: post
 categories:
     - government

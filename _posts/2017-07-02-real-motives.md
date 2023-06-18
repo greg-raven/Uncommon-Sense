@@ -1,7 +1,6 @@
 ---
 title: 'Real motives'
 date: '2017-07-02'
-author: 'Thomas Sowell'
 layout: post
 categories:
     - liberalism

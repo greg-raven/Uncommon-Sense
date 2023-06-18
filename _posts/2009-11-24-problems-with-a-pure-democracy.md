@@ -1,7 +1,6 @@
 ---
 title: 'Problems with a pure democracy'
 date: '2009-11-24'
-author: 'James Madison'
 layout: post
 categories:
     - democracy

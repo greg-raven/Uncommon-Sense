@@ -1,7 +1,6 @@
 ---
 title: 'The philosophy of socialism'
 date: '2011-06-19'
-author: 'Winston Churchill'
 layout: post
 categories:
     - socialism

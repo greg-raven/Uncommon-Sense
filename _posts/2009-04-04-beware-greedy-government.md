@@ -1,7 +1,6 @@
 ---
 title: 'Beware greedy government'
 date: '2009-04-04'
-author: 'Thomas Paine'
 layout: post
 categories:
     - government

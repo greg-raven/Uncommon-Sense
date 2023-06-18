@@ -1,7 +1,6 @@
 ---
 title: 'Liberty lost'
 date: '2009-04-04'
-author: 'John Adams'
 layout: post
 categories:
     - Constitution

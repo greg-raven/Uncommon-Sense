@@ -1,7 +1,6 @@
 ---
 title: 'Freedom of the press'
 date: '2022-05-16'
-author: 'James Madison'
 layout: post
 categories:
     - speech

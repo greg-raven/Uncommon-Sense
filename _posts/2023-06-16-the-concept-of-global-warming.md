@@ -1,7 +1,6 @@
 ---
 title: 'The concept of global warming'
 date: '2023-06-16'
-author: 'Donald J. Trump'
 layout: post
 categories:
     - climate

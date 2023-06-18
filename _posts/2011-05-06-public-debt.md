@@ -1,7 +1,6 @@
 ---
 title: 'Public debt'
 date: '2011-05-06'
-author: 'James Madison'
 layout: post
 categories:
     - debt

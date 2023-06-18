@@ -1,7 +1,6 @@
 ---
 title: 'The foundation of self-government'
 date: '2010-06-12'
-author: 'James Madison'
 layout: post
 categories:
     - government

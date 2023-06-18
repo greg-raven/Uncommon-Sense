@@ -1,7 +1,6 @@
 ---
 title: 'Formula for tyranny'
 date: '2015-07-12'
-author: 'James Madison'
 layout: post
 categories:
     - 'Second Amendment'
