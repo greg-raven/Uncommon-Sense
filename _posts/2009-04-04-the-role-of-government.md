@@ -3,10 +3,6 @@ title: 'The role of government'
 date: '2009-04-04'
 author: 'Greg Raven'
 layout: post
-jd_tweet_this:
-    - 'yes'
-wp_jd_target:
-    - 'https://www.gregraven.website/quotes/?p=194'
 categories:
     - government
 tags:

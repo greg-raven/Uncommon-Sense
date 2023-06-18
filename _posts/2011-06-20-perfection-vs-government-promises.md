@@ -3,8 +3,6 @@ title: 'Perfection vs. government promises'
 date: '2011-06-20'
 author: 'Greg Raven'
 layout: post
-sharing_disabled:
-    - '1'
 categories:
     - collectivization
 tags:

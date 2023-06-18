@@ -3,10 +3,6 @@ title: 'The Five Wisdoms of politics'
 date: '2010-02-06'
 author: 'Greg Raven'
 layout: post
-jd_tweet_this:
-    - 'yes'
-wp_jd_target:
-    - 'https://www.gregraven.website/quotes/?p=983'
 categories:
     - politics
 tags:

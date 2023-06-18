@@ -3,10 +3,6 @@ title: 'Benefits of rebellion'
 date: '2009-12-14'
 author: 'Greg Raven'
 layout: post
-jd_tweet_this:
-    - 'yes'
-wp_jd_target:
-    - 'https://www.gregraven.website/quotes/?p=918'
 categories:
     - rebellion
 tags:

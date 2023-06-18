@@ -3,10 +3,6 @@ title: 'Freedom does not come from government'
 date: '2010-01-20'
 author: 'Greg Raven'
 layout: post
-jd_tweet_this:
-    - 'yes'
-wp_jd_target:
-    - 'https://www.gregraven.website/quotes/?p=946'
 categories:
     - liberty
 tags:

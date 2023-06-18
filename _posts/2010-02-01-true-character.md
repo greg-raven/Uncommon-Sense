@@ -3,10 +3,6 @@ title: 'True character'
 date: '2010-02-01'
 author: 'Greg Raven'
 layout: post
-jd_tweet_this:
-    - 'yes'
-wp_jd_target:
-    - 'https://www.gregraven.website/quotes/?p=969'
 categories:
     - virtue
 tags:

@@ -3,10 +3,6 @@ title: 'What socialism means'
 date: '2009-11-23'
 author: 'Greg Raven'
 layout: post
-jd_tweet_this:
-    - 'yes'
-wp_jd_target:
-    - 'https://www.gregraven.website/quotes/?p=894'
 categories:
     - socialism
 tags:

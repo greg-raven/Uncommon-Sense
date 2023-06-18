@@ -3,10 +3,6 @@ title: 'Campaign finance'
 date: '2010-01-25'
 author: 'Greg Raven'
 layout: post
-jd_tweet_this:
-    - 'yes'
-wp_jd_target:
-    - 'https://www.gregraven.website/quotes/?p=959'
 categories:
     - money
 tags:

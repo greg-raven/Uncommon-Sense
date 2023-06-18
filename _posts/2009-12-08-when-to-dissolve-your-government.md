@@ -3,12 +3,6 @@ title: 'When to dissolve your government'
 date: '2009-12-08'
 author: 'Greg Raven'
 layout: post
-jd_tweet_this:
-    - 'yes'
-wp_jd_target:
-    - 'https://www.gregraven.website/quotes/?p=915'
-sharing_disabled:
-    - '1'
 categories:
     - rebellion
 tags:

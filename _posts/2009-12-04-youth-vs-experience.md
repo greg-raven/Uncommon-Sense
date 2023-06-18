@@ -3,10 +3,6 @@ title: 'Youth vs. experience'
 date: '2009-12-04'
 author: 'Greg Raven'
 layout: post
-jd_tweet_this:
-    - 'yes'
-wp_jd_target:
-    - 'https://www.gregraven.website/quotes/?p=913'
 categories:
     - adulthood
 tags:

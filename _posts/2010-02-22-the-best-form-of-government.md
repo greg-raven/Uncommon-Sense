@@ -3,10 +3,6 @@ title: 'The best form of government'
 date: '2010-02-22'
 author: 'Greg Raven'
 layout: post
-jd_tweet_this:
-    - 'yes'
-wp_jd_target:
-    - 'https://www.gregraven.website/quotes/?p=988'
 categories:
     - democracy
 tags:

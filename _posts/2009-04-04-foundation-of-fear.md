@@ -1,7 +1,7 @@
 ---
 title: 'Foundation of fear'
 date: '2009-04-04'
-author: 'Greg Raven'
+author: 'John Adams'
 layout: post
 categories:
     - politics

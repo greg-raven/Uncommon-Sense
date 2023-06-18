@@ -3,14 +3,11 @@ title: 'Efficiency of the private sector'
 date: '2010-01-20'
 author: 'Greg Raven'
 layout: post
-jd_tweet_this:
-    - 'yes'
-wp_jd_target:
-    - 'https://www.gregraven.website/quotes/?p=948'
 categories:
     - decentralization
+    - government
 tags:
     - 'Ronald Reagan'
 ---
 
-Public servants say, always with the best of intentions, ‘What greater service we could render if only we had a little more money and a little more power.’ But the truth is that outside of its legitimate function, government does nothing as well or as economically as the private sector.
+Public servants say, always with the best of intentions, “What greater service we could render if only we had a little more money and a little more power.” But the truth is that outside of its legitimate function, government does nothing as well or as economically as the private sector.

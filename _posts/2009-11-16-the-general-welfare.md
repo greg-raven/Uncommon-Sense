@@ -3,10 +3,6 @@ title: 'The general welfare'
 date: '2009-11-16'
 author: 'Greg Raven'
 layout: post
-jd_tweet_this:
-    - 'yes'
-wp_jd_target:
-    - 'https://www.gregraven.website/quotes/?p=874'
 categories:
     - decentralization
 tags:

@@ -3,10 +3,6 @@ title: 'The need to be well-informed'
 date: '2010-01-22'
 author: 'Greg Raven'
 layout: post
-jd_tweet_this:
-    - 'yes'
-wp_jd_target:
-    - 'https://www.gregraven.website/quotes/?p=954'
 categories:
     - 'informed electorate'
 tags:

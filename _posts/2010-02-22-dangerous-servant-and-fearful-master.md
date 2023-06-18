@@ -3,10 +3,6 @@ title: 'Dangerous servant and fearful master'
 date: '2010-02-22'
 author: 'Greg Raven'
 layout: post
-wp_jd_target:
-    - 'https://www.gregraven.website/quotes/?p=986'
-jd_tweet_this:
-    - 'yes'
 categories:
     - government
 tags:

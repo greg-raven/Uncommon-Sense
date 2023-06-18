@@ -1,7 +1,7 @@
 ---
 title: 'We must understand our monetary system'
 date: '2009-09-20'
-author: 'Greg Raven'
+author: 'John Adams'
 layout: post
 categories:
     - money
