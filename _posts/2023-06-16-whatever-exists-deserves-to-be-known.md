@@ -1,7 +1,7 @@
 ---
 title: 'Whatever exists deserves to be known'
 date: '2023-06-16'
-author: 'Greg Raven'
+author: 'Sir Francis Bacon'
 layout: post
 categories:
     - truth
