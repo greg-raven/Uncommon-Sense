@@ -1,11 +1,9 @@
 ---
 title: 'Real purpose of the 2nd Amendment'
-date: '2014-01-14'
 layout: post
 categories:
     - 'Second Amendment'
-tags:
-    - 'Ann Coulter'
+author: 'Ann Coulter'
 ---
 
 Before you jump on the emotionally-charged bandwagon for gun-control, take a moment to reflect on the real purpose of the Second Amendment, the right of the people to take up arms in defense of themselves, their families, and property in the face of invading armies or an oppressive government.  

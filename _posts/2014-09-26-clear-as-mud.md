@@ -1,11 +1,9 @@
 ---
 title: 'Clear as mud'
-date: '2014-09-26'
 layout: post
 categories:
     - 'foreign policy'
-tags:
-    - 'Aubrey Bailey'
+author: 'Aubrey Bailey'
 ---
 
 Are you confused by what is going on in the Middle East? Let me explain.  

@@ -1,11 +1,9 @@
 ---
 title: 'One-sided representation'
-date: '2020-06-20'
 layout: post
 categories:
     - race
-tags:
-    - 'Thomas Sowell'
+author: 'Thomas Sowell'
 ---
 
 I cannot understand people who say that minorities should be represented everywhere and yet are upset when there are blacks represented in the conservative movement.

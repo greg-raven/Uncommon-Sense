@@ -1,11 +1,9 @@
 ---
 title: 'Injurious banks'
-date: '2022-04-13'
 layout: post
 categories:
     - money
-tags:
-    - 'John Adams'
+author: 'John Adams'
 ---
 
 Banks have done more injury to the religion, morality, tranquility, prosperity, and even wealth of the nation than they can have done or ever will do good.

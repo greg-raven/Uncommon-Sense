@@ -1,11 +1,9 @@
 ---
 title: 'How Affirmative Action creates dangerous double standards'
-date: '2021-11-18'
 layout: post
 categories:
     - race
-tags:
-    - 'Thomas Sowell'
+author: 'Thomas Sowell'
 ---
 
 Who was it who said, “if the Negro cannot stand on his own legs, let him fall”?

@@ -1,6 +1,5 @@
 ---
 title: 'Several by Sobran'
-date: '2022-02-18'
 layout: post
 categories:
     - Constitution
@@ -9,8 +8,7 @@ categories:
     - politics
     - truth
     - war
-tags:
-    - 'Joe Sobran'
+author: 'Joe Sobran'
 ---
 
 Today’s Washington is about as attentive to the Tenth Amendment as the Unitarian Church is to the Book of Revelation.

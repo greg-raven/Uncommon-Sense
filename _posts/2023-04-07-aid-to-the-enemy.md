@@ -1,6 +1,5 @@
 ---
 title: 'Aid to the enemy'
-date: '2023-04-07'
 layout: post
 categories:
     - war

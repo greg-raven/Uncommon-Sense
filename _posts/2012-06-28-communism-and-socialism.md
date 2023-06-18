@@ -1,11 +1,9 @@
 ---
 title: 'Communism and socialism'
-date: '2012-06-28'
 layout: post
 categories:
     - socialism
-tags:
-    - 'Joe Sobran'
+author: 'Joe Sobran'
 ---
 
 If Communism was liberalism in a hurry, liberalism is Communism in slow motion.

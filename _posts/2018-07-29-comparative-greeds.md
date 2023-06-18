@@ -1,11 +1,9 @@
 ---
 title: 'Comparative greeds'
-date: '2018-07-29'
 layout: post
 categories:
     - socialism
-tags:
-    - 'Thomas Sowell'
+author: 'Thomas Sowell'
 ---
 
 It is amazing how many of the intelligentsia call it ‘greed’ to want to keep what you have earned, but not greed to want to take away what somebody else has earned, and let politicians use it to buy votes.

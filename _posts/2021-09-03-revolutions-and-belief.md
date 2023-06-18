@@ -1,11 +1,9 @@
 ---
 title: 'Revolutions and belief'
-date: '2021-09-03'
 layout: post
 categories:
     - rebellion
-tags:
-    - 'Gustave Le Bon'
+author: 'Gustave Le Bon'
 ---
 
 The beginning of a revolution is in reality the end of a belief.

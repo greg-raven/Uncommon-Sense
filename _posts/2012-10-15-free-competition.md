@@ -1,11 +1,9 @@
 ---
 title: 'Free competition'
-date: '2012-10-15'
 layout: post
 categories:
     - capitalism
-tags:
-    - 'Oliver Wendell Holmes Jr.'
+author: 'Oliver Wendell Holmes Jr.'
 ---
 
 Free competition is worth more to society than it costs.

@@ -1,11 +1,9 @@
 ---
 title: 'Rejecting ‘equality of outcome’'
-date: '2018-10-04'
 layout: post
 categories:
     - equality
-tags:
-    - 'Ayn Rand'
+author: 'Ayn Rand'
 ---
 
 I refuse to apologize for my ability —  

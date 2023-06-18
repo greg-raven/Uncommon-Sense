@@ -1,11 +1,9 @@
 ---
 title: 'Youth vs. experience'
-date: '2009-12-04'
 layout: post
 categories:
     - adulthood
-tags:
-    - 'Winston Churchill'
+author: 'Winston Churchill'
 ---
 
 Any man who is under 30, and is not a liberal, has no heart; and any man who is over 30, and is not a conservative, has no brains.

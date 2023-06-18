@@ -1,11 +1,9 @@
 ---
 title: 'Excess taxation'
-date: '2015-08-27'
 layout: post
 categories:
     - taxation
-tags:
-    - 'Calvin Coolidge'
+author: 'Calvin Coolidge'
 ---
 
 Collecting more taxes than is absolutely necessary is legalized robbery.

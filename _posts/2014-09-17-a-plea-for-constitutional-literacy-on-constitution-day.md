@@ -1,11 +1,9 @@
 ---
 title: 'A plea for Constitutional literacy on Constitution Day'
-date: '2014-09-17'
 layout: post
 categories:
     - Constitution
-tags:
-    - 'Ben Carson'
+author: 'Ben Carson'
 ---
 
 I fear we as a nation have drifted too far away from an understanding and appreciation of the greatest governance document the world has ever produced. We have a president today who usurps power never given to him in the Constitution, a dysfunctional Congress so gridlocked that it can’t fulfill its mission as a separate-but-equal branch of government, and a Fourth Estate of media elites who cheerlead for a bigger, more intrusive government that unnecessarily addicts those struggling to escape poverty to handouts, rather than encouraging self-reliance.  

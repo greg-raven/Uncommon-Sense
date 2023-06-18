@@ -1,11 +1,9 @@
 ---
 title: 'Black and White Standards'
-date: '2012-10-31'
 layout: post
 categories:
     - race
-tags:
-    - 'Walter E. Williams'
+author: 'Walter E. Williams'
 ---
 
 I’d like to ask people who approve of Obama’s performance, ‘What has President Obama done during the past four years that you’d like to see more of in the next four years?’  

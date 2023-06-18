@@ -1,11 +1,9 @@
 ---
 title: 'These things I believe'
-date: '2015-04-08'
 layout: post
 categories:
     - government
-tags:
-    - 'Lyn Nofziger'
+author: 'Lyn Nofziger'
 ---
 
 These things I believe:

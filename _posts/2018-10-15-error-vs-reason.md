@@ -1,11 +1,9 @@
 ---
 title: 'Error vs. reason'
-date: '2018-10-15'
 layout: post
 categories:
     - speech
-tags:
-    - 'Thomas Jefferson'
+author: 'Thomas Jefferson'
 ---
 
 Error of opinion may be tolerated when reason is left free to combat it.

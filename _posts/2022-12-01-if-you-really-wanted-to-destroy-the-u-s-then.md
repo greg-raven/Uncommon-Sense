@@ -1,11 +1,9 @@
 ---
 title: 'If you really wanted to destroy the U.S., then …'
-date: '2022-12-01'
 layout: post
 categories:
     - socialism
-tags:
-    - 'Victor Davis Hanson'
+author: 'Victor Davis Hanson'
 ---
 
 First, you would surrender our prior energy independence.

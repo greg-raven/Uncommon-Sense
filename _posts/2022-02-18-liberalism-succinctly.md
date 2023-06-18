@@ -1,11 +1,9 @@
 ---
 title: 'Liberalism succinctly'
-date: '2022-02-18'
 layout: post
 categories:
     - liberalism
-tags:
-    - 'Joe Sobran'
+author: 'Joe Sobran'
 ---
 
 Chesterton spoke of “the modern and morbid habit of always sacrificing the normal to the abnormal.” It would be hard to sum up liberalism more succinctly.

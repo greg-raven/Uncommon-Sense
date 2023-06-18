@@ -1,11 +1,9 @@
 ---
 title: 'Government surveillance'
-date: '2011-10-19'
 layout: post
 categories:
     - liberty
-tags:
-    - 'Vance Packard'
+author: 'Vance Packard'
 ---
 
 The most common characteristic of all police states is intimidation by surveillance. Citizens know they are being watched and overheard. Their mail is being examined. Their homes can be invaded.

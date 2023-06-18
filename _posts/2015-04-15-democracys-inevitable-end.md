@@ -1,11 +1,9 @@
 ---
 title: 'Democracy’s inevitable end'
-date: '2015-04-15'
 layout: post
 categories:
     - democracy
-tags:
-    - Plato
+author: Plato
 ---
 
 Democracy leads to anarchy, which is mob rule.

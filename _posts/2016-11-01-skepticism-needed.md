@@ -1,11 +1,9 @@
 ---
 title: 'Skepticism needed'
-date: '2016-11-01'
 layout: post
 categories:
     - demagogues
-tags:
-    - Voltaire
+author: Voltaire
 ---
 
 Those who can make you believe absurdities, can make you commit atrocities.

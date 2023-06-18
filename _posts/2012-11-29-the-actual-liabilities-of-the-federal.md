@@ -1,11 +1,9 @@
 ---
 title: 'U.S. debt and budget deficit'
-date: '2012-11-29'
 layout: post
 categories:
     - debt
-tags:
-    - 'Bill Archer'
+author: 'Bill Archer'
     - 'Chris Cox'
 ---
 

@@ -1,11 +1,9 @@
 ---
 title: 'Perpetual debt'
-date: '2009-04-04'
 layout: post
 categories:
     - taxation
-tags:
-    - 'Thomas Jefferson'
+author: 'Thomas Jefferson'
 ---
 
 We must not let our rulers load us with perpetual debt.  

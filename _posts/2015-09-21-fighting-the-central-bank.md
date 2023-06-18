@@ -1,12 +1,10 @@
 ---
 title: 'Fighting the central bank'
-date: '2015-09-21'
 layout: post
 categories:
     - economics
     - money
-tags:
-    - 'Olive Cushing Dwinell'
+author: 'Olive Cushing Dwinell'
 ---
 
 Hamilton’s whole monetary policy is based on unconstitutional grounds and unsound reasoning, and fraudulent statements. His policies were fought through the whole public career of Franklin, Jefferson, Madison, Randolph, and many another truly great lovers of Republican Government.  

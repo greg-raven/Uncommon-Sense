@@ -1,11 +1,9 @@
 ---
 title: 'Terrorism vs. war'
-date: '2011-09-27'
 layout: post
 categories:
     - war
-tags:
-    - 'Leon Uris'
+author: 'Leon Uris'
 ---
 
 Terrorism is the war of the poor. War is the terrorism of the rich.

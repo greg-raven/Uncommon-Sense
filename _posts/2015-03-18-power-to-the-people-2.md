@@ -1,12 +1,10 @@
 ---
 title: 'Power to the people?'
-date: '2015-03-18'
 layout: post
 categories:
     - liberalism
     - race
-tags:
-    - 'Walter E. Williams'
+author: 'Walter E. Williams'
 ---
 
 Black leaders stress the importance of political power and getting out the vote, but we might ask how important political power is to the ordinary black person.  

@@ -1,11 +1,9 @@
 ---
 title: 'Arms and politeness'
-date: '2009-05-07'
 layout: post
 categories:
     - 'Second Amendment'
-tags:
-    - 'Robert A. Heinlein'
+author: 'Robert A. Heinlein'
 ---
 
 An armed society is a polite society. Manners are good when one may have to back up his acts with his life.

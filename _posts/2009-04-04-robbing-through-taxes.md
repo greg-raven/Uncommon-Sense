@@ -1,11 +1,9 @@
 ---
 title: 'Robbing through taxes'
-date: '2009-04-04'
 layout: post
 categories:
     - taxation
-tags:
-    - 'George Bernard Shaw'
+author: 'George Bernard Shaw'
 ---
 
 A government which robs Peter to pay Paul can always depend on the support of Paul.

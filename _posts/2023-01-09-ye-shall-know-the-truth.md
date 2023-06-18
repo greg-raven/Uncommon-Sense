@@ -1,11 +1,9 @@
 ---
 title: 'Ye shall know the truth'
-date: '2023-01-09'
 layout: post
 categories:
     - truth
-tags:
-    - 'Aldous Huxley'
+author: 'Aldous Huxley'
 ---
 
 Ye shall know the truth, and the truth shall make you mad.

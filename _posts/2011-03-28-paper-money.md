@@ -1,11 +1,9 @@
 ---
 title: 'Paper money'
-date: '2011-03-28'
 layout: post
 categories:
     - money
-tags:
-    - Voltaire
+author: Voltaire
 ---
 
 Paper money eventually returns to its intrinsic value — zero.

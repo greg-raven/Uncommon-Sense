@@ -1,11 +1,9 @@
 ---
 title: 'Small government'
-date: '2014-08-27'
 layout: post
 categories:
     - government
-tags:
-    - 'John P. Reid'
+author: 'John P. Reid'
 ---
 
 Restraint of government is the true liberty and freedom of the people.

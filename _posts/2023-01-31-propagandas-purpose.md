@@ -1,11 +1,9 @@
 ---
 title: 'Propaganda’s purpose'
-date: '2023-01-31'
 layout: post
 categories:
     - demagogues
-tags:
-    - 'Aldous Huxley'
+author: 'Aldous Huxley'
 ---
 
 The propagandist’s purpose is to make one set of people forget that certain other sets of people are human.

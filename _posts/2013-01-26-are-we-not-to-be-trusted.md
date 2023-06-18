@@ -1,11 +1,9 @@
 ---
 title: 'Are we not to be trusted?'
-date: '2013-01-26'
 layout: post
 categories:
     - 'Second Amendment'
-tags:
-    - 'Patrick Henry'
+author: 'Patrick Henry'
 ---
 
 Are we at last brought to such a humiliating and debasing degradation, that we cannot be trusted with arms for our own defense?

@@ -1,11 +1,9 @@
 ---
 title: 'Black lies matter'
-date: '2016-01-27'
 layout: post
 categories:
     - culture
-tags:
-    - 'Heather Mac Donald'
+author: 'Heather Mac Donald'
 ---
 
 Law enforcement could end all use of lethal force tomorrow, and it would have, at most, a negligible effect on the black death-by-homicide rate, which is driven overwhelmingly by murders committed by other black civilians.

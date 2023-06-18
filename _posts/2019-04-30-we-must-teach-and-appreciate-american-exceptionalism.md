@@ -1,12 +1,10 @@
 ---
 title: 'We must teach and appreciate American exceptionalism'
-date: '2019-04-30'
 layout: post
 categories:
     - culture
     - history
-tags:
-    - 'Ronald Reagan'
+author: 'Ronald Reagan'
 ---
 
 We’ve got to teach history based not on what’s in fashion but what’s important. If we forget what we did, we won’t know who we are. I’m warning of an eradication of the American memory that could result, ultimately, in an erosion of the American spirit.

@@ -1,11 +1,9 @@
 ---
 title: 'Not invented here'
-date: '2009-05-05'
 layout: post
 categories:
     - intolerance
-tags:
-    - 'Alexander Hamilton'
+author: 'Alexander Hamilton'
 ---
 
 Men often oppose a thing merely because they have had no agency in planning it, or because it may have been planned by those whom they dislike.

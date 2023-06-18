@@ -1,11 +1,9 @@
 ---
 title: 'Only the rich have property rights'
-date: '2012-01-18'
 layout: post
 categories:
     - rights
-tags:
-    - 'Steve Symms'
+author: 'Steve Symms'
 ---
 
 Those who cannot afford to sue currently have no protection of their property rights if they come in conflict with a regulation.

@@ -1,11 +1,9 @@
 ---
 title: 'Defining ‘plebiscite’'
-date: '2010-09-20'
 layout: post
 categories:
     - voting
-tags:
-    - 'Ambrose Bierce'
+author: 'Ambrose Bierce'
 ---
 
 PLEBISCITE, n. A popular vote to ascertain the will of the sovereign.

@@ -1,11 +1,9 @@
 ---
 title: '‘Rivers of Blood’'
-date: '1968-04-20'
 layout: post
 categories:
     - culture
-tags:
-    - 'Enoch Powell'
+author: 'Enoch Powell'
 ---
 
 The supreme function of statesmanship is to provide against preventable evils. In seeking to do so, it encounters obstacles which are deeply rooted in human nature.

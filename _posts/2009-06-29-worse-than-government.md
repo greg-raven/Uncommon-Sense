@@ -1,11 +1,9 @@
 ---
 title: 'Worse than government'
-date: '2009-06-29'
 layout: post
 categories:
     - government
-tags:
-    - anonymous
+author: anonymous
 ---
 
 The only thing worse than government is more government.

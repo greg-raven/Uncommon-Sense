@@ -1,11 +1,9 @@
 ---
 title: 'Resisting depotism'
-date: '2020-05-13'
 layout: post
 categories:
     - 'external authority'
-tags:
-    - 'Thomas Paine'
+author: 'Thomas Paine'
 ---
 
 The strength and power of despotism consists wholly in the fear of resistance.

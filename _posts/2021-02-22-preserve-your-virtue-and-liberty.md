@@ -1,11 +1,9 @@
 ---
 title: 'Preserve your virtue and liberty'
-date: '2021-02-22'
 layout: post
 categories:
     - morals
-tags:
-    - 'Benjamin Franklin'
+author: 'Benjamin Franklin'
 ---
 
 Sell not virtue to purchase wealth, nor Liberty to purchase power.

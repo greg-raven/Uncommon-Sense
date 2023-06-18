@@ -1,11 +1,9 @@
 ---
 title: 'White supremacy'
-date: '2017-08-28'
 layout: post
 categories:
     - culture
-tags:
-    - 'Jim Goad'
+author: 'Jim Goad'
 ---
 
 We are led to believe that race doesn’t exist — which would imply that white people don’t exist, either — but that through some sort of socially righteous prestidigitation, white people are easy to spot and must be scapegoated for all human, animal, and plant suffering across the universe from the dawn of time. And if you think that’s a ridiculous burden to bear, that’s only because you’re a “white supremacist.”

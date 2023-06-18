@@ -1,11 +1,9 @@
 ---
 title: 'Hate speech doesn’t exist. Stop legitimizing it'
-date: '2020-06-16'
 layout: post
 categories:
     - speech
-tags:
-    - 'Andrew Torba'
+author: 'Andrew Torba'
 ---
 
 In 2016 when Big Tech started to crack down on “hate speech” I along with many others were quick to point out the “hateful” speech directed at white people, men, Christians, and minorities who dared to step outside the orthodoxy of the “woke” progressive cult.

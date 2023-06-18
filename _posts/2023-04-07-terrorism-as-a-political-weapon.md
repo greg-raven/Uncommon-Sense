@@ -1,11 +1,9 @@
 ---
 title: 'Terrorism as a political weapon'
-date: '2023-04-07'
 layout: post
 categories:
     - evil
-tags:
-    - 'Adolf Hitler'
+author: 'Adolf Hitler'
 ---
 
 Terrorism is the best political weapon for nothing drives people harder than a fear of sudden death.

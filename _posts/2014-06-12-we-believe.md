@@ -1,11 +1,9 @@
 ---
 title: 'We believe …'
-date: '2014-06-12'
 layout: post
 categories:
     - conservatism
-tags:
-    - 'Dave Brat'
+author: 'Dave Brat'
 ---
 
 We Believe …

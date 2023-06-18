@@ -1,11 +1,9 @@
 ---
 title: 'The cure for bad government'
-date: '2013-04-13'
 layout: post
 categories:
     - voting
-tags:
-    - 'Alexander Hamilton'
+author: 'Alexander Hamilton'
 ---
 
 The natural cure for an ill-administration … is a change of men.

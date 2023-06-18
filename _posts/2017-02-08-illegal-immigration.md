@@ -1,11 +1,9 @@
 ---
 title: 'Illegal immigration'
-date: '2017-02-08'
 layout: post
 categories:
     - immigration
-tags:
-    - 'Barack Hussein Obama'
+author: 'Barack Hussein Obama'
 ---
 
 There’s no denying that many blacks share the same anxieties as many whites about the wave of illegal immigration flooding our Southern border — a sense that what’s happening now is fundamentally different from what has gone on before.  

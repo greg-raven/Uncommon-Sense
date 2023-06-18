@@ -1,11 +1,9 @@
 ---
 title: 'Armed citizens prevent military tyranny'
-date: '2011-06-20'
 layout: post
 categories:
     - 'Second Amendment'
-tags:
-    - 'Noah Webster'
+author: 'Noah Webster'
 ---
 
 Another source of power in government is a military force. But this, to be efficient, must be superior to any force that exists among the people, or which they can command; for otherwise this force would be annihilated, on the first exercise of acts of oppression.

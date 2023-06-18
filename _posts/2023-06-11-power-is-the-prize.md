@@ -1,0 +1,9 @@
+---
+title: 'Power is the prize'
+layout: post
+categories:
+    - corruption
+author: 'Oliver Wendell Holmes Jr.'
+---
+
+The only prize much cared for by the powerful is power.

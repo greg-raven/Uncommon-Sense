@@ -1,12 +1,10 @@
 ---
 title: 'The price of utopia is freedom'
-date: '2017-05-20'
 layout: post
 categories:
     - collectivization
     - liberty
-tags:
-    - 'Rod Eccles'
+author: 'Rod Eccles'
 ---
 
 \[T\]here is a problem with utopia. It doesn’t exist. It never has, and it never will, at least not by human standards and by human hands.  

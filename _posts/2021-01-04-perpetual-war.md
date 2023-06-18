@@ -1,11 +1,9 @@
 ---
 title: 'Perpetual war'
-date: '2021-01-04'
 layout: post
 categories:
     - war
-tags:
-    - 'George Orwell'
+author: 'George Orwell'
 ---
 
 The war is not meant to be won, it is meant to be continuous.

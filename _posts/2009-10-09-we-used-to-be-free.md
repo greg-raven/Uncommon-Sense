@@ -1,11 +1,9 @@
 ---
 title: 'We used to be free'
-date: '2009-10-09'
 layout: post
 categories:
     - liberty
-tags:
-    - 'Friedrich August von Hayek'
+author: 'Friedrich August von Hayek'
 ---
 
 It used to be the boast of free men that, so long as they kept within the bounds of the known law, there was no need to ask anybody’s permission or to obey anybody’s orders. It is doubtful whether any of us can make this claim today.

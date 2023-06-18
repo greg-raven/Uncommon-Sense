@@ -1,11 +1,9 @@
 ---
 title: 'Protect us from force and fraud'
-date: '2019-03-11'
 layout: post
 categories:
     - government
-tags:
-    - 'Thomas Jefferson'
+author: 'Thomas Jefferson'
 ---
 
 The legitimate powers of government extend to such acts only as are injurious to others. But it does me no injury for my neighbor to say there are twenty gods, or no God. It neither picks my pocket nor breaks my leg.

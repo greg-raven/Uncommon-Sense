@@ -1,11 +1,9 @@
 ---
 title: 'Freedom of the press'
-date: '2022-05-16'
 layout: post
 categories:
     - speech
-tags:
-    - 'James Madison'
+author: 'James Madison'
 ---
 
 The people shall not be deprived or abridged of their right to speak, or to publish their sentiments; and the freedom of the press, as one of the great bulwarks of liberty, shall be inviolable.

@@ -1,12 +1,10 @@
 ---
 title: 'Ancient truth'
-date: '2022-12-28'
 layout: post
 categories:
     - liberty
     - speech
-tags:
-    - 'Dwight D. Eisenhower'
+author: 'Dwight D. Eisenhower'
 ---
 
 It is an ancient truth that freedom cannot be legislated into existence, so it is no less obvious that freedom cannot be censored into existence. And any who act as if freedom’s defenses are found in suppression and suspicion and fear confess a doctrine that is alien to America.

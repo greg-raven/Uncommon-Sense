@@ -1,12 +1,10 @@
 ---
 title: 'Capitalism vs. socialism'
-date: '2021-01-21'
 layout: post
 categories:
     - capitalism
     - socialism
-tags:
-    - 'Dennis Prager'
+author: 'Dennis Prager'
 ---
 
 Capitalism makes. Socialism takes. Socialism spends the money that capitalism earns.

@@ -1,11 +1,9 @@
 ---
 title: 'Honest money needed'
-date: '2022-01-17'
 layout: post
 categories:
     - money
-tags:
-    - 'Frederick Soddy'
+author: 'Frederick Soddy'
 ---
 
 The whole profit of the issuance of money has provided the capital of the great banking business as it exists today. Starting with nothing whatever of their own, they have got the whole world into their debt irredeemably, by a trick.

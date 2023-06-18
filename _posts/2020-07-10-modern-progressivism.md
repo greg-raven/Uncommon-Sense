@@ -1,12 +1,10 @@
 ---
 title: 'Modern ‘progressivism’'
-date: '2020-07-10'
 layout: post
 categories:
     - culture
     - socialism
-tags:
-    - 'Greg Raven'
+author: 'Greg Raven'
 ---
 
 Being a “progressive” these days means:

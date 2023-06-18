@@ -1,11 +1,9 @@
 ---
 title: '‘Yes, immigration hurts American workers’'
-date: '2016-09-12'
 layout: post
 categories:
     - immigration
-tags:
-    - 'George Borjas'
+author: 'George Borjas'
 ---
 
 … anyone who tells you that immigration doesn’t have any negative effects doesn’t understand how it really works. When the supply of workers goes up, the price that firms have to pay to hire workers goes down.  

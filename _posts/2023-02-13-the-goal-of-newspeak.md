@@ -1,11 +1,9 @@
 ---
 title: 'The goal of Newspeak'
-date: '2023-02-13'
 layout: post
 categories:
     - speech
-tags:
-    - 'George Orwell'
+author: 'George Orwell'
 ---
 
 Don’t you see that the whole aim of Newspeak is to narrow the range of thought? In the end we shall make thoughtcrime literally impossible, because there will be no words in which to express it.

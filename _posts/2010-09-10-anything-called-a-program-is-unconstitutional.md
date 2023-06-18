@@ -1,6 +1,5 @@
 ---
 title: 'Anything called a ‘program’ is unconstitutional'
-date: '2010-09-10'
 layout: post
 categories:
     - Constitution
@@ -9,8 +8,7 @@ categories:
     - politics
     - religion
     - taxation
-tags:
-    - 'Joe Sobran'
+author: 'Joe Sobran'
 ---
 
 - Confessions of a reactionary utopian

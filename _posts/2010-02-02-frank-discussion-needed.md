@@ -1,11 +1,9 @@
 ---
 title: 'Frank discussion needed'
-date: '2010-02-02'
 layout: post
 categories:
     - race
-tags:
-    - 'Eric Holder'
+author: 'Eric Holder'
 ---
 
 We must feel comfortable enough with one another — and tolerant enough of each other — to have frank conversations about the racial matters that continue to divide us.

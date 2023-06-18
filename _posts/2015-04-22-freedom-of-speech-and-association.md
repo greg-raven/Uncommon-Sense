@@ -1,11 +1,9 @@
 ---
 title: 'Freedom of speech and association'
-date: '2015-04-22'
 layout: post
 categories:
     - liberty
-tags:
-    - 'Walter E. Williams'
+author: 'Walter E. Williams'
 ---
 
 What’s the true test of one’s commitment to free speech? It does not come when he permits people to be free to say or publish ideas with which he agrees. Not by a long shot. The true test of one’s commitment to free speech comes when he permits others to say and publish ideas he deems offensive.  

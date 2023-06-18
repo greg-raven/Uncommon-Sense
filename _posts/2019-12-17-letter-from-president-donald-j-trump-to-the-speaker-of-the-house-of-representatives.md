@@ -1,13 +1,11 @@
 ---
 title: 'Letter from President Donald J. Trump to the Speaker of the House of Representatives'
-date: '2019-12-17'
 layout: post
 categories:
     - Constitution
     - demagogues
     - politics
-tags:
-    - 'Donald J. Trump'
+author: 'Donald J. Trump'
 ---
 
 The Honorable Nancy Pelosi  

@@ -1,11 +1,9 @@
 ---
 title: 'Critical theory'
-date: '2020-06-12'
 layout: post
 categories:
     - culture
-tags:
-    - 'Andrew Torba'
+author: 'Andrew Torba'
 ---
 
 Cities are burning to the ground.

@@ -1,11 +1,9 @@
 ---
 title: 'Gradual losses'
-date: '2017-03-23'
 layout: post
 categories:
     - liberty
-tags:
-    - 'David Hume'
+author: 'David Hume'
 ---
 
 It is seldom that liberty of any kind is lost all at once.

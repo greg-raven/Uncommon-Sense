@@ -1,11 +1,9 @@
 ---
 title: Prohibition
-date: '2023-04-07'
 layout: post
 categories:
     - laws
-tags:
-    - 'Abraham Lincoln'
+author: 'Abraham Lincoln'
 ---
 
 Prohibition goes beyond the bounds of reason in that it attempts to control a man’s appetite by legislation, and makes a crime out of things that are not crimes.

@@ -1,11 +1,9 @@
 ---
 title: 'Securing our borders'
-date: '2014-07-01'
 layout: post
 categories:
     - immigration
-tags:
-    - 'Paul Cook'
+author: 'Paul Cook'
 ---
 
 Getting control of our borders is a key national security challenge. America is the most powerful nation in the world and has the resources and ability to secure the border; it’s a question of political will. For too long, politicians have looked the other way while immigration laws are ignored by presidents of both parties.  

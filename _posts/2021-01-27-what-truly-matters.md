@@ -1,11 +1,9 @@
 ---
 title: 'What truly matters'
-date: '2021-01-27'
 layout: post
 categories:
     - government
-tags:
-    - 'Donald J. Trump'
+author: 'Donald J. Trump'
 ---
 
 What truly matters is not which party controls our government, but whether our government is controlled by the people.

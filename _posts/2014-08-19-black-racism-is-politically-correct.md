@@ -1,11 +1,9 @@
 ---
 title: 'Black racism is politically correct'
-date: '2014-08-19'
 layout: post
 categories:
     - race
-tags:
-    - 'Kevin Jackson'
+author: 'Kevin Jackson'
 ---
 
 I’m amazed at how openly racist black Liberals have become, and how few non-blacks are willing to call them out on it.  

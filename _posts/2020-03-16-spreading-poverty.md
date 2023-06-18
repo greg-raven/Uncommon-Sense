@@ -1,11 +1,9 @@
 ---
 title: 'Spreading poverty'
-date: '2020-03-16'
 layout: post
 categories:
     - socialism
-tags:
-    - 'Thomas Sowell'
+author: 'Thomas Sowell'
 ---
 
 The history of the 20th century is full of examples of countries that set out to redistribute wealth and ended up redistributing poverty.

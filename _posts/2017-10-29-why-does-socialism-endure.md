@@ -1,12 +1,10 @@
 ---
 title: 'Why does socialism endure?'
-date: '2017-10-29'
 layout: post
 categories:
     - press
     - socialism
-tags:
-    - 'Taki Theodoracopulos'
+author: 'Taki Theodoracopulos'
 ---
 
 The only thing that surprises me is the mystery of socialism’s enduring appeal.  

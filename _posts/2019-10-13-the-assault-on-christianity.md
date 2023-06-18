@@ -1,11 +1,9 @@
 ---
 title: 'The assault on Christianity'
-date: '2019-10-13'
 layout: post
 categories:
     - religion
-tags:
-    - 'William P. Barr'
+author: 'William P. Barr'
 ---
 
 Today, I would like to share some thoughts with you about religious liberty in America. It’s an important priority in this Administration and for this Department of Justice.

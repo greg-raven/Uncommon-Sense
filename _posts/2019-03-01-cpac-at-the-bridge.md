@@ -1,6 +1,5 @@
 ---
 title: 'CPAC at the Bridge'
-date: '2019-03-01'
 layout: post
 categories:
     - citizenship
@@ -9,8 +8,7 @@ categories:
     - immigration
     - politics
     - press
-tags:
-    - 'Michelle Malkin'
+author: 'Michelle Malkin'
 ---
 
 Good afternoon. Thank you to <abbr title="Conservative Political Action Conference">CPAC</abbr> for the invitation. My name is [Michelle Malkin](http://michellemalkin.com/). I identify as an American. A proud, unhyphenated, unapologetic, fully assimilated American. My pronouns are U.S.A.

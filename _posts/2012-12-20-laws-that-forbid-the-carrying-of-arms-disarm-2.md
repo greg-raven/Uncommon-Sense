@@ -1,11 +1,9 @@
 ---
 title: 'Favoring the criminal'
-date: '2012-12-20'
 layout: post
 categories:
     - 'Second Amendment'
-tags:
-    - 'Cesare Beccaria'
+author: 'Cesare Beccaria'
 ---
 
 False is the idea of utility that sacrifices a thousand real advantages for one imaginary or trifling inconvenience; that would take fire from men because it burns, and water because one may drown in it; that has no remedy for evils except destruction. The laws that forbid the carrying of arms are laws of such a nature. They disarm only those who are neither inclined nor determined to commit crimes.  

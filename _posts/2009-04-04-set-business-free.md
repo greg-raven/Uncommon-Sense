@@ -1,11 +1,9 @@
 ---
 title: 'Set business free'
-date: '2009-04-04'
 layout: post
 categories:
     - capitalism
-tags:
-    - 'Thomas Jefferson'
+author: 'Thomas Jefferson'
 ---
 
 I think all the world would gain by setting commerce at perfect liberty.

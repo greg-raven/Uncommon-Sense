@@ -1,12 +1,10 @@
 ---
 title: 'The cause of all mankind'
-date: '2022-07-27'
 layout: post
 categories:
     - liberty
     - speech
-tags:
-    - 'Benjamin Franklin'
+author: 'Benjamin Franklin'
 ---
 
 It is a common observation here that our cause is the cause of all mankind, and that we are fighting for their liberty in defending our own.

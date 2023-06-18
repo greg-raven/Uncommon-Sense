@@ -1,11 +1,9 @@
 ---
 title: 'Observing state corruption'
-date: '2009-12-20'
 layout: post
 categories:
     - corruption
-tags:
-    - Tacitus
+author: Tacitus
 ---
 
 The more corrupt the state, the more it legislates.

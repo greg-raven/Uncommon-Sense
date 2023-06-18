@@ -1,11 +1,9 @@
 ---
 title: Perfection
-date: '2009-11-23'
 layout: post
 categories:
     - perfection
-tags:
-    - 'Antoine de Saint-Exupery'
+author: 'Antoine de Saint-Exupery'
 ---
 
 Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.

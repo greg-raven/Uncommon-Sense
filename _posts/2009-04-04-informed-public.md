@@ -1,11 +1,9 @@
 ---
 title: 'Informed public'
-date: '2009-04-04'
 layout: post
 categories:
     - 'informed electorate'
-tags:
-    - 'George Washington'
+author: 'George Washington'
 ---
 
 In proportion as the structure of a government gives force to public opinion, it is essential that public opinion should be enlightened.

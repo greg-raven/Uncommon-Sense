@@ -1,11 +1,9 @@
 ---
 title: 'The most sacred duty of government'
-date: '2009-04-06'
 layout: post
 categories:
     - government
-tags:
-    - 'Thomas Jefferson'
+author: 'Thomas Jefferson'
 ---
 
 The most sacred of the duties of a government \[is\] to do equal and impartial justice to all citizens.

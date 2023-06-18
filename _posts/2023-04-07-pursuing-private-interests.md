@@ -1,12 +1,10 @@
 ---
 title: 'Pursuing private interests'
-date: '2023-04-07'
 layout: post
 categories:
     - capitalism
     - individualism
-tags:
-    - 'Adam Smith'
+author: 'Adam Smith'
 ---
 
 By pursuing his own interest \[every individual\] frequently promotes that of the society more effectually than when he really intends to promote it. I have never known much good done by those who affected to trade for the public good.

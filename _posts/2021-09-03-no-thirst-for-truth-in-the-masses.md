@@ -1,11 +1,9 @@
 ---
 title: 'No thirst for truth in the masses'
-date: '2021-09-03'
 layout: post
 categories:
     - truth
-tags:
-    - 'Gustave Le Bon'
+author: 'Gustave Le Bon'
 ---
 
 The masses have never thirsted after truth. They turn aside from evidence that is not to their taste, preferring to deify error, if error seduces them. Whoever can supply them with illusions is easily their master; whoever attempts to destroy their illusions is always their victim.

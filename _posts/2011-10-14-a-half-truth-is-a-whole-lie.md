@@ -1,11 +1,9 @@
 ---
 title: 'Half truth'
-date: '2011-10-14'
 layout: post
 categories:
     - truth
-tags:
-    - anonymous
+author: anonymous
 ---
 
 A half truth is a whole lie.

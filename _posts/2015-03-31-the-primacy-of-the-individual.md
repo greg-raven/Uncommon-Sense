@@ -1,11 +1,9 @@
 ---
 title: 'The primacy of the individual'
-date: '2015-03-31'
 layout: post
 categories:
     - individualism
-tags:
-    - 'Kentucky Declaration of Rights Art. I Sec. 2'
+author: 'Kentucky Declaration of Rights Art. I Sec. 2'
     - 'Wyoming Declaration of Rights Art. I Sec. 7'
 ---
 

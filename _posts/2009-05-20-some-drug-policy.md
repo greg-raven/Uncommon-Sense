@@ -1,11 +1,9 @@
 ---
 title: 'Some drug policy'
-date: '2009-05-20'
 layout: post
 categories:
     - demagogues
-tags:
-    - 'Thomas W. Hazlett'
+author: 'Thomas W. Hazlett'
 ---
 
 When Administration officials announced that President Bush was going to give his very first nationally televised White House speech on drugs, I was skeptical. But after reading the text, I believe they spoke the truth.

@@ -1,11 +1,9 @@
 ---
 title: 'Fight for Western values'
-date: '2015-04-20'
 layout: post
 categories:
     - culture
-tags:
-    - 'Lord Monckton'
+author: 'Lord Monckton'
 ---
 
 On every hand, the West is retrenching, retreating, collapsing, and imploding. We, whose forefathers gave us Christian morality, liberty, democracy, free markets, prosperity, learning, the age of reason and enlightenment, and the scientific method, are throwing all of these priceless advantages away.  

@@ -1,11 +1,9 @@
 ---
 title: 'Culture in a tailspin'
-date: '2014-05-05'
 layout: post
 categories:
     - culture
-tags:
-    - 'Paul Ryan'
+author: 'Paul Ryan'
 ---
 
 We have got this tailspin of culture, in our inner cities in particular, of men not working and just generations of men not even thinking about working or learning the value and culture of work. There is a real culture problem here that has to be dealt with.

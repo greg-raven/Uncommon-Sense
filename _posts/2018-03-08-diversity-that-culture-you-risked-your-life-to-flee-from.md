@@ -1,11 +1,9 @@
 ---
 title: 'Diversity: That culture you risked your life to flee from'
-date: '2018-03-08'
 layout: post
 categories:
     - diversity
-tags:
-    - 'Ann Coulter'
+author: 'Ann Coulter'
 ---
 
 The companion lie to the ‘America is a nation of immigrants’ lie is ‘diversity is a strength.’ Praising diversity is simply part of the PC dogma, a mantra constantly being pounded into our heads. \[…\] Contrary to everything you’ve heard, never in recorded history has diversity been anything but a disaster.  

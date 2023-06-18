@@ -1,11 +1,9 @@
 ---
 title: 'Ending racism'
-date: '2015-03-23'
 layout: post
 categories:
     - race
-tags:
-    - 'Jesse Lee Peterson'
+author: 'Jesse Lee Peterson'
 ---
 
 The sad reality is, most black Americans are not interested in coming together to heal ongoing race issues. They would rather hate and take from ‘the oppressor’ (white folks).  

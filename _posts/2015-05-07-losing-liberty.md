@@ -1,11 +1,9 @@
 ---
 title: 'Losing liberty'
-date: '2015-05-07'
 layout: post
 categories:
     - liberty
-tags:
-    - 'Dorothy Thompson'
+author: 'Dorothy Thompson'
 ---
 
 When liberty is taken away by force it can be restored by force. When it is relinquished voluntarily by default it can never be recovered.

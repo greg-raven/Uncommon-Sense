@@ -1,11 +1,9 @@
 ---
 title: 'Adopting socialism'
-date: '2014-12-16'
 layout: post
 categories:
     - socialism
-tags:
-    - 'Norman Thomas'
+author: 'Norman Thomas'
 ---
 
 The American people will never knowingly adopt Socialism. But under the name of ‘liberalism,’ they will adopt every fragment of the Socialist program, until one day America will be a Socialist nation, without knowing how it happened.  

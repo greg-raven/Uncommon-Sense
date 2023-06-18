@@ -1,13 +1,11 @@
 ---
 title: 'A nation of immigrants is not a nation'
-date: '2018-03-08'
 layout: post
 categories:
     - diversity
     - immigration
     - race
-tags:
-    - 'Ann Coulter'
+author: 'Ann Coulter'
 ---
 
 Contrary to PC nonsense about America being a ‘diverse’ melting pot, America has never been a ‘nation of immigrants.’ Most Americans have always been born here. Even as late as 1990 — a quarter century into Teddy Kennedy’s scheme to remake the nation — half of the American population traced its roots to the black and white populace of 1790.  

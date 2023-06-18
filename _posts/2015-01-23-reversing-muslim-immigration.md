@@ -1,11 +1,9 @@
 ---
 title: 'Reversing Muslim immigration'
-date: '2015-01-23'
 layout: post
 categories:
     - immigration
-tags:
-    - 'Lawrence Auster'
+author: 'Lawrence Auster'
 ---
 
 Muslims in large numbers do not belong in any Western society. It was a mistake to let them in, and now we have to recognize that mistake and find ways to start reversing that immigration.  

@@ -1,11 +1,9 @@
 ---
 title: 'The myth of diversity'
-date: '2010-06-08'
 layout: post
 categories:
     - diversity
-tags:
-    - 'Jared Taylor'
+author: 'Jared Taylor'
 ---
 
 An occasional glance at a newspaper is all it takes to learn that diversity of the kind that is supposed to benefit the United States is a problem wherever it is found. Every large-scale and intractable blood-letting, be it in the Middle East, Ireland, Burundi, or the former Yugoslavia is due to ‘diversity,’ that is to say, people who differ from each other trying to live in the same territory.  

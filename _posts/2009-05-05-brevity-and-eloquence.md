@@ -1,11 +1,9 @@
 ---
 title: 'Brevity and eloquence'
-date: '2009-05-05'
 layout: post
 categories:
     - language
-tags:
-    - 'Marcus Tullius Cicero'
+author: 'Marcus Tullius Cicero'
 ---
 
 Brevity is a great charm of eloquence.

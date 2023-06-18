@@ -1,11 +1,9 @@
 ---
 title: 'Costs of diversity'
-date: '2010-11-25'
 layout: post
 categories:
     - diversity
-tags:
-    - 'Jared Taylor'
+author: 'Jared Taylor'
 ---
 
 It would be edifying to count the number of public and private organizations that exist in the United States only because of its diverse population, and that are not needed in places like Japan or Norway. The U.S. Civil Rights Commission, Equal Employment Opportunity Commission, Office of Federal Contract Compliance, the Justice Department’s Civil Rights Division, and every state and local equivalents of these offices exist only because of racial diversity. Every government office, every university, every large corporation, and every military installation has employees working full-time on affirmative action, discrimination claims, and other ‘diversity’ issues.  

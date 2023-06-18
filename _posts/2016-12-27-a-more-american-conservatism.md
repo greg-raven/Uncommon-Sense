@@ -1,11 +1,9 @@
 ---
 title: 'A more American conservatism'
-date: '2016-12-27'
 layout: post
 categories:
     - conservatism
-tags:
-    - 'Larry P. Arnn'
+author: 'Larry P. Arnn'
 ---
 
 What is conservatism? It is a derivative term: it refers to something outside itself. We cannot conserve the present or the future, and the past being full of contradiction, we cannot conserve it entirely. In the past one finds heroism and villainy; justice and injustice; freedom and slavery. Things in the past are like things in the present: They must be judged. Conservative people know this if they have any sense.  

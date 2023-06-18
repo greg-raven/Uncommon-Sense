@@ -1,11 +1,9 @@
 ---
 title: 'Illegal immigration is wrong'
-date: '2017-09-09'
 layout: post
 categories:
     - immigration
-tags:
-    - 'Chuck Schumer'
+author: 'Chuck Schumer'
 ---
 
 The main idea that underlies each of these principles is that the American people are fundamentally pro-legal immigration and anti-illegal immigration. We will only pass comprehensive reform when we recognize this fundamental concept.

@@ -1,12 +1,10 @@
 ---
 title: 'Don’t hand over your powers'
-date: '2020-02-11'
 layout: post
 categories:
     - collectivization
     - government
-tags:
-    - 'Charley Reese'
+author: 'Charley Reese'
 ---
 
 Powers once assumed are never relinquished, just as bureaucracies, once created, never die.

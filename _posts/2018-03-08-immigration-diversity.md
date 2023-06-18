@@ -1,12 +1,10 @@
 ---
 title: 'Immigration diversity'
-date: '2018-03-08'
 layout: post
 categories:
     - diversity
     - immigration
-tags:
-    - 'Ann Coulter'
+author: 'Ann Coulter'
 ---
 
 Before Teddy Kennedy’s 1965 immigration act extended ‘civil rights’ to the entire world, immigrants to America were far more varied. Seven countries each provided 5 percent or more of the total number of immigrants each year — Italy, Germany, Canada, the United Kingdom, Poland, the Soviet Union, and Mexico.  

@@ -1,11 +1,9 @@
 ---
 title: 'Centralized power'
-date: '2018-01-30'
 layout: post
 categories:
     - government
-tags:
-    - 'John C. Calhoun'
+author: 'John C. Calhoun'
 ---
 
 A power has risen up in the government greater than the people themselves, consisting of many and various powerful interests, combined in one mass, and held together by the cohesive power of the vast surplus in banks.

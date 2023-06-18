@@ -1,11 +1,9 @@
 ---
 title: 'Nation without borders'
-date: '2011-05-27'
 layout: post
 categories:
     - immigration
-tags:
-    - 'Ronald Reagan'
+author: 'Ronald Reagan'
 ---
 
 A nation without borders is not a nation.

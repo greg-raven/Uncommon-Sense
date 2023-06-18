@@ -1,11 +1,9 @@
 ---
 title: 'The ignorance of the educated'
-date: '2020-05-03'
 layout: post
 categories:
     - education
-tags:
-    - 'Thomas Sowell'
+author: 'Thomas Sowell'
 ---
 
 Of all ignorance, the ignorance of the educated is the most dangerous. Not only are educated people likely to have more influence, they are the last people to suspect that they don’t know what they are talking about when they go outside their narrow fields.

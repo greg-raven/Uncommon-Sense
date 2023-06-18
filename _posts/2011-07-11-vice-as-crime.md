@@ -1,11 +1,9 @@
 ---
 title: 'Vice as crime'
-date: '2011-07-11'
 layout: post
 categories:
     - laws
-tags:
-    - 'Lysander Spooner'
+author: 'Lysander Spooner'
 ---
 
 For a government to declare a vice to be a crime, and to punish it as such, is an attempt to falsify the very nature of things. It is as absurd as it would be to declare truth to be a falsehood, or falsehood a truth.

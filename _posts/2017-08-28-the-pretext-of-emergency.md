@@ -1,11 +1,9 @@
 ---
 title: 'The pretext of ‘emergency’'
-date: '2017-08-28'
 layout: post
 categories:
     - government
-tags:
-    - 'Charles Evans Hughes'
+author: 'Charles Evans Hughes'
 ---
 
 Emergency does not create power.

@@ -1,11 +1,9 @@
 ---
 title: '‘White privilege’ is a dangerous conspiracy theory'
-date: '2020-06-17'
 layout: post
 categories:
     - race
-tags:
-    - 'Jared Taylor'
+author: 'Jared Taylor'
 ---
 
 We’re supposed to believe that because blacks and Hispanics and everybody else are here, we suddenly became privileged. \[…\]

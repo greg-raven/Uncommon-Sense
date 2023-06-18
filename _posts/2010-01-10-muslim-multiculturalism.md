@@ -1,11 +1,9 @@
 ---
 title: 'Muslim multiculturalism'
-date: '2010-01-10'
 layout: post
 categories:
     - culture
-tags:
-    - 'Randall Parker'
+author: 'Randall Parker'
 ---
 
 Muslims are nature’s way of telling us that multiculturalism is a really bad idea.

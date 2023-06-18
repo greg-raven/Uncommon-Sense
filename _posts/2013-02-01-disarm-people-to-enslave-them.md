@@ -1,11 +1,9 @@
 ---
 title: 'Disarm people to enslave them'
-date: '2013-02-01'
 layout: post
 categories:
     - 'Second Amendment'
-tags:
-    - 'George Mason'
+author: 'George Mason'
 ---
 
 To disarm the people is the best and most effectual way to enslave them.

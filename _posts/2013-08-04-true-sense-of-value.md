@@ -1,11 +1,9 @@
 ---
 title: 'True sense of value'
-date: '2013-08-04'
 layout: post
 categories:
     - service
-tags:
-    - anonymous
+author: anonymous
 ---
 
 If a true sense of value is to be yours, it must come through service.

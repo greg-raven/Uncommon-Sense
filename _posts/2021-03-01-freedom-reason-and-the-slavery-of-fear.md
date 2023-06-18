@@ -1,12 +1,10 @@
 ---
 title: 'Freedom, reason, and the slavery of fear'
-date: '2021-03-01'
 layout: post
 categories:
     - liberty
     - truth
-tags:
-    - 'Thomas Paine'
+author: 'Thomas Paine'
 ---
 
 Freedom had been hunted round the globe; reason was considered as rebellion; and the slavery of fear had made men afraid to think.

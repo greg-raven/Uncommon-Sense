@@ -1,11 +1,9 @@
 ---
 title: 'What every principal should tell his students'
-date: '2017-05-10'
 layout: post
 categories:
     - education
-tags:
-    - 'Dennis Prager'
+author: 'Dennis Prager'
 ---
 
 To the students and faculty of our high school:

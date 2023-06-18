@@ -1,11 +1,9 @@
 ---
 title: 'The path of civilization'
-date: '2012-11-28'
 layout: post
 categories:
     - history
-tags:
-    - 'Sir Alex Fraser Tytler'
+author: 'Sir Alex Fraser Tytler'
 ---
 
 The average age of the world’s greatest civilizations has been two hundred years. These nations have progressed through this sequence:

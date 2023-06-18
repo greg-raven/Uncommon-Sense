@@ -1,11 +1,9 @@
 ---
 title: 'The sacred obligation of the Constitution'
-date: '2010-03-04'
 layout: post
 categories:
     - Constitution
-tags:
-    - 'George Washington'
+author: 'George Washington'
 ---
 
 The Constitution, which at any time exists ’till changed by an explicit and authentic act of the whole People, is sacredly obligatory upon all.

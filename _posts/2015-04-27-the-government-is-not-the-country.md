@@ -1,11 +1,9 @@
 ---
 title: 'The government is not the country'
-date: '2015-04-27'
 layout: post
 categories:
     - government
-tags:
-    - 'Mark Twain'
+author: 'Mark Twain'
 ---
 
 For in a Republic, who is ‘the country?’ Is it the Government which is for the moment in the saddle? Why, the Government is merely a servant — merely a temporary servant; it cannot be its prerogative to determine what is right and what is wrong, and decide who is a patriot and who isn’t. Its function is to obey orders, not originate them.

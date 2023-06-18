@@ -1,11 +1,9 @@
 ---
 title: 'Secular religion'
-date: '2014-12-03'
 layout: post
 categories:
     - socialism
-tags:
-    - 'Auberon Herbert'
+author: 'Auberon Herbert'
 ---
 
 Socialism is but Catholicism addressing itself not to the soul but to the sense of men …  

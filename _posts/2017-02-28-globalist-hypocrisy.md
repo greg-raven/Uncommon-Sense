@@ -1,12 +1,10 @@
 ---
 title: 'Globalist hypocrisy'
-date: '2017-02-28'
 layout: post
 categories:
     - collectivization
     - diversity
-tags:
-    - 'Jim Goad'
+author: 'Jim Goad'
 ---
 
 As far as I can tell, globalism is a scheme concocted by the rich to destroy the working and middle classes through worldwide financial imperialism.  

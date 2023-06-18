@@ -1,12 +1,10 @@
 ---
 title: 'Progressive policies make the rich richer'
-date: '2016-10-05'
 layout: post
 categories:
     - conservatism
     - immigration
-tags:
-    - 'Ann Coulter'
+author: 'Ann Coulter'
 ---
 
 If you want a conservative country, you need a conservative populace. Immigration is changing the country, and there will be no changing it back. If you don’t understand that, you are the enemy of any conservative undertaking.  

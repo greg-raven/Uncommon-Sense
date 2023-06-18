@@ -1,11 +1,9 @@
 ---
 title: 'Gun rights are fundamental to our liberty'
-date: '2021-04-10'
 layout: post
 categories:
     - 'Second Amendment'
-tags:
-    - 'Ted Cruz'
+author: 'Ted Cruz'
 ---
 
 The right to keep and bear arms is fundamental for preserving our liberty.

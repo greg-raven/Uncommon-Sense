@@ -1,11 +1,9 @@
 ---
 title: 'Liberal racism'
-date: '2020-06-20'
 layout: post
 categories:
     - race
-tags:
-    - 'Thomas Sowell'
+author: 'Thomas Sowell'
 ---
 
 The liberal vision of blacks’ fate as being almost wholly in the hands of whites is a debilitating message for those blacks who take it seriously, however convenient it may be for those who are receptive to an alibi.

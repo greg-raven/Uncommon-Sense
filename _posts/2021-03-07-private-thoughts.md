@@ -1,11 +1,9 @@
 ---
 title: 'Private thoughts'
-date: '2021-03-07'
 layout: post
 categories:
     - speech
-tags:
-    - 'Charles A. Lindbergh Jr.'
+author: 'Charles A. Lindbergh Jr.'
 ---
 
 Isn’t it strange that we talk least about the things we think about most?

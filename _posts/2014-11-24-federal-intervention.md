@@ -1,14 +1,12 @@
 ---
 title: 'Federal intervention'
-date: '2014-11-24'
 layout: post
 categories:
     - education
     - government
     - race
     - welfare
-tags:
-    - 'Robert W. Lee'
+author: 'Robert W. Lee'
 ---
 
 It is becoming increasingly apparent that many — arguably most — of the problems that plague our nation have been aggravated rather than alleviated by federal intervention.  

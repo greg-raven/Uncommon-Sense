@@ -1,11 +1,9 @@
 ---
 title: 'Going from despotism to liberty'
-date: '2010-05-25'
 layout: post
 categories:
     - rebellion
-tags:
-    - 'Thomas Jefferson'
+author: 'Thomas Jefferson'
 ---
 
 We are not to expect to be translated from despotism to liberty in a feather bed.

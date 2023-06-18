@@ -1,11 +1,9 @@
 ---
 title: 'Appropriate form of government'
-date: '2016-10-31'
 layout: post
 categories:
     - government
-tags:
-    - 'Charles de Montesquieu'
+author: 'Charles de Montesquieu'
 ---
 
 Government should be set up so that no man need be afraid of another.

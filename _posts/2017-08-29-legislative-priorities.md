@@ -1,11 +1,9 @@
 ---
 title: 'Legislative priorities'
-date: '2017-08-29'
 layout: post
 categories:
     - government
-tags:
-    - 'Calvin Coolidge'
+author: 'Calvin Coolidge'
 ---
 
 It is much more important to kill bad bills than to pass good ones.

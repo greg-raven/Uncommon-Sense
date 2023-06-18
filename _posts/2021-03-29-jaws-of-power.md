@@ -1,11 +1,9 @@
 ---
 title: 'Jaws of power'
-date: '2021-03-29'
 layout: post
 categories:
     - collectivization
-tags:
-    - 'John Adams'
+author: 'John Adams'
 ---
 
 The jaws of power are always open to devour, and her arm is always stretched out, if possible, to destroy the freedom of thinking, speaking, and writing.

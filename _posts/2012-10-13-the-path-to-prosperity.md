@@ -1,11 +1,9 @@
 ---
 title: 'The path to prosperity'
-date: '2012-10-13'
 layout: post
 categories:
     - prosperity
-tags:
-    - 'John F. Kennedy'
+author: 'John F. Kennedy'
 ---
 
 There are a number of ways by which the federal government can meet its responsibilities to aid economic growth. We can and must improve American education and technical training. We can and must expand civilian research and technology. One of the great bottlenecks for this country’s economic growth in this decade will be the shortages of doctorates in mathematics, engineering, and physics — a serious shortage with a great demand and an undersupply of highly trained manpower. We can and must step up the development of our natural resources.  

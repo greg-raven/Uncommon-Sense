@@ -1,11 +1,9 @@
 ---
 title: Socialism
-date: '2021-01-30'
 layout: post
 categories:
     - socialism
-tags:
-    - anonymous
+author: anonymous
 ---
 
 Socialism is resentment disguised as compassion enforced by tyranny disguised as tolerance.

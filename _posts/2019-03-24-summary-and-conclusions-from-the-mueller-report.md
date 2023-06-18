@@ -1,11 +1,9 @@
 ---
 title: 'Summary and conclusions from the Mueller Report'
-date: '2019-03-24'
 layout: post
 categories:
     - 'informed electorate'
-tags:
-    - 'William P. Barr'
+author: 'William P. Barr'
 ---
 
 As a supplement to the notification provided on Friday, March 22, 2019, I am writing today to advise you of the principal conclusions reached by Special Counsel Robert S. Mueller III and to inform you about the status of my initial review of the report he has

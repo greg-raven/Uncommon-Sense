@@ -1,11 +1,9 @@
 ---
 title: 'Toxic femininity'
-date: '2019-11-11'
 layout: post
 categories:
     - democracy
-tags:
-    - Aristotle
+author: Aristotle
 ---
 
 Masculine republics give way to feminine democracies, and feminine democracies give way to tyranny.

@@ -1,11 +1,9 @@
 ---
 title: 'The urge to censor'
-date: '2019-01-18'
 layout: post
 categories:
     - speech
-tags:
-    - 'Thomas Sowell'
+author: 'Thomas Sowell'
 ---
 
 What is ominous is the ease with which some people go from saying that they don’t like something to saying that the government should forbid it. When you go down that road, don’t expect freedom to survive very long.

@@ -1,13 +1,11 @@
 ---
 title: 'A time for choosing'
-date: '2020-05-25'
 layout: post
 categories:
     - liberty
     - socialism
     - taxation
-tags:
-    - 'Ronald Reagan'
+author: 'Ronald Reagan'
 ---
 
 I have spent most of my life as a Democrat. I recently have seen fit to follow another course. I believe that the issues confronting us cross party lines. Now, one side in this campaign has been telling us that the issues of this election are the maintenance of peace and prosperity. The line has been used, “We’ve never had it so good.”

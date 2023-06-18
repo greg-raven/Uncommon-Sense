@@ -1,11 +1,9 @@
 ---
 title: 'Give me liberty or give me death'
-date: '2013-01-26'
 layout: post
 categories:
     - liberty
-tags:
-    - 'Patrick Henry'
+author: 'Patrick Henry'
 ---
 
 No man thinks more highly than I do of the patriotism, as well as abilities, of the very worthy gentlemen who have just addressed the House. But different men often see the same subject in different lights; and, therefore, I hope it will not be thought disrespectful to those gentlemen if, entertaining as I do opinions of a character very opposite to theirs, I shall speak forth my sentiments freely and without reserve. This is no time for ceremony. The questing before the House is one of awful moment to this country. For my own part, I consider it as nothing less than a question of freedom or slavery; and in proportion to the magnitude of the subject ought to be the freedom of the debate. It is only in this way that we can hope to arrive at truth, and fulfill the great responsibility which we hold to God and our country. Should I keep back my opinions at such a time, through fear of giving offense, I should consider myself as guilty of treason towards my country, and of an act of disloyalty toward the Majesty of Heaven, which I revere above all earthly kings.

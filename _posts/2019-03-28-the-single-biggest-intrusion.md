@@ -1,11 +1,9 @@
 ---
 title: 'The single biggest intrusion'
-date: '2019-03-28'
 layout: post
 categories:
     - taxation
-tags:
-    - 'Harry Browne'
+author: 'Harry Browne'
 ---
 
 The income tax is the biggest single intrusion suffered by the American people. It forces every worker to be a bookkeeper, to open his records to the government, to explain his expenses, to fear conviction for a harmless accounting error. Compliance wastes billions of dollars. It  

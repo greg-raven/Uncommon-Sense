@@ -1,12 +1,10 @@
 ---
 title: Subsidies
-date: '2019-03-20'
 layout: post
 categories:
     - taxation
     - welfare
-tags:
-    - 'James Bovard'
+author: 'James Bovard'
 ---
 
 Subsidies entail politicians’ taking the citizen’s paycheck and then using it to buy his submission.

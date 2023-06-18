@@ -1,11 +1,9 @@
 ---
 title: 'No favored nations'
-date: '2013-08-26'
 layout: post
 categories:
     - 'foreign policy'
-tags:
-    - 'George Washington'
+author: 'George Washington'
 ---
 
 A passionate attachment of one nation for another produces a variety of evils.  

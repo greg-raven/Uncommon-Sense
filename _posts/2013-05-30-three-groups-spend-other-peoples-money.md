@@ -1,11 +1,9 @@
 ---
 title: 'Spending other people’s money'
-date: '2013-05-30'
 layout: post
 categories:
     - welfare
-tags:
-    - 'Richard Armey'
+author: 'Richard Armey'
 ---
 
 Three groups spend other people’s money: Children, thieves, politicians. All three need supervision.

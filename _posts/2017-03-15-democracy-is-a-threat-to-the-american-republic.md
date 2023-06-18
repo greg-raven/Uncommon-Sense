@@ -1,12 +1,10 @@
 ---
 title: 'Democracy is a threat to the American republic'
-date: '2017-03-15'
 layout: post
 categories:
     - Constitution
     - democracy
-tags:
-    - 'Paul Pauker'
+author: 'Paul Pauker'
 ---
 
 The media’s daily outbursts about the danger to democracy posed by the current administration, while highly amusing, omit a key piece of information. The United States is not a democracy; the United States is a republic.  
