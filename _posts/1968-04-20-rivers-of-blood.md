@@ -83,7 +83,7 @@ We are on the verge here of a change. Hitherto it has been force of circumstance
 
 Now we are seeing the growth of positive forces acting against integration, of vested interests in the preservation and sharpening of racial and religious differences, with a view to the exercise of actual domination, first over fellow-immigrants and then over the rest of the population. The cloud no bigger than a man’s hand, that can so rapidly overcast the sky, has been visible recently in Wolverhampton and has shown signs of spreading quickly. The words I am about to use, verbatim as they appeared in the local press on 17 February, are not mine, but those of a Labour Member of Parliament who is a minister in the present government:
 
-‘The Sikh communities’ campaign to maintain customs inappropriate in Britain is much to be regretted. Working in Britain, particularly in the public services, they should be prepared to accept the terms and conditions of their employment. To claim special communal rights (or should one say rites?) leads to a dangerous fragmentation within society. This communalism is a canker; whether practised by one colour or another it is to be strongly condemned.’
+“‘The Sikh communities’ campaign to maintain customs inappropriate in Britain is much to be regretted. Working in Britain, particularly in the public services, they should be prepared to accept the terms and conditions of their employment. To claim special communal rights (or should one say rites?) leads to a dangerous fragmentation within society. This communalism is a canker; whether practised by one colour or another it is to be strongly condemned.”
 
 All credit to John Stonehouse for having had the insight to perceive that, and the courage to say it.
 
