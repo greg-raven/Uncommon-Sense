@@ -1339,3 +1339,5 @@
 “The dollar represents a one dollar debt to the Federal Reserve System.  The Federal Reserve Banks create money out of thin air to buy Government Bonds from the U.S. Treasury … and has created out of nothing a … debt which the American people are obliged to pay with interest.” — Wright Patman
 
 “The people are not to be disarmed of their weapons. They are left in full possession of them.” — Zachariah Johnson
+
+Whenever people are in power they’re, you know, they have this tendency to try to, you know, tilt things in their direction. — Barack Obama, 2008-09-03
