@@ -1,18 +1,10 @@
-“Freedom of the mind requires not only, or not even especially, the absence of legal constraints but the presence of alternative thoughts. The most successful tyranny is not the one that uses force to assure uniformity, but the one that removes awareness of other possibilities.” — Alan Bloom
-
-“No one understood better than Stalin that the true object of propaganda is neither to convince nor even to persuade, but to produce a uniform pattern of public utterance in which the first trace of unorthodox thought immediately reveals itself as a jarring dissonance.” — Alan Bullock
-
-“The whole of the Bill [of Rights] is a declaration of the right of the people at large or considered as individuals … It establishes some rights of the individual as unalienable and which consequently, no majority has a right to deprive them of.” — Albert Gallatin
-
-“Almost everyone seems concerned with the need to relax tension. However, relaxation of tension, which everyone thinks is good, is not easily distinguished from relaxing one’s guard, which almost everyone thinks is bad. Relaxation, like Miltown, is not an end in itself. Not all danger comes from tension. The reverse relation, to be tense where there is danger, is only rational.” — Albert Wohlstetter
-
-“The loss of candor is grievous, and in my opinion it may yet prove to be mortal, because if we cannot discuss our problems in plain speech that describes reality, it is unlikely that we will be able to solve them.” — Alexander Haig
-
-“The liberty of the individual is the greatest thing of all, it is on this and this alone that the true will of the people can develop.” — Alexander Ivanovich Herzen
-
-“The most common way people give up their power is by thinking they don’t have any.” — Alice Walker
-
-“The illiterate of the 21st century will not be those who cannot read and write, but those who cannot learn, unlearn, and relearn.” — Alvin Toffler
+---
+title: ''
+layout: post
+categories:
+    -
+author: ''
+---
 
 “It is the duty of the officials to prevent or suppress the threatened disorder with a firm hand instead of timidly yielding to threats? Surely a speaker ought not to be suppressed because his opponents propose to use violence. It is they who should suffer from their lawlessness, not he.” — American Bar Association
 

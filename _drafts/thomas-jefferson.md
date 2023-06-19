@@ -6,8 +6,6 @@ categories:
 author: 'Thomas Jefferson'
 ---
 
-Above all things I hope the education of the common people will be attended to, convinced that on their good sense we may rely with the most security for the preservation of a due degree of liberty.
-
 And can the liberties of a nation be thought secure when we have removed their only firm basis, a conviction in the minds of the people that these liberties are the gift of God? That they are not to be violated but with his wrath?
 
 Cultivators of the earth are the most valuable citizens.
