@@ -1329,7 +1329,3 @@ author: ''
 “We have what is known as the Federal Reserve Bank System. That system is not owned by the Government. Many people think that it is because it says ‘Federal Reserve.’ It belongs to private banks, private corporations. So we have farmed out to the Federal Reserve Banking System that which is owned exclusively, wholly, one hundred percent to the private banks — we have farmed out to them the privilege of issuing the Government’s money!” — Wright Patman
 
 “The dollar represents a one dollar debt to the Federal Reserve System.  The Federal Reserve Banks create money out of thin air to buy Government Bonds from the U.S. Treasury … and has created out of nothing a … debt which the American people are obliged to pay with interest.” — Wright Patman
-
-“The people are not to be disarmed of their weapons. They are left in full possession of them.” — Zachariah Johnson
-
-Whenever people are in power they’re, you know, they have this tendency to try to, you know, tilt things in their direction. — Barack Obama, 2008-09-03
