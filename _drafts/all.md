@@ -1329,3 +1329,146 @@ author: ''
 “We have what is known as the Federal Reserve Bank System. That system is not owned by the Government. Many people think that it is because it says ‘Federal Reserve.’ It belongs to private banks, private corporations. So we have farmed out to the Federal Reserve Banking System that which is owned exclusively, wholly, one hundred percent to the private banks — we have farmed out to them the privilege of issuing the Government’s money!” — Wright Patman
 
 “The dollar represents a one dollar debt to the Federal Reserve System.  The Federal Reserve Banks create money out of thin air to buy Government Bonds from the U.S. Treasury … and has created out of nothing a … debt which the American people are obliged to pay with interest.” — Wright Patman
+
+“Glory is fleeting, but obscurity is forever. “
+- Napoleon Bonaparte (1769-1821)
+
+“Don’t be so humble -- you are not that great. “
+- Golda Meir (1898-1978) to a visiting diplomat
+
+“His ignorance is encyclopedic”
+- Abba Eban (1915-)
+
+“If a man does his best, what else is there?”
+- General George S. Patton (1885-1945)
+
+“Not everything that can be counted counts, and not everything that counts can be counted. “
+- Albert Einstein (1879-1955)
+
+“Only two things are infinite, the universe and human stupidity, and I’m not sure about the former. “
+- Albert Einstein (1879-1955)
+
+“A lie gets halfway around the world before the truth has a chance to get its pants on. “
+- Sir Winston Churchill (1874-1965)
+
+“I find that the harder I work, the more luck I seem to have. “
+- Thomas Jefferson (1743-1826)
+
+“Each problem that I solved became a rule which served afterwards to solve other problems. “
+- Rene Descartes (1596-1650), “Discours de la Methode”
+
+“Moral indignation is jealousy with a halo.”
+- H. G. Wells (1866-1946)
+
+“Obstacles are those frightful things you see when you take your eyes off your goal.”
+- Henry Ford (1863-1947)
+
+“My advice to you is get married: if you find a good wife you’ll be
+happy; if not, you’ll become a philosopher. “
+- Socrates (470-399 B.C.)
+
+“Egotist: a person more interested in himself than in me. “
+- Ambrose Bierce (1842-1914)
+
+“It has become appallingly obvious that our technology has exceeded our
+humanity. “
+- Albert Einstein (1879-1955)
+
+“Any man who is under 30, and is not a liberal, has no heart; and any man who is over 30, and is not a conservative, has no brains.”
+- Sir Winston Churchill (1874-1965)
+
+“I would have made a good Pope. “
+- Richard M. Nixon (1913-1994)
+
+“Make everything as simple as possible, but not simpler. “
+- Albert Einstein (1879-1955)
+
+“It is dangerous to be sincere unless you are also stupid. “
+- George Bernard Shaw (1856-1950)
+
+“A man can’t be too careful in the choice of his enemies. “
+- Oscar Wilde (1854-1900)
+
+“Forgive your enemies, but never forget their names. “
+- John F. Kennedy (1917-1963)
+
+“Well-timed silence hath more eloquence than speech. “
+- Martin Fraquhar Tupper
+
+“From the moment I picked your book up until I laid it down I was convulsed with laughter. Some day I intend reading it. “
+- Groucho Marx (1895-1977)
+
+“It is better to have a permanent income than to be fascinating. “
+- Oscar Wilde (1854-1900)
+
+“The graveyards are full of indispensable men. “
+- Charles de Gaulle (1890-1970)
+
+“You can pretend to be serious; you can’t pretend to be witty. “
+- Sacha Guitry (1885-1957)
+
+“Behind every great fortune there is a crime. “
+- Honore de Balzac (1799-1850)
+
+“I am not young enough to know everything. “
+- Oscar Wilde (1854-1900)
+
+“The object of war is not to die for your country but to make the other
+bastard die for his. “
+- General George Patton (1885-1945)
+
+“Too many pieces of music finish too long after the end. “
+- Igor Stravinsky (1882-1971)
+
+“Happiness is good health and a bad memory. “
+- Ingrid Bergman (1917-1982)
+
+“Friends may come and go, but enemies accumulate. “
+- Thomas Jones
+
+“You can get more with a kind word and a gun than you can with a kind
+word alone. “
+- Al Capone (1899-1947)
+
+“The cynics are right nine times out of ten. “
+- Henry Louis Mencken (1880-1956)
+
+“Attention to health is life’s greatest hindrance. “
+- Plato (427-347 B.C.)
+
+“Not only is there no God, but try finding a plumber on Sunday. “
+- Woody Allen (1935-)
+
+“I have never let my schooling interfere with my education. “
+- Mark Twain (1835-1910)
+
+“I don’t want to achieve immortality through my work; I want to achieve
+immortality through not dying. “
+- Woody Allen (1935-)
+
+“In America, anybody can be president. That’s one of the risks you take.”
+- Adlai Stevenson (1900-1965)
+
+“Well done is better than well said. “
+- Benjamin Franklin (1706-1790)
+
+“Heav’n hath no rage like love to hatred turn’d, Nor Hell a fury, like a
+woman scorn’d. “
+- William Congreve (1670-1729)
+
+“A pessimist sees the difficulty in every opportunity; an optimist sees
+the opportunity in every difficulty. “
+- Sir Winston Churchill (1874-1965)
+
+“Everything that can be invented has been invented. “
+- Charles H. Duell, Commissioner, U.S. Office of Patents, 1899
+
+“The difference between fiction and reality? Fiction has to make sense. “
+- Tom Clancy
+
+“It’s not the size of the dog in the fight, it’s the size of the fight in
+the dog. “
+- Mark Twain (1835-1910)
+
+“That would depend on your definition of the word ‘is”
+-William Jefferson Clinton (1936-)
