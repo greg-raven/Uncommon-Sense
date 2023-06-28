@@ -18,7 +18,8 @@ plugins:
   - jekyll-sitemap
 
 jekyll-archives:
-  enabled: all
+  enabled:
+    - categories
   layouts:
     category: category-archive
     tag: author-archive
