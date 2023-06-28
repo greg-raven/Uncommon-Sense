@@ -21,9 +21,9 @@ jekyll-archives:
   enabled: all
   layouts:
     category: category-archive
-    tag: tag-archive
+    tag: author-archive
   permalinks:
-    tag: '/tag/:name/'
+    tag: '/author/:name/'
     category: '/category/:name/'
 
 # Theme-specific settings
