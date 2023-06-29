@@ -6,10 +6,10 @@ layout: base
   <header class="post-header">
     <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
     <p class="post-meta">
-      {%- if page.author -%}
-        Source: {% for author in page.author %}
+      {%- if page.tags -%}
+        Source: {% for tag in page.tags %}
           <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-            <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
+            <span class="p-author h-card" itemprop="name">{{ tag }}</span></span>
             {%- if forloop.last == false %}, {% endif -%}
         {% endfor %}
       {%- endif -%}
