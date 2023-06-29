@@ -1456,3 +1456,11 @@ the opportunity in every difficulty. “
 
 That would depend on your definition of the word ‘is”
 -William Jefferson Clinton (1936-)
+
+“Science is the belief in the ignorance of the experts.” — Richard Feynman
+
+“Lower CO2 levels do not produce a good climate. History shows that unequivocally.” — Tony Heller
+
+“It will be remembered as the greatest mass delusion in the history of the world — that CO2, the life of plants, was considered for a time to be a deadly poison.” — Richard Lindzen, Professor Emeritus, Earth Sciences, M.I.T.
+
+“A civilization which bases policy on superstition is doomed to failure.” — Tony Heller
