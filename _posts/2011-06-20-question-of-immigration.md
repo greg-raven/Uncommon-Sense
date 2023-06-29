@@ -1,5 +1,5 @@
 ---
-title: Immigration
+title: Asylum immigration
 layout: post
 categories:
     - immigration
