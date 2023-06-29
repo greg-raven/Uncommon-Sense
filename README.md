@@ -1,3 +1,3 @@
-# Uncommon-Sense
+# Uncommon Sense
 
 Pithy sayings and brilliant observations.
