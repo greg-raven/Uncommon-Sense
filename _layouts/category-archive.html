@@ -2,7 +2,7 @@
 layout: base
 ---
 <h1>Archive of posts with {{ page.category }} '{{ page.title }}'</h1>
-<ul class="posts">
+<ul class="po-sts">
   {% for post in page.posts %}
     <li>
       <a class="post-link" href="{{ post.url | relative_url }}">{{ post.title }}</a>
