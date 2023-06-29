@@ -20,12 +20,12 @@ plugins:
 jekyll-archives:
   enabled:
     - categories
-    - tags
+#    - tags
   layouts:
     category: category-archive
-    tag: author-archive
+#    tag: author-archive
   permalinks:
-    tag: '/author/:name/'
+#    tag: '/author/:name/'
     category: '/category/:name/'
 
 # Theme-specific settings
