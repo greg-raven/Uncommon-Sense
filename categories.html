@@ -1,72 +1,23 @@
 ---
-title: Search
 layout: page
+permalink: /category/
+title: Categories
 ---
-<h1>Topic categories</h1>
-<ul>
-	<li><a href="/categories/adulthood">adulthood</li>
-	<li><a href="/categories/capitalism">capitalism</li>
-	<li><a href="/categories/citizenship">citizenship</li>
-	<li><a href="/categories/climate">climate</li>
-	<li><a href="/categories/collectivization">collectivization</li>
-	<li><a href="/categories/conservatism">conservatism</li>
-	<li><a href="/categories/constitution">Constitution</li>
-	<li><a href="/categories/conviction">conviction</li>
-	<li><a href="/categories/corruption">corruption</li>
-	<li><a href="/categories/culture">culture</li>
-	<li><a href="/categories/debt">debt</li>
-	<li><a href="/categories/decentralization">decentralization</li>
-	<li><a href="/categories/demagogues">demagogues</li>
-	<li><a href="/categories/democracy">democracy</li>
-	<li><a href="/categories/diversity">diversity</li>
-	<li><a href="/categories/economics">economics</li>
-	<li><a href="/categories/education">education</li>
-	<li><a href="/categories/environment">environment</li>
-	<li><a href="/categories/equality">equality</li>
-	<li><a href="/categories/evil">evil</li>
-	<li><a href="/categories/evolution">evolution</li>
-	<li><a href="/categories/external-authority">external authority</li>
-	<li><a href="/categories/foreign-policy">foreign policy</li>
-	<li><a href="/categories/government">government</li>
-	<li><a href="/categories/history">history</li>
-	<li><a href="/categories/hope">hope</li>
-	<li><a href="/categories/immigration">immigration</li>
-	<li><a href="/categories/individualism">individualism</li>
-	<li><a href="/categories/informed-electorate">informed electorate</li>
-	<li><a href="/categories/intolerance">intolerance</li>
-	<li><a href="/categories/juries">juries</li>
-	<li><a href="/categories/knowledge">knowledge</li>
-	<li><a href="/categories/language">language</li>
-	<li><a href="/categories/laws">laws</li>
-	<li><a href="/categories/liberalism">liberalism</li>
-	<li><a href="/categories/liberty">liberty</li>
-	<li><a href="/categories/money">money</li>
-	<li><a href="/categories/morals">morals</li>
-	<li><a href="/categories/nationalism">nationalism</li>
-	<li><a href="/categories/obamacare">Obamacare</li>
-	<li><a href="/categories/patriotism">patriotism</li>
-	<li><a href="/categories/perfection">perfection</li>
-	<li><a href="/categories/politics">politics</li>
-	<li><a href="/categories/press">press</li>
-	<li><a href="/categories/property">property</li>
-	<li><a href="/categories/prosperity">prosperity</li>
-	<li><a href="/categories/race">race</li>
-	<li><a href="/categories/reason">reason</li>
-	<li><a href="/categories/rebellion">rebellion</li>
-	<li><a href="/categories/regulations">regulations</li>
-	<li><a href="/categories/religion">religion</li>
-	<li><a href="/categories/rights">rights</li>
-	<li><a href="/categories/second-Amendment">Second Amendment</li>
-	<li><a href="/categories/self-improvement">self-improvement</li>
-	<li><a href="/categories/service">service</li>
-	<li><a href="/categories/socialism">socialism</li>
-	<li><a href="/categories/speech">speech</li>
-	<li><a href="/categories/strength">strength</li>
-	<li><a href="/categories/taxation">taxation</li>
-	<li><a href="/categories/truth">truth</li>
-	<li><a href="/categories/virtue">virtue</li>
-	<li><a href="/categories/voting">voting</li>
-	<li><a href="/categories/war">war</li>
-	<li><a href="/categories/waste">waste</li>
-	<li><a href="/categories/welfare">welfare</li>
-</ul>
+
+<div id="archives">
+{% for category in site.categories %}
+  <div class="archive-group">
+    {% capture category_name %}{{ category | first }}{% endcapture %}
+    <div id="#{{ category_name | slugize }}"></div>
+    <p></p>
+
+    <h3 class="category-head">{{ category_name }}</h3>
+    <a name="{{ category_name | slugize }}"></a>
+    {% for post in site.categories[category_name] %}
+    <article class="archive-item">
+      <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
+    </article>
+    {% endfor %}
+  </div>
+{% endfor %}
+</div>
