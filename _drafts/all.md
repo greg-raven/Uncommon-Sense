@@ -560,8 +560,6 @@ The First Amendment says nothing about a right not to be offended. The risk of f
 
 The First Amendment says nothing about a right not to be offended. The risk of finding someone else’s speech offensive is the price each of us pays for our own free speech. Free people don’t run to court — or to the principal — when they encounter a message they don’t like. They answer it with one of their own. Jeff Jacoby
 
-If you believe it reprehensible to possess the means and will to use lethal force to repel a criminal assault, how can you call upon another to do so for you? Jeffrey R. Snyder
-
 Is your life worth protecting? If so, whose responsibility is it to protect it? … How can you rightfully ask another human being to risk his life to protect yours, when you will assume no responsibility yourself? Jeffrey R. Snyder
 
 Southerners did not stop with an open defense of slavery. They went on to attack northern society for its ‘wage slavery’ and ‘exploitation of workers,’ using arguments repeated by socialist critics of capitalism. The southern writer who developed these arguments most extensively was George Fitzhugh, a Virginia planter and lawyer. His two books were provocatively entitled Sociology for the South: Or the Failure of the Free Society and Cannibals All! Or Slaves Without Masters. In them, Fitzhugh defended slavery as a practical form of socialism that provided contented slaves with paternalistic masters, thereby eliminating harsh conflicts between employers and allegedly free workers. ‘A Southern farm is the beau ideal of Communism; it is a joint concern, in which the slave … is far happier, because … he is always sure of support.’ … ‘The best governed countries, and which have prospered the most, have always been distinguished for the number and stringency of their laws,’ he wrote; ‘liberty is an evil which government is intended to correct.’ Jeffrey Rogers Hummel
@@ -1078,7 +1076,9 @@ It is not the function of the government to keep the citizen from falling into e
 
 The priceless heritage of our society is the unrestricted constitutional right of each member to think as he will. Thought control is a copyright of totalitarianism, and we have no claim to it. Robert H. Jackson
 
-Very commonly in ages when civil rights of one kind are in evidence ? those pertaining to freedom of speech and thought in, say, theater, press, and forum, with obscenity and libel laws correspondingly loosened ? very real constrictions of individual liberty take place in other, more vital areas: political organization, voluntary association, property, and the right to hold jobs, for example. Robert Nisbet
+The very purpose of a Bill of Rights was to withdraw certain subjects from the vicissitudes of political controversy, to place them beyond the reach of majorities and officials and to establish them as legal principles to be applied by the courts. One's right to life, liberty, and property, to free speech, a free press, freedom of worship and assembly, and other fundamental rights may not be submitted to vote; they depend on the outcome of no elections. Justice Robert H. Jackson
+
+Very commonly in ages when civil rights of one kind are in evidence — those pertaining to freedom of speech and thought in, say, theater, press, and forum, with obscenity and libel laws correspondingly loosened — very real constrictions of individual liberty take place in other, more vital areas: political organization, voluntary association, property, and the right to hold jobs, for example. Robert Nisbet
 
 19 terrorists in 6 weeks have been able to command 300 million North Americans to do away with the entirety of their civil liberties that took 700 years to advance from the Magna Carta onward. The terrorists have already won the political and ideological war with one terrorist act. It is mindboggling that we are that weak as a society. Rocco Galati
 
