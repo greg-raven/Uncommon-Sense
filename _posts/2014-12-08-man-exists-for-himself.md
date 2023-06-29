@@ -4,7 +4,7 @@ layout: post
 categories:
     - collectivization
     - individualism
-author: 'Ralph Waldo Emerson'
+tag: 'Ralph Waldo Emerson'
 ---
 
 Man exists for his own sake and not to add a laborer to the State.

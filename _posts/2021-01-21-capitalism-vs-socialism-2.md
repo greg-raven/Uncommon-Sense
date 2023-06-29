@@ -4,7 +4,7 @@ layout: post
 categories:
     - capitalism
     - socialism
-author: 'Dennis Prager'
+tag: 'Dennis Prager'
 ---
 
 Capitalism makes. Socialism takes. Socialism spends the money that capitalism earns.

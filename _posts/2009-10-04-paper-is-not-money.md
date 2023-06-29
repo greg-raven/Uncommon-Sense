@@ -3,7 +3,7 @@ title: 'Paper is not money'
 layout: post
 categories:
     - money
-author: 'Thomas Paine'
+tag: 'Thomas Paine'
 ---
 
 I remember a German farmer expressing as much in a few words as the whole subject requires; ‘money is money, and paper is paper.’

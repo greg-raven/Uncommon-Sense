@@ -5,7 +5,7 @@ categories:
     - property
     - rights
     - speech
-author: 'Sir William Blackstone'
+tag: 'Sir William Blackstone'
 ---
 
 The public good is in nothing more essentially interested, than in the protection of every individual’s private rights.

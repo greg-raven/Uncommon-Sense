@@ -4,7 +4,7 @@ layout: post
 categories:
     - economics
     - socialism
-author: 'Thomas Sowell'
+tag: 'Thomas Sowell'
 ---
 
 The economic disasters of socialism and communism come from assuming a blanket superiority of those who want to run a whole economy.

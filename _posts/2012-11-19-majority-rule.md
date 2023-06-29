@@ -3,7 +3,7 @@ title: 'Majority rule'
 layout: post
 categories:
     - democracy
-author: 'Jefferson Davis'
+tag: 'Jefferson Davis'
 ---
 
 Neither current events nor history show that the majority rule, or ever did rule.

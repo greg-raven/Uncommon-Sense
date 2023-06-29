@@ -5,7 +5,7 @@ categories:
     - diversity
     - immigration
     - race
-author: 'Ann Coulter'
+tag: 'Ann Coulter'
 ---
 
 Contrary to PC nonsense about America being a ‘diverse’ melting pot, America has never been a ‘nation of immigrants.’ Most Americans have always been born here. Even as late as 1990 — a quarter century into Teddy Kennedy’s scheme to remake the nation — half of the American population traced its roots to the black and white populace of 1790.  

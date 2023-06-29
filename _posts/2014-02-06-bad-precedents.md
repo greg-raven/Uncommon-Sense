@@ -3,7 +3,7 @@ title: 'Bad precedents'
 layout: post
 categories:
     - laws
-author: 'Julius Caesar'
+tag: 'Julius Caesar'
 ---
 
 All bad precedents began as justifiable measures.

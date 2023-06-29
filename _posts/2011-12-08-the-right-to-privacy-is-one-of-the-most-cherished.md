@@ -3,7 +3,7 @@ title: 'Privacy rights'
 layout: post
 categories:
     - rights
-author: 'John Louis Coffey'
+tag: 'John Louis Coffey'
 ---
 
 The right to privacy is one of the most cherished rights an American citizen has; the right to privacy sets America apart from totalitarian states in which the interests of the state prevail over individual rights. A fundamental part of our concept of ordered liberty is the right to protect one’s home and family against dangerous intrusions subject to the criminal law.

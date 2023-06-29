@@ -4,7 +4,7 @@ layout: post
 categories:
     - demagogues
     - truth
-author: 'Daniel Patrick Moynihan'
+tag: 'Daniel Patrick Moynihan'
 ---
 
 Everyone is entitled to his own opinion, but not to his own facts.

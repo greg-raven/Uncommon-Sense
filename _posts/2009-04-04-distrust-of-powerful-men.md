@@ -3,7 +3,7 @@ title: 'Distrust of powerful men'
 layout: post
 categories:
     - virtue
-author: 'James Madison'
+tag: 'James Madison'
 ---
 
 All men having power ought to be distrusted to a certain degree.

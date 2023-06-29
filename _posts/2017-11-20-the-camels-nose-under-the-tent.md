@@ -3,7 +3,7 @@ title: 'The camel’s nose under the tent'
 layout: post
 categories:
     - government
-author: 'Harry Browne'
+tag: 'Harry Browne'
 ---
 
 A little government involvement is just as dangerous as a lot — because the first leads inevitably to the second.

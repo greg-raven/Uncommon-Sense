@@ -4,7 +4,7 @@ layout: post
 categories:
     - laws
     - liberty
-author: 'John Locke'
+tag: 'John Locke'
 ---
 
 Where there is no law there is no freedom.

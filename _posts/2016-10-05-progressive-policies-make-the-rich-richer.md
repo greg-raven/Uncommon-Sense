@@ -4,7 +4,7 @@ layout: post
 categories:
     - conservatism
     - immigration
-author: 'Ann Coulter'
+tag: 'Ann Coulter'
 ---
 
 If you want a conservative country, you need a conservative populace. Immigration is changing the country, and there will be no changing it back. If you don’t understand that, you are the enemy of any conservative undertaking.  

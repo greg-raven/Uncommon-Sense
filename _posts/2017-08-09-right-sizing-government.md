@@ -4,7 +4,7 @@ layout: post
 categories:
     - Constitution
     - government
-author: 'Harry Browne'
+tag: 'Harry Browne'
 ---
 
 I want a government small enough to fit inside the Constitution.

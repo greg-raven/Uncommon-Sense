@@ -5,7 +5,7 @@ categories:
     - liberty
     - rights
     - speech
-author: 'George Orwell'
+tag: 'George Orwell'
 ---
 
 Threats to freedom of speech, writing, and action, though often trivial in isolation, are cumulative in their effect and, unless checked, lead to a general disrespect for the rights of the citizen.

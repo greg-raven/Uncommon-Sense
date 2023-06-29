@@ -4,7 +4,7 @@ layout: post
 categories:
     - government
     - liberty
-author: 'Thomas Jefferson'
+tag: 'Thomas Jefferson'
 ---
 
 The natural progress of things is for liberty to yield and government to gain ground.

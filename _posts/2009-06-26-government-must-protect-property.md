@@ -3,7 +3,7 @@ title: 'Government must protect property'
 layout: post
 categories:
     - property
-author: 'John Locke'
+tag: 'John Locke'
 ---
 
 Government has no other end than the preservation of property.

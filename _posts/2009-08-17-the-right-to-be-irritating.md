@@ -3,7 +3,7 @@ title: 'The right to be offensive'
 layout: post
 categories:
     - speech
-author: 'Larry Flynt'
+tag: 'Larry Flynt'
 ---
 
 The First Amendment gives me the right to be offensive.

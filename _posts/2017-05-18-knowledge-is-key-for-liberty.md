@@ -4,7 +4,7 @@ layout: post
 categories:
     - knowledge
     - liberty
-author: 'James Madison'
+tag: 'James Madison'
 ---
 
 The advancement and diffusion of knowledge is the only guardian of true liberty.

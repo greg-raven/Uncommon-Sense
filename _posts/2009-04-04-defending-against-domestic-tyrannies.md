@@ -3,7 +3,7 @@ title: 'Defending against domestic tyrannies'
 layout: post
 categories:
     - war
-author: 'James Madison'
+tag: 'James Madison'
 ---
 
 The means of defense against foreign danger historically have become the instruments of tyranny at home.

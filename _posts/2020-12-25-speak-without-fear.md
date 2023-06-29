@@ -3,7 +3,7 @@ title: 'Speak without fear'
 layout: post
 categories:
     - speech
-author: 'Herbert Hoover'
+tag: 'Herbert Hoover'
 ---
 
 It \[freedom\] is a thing of the spirit. Men must be free to worship, to think,  

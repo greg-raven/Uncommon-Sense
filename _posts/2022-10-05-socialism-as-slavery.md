@@ -3,7 +3,7 @@ title: 'Socialism as slavery'
 layout: post
 categories:
     - socialism
-author: 'Thomas Jefferson'
+tag: 'Thomas Jefferson'
 ---
 
 No man will labor for himself who can make another labor for him.

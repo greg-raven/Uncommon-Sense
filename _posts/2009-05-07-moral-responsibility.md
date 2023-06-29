@@ -4,7 +4,7 @@ layout: post
 categories:
     - individualism
     - liberty
-author: 'Robert A. Heinlein'
+tag: 'Robert A. Heinlein'
 ---
 
 I am free because I know that I alone am morally responsible for everything I do.

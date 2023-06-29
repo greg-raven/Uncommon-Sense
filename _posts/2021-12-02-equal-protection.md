@@ -4,7 +4,7 @@ layout: post
 categories:
     - equality
     - laws
-author: 'James Madison'
+tag: 'James Madison'
 ---
 
 Equal laws protecting equal rights — the best guarantee of loyalty and love of country.

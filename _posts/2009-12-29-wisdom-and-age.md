@@ -3,7 +3,7 @@ title: 'Wisdom and age'
 layout: post
 categories:
     - education
-author: anonymous
+tag: anonymous
 ---
 
 Observation, and not old age, brings wisdom.

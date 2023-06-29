@@ -6,7 +6,7 @@ categories:
     - decentralization
     - 'external authority'
     - individualism
-author: 'John Hayward'
+tag: 'John Hayward'
 ---
 
 Big Government flourishes with small citizens. This is true as a matter of ideological cause and effect: by definition, the more powerful you believe the centralized State should be, the less respect you have for individual citizens.  

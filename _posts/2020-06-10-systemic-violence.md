@@ -3,7 +3,7 @@ title: 'Systemic violence'
 layout: post
 categories:
     - culture
-author: 'Andrew Torba'
+tag: 'Andrew Torba'
 ---
 
 Like many of you I watched this past week as cities were burned to the ground, businesses were looted, and endless violence was aimed at law enforcement and innocent people that got in the mob’s way. There were tens of thousands of social media posts on Big Tech platforms calling for violence against the police, for businesses and neighborhoods to be set ablaze, and for historical monuments to be destroyed. Calls for violence were not only allowed on Big Tech platforms, these posts were given the opportunity to flourish.

@@ -3,7 +3,7 @@ title: 'Our government is above the law'
 layout: post
 categories:
     - Constitution
-author: 'Joe Sobran'
+tag: 'Joe Sobran'
 ---
 
 I call the present system “Post-Constitutional America.” As I sometimes put it, the U.S. Constitution poses no serious threat to our form of government.

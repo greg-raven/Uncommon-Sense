@@ -5,7 +5,7 @@ categories:
     - collectivization
     - rights
     - taxation
-author: 'William Graham Sumner'
+tag: 'William Graham Sumner'
 ---
 
 [The forgotten man](https://www.gregraven.website/the-forgotten-man/) … ought to be first and always remembered … What … becomes of the natural rights of the one whose energies are to be diverted from his own interests?

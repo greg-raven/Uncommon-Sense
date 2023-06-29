@@ -4,7 +4,7 @@ layout: post
 categories:
     - democracy
     - taxation
-author: 'Alexis de Tocqueville'
+tag: 'Alexis de Tocqueville'
 ---
 
 A democratic government is the only one in which those who vote for a tax can escape the obligation to pay it.

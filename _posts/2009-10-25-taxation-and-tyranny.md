@@ -3,7 +3,7 @@ title: 'Taxation and tyranny'
 layout: post
 categories:
     - taxation
-author: 'Paul Freda'
+tag: 'Paul Freda'
 ---
 
 Taxation is the quantification of tyranny.

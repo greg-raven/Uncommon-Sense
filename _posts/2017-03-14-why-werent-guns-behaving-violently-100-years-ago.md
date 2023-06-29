@@ -3,7 +3,7 @@ title: 'Why weren’t guns behaving violently 100 years ago?'
 layout: post
 categories:
     - 'Second Amendment'
-author: 'Walter E. Williams'
+tag: 'Walter E. Williams'
 ---
 
 Morality is society’s first line of defense against uncivilized behavior

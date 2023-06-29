@@ -3,7 +3,7 @@ title: 'Don’t conflate capitalism and corporatism'
 layout: post
 categories:
     - capitalism
-author: 'Ayn Rand'
+tag: 'Ayn Rand'
 ---
 
 There is a very important confusion. What we have to distinguish between are capitalist industrialists who operate on a free market and the kind of capitalists who operate with government help.

@@ -4,7 +4,7 @@ layout: post
 categories:
     - collectivization
     - diversity
-author: 'Jim Goad'
+tag: 'Jim Goad'
 ---
 
 As far as I can tell, globalism is a scheme concocted by the rich to destroy the working and middle classes through worldwide financial imperialism.  

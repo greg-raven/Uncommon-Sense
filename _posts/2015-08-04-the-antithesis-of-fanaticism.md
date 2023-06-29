@@ -3,7 +3,7 @@ title: 'The antithesis of fanaticism'
 layout: post
 categories:
     - conservatism
-author: 'Ronald Reagan'
+tag: 'Ronald Reagan'
 ---
 
 Conservatism is the antithesis of the kind of ideological fanaticism that has brought so much horror and destruction to the world. The common sense and common decency of ordinary men and women, working out their own lives in their own way — this is the heart of American conservatism today. Conservative wisdom and principles are derived from willingness to learn, not just from what is going on now, but from what has happened before.  

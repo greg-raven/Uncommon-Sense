@@ -3,7 +3,7 @@ title: 'Ignorance begets ignorance'
 layout: post
 categories:
     - 'informed electorate'
-author: anonymous
+tag: anonymous
 ---
 
 Ignorant people elect ignorant rulers.

@@ -4,7 +4,7 @@ layout: post
 categories:
     - liberty
     - war
-author: 'H. L. Mencken'
+tag: 'H. L. Mencken'
 ---
 
 I believe in only one thing: liberty; but I do not believe in liberty enough to want to force it upon anyone.

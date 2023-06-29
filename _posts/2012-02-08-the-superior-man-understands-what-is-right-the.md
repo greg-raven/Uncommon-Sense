@@ -3,7 +3,7 @@ title: 'Right vs. popular'
 layout: post
 categories:
     - knowledge
-author: Confucius
+tag: Confucius
 ---
 
 The superior man understands what is right. The inferior man understands what is popular.

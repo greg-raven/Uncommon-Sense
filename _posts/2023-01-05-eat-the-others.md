@@ -3,7 +3,7 @@ title: 'Eat the others'
 layout: post
 categories:
     - politics
-author: 'H. L. Mencken'
+tag: 'H. L. Mencken'
 ---
 
 If a politician found he had cannibals among his constituents, he would promise them missionaries for dinner.

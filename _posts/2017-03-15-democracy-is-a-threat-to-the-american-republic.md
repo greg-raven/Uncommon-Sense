@@ -4,7 +4,7 @@ layout: post
 categories:
     - Constitution
     - democracy
-author: 'Paul Pauker'
+tag: 'Paul Pauker'
 ---
 
 The media’s daily outbursts about the danger to democracy posed by the current administration, while highly amusing, omit a key piece of information. The United States is not a democracy; the United States is a republic.  

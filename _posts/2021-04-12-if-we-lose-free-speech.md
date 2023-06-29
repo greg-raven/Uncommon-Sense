@@ -3,7 +3,7 @@ title: 'If we lose free speech'
 layout: post
 categories:
     - speech
-author: 'George Washington'
+tag: 'George Washington'
 ---
 
 If freedom of speech is taken away, then dumb and silent we may be led, like sheep to the slaughter.

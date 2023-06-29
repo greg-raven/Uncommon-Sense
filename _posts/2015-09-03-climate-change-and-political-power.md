@@ -3,7 +3,7 @@ title: 'Climate change and political power'
 layout: post
 categories:
     - climate
-author: 'Ted Cruz'
+tag: 'Ted Cruz'
 ---
 
 Thirty to forty years ago there were a group of political liberal and scientists who said we were facing global cooling. They said we were headed toward a global ice age and the solution to global cooling was increased was massive government control of the economy, the energy sector, and every aspect of our lives. Then the data disproved it. It was not in fact correct that we were seeing global cooling. So that was kind of a problem.  

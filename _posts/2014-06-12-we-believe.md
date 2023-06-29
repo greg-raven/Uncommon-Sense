@@ -3,7 +3,7 @@ title: 'We believe …'
 layout: post
 categories:
     - conservatism
-author: 'Dave Brat'
+tag: 'Dave Brat'
 ---
 
 We Believe …

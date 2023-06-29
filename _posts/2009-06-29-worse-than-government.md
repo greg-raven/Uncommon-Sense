@@ -3,7 +3,7 @@ title: 'Worse than government'
 layout: post
 categories:
     - government
-author: anonymous
+tag: anonymous
 ---
 
 The only thing worse than government is more government.

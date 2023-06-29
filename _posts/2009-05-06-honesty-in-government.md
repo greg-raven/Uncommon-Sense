@@ -3,7 +3,7 @@ title: 'Honesty in government'
 layout: post
 categories:
     - politics
-author: 'H. L. Mencken'
+tag: 'H. L. Mencken'
 ---
 
 A good politician is quite as unthinkable as an honest burglar.

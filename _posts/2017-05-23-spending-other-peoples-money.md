@@ -5,7 +5,7 @@ categories:
     - collectivization
     - socialism
     - taxation
-author: 'Calvin Coolidge'
+tag: 'Calvin Coolidge'
 ---
 
 Nothing is easier than the expenditure of public money. It doesn’t appear to belong to anyone. The temptation is overwhelming to bestow it on somebody.

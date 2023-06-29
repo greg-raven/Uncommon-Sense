@@ -3,7 +3,7 @@ title: 'The benefits and hypocrisy of playing the slavery card'
 layout: post
 categories:
     - race
-author: 'Thomas Sowell'
+tag: 'Thomas Sowell'
 ---
 
 One of the many sad signs of our times is that people are not only playing the race card, they are playing the slavery card, which is supposedly the biggest trump of all. At the so-called “million man march” in Washington, poet Maya Angelou rang all the changes on slavery, at a rally billed as forward-looking and as being about black independence rather than white guilt. Meanwhile, best-selling author Dinesh D’Souza was being denounced in the media for having said that slavery was not a racist institution.

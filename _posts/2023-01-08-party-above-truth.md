@@ -5,7 +5,7 @@ categories:
     - demagogues
     - politics
     - truth
-author: 'Adam Smith'
+tag: 'Adam Smith'
 ---
 
 A true party-man hates and despises candour.

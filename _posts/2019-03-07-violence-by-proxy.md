@@ -3,7 +3,7 @@ title: 'Violence by proxy'
 layout: post
 categories:
     - 'Second Amendment'
-author: 'Jeffrey R. Snyder'
+tag: 'Jeffrey R. Snyder'
 ---
 
 If you believe it reprehensible to possess the means and will to use lethal force to repel a criminal assault, how can you call upon another to do so for you?

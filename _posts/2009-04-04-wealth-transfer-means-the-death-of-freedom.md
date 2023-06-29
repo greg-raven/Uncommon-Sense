@@ -4,7 +4,7 @@ layout: post
 categories:
     - socialism
     - welfare
-author: 'Thomas Jefferson'
+tag: 'Thomas Jefferson'
 ---
 
 The democracy will cease to exist when you take away from those who are willing to work and give to those who would not.

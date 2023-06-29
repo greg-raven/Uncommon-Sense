@@ -3,7 +3,7 @@ title: 'The totalitarian principle'
 layout: post
 categories:
     - socialism
-author: 'T. H. White'
+tag: 'T. H. White'
 ---
 
 Everything not forbidden is compulsory.

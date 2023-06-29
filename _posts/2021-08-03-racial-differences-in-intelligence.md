@@ -3,7 +3,7 @@ title: 'Racial differences in intelligence'
 layout: post
 categories:
     - culture
-author: 'Jared Taylor'
+tag: 'Jared Taylor'
 ---
 
 It’s much more taboo to talk about race differences in intelligence, but the evidence for differences is overwhelming. You don’t have to be an expert to understand this. For example, there is no black country anywhere in the world — whether in Africa or in the Caribbean, like Haiti — that isn’t poor. Are all those countries, despite their very different histories, victims of racism in exactly the same way?
