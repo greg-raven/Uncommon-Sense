@@ -57,3 +57,55 @@ forloop.last %},{% endunless %}{% endfor %}{% endcapture %} {% assign tags_list
   </ul>
 </article>
 {% endunless %}{% endfor %}
+
+<h2>Posts in alphabetical order by tags and title in Jekyll</h2>
+
+{% assign tags_sorted = site.tags | sort %}
+{% assign posts_sorted = site.posts | sort: 'title' %}
+{% for tagitem in tags_sorted %}
+<!-- for each tag, create an anchor by using the tag name as an id -->
+<div id="{{ tagitem[0] }}">
+  <h3> {{ tagitem[0] }} </h3>  <!-- for create a heading -->
+
+  <ul> <!-- create the list of posts -->
+    <!-- iterate through all the posts on the site sorted by alphabet-->
+    {% for post in posts_sorted %}
+      <!-- list only those which contain the current tag -->
+      {% if post.tags contains tagitem[0] %}
+          <li>
+            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </li>
+      {% endif %}
+    {% endfor %}
+  </ul>
+</div>
+{% endfor %}
+
+<h2>Listing all Tags</h2>
+
+<ul class="tags">
+{% for tag in site.tags %}
+  {% assign t = tag | first %}
+  {% assign posts = tag | last %}
+  <li>{{t | downcase | replace:" ","-" }} has {{ posts | size }} posts</li>
+{% endfor %}
+</ul>
+
+<h2>Listing all Tags and the posts containing that Tag</h2>
+
+{% for tag in site.tags %}
+  {% assign t = tag | first %}
+  {% assign posts = tag | last %}
+
+{{ t | downcase }}
+<ul>
+{% for post in posts %}
+  {% if post.tags contains t %}
+  <li>
+    <a href="{{ post.url }}">{{ post.title }}</a>
+    <span class="date">{{ post.date | date: "%B %-d, %Y"  }}</span>
+  </li>
+  {% endif %}
+{% endfor %}
+</ul>
+{% endfor %}
