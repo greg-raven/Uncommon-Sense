@@ -6,10 +6,8 @@ categories:
 tag: 'Walter E. Williams'
 ---
 
-Morality is society’s first line of defense against uncivilized behavior
+**Morality is society’s first line of defense against uncivilized behavior**
 
-by Walter E. Williams  
-  
 Every time there’s a shooting tragedy, there are more calls for gun control. Let’s examine a few historical facts. By 1910, the National Rifle Association had succeeded in establishing 73 NRA-affiliated high-school rifle clubs. The 1911 second edition of the Boy Scout Handbook made qualification in NRA’s junior marksmanship program a prerequisite for obtaining a BSA merit badge in marksmanship. In 1918, the Winchester Repeating Arms Co. established its own Winchester Junior Rifle Corps. The program grew to 135,000 members by 1925. In New York City, gun clubs were started at Boys, Curtis, Commercial, Manual Training and Stuyvesant high schools. With so many guns in the hands of youngsters, did we see today’s level of youth violence?
 
 What about gun availability? Catalogs and magazines from the 1940s, ’50s and ’60s were full of gun advertisements directed to children and parents. For example, ‘What Every Parent Should Know When a Boy or Girl Wants a Gun’ was published by the National Shooting Sports Foundation. The 1902 Sears mail-order catalog had 35 pages of firearm advertisements. People just sent in their money, and a firearm was shipped. For most of our history, a person could simply walk into a hardware store, virtually anywhere in our country, and buy a gun. Few states bothered to have even age restrictions on buying guns.
