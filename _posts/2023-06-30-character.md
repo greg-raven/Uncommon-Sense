@@ -1,8 +1,8 @@
 ---
-title: 'Alan Keyes'
+title: 'Character'
 layout: post
 categories:
-    -
+    - morals
 tag: 'Alan Keyes'
 ---
 

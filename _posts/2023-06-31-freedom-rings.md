@@ -1,8 +1,9 @@
 ---
-title: 'Adlai E. Stevenson'
+title: 'Freedom rings'
 layout: post
 categories:
-    -
+    - liberty
+    - speech
 tag: 'Adlai E. Stevenson'
 ---
 
