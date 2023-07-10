@@ -1438,27 +1438,8 @@ I don’t want to achieve immortality through my work; I want to achieve
 immortality through not dying. “
 - Woody Allen (1935-)
 
-In America, anybody can be president. That’s one of the risks you take.”
-- Adlai Stevenson (1900-1965)
-
-Well done is better than well said. “
-- Benjamin Franklin (1706-1790)
-
 Heav’n hath no rage like love to hatred turn’d, Nor Hell a fury, like a
 woman scorn’d. “
 - William Congreve (1670-1729)
 
-A pessimist sees the difficulty in every opportunity; an optimist sees
-the opportunity in every difficulty. “
-- Sir Winston Churchill (1874-1965)
-
-That would depend on your definition of the word ‘is”
--William Jefferson Clinton (1936-)
-
-“Science is the belief in the ignorance of the experts.” — Richard Feynman
-
-“Lower CO2 levels do not produce a good climate. History shows that unequivocally.” — Tony Heller
-
-“It will be remembered as the greatest mass delusion in the history of the world — that CO2, the life of plants, was considered for a time to be a deadly poison.” — Richard Lindzen, Professor Emeritus, Earth Sciences, M.I.T.
-
-“A civilization which bases policy on superstition is doomed to failure.” — Tony Heller
+A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.“ - Sir Winston Churchill (1874-1965)
