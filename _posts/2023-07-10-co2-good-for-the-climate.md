@@ -1,5 +1,5 @@
 ---
-title: 'CO2 and climate'
+title: 'CO<sub>2</sub> and climate'
 layout: post
 categories:
     - climate
