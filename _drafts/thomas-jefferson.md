@@ -2,7 +2,7 @@
 title: ''
 layout: post
 categories:
-    -
+-
 tag: 'Thomas Jefferson'
 ---
 

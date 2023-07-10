@@ -2,7 +2,7 @@
 title: ''
 layout: post
 categories:
-    - government
+- government
 tag: 'James Madison'
 ---
 
