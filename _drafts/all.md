@@ -1280,7 +1280,7 @@ Marijuana is not much more difficult to obtain than beer. The reason for this is
 
 We cannot choose freedom established on a hierarchy of degrees of freedom, on a caste system of equality like military rank. We must be free not because we claim freedom, but because we practice it. William Faulkner
 
-The type and formula of most schemes of philanthropy or humanitarianism is this: A and B put their heads together to decide what C shall be made to do for D. The radical vice of all these schemes, from a sociological point of view, is that C is not allowed a voice in the matter, and his position, character, and interests, as well as the ultimate effects on society through C’s interests, are entirely overlooked. I call C the Forgotten Man. William Graham Sumner
+The type and formula of most schemes of philanthropy or humanitarianism is this: A and B put their heads together to decide what C shall be made to do for D. The radical vice of all these schemes, from a sociological point of view, is that C is not allowed a voice in the matter, and his position, character, and interests, as well as the ultimate effects on society through C’s interests, are entirely overlooked. I call C [the Forgotten Man]({% post_url 2009-11-23-the-forgotten-man %}). William Graham Sumner
 
 The greatest Glory of a free-born People, Is to transmit that Freedom to their Children. William Havard
 
