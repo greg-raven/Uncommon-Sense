@@ -3,7 +3,7 @@ title: ''
 layout: post
 categories:
     -
-tags: ''
+tag: ''
 ---
 
 It is the duty of the officials to prevent or suppress the threatened disorder with a firm hand instead of timidly yielding to threats? Surely a speaker ought not to be suppressed because his opponents propose to use violence. It is they who should suffer from their lawlessness, not he. American Bar Association

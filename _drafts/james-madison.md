@@ -3,10 +3,8 @@ title: ''
 layout: post
 categories:
     - government
-tags: 'James Madison'
+tag: 'James Madison'
 ---
-
-A republic, by which I mean a government in which the scheme of representation takes place, opens a different prospect, and promises the cure for which we are seeking. Let us examine the points in which it varies from pure democracy, and we shall comprehend both the nature of the cure and the efficacy which it must derive from the Union.
 
 As there is a degree of depravity in mankind which requires a certain degree of circumspection and distrust: So there are other qualities in human nature, which justify a certain portion of esteem and confidence. Republican government presupposes the existence of these qualities in a higher degree than any other form. Were the pictures which have been drawn by the political jealousy of some among us, faithful likenesses of the human character, the inference would be that there is not sufficient virtue among men for self-government; and that nothing less than the chains of despotism can restrain them from destroying and devouring one another.
 
