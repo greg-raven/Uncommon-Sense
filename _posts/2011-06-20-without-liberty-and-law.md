@@ -2,7 +2,7 @@
 title: 'Without liberty and law'
 layout: post
 categories:
-	- laws
+    - laws
     - liberty
 tag: 'James Wilson'
 ---
