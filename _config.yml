@@ -25,7 +25,7 @@ jekyll-archives:
     category: category-archive
     tags: tag-archive
   permalinks:
-    tags: '/author/:name/'
+    tags: '/tag/:name/'
     category: '/category/:name/'
 
 # Theme-specific settings
