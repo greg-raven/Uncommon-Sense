@@ -1,5 +1,5 @@
 ---
-title: 'Alistair Cooke'
+title: ''
 layout: post
 categories:
     -

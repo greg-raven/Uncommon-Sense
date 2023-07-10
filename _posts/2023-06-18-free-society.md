@@ -1,5 +1,5 @@
 ---
-title: 'Adlai E. Stevenson'
+title: 'My definition of a free society'
 layout: post
 categories:
     - liberty

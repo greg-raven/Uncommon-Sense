@@ -1,5 +1,5 @@
 ---
-title: 'Alistair Cooke'
+title: 'Liberty is the luxury of self-discipline'
 layout: post
 categories:
     - liberty

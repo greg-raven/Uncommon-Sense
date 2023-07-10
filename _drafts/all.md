@@ -1050,7 +1050,7 @@ I think that every true reformer, every real friend of liberty, will agree with 
 
 In a free society, standards of public morality can be measured only by whether physical coercion — violence against persons or property — occurs. There is no right not to be offended by words, actions or symbols. Richard E. Sincere, Jr.
 
-It doesn’t matter how beautiful your theory is, it doesn’t matter how smart you are. If it doesn’t agree with experiment, it’s wrong.” ― Richard P. Feynman
+It doesn’t matter how beautiful your theory is, it doesn’t matter how smart you are. If it doesn’t agree with experiment, it’s wrong.” ― Richard Feynman
 
 Free enterprise capitalism exists only when people in the private sector are free to pursue their own interests without direction from government. When politicians start passing laws to tell them what to do, or bureaucrats start issuing edicts to tell them what to do, it is no longer capitalism; it’s fascism. Rick Gaber
 

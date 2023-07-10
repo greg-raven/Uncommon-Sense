@@ -6,7 +6,7 @@ categories:
     - government
     - politics
     - voting
-tag: 'Barack Obama'
+tag: 'Barack Hussein Obama'
 ---
 
 Whenever people are in power they’re, you know, they have this tendency to try to, you know, tilt things in their direction.

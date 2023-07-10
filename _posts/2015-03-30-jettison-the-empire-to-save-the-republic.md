@@ -4,11 +4,11 @@ layout: post
 categories:
     - 'foreign policy'
     - war
-tag: 'Dr. Robert Owens'
+tag: 'Robert Owens'
 ---
 
-War is the deathbed of empires. Look at history and see how war has debilitated and destroyed empires from Rome to Britain to the USSR. Today we have been bled dry by endless wars for peace. \[…\]  
-   
+War is the deathbed of empires. Look at history and see how war has debilitated and destroyed empires from Rome to Britain to the USSR. Today we have been bled dry by endless wars for peace. \[…\]
+
 Now is not the time for another war whether it is against the Shia states or militias or against the Sunni ISIS. Our allies seem to want us to fight both ends against the middle. A formula which will lead us to disaster: we can’t afford more war and our people will not support more war.
 
 Let’s give peace a chance.
