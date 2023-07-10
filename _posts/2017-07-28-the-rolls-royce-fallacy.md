@@ -6,8 +6,8 @@ categories:
 tag: 'Thomas Sowell'
 ---
 
-Many of the cant words of politics are simply evasions of reality. A prime example is the notion of making housing, college, health insurance, or other things ‘affordable.’  
-  
+Many of the cant words of politics are simply evasions of reality. A prime example is the notion of making housing, college, health insurance, or other things ‘affordable.’
+
 Virtually anything can be made more affordable in isolation, simply by transferring resources to it from elsewhere in the economy, and having most of the costs absorbed by the U. S. Treasury.
 
 The federal government could make a Rolls Royce affordable for every American, but we would not be a richer country as a result. We would in fact be a much poorer country, because of all the vast resources transferred from other economic activities to subsidize an extravagant luxury.
@@ -45,5 +45,3 @@ The only way anyone can have a right to something that has to be produced is to 
 That does not mean more goods are available than under ordinary market production, but less. To believe otherwise is to commit the Rolls Royce fallacy on a more mundane level.
 
 For the government to make some things more affordable is to make other things less affordable — and to destroy people’s freedom to make their own trade-offs as they see fit, in the light of economic realities, rather than political visions. Trade-offs remain inescapable, whether they are made through a market or through politics. The difference is that price tags present all the trade-offs simultaneously, while political ‘affordability’ policies arbitrarily fix on whatever is hot at the moment. That is why cities have been financing all kinds of boondoggles for years, while their bridges rusted and their roadways crumbled.
-
-Thomas Sowell, The Thomas Sowell Reader (New York, NY: Basic Books, 2011), 73-75.
