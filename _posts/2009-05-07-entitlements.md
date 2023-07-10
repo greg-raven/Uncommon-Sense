@@ -4,7 +4,7 @@ layout: post
 categories:
     - taxation
     - welfare
-tags: 'Milton Friedman'
+tag: 'Milton Friedman'
 ---
 
 We have a system that increasingly taxes work and subsidizes non-work.

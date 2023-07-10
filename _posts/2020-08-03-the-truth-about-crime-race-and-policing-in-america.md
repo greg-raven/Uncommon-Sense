@@ -3,7 +3,7 @@ title: 'The truth about crime, race, and policing in America'
 layout: post
 categories:
     - race
-tags: 'Heather Mac Donald'
+tag: 'Heather Mac Donald'
 ---
 
 On May 25th, four Minneapolis police officers arrested a man for passing a counterfeit twenty-dollar bill. One of the officers kept his knee on George Floyd’s neck for nearly eight minutes while Mr. Floyd was handcuffed on the ground and pleading that he couldn’t breathe. Mr. Floyd died of a heart attack during the arrest. The next day, Minneapolis mayor Jacob Frey announced that whatever the investigation into Mr. Floyd’s death revealed, “being black in America should not be a death sentence.”

@@ -6,7 +6,7 @@ categories:
     - diversity
     - immigration
     - religion
-tags: 'Brenda Walker'
+tag: 'Brenda Walker'
 ---
 
 Any freedom-loving people should end Muslim immigration immediately if they want their societies to survive intact.

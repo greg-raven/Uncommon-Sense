@@ -4,7 +4,7 @@ layout: post
 categories:
     - morals
     - virtue
-tags: 'Marcus Tullius Cicero'
+tag: 'Marcus Tullius Cicero'
 ---
 
 Ability without honor is useless.

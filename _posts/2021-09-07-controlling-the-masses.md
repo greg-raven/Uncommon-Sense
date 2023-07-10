@@ -4,7 +4,7 @@ layout: post
 categories:
     - education
     - press
-tags: 'Albert Einstein'
+tag: 'Albert Einstein'
 ---
 
 The ruling class has the schools and press under its thumb. This enables it to sway the emotions of the masses.

@@ -3,7 +3,7 @@ title: 'Government altruism'
 layout: post
 categories:
     - socialism
-tags: 'Ayn Rand'
+tag: 'Ayn Rand'
 ---
 
 Every major horror of history was committed in the name of an altruistic motive.

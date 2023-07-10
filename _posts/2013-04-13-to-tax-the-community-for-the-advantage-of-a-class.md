@@ -4,7 +4,7 @@ layout: post
 categories:
     - taxation
     - welfare
-tags: 'Benjamin Disraeli'
+tag: 'Benjamin Disraeli'
 ---
 
 To tax the community for the advantage of a class is not protection, it is plunder.

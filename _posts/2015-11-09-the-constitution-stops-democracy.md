@@ -4,7 +4,7 @@ layout: post
 categories:
     - Constitution
     - democracy
-tags: 'Horatio Seymour'
+tag: 'Horatio Seymour'
 ---
 
 The merit of our Constitution was, not that it promotes democracy, but checks it.

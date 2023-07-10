@@ -3,7 +3,7 @@ title: 'Lucky rulers'
 layout: post
 categories:
     - demagogues
-tags: 'Adolf Hitler'
+tag: 'Adolf Hitler'
 ---
 
 What luck for the rulers that men do not think

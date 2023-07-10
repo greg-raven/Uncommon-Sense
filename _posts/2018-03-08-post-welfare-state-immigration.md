@@ -3,7 +3,7 @@ title: 'Post-welfare-state immigration'
 layout: post
 categories:
     - immigration
-tags: 'Ann Coulter'
+tag: 'Ann Coulter'
 ---
 
 The entire time it was processing immigrants from 1892 until 1954, Ellis Island received only 12 million immigrants. \[…\] There was no welfare, and certainly no welcoming committees of ethnic grievance groups.  

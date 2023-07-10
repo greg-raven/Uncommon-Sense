@@ -3,7 +3,7 @@ title: 'Perpetual debt'
 layout: post
 categories:
     - taxation
-tags: 'Thomas Jefferson'
+tag: 'Thomas Jefferson'
 ---
 
 We must not let our rulers load us with perpetual debt.  

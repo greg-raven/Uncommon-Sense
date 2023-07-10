@@ -3,7 +3,7 @@ title: 'Honesty in government'
 layout: post
 categories:
     - government
-tags: 'Thomas Jefferson'
+tag: 'Thomas Jefferson'
 ---
 
 An honest man can feel no pleasure in the exercise of power over his fellow citizens.

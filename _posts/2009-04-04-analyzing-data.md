@@ -3,7 +3,7 @@ title: 'Analyzing data'
 layout: post
 categories:
     - knowledge
-tags: anonymous
+tag: anonymous
 ---
 
 The plural of “anecdote” is not “data.”

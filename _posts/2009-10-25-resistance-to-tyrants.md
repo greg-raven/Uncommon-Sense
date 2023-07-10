@@ -3,7 +3,7 @@ title: 'Resistance to tyrants'
 layout: post
 categories:
     - rebellion
-tags: 'Thomas Jefferson'
+tag: 'Thomas Jefferson'
 ---
 
 Resistance to tyrants is obedience to God.

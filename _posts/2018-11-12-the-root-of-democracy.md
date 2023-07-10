@@ -3,7 +3,7 @@ title: 'The root of democracy'
 layout: post
 categories:
     - democracy
-tags: 'Bertrand Russell'
+tag: 'Bertrand Russell'
 ---
 
 Envy is the basis of Democracy.

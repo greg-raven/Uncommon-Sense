@@ -3,7 +3,7 @@ title: 'Critical theory'
 layout: post
 categories:
     - culture
-tags: 'Andrew Torba'
+tag: 'Andrew Torba'
 ---
 
 Cities are burning to the ground.

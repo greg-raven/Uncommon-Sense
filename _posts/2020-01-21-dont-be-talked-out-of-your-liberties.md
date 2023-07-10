@@ -5,7 +5,7 @@ categories:
     - demagogues
     - liberty
     - rights
-tags: 'John Adams'
+tag: 'John Adams'
 ---
 
 Be not intimidated … nor suffer yourselves to be wheedled out of your liberties by any pretense of politeness, delicacy, or decency. These, as they are often used, are but three different names for hypocrisy, chicanery, and cowardice.

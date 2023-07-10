@@ -4,7 +4,7 @@ layout: post
 categories:
     - culture
     - socialism
-tags: 'Greg Raven'
+tag: 'Greg Raven'
 ---
 
 Being a “progressive” these days means:

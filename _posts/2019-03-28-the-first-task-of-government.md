@@ -4,7 +4,7 @@ layout: post
 categories:
     - socialism
     - taxation
-tags: 'Marcus Tullius Cicero'
+tag: 'Marcus Tullius Cicero'
 ---
 
 The men who administer public affairs must first of all see that everyone holds onto what is his, and that private men are never deprived of their goods by public men.

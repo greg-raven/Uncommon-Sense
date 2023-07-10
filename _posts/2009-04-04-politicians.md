@@ -3,7 +3,7 @@ title: Politicians
 layout: post
 categories:
     - politics
-tags: 'Edward Langley'
+tag: 'Edward Langley'
 ---
 
 What this country needs are more unemployed politicians.

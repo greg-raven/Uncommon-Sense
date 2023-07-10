@@ -4,7 +4,7 @@ layout: post
 categories:
     - collectivization
     - democracy
-tags: 'Gustave Le Bon'
+tag: 'Gustave Le Bon'
 ---
 
 In crowds, it is stupidity and not mother wit that is accumulated.

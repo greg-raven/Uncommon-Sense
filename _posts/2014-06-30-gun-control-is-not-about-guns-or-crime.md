@@ -3,7 +3,7 @@ title: 'Gun control is not about guns or crime'
 layout: post
 categories:
     - 'Second Amendment'
-tags: 'Charley Reese'
+tag: 'Charley Reese'
 ---
 
 It is both illogical and inconsistent for a government to say people have a right to life and a right to self-defense but no right to own the tools necessary to defend their lives.  

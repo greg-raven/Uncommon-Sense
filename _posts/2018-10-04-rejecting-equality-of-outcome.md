@@ -3,7 +3,7 @@ title: 'Rejecting ‘equality of outcome’'
 layout: post
 categories:
     - equality
-tags: 'Ayn Rand'
+tag: 'Ayn Rand'
 ---
 
 I refuse to apologize for my ability —  

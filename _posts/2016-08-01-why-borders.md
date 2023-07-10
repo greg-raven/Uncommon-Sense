@@ -4,7 +4,7 @@ layout: post
 categories:
     - culture
     - immigration
-tags: 'Victor Davis Hanson'
+tag: 'Victor Davis Hanson'
 ---
 
 \[T\]he Left continues to cherish the vision of a borderless world as morally superior, a triumph over artificially imposed difference. The truth is that formal borders do not create difference — they reflect it. Elites’ continued attempts to erase borders are both futile and destructive.  

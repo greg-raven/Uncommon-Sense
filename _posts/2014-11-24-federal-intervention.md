@@ -6,7 +6,7 @@ categories:
     - government
     - race
     - welfare
-tags: 'Robert W. Lee'
+tag: 'Robert W. Lee'
 ---
 
 It is becoming increasingly apparent that many — arguably most — of the problems that plague our nation have been aggravated rather than alleviated by federal intervention.  

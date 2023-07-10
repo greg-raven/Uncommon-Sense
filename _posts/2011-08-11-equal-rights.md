@@ -3,7 +3,7 @@ title: 'Equal rights'
 layout: post
 categories:
     - equality
-tags: 'Edmund Burke'
+tag: 'Edmund Burke'
 ---
 
 All men have equal rights, but not to equal things.

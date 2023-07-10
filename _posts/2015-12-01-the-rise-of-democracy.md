@@ -4,7 +4,7 @@ layout: post
 categories:
     - democracy
     - equality
-tags: Aristotle
+tag: Aristotle
 ---
 
 Democracy arose from men thinking that if they are equal in any respect they are equal in all respects.

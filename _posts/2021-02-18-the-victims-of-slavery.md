@@ -3,7 +3,7 @@ title: 'The victims of slavery'
 layout: post
 categories:
     - race
-tags: 'Thomas Sowell'
+tag: 'Thomas Sowell'
 ---
 
 The people made worse off by slavery were those who were enslaved. Their descendants would have been worse off today if born in Africa instead of America. Put differently, the terrible fate of their ancestors benefitted them.

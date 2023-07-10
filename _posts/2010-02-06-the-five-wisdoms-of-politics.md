@@ -3,7 +3,7 @@ title: 'The Five Wisdoms of politics'
 layout: post
 categories:
     - politics
-tags: anonymous
+tag: anonymous
 ---
 
 1. You cannot legislate the poor into prosperity by legislating the wealthy out of prosperity.

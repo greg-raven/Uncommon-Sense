@@ -4,7 +4,7 @@ layout: post
 categories:
     - corruption
     - evil
-tags: 'William Casey'
+tag: 'William Casey'
 ---
 
 We will know our disinformation program is complete when everything the American public believes is false.

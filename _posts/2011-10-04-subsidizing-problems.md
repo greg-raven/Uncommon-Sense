@@ -4,7 +4,7 @@ layout: post
 categories:
     - socialism
     - welfare
-tags: 'Ronald Reagan'
+tag: 'Ronald Reagan'
 ---
 
 Government does not solve problems; it subsidizes them.

@@ -3,7 +3,7 @@ title: 'What is the Alt-right?'
 layout: post
 categories:
     - conservatism
-tags: 'Vox Day'
+tag: 'Vox Day'
 ---
 
 The Alt-Right is the rational response to the failure of American conservatism to conserve anything, the inability of libertarianism to promote liberty, and the descent of American liberalism into multiculturalism, social justice, and diversity. What I like about the Alt-Right is that it offers Western civilization a chance of survival that it will otherwise lack.

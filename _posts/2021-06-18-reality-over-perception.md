@@ -3,7 +3,7 @@ title: 'Reality over perception'
 layout: post
 categories:
     - government
-tags: 'Tony Heller'
+tag: 'Tony Heller'
 ---
 
 When government ignores reality, very bad things happen.

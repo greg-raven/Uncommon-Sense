@@ -3,7 +3,7 @@ title: 'What every principal should tell his students'
 layout: post
 categories:
     - education
-tags: 'Dennis Prager'
+tag: 'Dennis Prager'
 ---
 
 To the students and faculty of our high school:

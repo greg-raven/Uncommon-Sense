@@ -3,7 +3,7 @@ title: 'Take off the mask'
 layout: post
 categories:
     - liberalism
-tags: 'Thomas Sowell'
+tag: 'Thomas Sowell'
 ---
 
 Liberalism is totalitarianism with a human face.

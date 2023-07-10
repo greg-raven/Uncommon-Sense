@@ -3,7 +3,7 @@ title: 'Socialism and Marxism'
 layout: post
 categories:
     - socialism
-tags: 'Adolf Hitler'
+tag: 'Adolf Hitler'
 ---
 
 Basically, National Socialism and Marxism are the same.
