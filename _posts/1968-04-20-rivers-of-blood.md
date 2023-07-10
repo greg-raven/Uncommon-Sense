@@ -2,7 +2,7 @@
 title: '‘Rivers of Blood’'
 layout: post
 categories:
-    - culture
+- culture
 tag: 'Enoch Powell'
 ---
 
