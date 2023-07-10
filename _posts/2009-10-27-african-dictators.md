@@ -2,8 +2,8 @@
 title: 'African dictators'
 layout: post
 categories:
-    - demagogues
-    - liberalism
+- demagogues
+- liberalism
 tag: 'M. A. Jama'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Protection of property'
 layout: post
 categories:
-    - property
+- property
 tag: 'James Madison'
 ---
 

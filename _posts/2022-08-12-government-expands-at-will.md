@@ -2,8 +2,8 @@
 title: 'Government expands at will'
 layout: post
 categories:
-    - Constitution
-    - government
+- Constitution
+- government
 tag: 'Linda Bowles'
 ---
 

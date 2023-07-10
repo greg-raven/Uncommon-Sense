@@ -2,7 +2,7 @@
 title: 'It’s the result, not the intention'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Herbert Spencer'
 ---
 

@@ -2,7 +2,7 @@
 title: 'We are not the government'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'Murray N. Rothbard'
 ---
 

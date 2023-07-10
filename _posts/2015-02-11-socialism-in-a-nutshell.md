@@ -2,7 +2,7 @@
 title: 'Socialism in a nutshell'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Thomas Sowell'
 ---
 

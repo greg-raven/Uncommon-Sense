@@ -2,7 +2,7 @@
 title: 'Freedom does not always win'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'A. J. P. Taylor'
 ---
 

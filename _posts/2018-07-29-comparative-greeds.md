@@ -2,7 +2,7 @@
 title: 'Comparative greeds'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Thomas Sowell'
 ---
 

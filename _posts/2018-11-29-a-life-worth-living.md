@@ -2,7 +2,7 @@
 title: 'A life worth living'
 layout: post
 categories:
-    - service
+- service
 tag: 'Benjamin Franklin'
 ---
 

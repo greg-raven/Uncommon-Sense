@@ -2,8 +2,8 @@
 title: 'Helping themselves'
 layout: post
 categories:
-    - demagogues
-    - race
+- demagogues
+- race
 tag: 'Thomas Sowell'
 ---
 

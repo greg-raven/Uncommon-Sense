@@ -2,7 +2,7 @@
 title: 'Interpreting laws corrupts them'
 layout: post
 categories:
-    - laws
+- laws
 tag: Voltaire
 ---
 

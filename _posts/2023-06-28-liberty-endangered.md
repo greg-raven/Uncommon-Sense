@@ -2,7 +2,7 @@
 title: 'Liberty endangered'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Andrew Jackson'
 ---
 

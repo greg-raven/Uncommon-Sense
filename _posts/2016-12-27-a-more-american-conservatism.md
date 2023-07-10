@@ -2,7 +2,7 @@
 title: 'A more American conservatism'
 layout: post
 categories:
-    - conservatism
+- conservatism
 tag: 'Larry P. Arnn'
 ---
 

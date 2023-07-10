@@ -2,7 +2,7 @@
 title: 'The cost of idealism'
 layout: post
 categories:
-    - perfection
+- perfection
 tag: 'William F. Buckley'
 ---
 

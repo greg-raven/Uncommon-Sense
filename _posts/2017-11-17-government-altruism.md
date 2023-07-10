@@ -2,7 +2,7 @@
 title: 'Government altruism'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Ayn Rand'
 ---
 

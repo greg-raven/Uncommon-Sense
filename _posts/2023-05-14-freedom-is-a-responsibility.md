@@ -2,7 +2,7 @@
 title: 'Freedom is a responsibility'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Eric Schaub'
 ---
 

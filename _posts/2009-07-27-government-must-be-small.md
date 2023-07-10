@@ -2,7 +2,7 @@
 title: 'Government must be small'
 layout: post
 categories:
-    - government
+- government
 tag: 'Thomas Jefferson'
 ---
 

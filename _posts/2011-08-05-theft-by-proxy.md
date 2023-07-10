@@ -2,7 +2,7 @@
 title: 'Theft by proxy'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'William Comer'
 ---
 

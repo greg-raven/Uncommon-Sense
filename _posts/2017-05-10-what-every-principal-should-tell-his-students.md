@@ -2,7 +2,7 @@
 title: 'What every principal should tell his students'
 layout: post
 categories:
-    - education
+- education
 tag: 'Dennis Prager'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Losing liberty'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Dorothy Thompson'
 ---
 

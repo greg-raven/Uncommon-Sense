@@ -2,7 +2,7 @@
 title: 'Immigrants must assimilate'
 layout: post
 categories:
-    - immigration
+- immigration
 tag: 'George Washington'
 ---
 

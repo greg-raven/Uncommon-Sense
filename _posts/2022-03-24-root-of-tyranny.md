@@ -2,7 +2,7 @@
 title: 'Root of tyranny'
 layout: post
 categories:
-    - 'external authority'
+- 'external authority'
 tag: Plato
 ---
 

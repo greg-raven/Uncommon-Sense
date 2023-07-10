@@ -2,7 +2,7 @@
 title: 'Destroying our protections'
 layout: post
 categories:
-    - Constitution
+- Constitution
 tag: 'Joe Sobran'
 ---
 

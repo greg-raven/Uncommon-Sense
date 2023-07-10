@@ -2,7 +2,7 @@
 title: 'Loss of American liberties'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Wayne LaPierre'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Useless men'
 layout: post
 categories:
-    - politics
+- politics
 tag: 'John Adams'
 ---
 

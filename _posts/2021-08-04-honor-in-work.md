@@ -2,7 +2,7 @@
 title: 'Honor in work'
 layout: post
 categories:
-    - morals
+- morals
 tag: 'Grover Cleveland'
 ---
 

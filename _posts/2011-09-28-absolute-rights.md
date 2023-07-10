@@ -2,7 +2,7 @@
 title: 'Absolute rights'
 layout: post
 categories:
-    - rights
+- rights
 tag: 'Harry Browne'
 ---
 

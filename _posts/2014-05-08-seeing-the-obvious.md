@@ -2,7 +2,7 @@
 title: 'Seeing the obvious'
 layout: post
 categories:
-    - knowledge
+- knowledge
 tag: 'George Orwell'
 ---
 

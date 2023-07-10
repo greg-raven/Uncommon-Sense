@@ -2,7 +2,7 @@
 title: 'The worst failure'
 layout: post
 categories:
-    - government
+- government
 tag: 'H. L. Mencken'
 ---
 

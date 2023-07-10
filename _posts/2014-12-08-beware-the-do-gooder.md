@@ -2,7 +2,7 @@
 title: 'Beware the do-gooder'
 layout: post
 categories:
-    - individualism
+- individualism
 tag: 'Henry David Thoreau'
 ---
 

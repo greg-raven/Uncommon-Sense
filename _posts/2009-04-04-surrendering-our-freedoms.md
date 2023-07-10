@@ -2,7 +2,7 @@
 title: 'Surrendering our freedoms'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Thomas Jefferson'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Liberty vs. democracy'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'Ron Paul'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Empire abroad means repression at home'
 layout: post
 categories:
-    - 'foreign policy'
+- 'foreign policy'
 tag: 'George S. Boutwell'
 ---
 

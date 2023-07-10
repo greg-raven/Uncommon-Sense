@@ -2,7 +2,7 @@
 title: 'Self government'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Thomas Jefferson'
 ---
 

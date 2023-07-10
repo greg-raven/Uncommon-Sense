@@ -2,7 +2,7 @@
 title: 'State welfare: Cui bono?'
 layout: post
 categories:
-    - welfare
+- welfare
 tag: 'Ron Paul'
 ---
 

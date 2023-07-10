@@ -2,7 +2,7 @@
 title: 'Speak without fear'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'Herbert Hoover'
 ---
 

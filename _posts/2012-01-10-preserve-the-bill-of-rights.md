@@ -2,8 +2,8 @@
 title: 'Preserve the Bill of Rights'
 layout: post
 categories:
-    - Constitution
-    - rights
+- Constitution
+- rights
 tag: 'Hugo L. Black'
 ---
 

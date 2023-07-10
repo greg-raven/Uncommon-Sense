@@ -2,7 +2,7 @@
 title: 'The natural effort of individuals vs. the folly of human laws'
 layout: post
 categories:
-    - prosperity
+- prosperity
 tag: 'Adam Smith'
 ---
 

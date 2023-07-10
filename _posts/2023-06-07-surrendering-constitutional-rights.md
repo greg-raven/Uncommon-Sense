@@ -2,7 +2,7 @@
 title: 'Surrendering Constitutional rights'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Eric Schaub'
 ---
 

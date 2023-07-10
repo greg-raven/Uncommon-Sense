@@ -2,7 +2,7 @@
 title: 'What goes around can come around'
 layout: post
 categories:
-    - intolerance
+- intolerance
 tag: 'George Orwell'
 ---
 

@@ -2,8 +2,8 @@
 title: 'Liberty trumps union'
 layout: post
 categories:
-    - decentralization
-    - liberty
+- decentralization
+- liberty
 tag: 'Thomas Jefferson'
 ---
 

@@ -2,7 +2,7 @@
 title: 'The historical background of the Constitution'
 layout: post
 categories:
-    - Constitution
+- Constitution
 tag: 'James Madison'
 ---
 

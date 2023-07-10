@@ -2,8 +2,8 @@
 title: 'Freedom from government-imposed burdens'
 layout: post
 categories:
-    - liberty
-    - socialism
+- liberty
+- socialism
 tag: 'William Graham Sumner'
 ---
 

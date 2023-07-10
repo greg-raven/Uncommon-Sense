@@ -2,7 +2,7 @@
 title: 'True world leadership'
 layout: post
 categories:
-    - 'foreign policy'
+- 'foreign policy'
 tag: 'John Quincy Adams'
 ---
 

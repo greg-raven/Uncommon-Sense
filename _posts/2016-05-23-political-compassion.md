@@ -2,9 +2,9 @@
 title: 'Political ‘compassion’'
 layout: post
 categories:
-    - politics
-    - socialism
-    - welfare
+- politics
+- socialism
+- welfare
 tag: 'Paul Craig Roberts'
 ---
 

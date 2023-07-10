@@ -2,7 +2,7 @@
 title: 'Big Brother'
 layout: post
 categories:
-    - collectivization
+- collectivization
 tag: 'William O. Douglas'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Greed vs. virtue'
 layout: post
 categories:
-    - capitalism
+- capitalism
 tag: 'Milton Friedman'
 ---
 

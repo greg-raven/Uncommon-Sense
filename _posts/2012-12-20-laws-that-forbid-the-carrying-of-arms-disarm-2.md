@@ -2,7 +2,7 @@
 title: 'Favoring the criminal'
 layout: post
 categories:
-    - 'Second Amendment'
+- 'Second Amendment'
 tag: 'Cesare Beccaria'
 ---
 

@@ -2,8 +2,8 @@
 title: 'Power to the people?'
 layout: post
 categories:
-    - demagogues
-    - socialism
+- demagogues
+- socialism
 tag: 'Margaret Thatcher'
 ---
 

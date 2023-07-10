@@ -2,7 +2,7 @@
 title: 'Content of their character'
 layout: post
 categories:
-    - culture
+- culture
 tag: 'Tom Metzger'
 ---
 

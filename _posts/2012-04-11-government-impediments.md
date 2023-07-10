@@ -2,7 +2,7 @@
 title: 'Government impediments'
 layout: post
 categories:
-    - government
+- government
 tag: 'Bob Wells'
 ---
 

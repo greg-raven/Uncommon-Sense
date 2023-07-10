@@ -2,7 +2,7 @@
 title: 'Virtue signalling'
 layout: post
 categories:
-    - liberalism
+- liberalism
 tag: 'Thomas Sowell'
 ---
 

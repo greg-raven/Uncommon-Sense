@@ -2,7 +2,7 @@
 title: 'What truly matters'
 layout: post
 categories:
-    - government
+- government
 tag: 'Donald J. Trump'
 ---
 

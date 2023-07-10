@@ -2,7 +2,7 @@
 title: 'Police protection'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'Ayn Rand'
 ---
 

@@ -2,7 +2,7 @@
 title: 'The difference between Democrats and Republicans'
 layout: post
 categories:
-    - politics
+- politics
 tag: 'Greg Raven'
 ---
 

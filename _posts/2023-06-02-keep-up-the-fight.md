@@ -2,7 +2,7 @@
 title: 'Keep up the fight'
 layout: post
 categories:
-    - war
+- war
 tag: 'Winston Churchill'
 ---
 

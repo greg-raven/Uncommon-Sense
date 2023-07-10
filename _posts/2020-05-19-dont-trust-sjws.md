@@ -2,7 +2,7 @@
 title: 'Don’t trust SJWs'
 layout: post
 categories:
-    - culture
+- culture
 tag: 'Alexander Solzhenitsyn'
 ---
 

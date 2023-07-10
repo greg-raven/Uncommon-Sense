@@ -2,7 +2,7 @@
 title: 'Equal treatment under the law'
 layout: post
 categories:
-    - laws
+- laws
 tag: 'Lew Rockwell'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Government vs. industry'
 layout: post
 categories:
-    - government
+- government
 tag: 'H. L. Mencken'
 ---
 

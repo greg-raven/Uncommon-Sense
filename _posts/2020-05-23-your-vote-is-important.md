@@ -2,7 +2,7 @@
 title: 'Your vote is important'
 layout: post
 categories:
-    - voting
+- voting
 tag: 'George Orwell'
 ---
 

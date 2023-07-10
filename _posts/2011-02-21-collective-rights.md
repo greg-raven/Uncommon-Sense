@@ -2,7 +2,7 @@
 title: 'Collective rights'
 layout: post
 categories:
-    - rights
+- rights
 tag: 'Frederic Bastiat'
 ---
 

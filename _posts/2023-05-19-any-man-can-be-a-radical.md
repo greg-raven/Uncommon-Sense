@@ -2,7 +2,7 @@
 title: 'Any man can be a radical'
 layout: post
 categories:
-    - individualism
+- individualism
 tag: 'William Randolph Hearst'
 ---
 

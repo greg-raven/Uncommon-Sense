@@ -2,7 +2,7 @@
 title: 'Give ’em hell'
 layout: post
 categories:
-    - truth
+- truth
 tag: 'Harry S. Truman'
 ---
 

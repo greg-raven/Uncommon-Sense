@@ -2,7 +2,7 @@
 title: 'Safety vs. liberty'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Ron Paul'
 ---
 

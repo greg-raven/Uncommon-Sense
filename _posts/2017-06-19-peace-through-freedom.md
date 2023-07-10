@@ -2,7 +2,7 @@
 title: 'Peace through freedom'
 layout: post
 categories:
-    - collectivization
+- collectivization
 tag: 'Ludwig von Mises'
 ---
 

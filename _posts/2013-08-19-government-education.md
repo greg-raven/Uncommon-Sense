@@ -2,7 +2,7 @@
 title: 'Government education'
 layout: post
 categories:
-    - education
+- education
 tag: 'H. L. Mencken'
 ---
 

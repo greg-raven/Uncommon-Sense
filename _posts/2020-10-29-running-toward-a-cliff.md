@@ -2,7 +2,7 @@
 title: 'Running toward a cliff'
 layout: post
 categories:
-    - individualism
+- individualism
 tag: 'C. S. Lewis'
 ---
 

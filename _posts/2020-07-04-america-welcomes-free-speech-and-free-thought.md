@@ -2,7 +2,7 @@
 title: 'America welcomes free speech and free thought'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'John F. Kennedy'
 ---
 

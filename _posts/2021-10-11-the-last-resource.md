@@ -2,7 +2,7 @@
 title: 'The last resource'
 layout: post
 categories:
-    - war
+- war
 tag: 'Thomas Paine'
 ---
 

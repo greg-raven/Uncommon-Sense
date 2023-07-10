@@ -2,7 +2,7 @@
 title: 'Corruption is like a cancer'
 layout: post
 categories:
-    - corruption
+- corruption
 tag: 'John Adams'
 ---
 

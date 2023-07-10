@@ -2,7 +2,7 @@
 title: Politicians
 layout: post
 categories:
-    - politics
+- politics
 tag: 'Edward Langley'
 ---
 

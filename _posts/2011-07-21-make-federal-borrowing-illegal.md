@@ -2,7 +2,7 @@
 title: 'Make Federal borrowing illegal'
 layout: post
 categories:
-    - debt
+- debt
 tag: 'Thomas Jefferson'
 ---
 

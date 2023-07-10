@@ -2,7 +2,7 @@
 title: 'Ending racism'
 layout: post
 categories:
-    - race
+- race
 tag: 'Jesse Lee Peterson'
 ---
 

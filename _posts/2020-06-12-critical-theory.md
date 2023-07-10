@@ -2,7 +2,7 @@
 title: 'Critical theory'
 layout: post
 categories:
-    - culture
+- culture
 tag: 'Andrew Torba'
 ---
 

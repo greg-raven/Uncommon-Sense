@@ -2,7 +2,7 @@
 title: 'Why we need the Constitution'
 layout: post
 categories:
-    - Constitution
+- Constitution
 tag: 'William O. Douglas'
 ---
 

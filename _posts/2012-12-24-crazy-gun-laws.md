@@ -2,7 +2,7 @@
 title: 'Crazy gun laws'
 layout: post
 categories:
-    - 'Second Amendment'
+- 'Second Amendment'
 tag: 'Selwyn Duke'
 ---
 

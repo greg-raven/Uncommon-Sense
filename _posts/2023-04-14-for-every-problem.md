@@ -2,7 +2,7 @@
 title: 'For every problem'
 layout: post
 categories:
-    - knowledge
+- knowledge
 tag: 'H. L. Mencken'
 ---
 

@@ -2,7 +2,7 @@
 title: 'The history of the Revolution'
 layout: post
 categories:
-    - history
+- history
 tag: 'John Adams'
 ---
 

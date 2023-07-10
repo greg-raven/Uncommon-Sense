@@ -2,7 +2,7 @@
 title: 'True freedom'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'John Stuart Mill'
 ---
 

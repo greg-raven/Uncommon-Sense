@@ -2,7 +2,7 @@
 title: 'Equal justice under the law'
 layout: post
 categories:
-    - equality
+- equality
 tag: 'James Fitzjames Stephens'
 ---
 

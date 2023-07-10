@@ -2,7 +2,7 @@
 title: 'Judge carefully and well'
 layout: post
 categories:
-    - voting
+- voting
 tag: 'Alan Keyes'
 ---
 

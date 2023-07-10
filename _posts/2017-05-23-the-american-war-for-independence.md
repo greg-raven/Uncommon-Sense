@@ -2,7 +2,7 @@
 title: 'The American War for Independence'
 layout: post
 categories:
-    - rebellion
+- rebellion
 tag: 'Thomas E. Woods Jr.'
 ---
 

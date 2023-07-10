@@ -2,7 +2,7 @@
 title: 'Are we not to be trusted?'
 layout: post
 categories:
-    - 'Second Amendment'
+- 'Second Amendment'
 tag: 'Patrick Henry'
 ---
 

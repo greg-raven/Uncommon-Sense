@@ -2,7 +2,7 @@
 title: 'Delayed misery'
 layout: post
 categories:
-    - government
+- government
 tag: 'Harry Browne'
 ---
 

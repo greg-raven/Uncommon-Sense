@@ -2,7 +2,7 @@
 title: 'Democracies are not permanent'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'P. J. O’Rourke'
 ---
 

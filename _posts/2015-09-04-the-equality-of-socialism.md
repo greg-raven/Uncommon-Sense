@@ -2,7 +2,7 @@
 title: 'The equality of socialism'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'George Bernard Shaw'
 ---
 

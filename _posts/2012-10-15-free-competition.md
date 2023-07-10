@@ -2,7 +2,7 @@
 title: 'Free competition'
 layout: post
 categories:
-    - capitalism
+- capitalism
 tag: 'Oliver Wendell Holmes Jr.'
 ---
 

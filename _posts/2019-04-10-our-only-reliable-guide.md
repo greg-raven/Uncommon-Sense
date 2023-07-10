@@ -2,7 +2,7 @@
 title: 'Our only reliable guide'
 layout: post
 categories:
-    - conservatism
+- conservatism
 tag: 'Patrick Henry'
 ---
 

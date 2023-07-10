@@ -2,7 +2,7 @@
 title: 'Last official act'
 layout: post
 categories:
-    - money
+- money
 tag: 'George Washington'
 ---
 

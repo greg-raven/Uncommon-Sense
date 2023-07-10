@@ -2,7 +2,7 @@
 title: 'Act now to ensure your safety'
 layout: post
 categories:
-    - 'Second Amendment'
+- 'Second Amendment'
 tag: 'Greg Raven'
 ---
 

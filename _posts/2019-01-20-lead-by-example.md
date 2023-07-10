@@ -2,7 +2,7 @@
 title: 'Lead by example'
 layout: post
 categories:
-    - 'foreign policy'
+- 'foreign policy'
 tag: 'Charles A. Lindbergh Jr.'
 ---
 

@@ -2,7 +2,7 @@
 title: 'The tyranny of the majority'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'Auberon Herbert'
 ---
 

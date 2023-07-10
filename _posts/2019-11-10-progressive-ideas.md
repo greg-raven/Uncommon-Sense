@@ -2,7 +2,7 @@
 title: 'Progressive ideas'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'George Orwell'
 ---
 

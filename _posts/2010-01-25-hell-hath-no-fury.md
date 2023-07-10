@@ -2,7 +2,7 @@
 title: 'Hell hath no fury'
 layout: post
 categories:
-    - government
+- government
 tag: 'Milton Friedman'
 ---
 

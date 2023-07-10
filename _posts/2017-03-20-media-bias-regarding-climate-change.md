@@ -2,7 +2,7 @@
 title: 'Media bias regarding climate change'
 layout: post
 categories:
-    - climate
+- climate
 tag: 'Thomas Sowell'
 ---
 

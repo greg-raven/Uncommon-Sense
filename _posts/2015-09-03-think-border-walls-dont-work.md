@@ -2,7 +2,7 @@
 title: 'Think border walls don’t work?'
 layout: post
 categories:
-    - immigration
+- immigration
 tag: 'Dennis Miller'
 ---
 

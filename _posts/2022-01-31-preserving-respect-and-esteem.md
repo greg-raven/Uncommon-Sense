@@ -2,7 +2,7 @@
 title: 'Preserving respect and esteem'
 layout: post
 categories:
-    - truth
+- truth
 tag: 'Abraham Lincoln'
 ---
 

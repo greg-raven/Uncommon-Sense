@@ -2,8 +2,8 @@
 title: 'Redistributing poverty'
 layout: post
 categories:
-    - socialism
-    - welfare
+- socialism
+- welfare
 tag: 'Thomas Sowell'
 ---
 

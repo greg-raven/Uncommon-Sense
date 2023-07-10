@@ -2,8 +2,8 @@
 title: Subsidies
 layout: post
 categories:
-    - taxation
-    - welfare
+- taxation
+- welfare
 tag: 'James Bovard'
 ---
 

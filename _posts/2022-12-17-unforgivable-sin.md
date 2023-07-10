@@ -2,7 +2,7 @@
 title: 'Unforgivable sin'
 layout: post
 categories:
-    - money
+- money
 tag: 'Winston Churchill'
 ---
 

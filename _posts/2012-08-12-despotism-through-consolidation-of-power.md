@@ -2,7 +2,7 @@
 title: 'Despotism through consolidation of power'
 layout: post
 categories:
-    - collectivization
+- collectivization
 tag: 'George Washington'
 ---
 

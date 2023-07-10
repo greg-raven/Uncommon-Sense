@@ -2,8 +2,8 @@
 title: 'Gratitude vs. entitlement'
 layout: post
 categories:
-    - capitalism
-    - socialism
+- capitalism
+- socialism
 tag: 'Dennis Prager'
 ---
 

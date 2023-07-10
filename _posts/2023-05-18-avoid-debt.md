@@ -2,7 +2,7 @@
 title: 'Avoid debt'
 layout: post
 categories:
-    - debt
+- debt
 tag: 'George Washington'
 ---
 

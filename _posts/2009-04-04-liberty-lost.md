@@ -2,8 +2,8 @@
 title: 'Liberty lost'
 layout: post
 categories:
-    - Constitution
-    - liberty
+- Constitution
+- liberty
 tag: 'John Adams'
 ---
 

@@ -2,8 +2,8 @@
 title: 'Equal protection'
 layout: post
 categories:
-    - equality
-    - laws
+- equality
+- laws
 tag: 'James Madison'
 ---
 

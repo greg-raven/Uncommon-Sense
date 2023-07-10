@@ -2,7 +2,7 @@
 title: 'The song of the tyrant'
 layout: post
 categories:
-    - demagogues
+- demagogues
 tag: 'William Pitt'
 ---
 

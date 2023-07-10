@@ -2,7 +2,7 @@
 title: 'Give me truth'
 layout: post
 categories:
-    - truth
+- truth
 tag: 'Henry David Thoreau'
 ---
 

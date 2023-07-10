@@ -2,7 +2,7 @@
 title: 'Choice of the governed'
 layout: post
 categories:
-    - religion
+- religion
 tag: 'Benjamin Franklin'
 ---
 

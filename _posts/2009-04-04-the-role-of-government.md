@@ -2,7 +2,7 @@
 title: 'The role of government'
 layout: post
 categories:
-    - government
+- government
 tag: 'Thomas Jefferson'
 ---
 

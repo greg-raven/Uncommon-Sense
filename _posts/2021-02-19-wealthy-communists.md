@@ -2,7 +2,7 @@
 title: 'Wealthy communists'
 layout: post
 categories:
-    - collectivization
+- collectivization
 tag: 'Bella Dodd'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Diversity of enterprise for the wealth of a nation'
 layout: post
 categories:
-    - capitalism
+- capitalism
 tag: 'Alexander Hamilton'
 ---
 

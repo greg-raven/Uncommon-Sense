@@ -2,8 +2,8 @@
 title: 'Beyond democracy'
 layout: post
 categories:
-    - democracy
-    - individualism
+- democracy
+- individualism
 tag: 'Henry David Thoreau'
 ---
 

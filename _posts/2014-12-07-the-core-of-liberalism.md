@@ -2,7 +2,7 @@
 title: 'The core of liberalism'
 layout: post
 categories:
-    - liberalism
+- liberalism
 tag: 'P. J. O’Rourke'
 ---
 

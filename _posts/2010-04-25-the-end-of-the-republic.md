@@ -2,8 +2,8 @@
 title: 'The end of the Republic'
 layout: post
 categories:
-    - socialism
-    - welfare
+- socialism
+- welfare
 tag: 'Thomas Jefferson'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Danger: Government at work'
 layout: post
 categories:
-    - laws
+- laws
 tag: 'Benjamin Franklin'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Thomas Jefferson'
 layout: post
 categories:
-    - knowledge
+- knowledge
 tag: 'John F. Kennedy'
 ---
 

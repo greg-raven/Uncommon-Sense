@@ -2,7 +2,7 @@
 title: 'Where liberty dwells'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Benjamin Franklin'
 ---
 

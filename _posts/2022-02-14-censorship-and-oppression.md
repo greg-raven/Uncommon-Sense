@@ -2,7 +2,7 @@
 title: 'Censorship and oppression'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'Harry S. Truman'
 ---
 

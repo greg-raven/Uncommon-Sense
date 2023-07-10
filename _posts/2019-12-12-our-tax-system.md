@@ -2,8 +2,8 @@
 title: 'Our tax system'
 layout: post
 categories:
-    - socialism
-    - taxation
+- socialism
+- taxation
 tag: 'Thomas Sowell'
 ---
 

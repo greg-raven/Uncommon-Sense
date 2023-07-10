@@ -2,7 +2,7 @@
 title: 'The state is anti-capitalist'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Murray N. Rothbard'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Let experience solve it'
 layout: post
 categories:
-    - knowledge
+- knowledge
 tag: 'George Washington'
 ---
 

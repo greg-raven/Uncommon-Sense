@@ -2,8 +2,8 @@
 title: 'Free press'
 layout: post
 categories:
-    - press
-    - truth
+- press
+- truth
 tag: 'Hannah Arendt'
 ---
 

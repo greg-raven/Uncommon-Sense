@@ -2,7 +2,7 @@
 title: 'The nature of laws'
 layout: post
 categories:
-    - laws
+- laws
 tag: 'George Mason'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Intolerance and beliefs'
 layout: post
 categories:
-    - conviction
+- conviction
 tag: 'Gustave Le Bon'
 ---
 

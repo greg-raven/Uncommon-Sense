@@ -2,7 +2,7 @@
 title: 'Defending against domestic tyrannies'
 layout: post
 categories:
-    - war
+- war
 tag: 'James Madison'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Immigration reform'
 layout: post
 categories:
-    - immigration
+- immigration
 tag: 'Dixon Diaz'
 ---
 

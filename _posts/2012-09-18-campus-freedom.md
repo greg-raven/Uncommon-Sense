@@ -2,8 +2,8 @@
 title: 'Campus freedom'
 layout: post
 categories:
-    - education
-    - speech
+- education
+- speech
 tag: 'Benno Schmidt'
 ---
 

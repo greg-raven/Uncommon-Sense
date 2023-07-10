@@ -2,7 +2,7 @@
 title: 'The unaware'
 layout: post
 categories:
-    - knowledge
+- knowledge
 tag: 'Merrill Jenkins'
 ---
 

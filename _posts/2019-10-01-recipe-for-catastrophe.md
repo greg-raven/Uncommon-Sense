@@ -2,7 +2,7 @@
 title: 'Recipe for catastrophe'
 layout: post
 categories:
-    - immigration
+- immigration
 tag: 'Michelle Malkin'
 ---
 

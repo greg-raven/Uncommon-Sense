@@ -2,7 +2,7 @@
 title: 'Laws must apply to all'
 layout: post
 categories:
-    - laws
+- laws
 tag: 'James Madison'
 ---
 

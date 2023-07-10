@@ -2,8 +2,8 @@
 title: 'Understanding indoctrination'
 layout: post
 categories:
-    - 'informed electorate'
-    - speech
+- 'informed electorate'
+- speech
 tag: 'Noam Chomsky'
 ---
 

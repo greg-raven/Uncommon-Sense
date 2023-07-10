@@ -2,7 +2,7 @@
 title: 'Isolationism and self-reliance'
 layout: post
 categories:
-    - 'foreign policy'
+- 'foreign policy'
 tag: 'George Washington'
 ---
 

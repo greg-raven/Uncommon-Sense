@@ -2,7 +2,7 @@
 title: 'Liberal treachery'
 layout: post
 categories:
-    - liberalism
+- liberalism
 tag: 'Ann Coulter'
 ---
 

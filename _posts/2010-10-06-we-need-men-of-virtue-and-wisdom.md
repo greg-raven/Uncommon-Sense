@@ -2,7 +2,7 @@
 title: 'We need men of virtue and wisdom'
 layout: post
 categories:
-    - virtue
+- virtue
 tag: 'James Madison'
 ---
 

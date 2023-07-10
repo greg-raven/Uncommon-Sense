@@ -2,7 +2,7 @@
 title: 'The monied aristocracy'
 layout: post
 categories:
-    - debt
+- debt
 tag: 'Andrew Jackson'
 ---
 

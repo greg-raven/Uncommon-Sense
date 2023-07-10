@@ -2,7 +2,7 @@
 title: 'Free speech in peace and in war'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'Louis D. Brandeis'
 ---
 

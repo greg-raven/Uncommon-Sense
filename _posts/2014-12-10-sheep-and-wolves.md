@@ -2,7 +2,7 @@
 title: 'Sheep and wolves'
 layout: post
 categories:
-    - 'informed electorate'
+- 'informed electorate'
 tag: 'Bertrand de Jouvenel'
 ---
 

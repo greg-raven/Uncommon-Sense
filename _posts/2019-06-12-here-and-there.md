@@ -2,8 +2,8 @@
 title: 'Here and there'
 layout: post
 categories:
-    - culture
-    - language
+- culture
+- language
 tag: anonymous
 ---
 

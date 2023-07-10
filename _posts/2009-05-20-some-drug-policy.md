@@ -2,7 +2,7 @@
 title: 'Some drug policy'
 layout: post
 categories:
-    - demagogues
+- demagogues
 tag: 'Thomas W. Hazlett'
 ---
 

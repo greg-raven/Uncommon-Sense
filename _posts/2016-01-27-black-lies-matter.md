@@ -2,7 +2,7 @@
 title: 'Black lies matter'
 layout: post
 categories:
-    - culture
+- culture
 tag: 'Heather Mac Donald'
 ---
 

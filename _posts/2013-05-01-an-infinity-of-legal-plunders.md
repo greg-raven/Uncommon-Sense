@@ -2,7 +2,7 @@
 title: 'Legal plunder has many names'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'Frederic Bastiat'
 ---
 

@@ -2,8 +2,8 @@
 title: 'Gold, silver, barter, and debt'
 layout: post
 categories:
-    - debt
-    - money
+- debt
+- money
 tag: 'Norm Franz'
 ---
 

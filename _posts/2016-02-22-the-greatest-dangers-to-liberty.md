@@ -2,7 +2,7 @@
 title: 'The greatest dangers to liberty'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Louis D. Brandeis'
 ---
 

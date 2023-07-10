@@ -2,7 +2,7 @@
 title: 'The greatest calamity'
 layout: post
 categories:
-    - debt
+- debt
 tag: 'Robert Yates'
 ---
 

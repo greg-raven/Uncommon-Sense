@@ -2,7 +2,7 @@
 title: 'Invisible truths'
 layout: post
 categories:
-    - truth
+- truth
 tag: 'Eric Hoffer'
 ---
 

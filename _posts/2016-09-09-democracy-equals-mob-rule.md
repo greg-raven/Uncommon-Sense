@@ -2,7 +2,7 @@
 title: 'Democracy equals mob rule'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: anonymous
 ---
 

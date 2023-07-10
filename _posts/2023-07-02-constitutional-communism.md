@@ -2,7 +2,7 @@
 title: 'Constitutional communism'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'G. Edward Griffin'
 ---
 

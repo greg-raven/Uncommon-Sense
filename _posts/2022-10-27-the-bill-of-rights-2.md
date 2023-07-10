@@ -2,8 +2,8 @@
 title: 'The Bill of Rights'
 layout: post
 categories:
-    - liberty
-    - rights
+- liberty
+- rights
 tag: 'Thomas Jefferson'
 ---
 

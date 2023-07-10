@@ -2,7 +2,7 @@
 title: 'Governmental solutions'
 layout: post
 categories:
-    - individualism
+- individualism
 tag: 'Greg Raven'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Extending police power'
 layout: post
 categories:
-    - laws
+- laws
 tag: 'H. L. Mencken'
 ---
 

@@ -2,7 +2,7 @@
 title: 'The right to be offensive'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'Larry Flynt'
 ---
 

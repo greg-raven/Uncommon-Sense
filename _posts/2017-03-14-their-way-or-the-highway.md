@@ -2,7 +2,7 @@
 title: 'Their way or the highway'
 layout: post
 categories:
-    - liberalism
+- liberalism
 tag: 'Thomas Sowell'
 ---
 

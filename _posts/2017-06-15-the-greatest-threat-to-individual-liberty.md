@@ -2,9 +2,9 @@
 title: 'The greatest threat to individual liberty'
 layout: post
 categories:
-    - government
-    - individualism
-    - liberty
+- government
+- individualism
+- liberty
 tag: 'Andrew Cline'
 ---
 

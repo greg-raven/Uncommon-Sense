@@ -2,7 +2,7 @@
 title: 'Eliminating cronyism'
 layout: post
 categories:
-    - corruption
+- corruption
 tag: 'Daniel Shiner'
 ---
 

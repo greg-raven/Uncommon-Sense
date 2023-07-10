@@ -2,7 +2,7 @@
 title: 'The collectivist paradox'
 layout: post
 categories:
-    - collectivization
+- collectivization
 tag: 'Friedrich August von Hayek'
 ---
 

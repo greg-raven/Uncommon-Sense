@@ -2,7 +2,7 @@
 title: 'Frankness, honesty, and courage'
 layout: post
 categories:
-    - truth
+- truth
 tag: 'Robert E. Lee'
 ---
 

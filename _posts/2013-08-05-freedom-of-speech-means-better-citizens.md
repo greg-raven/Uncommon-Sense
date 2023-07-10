@@ -2,7 +2,7 @@
 title: 'Freedom of speech means better citizens'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'John Marshall Harlan'
 ---
 

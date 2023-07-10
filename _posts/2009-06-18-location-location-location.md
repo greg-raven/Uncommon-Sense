@@ -2,7 +2,7 @@
 title: 'Location, location, location'
 layout: post
 categories:
-    - environment
+- environment
 tag: 'Henry David Thoreau'
 ---
 

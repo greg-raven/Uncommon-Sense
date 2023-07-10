@@ -2,8 +2,8 @@
 title: 'Destroying liberties'
 layout: post
 categories:
-    - socialism
-    - welfare
+- socialism
+- welfare
 tag: Plutarch
 ---
 

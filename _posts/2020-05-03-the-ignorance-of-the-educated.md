@@ -2,7 +2,7 @@
 title: 'The ignorance of the educated'
 layout: post
 categories:
-    - education
+- education
 tag: 'Thomas Sowell'
 ---
 

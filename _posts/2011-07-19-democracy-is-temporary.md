@@ -2,7 +2,7 @@
 title: 'Democracy is temporary'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'Alexander Tyler'
 ---
 

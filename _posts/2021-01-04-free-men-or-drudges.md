@@ -2,7 +2,7 @@
 title: 'Free men or drudges?'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Samuel Adams'
 ---
 

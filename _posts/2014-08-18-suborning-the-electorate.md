@@ -2,7 +2,7 @@
 title: 'Subverting the will of the electorate'
 layout: post
 categories:
-    - demagogues
+- demagogues
 tag: 'Edward Snowden'
 ---
 

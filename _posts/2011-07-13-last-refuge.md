@@ -2,7 +2,7 @@
 title: 'The last refuge'
 layout: post
 categories:
-    - demagogues
+- demagogues
 tag: 'William Randolph Hearst'
 ---
 

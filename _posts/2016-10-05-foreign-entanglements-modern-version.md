@@ -2,7 +2,7 @@
 title: 'Foreign entanglements … modern version'
 layout: post
 categories:
-    - immigration
+- immigration
 tag: 'Ann Coulter'
 ---
 

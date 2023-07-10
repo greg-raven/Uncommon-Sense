@@ -2,7 +2,7 @@
 title: 'Gun control is not about guns or crime'
 layout: post
 categories:
-    - 'Second Amendment'
+- 'Second Amendment'
 tag: 'Charley Reese'
 ---
 

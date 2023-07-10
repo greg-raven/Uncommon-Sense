@@ -2,7 +2,7 @@
 title: Bankrupters
 layout: post
 categories:
-    - money
+- money
 tag: 'Murray N. Rothbard'
 ---
 

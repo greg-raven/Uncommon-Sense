@@ -2,7 +2,7 @@
 title: 'Morality of taxation'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'Walter E. Williams'
 ---
 

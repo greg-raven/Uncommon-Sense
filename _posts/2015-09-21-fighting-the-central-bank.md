@@ -2,8 +2,8 @@
 title: 'Fighting the central bank'
 layout: post
 categories:
-    - economics
-    - money
+- economics
+- money
 tag: 'Olive Cushing Dwinell'
 ---
 

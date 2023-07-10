@@ -2,7 +2,7 @@
 title: 'Golden Rule of citizenship'
 layout: post
 categories:
-    - citizenship
+- citizenship
 tag: 'Albert Jay Nock'
 ---
 

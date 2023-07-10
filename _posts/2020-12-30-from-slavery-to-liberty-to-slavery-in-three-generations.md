@@ -2,7 +2,7 @@
 title: 'From slavery to liberty to slavery in three generations'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'D. H. Lawrence'
 ---
 

@@ -2,7 +2,7 @@
 title: 'The rule of the people'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'Greg Raven'
 ---
 

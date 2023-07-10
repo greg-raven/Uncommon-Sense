@@ -2,7 +2,7 @@
 title: 'Government vs. liberty'
 layout: post
 categories:
-    - government
+- government
 tag: 'H. L. Mencken'
 ---
 

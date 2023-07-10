@@ -2,7 +2,7 @@
 title: 'Intent of free expression'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'John Marshall Harlan'
 ---
 

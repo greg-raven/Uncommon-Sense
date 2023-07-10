@@ -2,7 +2,7 @@
 title: 'Denying reality'
 layout: post
 categories:
-    - truth
+- truth
 tag: 'Thomas Sowell'
 ---
 

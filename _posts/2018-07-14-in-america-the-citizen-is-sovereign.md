@@ -2,7 +2,7 @@
 title: 'In America, the citizen is sovereign'
 layout: post
 categories:
-    - individualism
+- individualism
 tag: 'Gerald Ford'
 ---
 

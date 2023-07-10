@@ -2,9 +2,9 @@
 title: 'The alibi of tyrants'
 layout: post
 categories:
-    - collectivization
-    - demagogues
-    - socialism
+- collectivization
+- demagogues
+- socialism
 tag: 'Albert Camus'
 ---
 

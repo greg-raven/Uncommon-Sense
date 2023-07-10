@@ -2,8 +2,8 @@
 title: 'The false premise of democracy'
 layout: post
 categories:
-    - democracy
-    - equality
+- democracy
+- equality
 tag: Aristotle
 ---
 

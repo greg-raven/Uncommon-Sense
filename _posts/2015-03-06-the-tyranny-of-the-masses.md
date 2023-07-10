@@ -2,7 +2,7 @@
 title: 'The tyranny of the masses'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'Walter Bagehot'
 ---
 

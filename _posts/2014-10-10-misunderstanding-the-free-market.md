@@ -2,7 +2,7 @@
 title: 'Misunderstanding the free market'
 layout: post
 categories:
-    - economics
+- economics
 tag: 'Julian Simon'
 ---
 

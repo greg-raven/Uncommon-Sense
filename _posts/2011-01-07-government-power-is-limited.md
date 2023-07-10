@@ -2,8 +2,8 @@
 title: 'Government power is limited'
 layout: post
 categories:
-    - Constitution
-    - decentralization
+- Constitution
+- decentralization
 tag: 'Thomas Jefferson'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Political promises'
 layout: post
 categories:
-    - demagogues
+- demagogues
 tag: 'Harry Browne'
 ---
 

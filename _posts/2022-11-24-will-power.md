@@ -2,8 +2,8 @@
 title: 'Will power'
 layout: post
 categories:
-    - money
-    - taxation
+- money
+- taxation
 tag: 'Alexander Hamilton'
 ---
 

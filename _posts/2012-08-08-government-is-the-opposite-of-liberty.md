@@ -2,7 +2,7 @@
 title: 'Government is the opposite of liberty'
 layout: post
 categories:
-    - government
+- government
 tag: 'Ludwig von Mises'
 ---
 

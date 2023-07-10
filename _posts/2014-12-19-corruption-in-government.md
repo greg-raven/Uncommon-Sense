@@ -2,8 +2,8 @@
 title: 'Corruption in government'
 layout: post
 categories:
-    - corruption
-    - government
+- corruption
+- government
 tag: 'Joe Sobran'
 ---
 

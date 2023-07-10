@@ -2,7 +2,7 @@
 title: 'Society’s strength'
 layout: post
 categories:
-    - morals
+- morals
 tag: 'Alexander Solzhenitsyn'
 ---
 

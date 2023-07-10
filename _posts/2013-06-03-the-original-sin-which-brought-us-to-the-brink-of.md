@@ -2,7 +2,7 @@
 title: 'Income tax'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'Tom Anderson'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Suicide, not a train wreck'
 layout: post
 categories:
-    - Obamacare
+- Obamacare
 tag: 'Wayne Allyn Root'
 ---
 

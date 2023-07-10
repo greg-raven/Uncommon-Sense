@@ -2,9 +2,9 @@
 title: 'Don’t be talked out of your liberties'
 layout: post
 categories:
-    - demagogues
-    - liberty
-    - rights
+- demagogues
+- liberty
+- rights
 tag: 'John Adams'
 ---
 

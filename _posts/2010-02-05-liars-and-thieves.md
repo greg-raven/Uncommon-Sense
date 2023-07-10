@@ -2,7 +2,7 @@
 title: 'Liars and thieves'
 layout: post
 categories:
-    - truth
+- truth
 tag: 'Theodore Roosevelt'
 ---
 

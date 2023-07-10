@@ -2,7 +2,7 @@
 title: 'Throwing off an abusive government'
 layout: post
 categories:
-    - rights
+- rights
 tag: 'Declaration of Independence'
 ---
 

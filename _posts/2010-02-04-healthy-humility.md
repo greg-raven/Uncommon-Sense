@@ -2,7 +2,7 @@
 title: 'Healthy humility'
 layout: post
 categories:
-    - politics
+- politics
 tag: 'Michael Kinsley'
 ---
 

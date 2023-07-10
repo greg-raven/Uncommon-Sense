@@ -2,7 +2,7 @@
 title: 'The politician’s alternative'
 layout: post
 categories:
-    - politics
+- politics
 tag: 'Harry S. Truman'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Government-sponsored health care'
 layout: post
 categories:
-    - Obamacare
+- Obamacare
 tag: 'P. J. O’Rourke'
 ---
 

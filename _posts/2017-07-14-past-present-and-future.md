@@ -2,7 +2,7 @@
 title: 'Past, present, and future'
 layout: post
 categories:
-    - culture
+- culture
 tag: 'Edmund Burke'
 ---
 

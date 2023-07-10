@@ -2,10 +2,10 @@
 title: 'Power always corrupts'
 layout: post
 categories:
-    - corruption
-    - government
-    - socialism
-    - taxation
+- corruption
+- government
+- socialism
+- taxation
 tag: 'David Boaz'
 ---
 

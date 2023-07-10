@@ -2,7 +2,7 @@
 title: 'Democracy runs to anarchy'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'Ralph Waldo Emerson'
 ---
 

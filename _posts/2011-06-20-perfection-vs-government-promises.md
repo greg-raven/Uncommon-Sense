@@ -2,7 +2,7 @@
 title: 'Perfection vs. government promises'
 layout: post
 categories:
-    - collectivization
+- collectivization
 tag: 'Lawrence W. Reed'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Evils from democracy'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'Elbridge Gerry'
 ---
 

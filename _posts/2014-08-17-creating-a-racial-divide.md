@@ -2,7 +2,7 @@
 title: 'Creating a racial divide'
 layout: post
 categories:
-    - race
+- race
 tag: 'Larry Klayman'
 ---
 

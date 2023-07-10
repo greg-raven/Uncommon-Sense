@@ -2,7 +2,7 @@
 title: 'Guidance of religion'
 layout: post
 categories:
-    - virtue
+- virtue
 tag: 'Benjamin Franklin'
 ---
 

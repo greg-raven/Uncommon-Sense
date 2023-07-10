@@ -2,7 +2,7 @@
 title: 'When to dissolve your government'
 layout: post
 categories:
-    - rebellion
+- rebellion
 tag: 'Thomas Jefferson'
 ---
 

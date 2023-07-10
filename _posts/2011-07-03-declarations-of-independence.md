@@ -2,7 +2,7 @@
 title: 'Declarations of independence'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Thomas Fleming'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Collective immorality'
 layout: post
 categories:
-    - collectivization
+- collectivization
 tag: 'Walter E. Williams'
 ---
 

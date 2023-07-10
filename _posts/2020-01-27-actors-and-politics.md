@@ -2,8 +2,8 @@
 title: 'Actors and politics'
 layout: post
 categories:
-    - culture
-    - 'informed electorate'
+- culture
+- 'informed electorate'
 tag: 'Thomas Sowell'
 ---
 

@@ -2,8 +2,8 @@
 title: 'Qualifications for the Presidency'
 layout: post
 categories:
-    - government
-    - politics
+- government
+- politics
 tag: 'H. L. Mencken'
 ---
 

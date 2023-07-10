@@ -2,7 +2,7 @@
 title: 'Authority without responsibility'
 layout: post
 categories:
-    - government
+- government
 tag: 'Ayn Rand'
 ---
 

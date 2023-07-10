@@ -2,7 +2,7 @@
 title: Responsibility
 layout: post
 categories:
-    - adulthood
+- adulthood
 tag: 'Antoine de Saint-Exupery'
 ---
 

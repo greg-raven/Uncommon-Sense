@@ -2,7 +2,7 @@
 title: 'The necessity of oversight'
 layout: post
 categories:
-    - 'informed electorate'
+- 'informed electorate'
 tag: 'J. Robert Oppenheimer'
 ---
 

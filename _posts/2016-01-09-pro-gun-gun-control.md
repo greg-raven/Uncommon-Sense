@@ -2,7 +2,7 @@
 title: 'Pro-gun gun control'
 layout: post
 categories:
-    - 'Second Amendment'
+- 'Second Amendment'
 tag: 'Stefan Molyneux'
 ---
 

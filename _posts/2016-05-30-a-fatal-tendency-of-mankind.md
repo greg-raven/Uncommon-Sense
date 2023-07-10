@@ -2,7 +2,7 @@
 title: 'A fatal tendency of mankind'
 layout: post
 categories:
-    - culture
+- culture
 tag: 'Frederic Bastiat'
 ---
 

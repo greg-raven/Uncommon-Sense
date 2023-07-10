@@ -2,7 +2,7 @@
 title: 'An association of states'
 layout: post
 categories:
-    - Constitution
+- Constitution
 tag: 'Alexander Hamilton'
 ---
 

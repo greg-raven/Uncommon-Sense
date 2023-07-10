@@ -2,7 +2,7 @@
 title: 'Freedom of speech is paramount'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'John Milton'
 ---
 

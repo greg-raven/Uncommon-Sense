@@ -2,7 +2,7 @@
 title: 'Counterfeit truth'
 layout: post
 categories:
-    - truth
+- truth
 tag: 'James Cardinal Gibbons'
 ---
 

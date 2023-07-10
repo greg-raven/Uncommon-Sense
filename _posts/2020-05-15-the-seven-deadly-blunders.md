@@ -2,7 +2,7 @@
 title: 'The Seven Deadly Blunders'
 layout: post
 categories:
-    - morals
+- morals
 tag: 'Mahatma Mohandas K. Gandhi'
 ---
 

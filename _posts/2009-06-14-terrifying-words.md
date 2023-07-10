@@ -2,7 +2,7 @@
 title: 'Terrifying words'
 layout: post
 categories:
-    - government
+- government
 tag: 'Ronald Reagan'
 ---
 

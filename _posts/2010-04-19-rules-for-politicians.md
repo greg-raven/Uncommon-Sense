@@ -2,7 +2,7 @@
 title: 'Rules for politicians'
 layout: post
 categories:
-    - money
+- money
 tag: 'William Boetcker'
 ---
 

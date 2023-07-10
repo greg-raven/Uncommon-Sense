@@ -2,8 +2,8 @@
 title: 'Religion and morality'
 layout: post
 categories:
-    - morals
-    - religion
+- morals
+- religion
 tag: 'George Washington'
 ---
 

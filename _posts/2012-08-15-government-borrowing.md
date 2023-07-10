@@ -2,8 +2,8 @@
 title: 'Government borrowing'
 layout: post
 categories:
-    - debt
-    - economics
+- debt
+- economics
 tag: 'R. H. Tawney'
 ---
 

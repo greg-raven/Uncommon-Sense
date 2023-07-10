@@ -2,8 +2,8 @@
 title: 'Trading down'
 layout: post
 categories:
-    - demagogues
-    - liberty
+- demagogues
+- liberty
 tag: 'Thomas Sowell'
 ---
 

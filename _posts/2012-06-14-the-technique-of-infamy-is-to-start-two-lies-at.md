@@ -2,7 +2,7 @@
 title: 'False dichotomy'
 layout: post
 categories:
-    - truth
+- truth
 tag: 'Ezra Pound'
 ---
 

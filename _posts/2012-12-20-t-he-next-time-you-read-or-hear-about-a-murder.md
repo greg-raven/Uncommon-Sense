@@ -2,7 +2,7 @@
 title: 'Unarmed victims'
 layout: post
 categories:
-    - 'Second Amendment'
+- 'Second Amendment'
 tag: 'The Liberty Pole'
 ---
 

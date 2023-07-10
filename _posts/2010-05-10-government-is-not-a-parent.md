@@ -2,7 +2,7 @@
 title: 'Government is not a parent'
 layout: post
 categories:
-    - 'external authority'
+- 'external authority'
 tag: 'Alexis de Tocqueville'
 ---
 

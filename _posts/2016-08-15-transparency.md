@@ -2,7 +2,7 @@
 title: Transparency
 layout: post
 categories:
-    - 'informed electorate'
+- 'informed electorate'
 tag: 'Patrick Henry'
 ---
 

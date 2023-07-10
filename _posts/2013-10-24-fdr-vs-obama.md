@@ -2,7 +2,7 @@
 title: 'FDR vs. Obama'
 layout: post
 categories:
-    - Obamacare
+- Obamacare
 tag: 'Patrick J. Buchanan'
 ---
 

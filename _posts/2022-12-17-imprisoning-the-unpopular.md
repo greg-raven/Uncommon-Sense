@@ -2,7 +2,7 @@
 title: 'Imprisoning the unpopular'
 layout: post
 categories:
-    - intolerance
+- intolerance
 tag: 'Winston Churchill'
 ---
 

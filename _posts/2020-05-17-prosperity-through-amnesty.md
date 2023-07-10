@@ -2,7 +2,7 @@
 title: 'Prosperity through amnesty'
 layout: post
 categories:
-    - immigration
+- immigration
 tag: 'Ann Coulter'
 ---
 

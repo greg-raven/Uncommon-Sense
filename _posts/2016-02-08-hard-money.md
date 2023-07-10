@@ -2,7 +2,7 @@
 title: 'Hard money'
 layout: post
 categories:
-    - money
+- money
 tag: 'Andrew Jackson'
 ---
 

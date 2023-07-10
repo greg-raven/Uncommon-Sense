@@ -2,8 +2,8 @@
 title: 'Man exists for himself'
 layout: post
 categories:
-    - collectivization
-    - individualism
+- collectivization
+- individualism
 tag: 'Ralph Waldo Emerson'
 ---
 

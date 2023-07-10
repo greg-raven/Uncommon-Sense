@@ -2,7 +2,7 @@
 title: 'Those who cannot learn, unlearn, and relearn'
 layout: post
 categories:
-    - self-improvement
+- self-improvement
 tag: 'Alvin Toffler'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Government plundering'
 layout: post
 categories:
-    - rights
+- rights
 tag: 'Frederic Bastiat'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Government wealth transfer'
 layout: post
 categories:
-    - money
+- money
 tag: Voltaire
 ---
 

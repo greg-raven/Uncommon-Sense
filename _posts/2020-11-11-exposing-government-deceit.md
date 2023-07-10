@@ -2,7 +2,7 @@
 title: 'Exposing government deceit'
 layout: post
 categories:
-    - press
+- press
 tag: 'Hugo L. Black'
 ---
 

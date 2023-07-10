@@ -2,7 +2,7 @@
 title: Rebranding
 layout: post
 categories:
-    - demagogues
+- demagogues
 tag: Talleyrand
 ---
 

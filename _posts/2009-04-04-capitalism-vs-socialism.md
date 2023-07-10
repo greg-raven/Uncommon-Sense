@@ -2,7 +2,7 @@
 title: 'Capitalism vs. socialism'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Winston Churchill'
 ---
 

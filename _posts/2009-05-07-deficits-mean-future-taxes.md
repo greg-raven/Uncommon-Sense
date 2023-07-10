@@ -2,7 +2,7 @@
 title: 'Deficits mean future taxes'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'Ron Paul'
 ---
 

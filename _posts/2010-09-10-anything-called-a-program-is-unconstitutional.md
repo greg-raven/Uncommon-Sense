@@ -2,12 +2,12 @@
 title: 'Anything called a ‘program’ is unconstitutional'
 layout: post
 categories:
-    - Constitution
-    - government
-    - morals
-    - politics
-    - religion
-    - taxation
+- Constitution
+- government
+- morals
+- politics
+- religion
+- taxation
 tag: 'Joe Sobran'
 ---
 

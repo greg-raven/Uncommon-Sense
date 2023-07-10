@@ -2,7 +2,7 @@
 title: 'The deity of the State'
 layout: post
 categories:
-    - collectivization
+- collectivization
 tag: 'Jacob G. Hornberger'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Think for yourself'
 layout: post
 categories:
-    - individualism
+- individualism
 tag: 'Ayn Rand'
 ---
 

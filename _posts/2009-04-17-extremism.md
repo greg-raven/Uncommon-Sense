@@ -2,7 +2,7 @@
 title: 'Extremism and moderation'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Barry Goldwater'
 ---
 

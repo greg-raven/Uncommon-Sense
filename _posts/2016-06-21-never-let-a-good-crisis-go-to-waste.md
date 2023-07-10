@@ -2,7 +2,7 @@
 title: 'Never let a good crisis go to waste'
 layout: post
 categories:
-    - demagogues
+- demagogues
 tag: 'James Madison'
 ---
 

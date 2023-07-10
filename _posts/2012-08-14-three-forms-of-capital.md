@@ -2,7 +2,7 @@
 title: 'Three forms of capital'
 layout: post
 categories:
-    - capitalism
+- capitalism
 tag: 'Walter Wriston'
 ---
 

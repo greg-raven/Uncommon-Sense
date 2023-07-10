@@ -2,7 +2,7 @@
 title: 'Democracy enslaves'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'Ludwig Lewisohn'
 ---
 

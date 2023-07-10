@@ -2,7 +2,7 @@
 title: 'The bare minimum'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'Hugo L. Black'
 ---
 

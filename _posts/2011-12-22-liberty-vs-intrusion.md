@@ -2,7 +2,7 @@
 title: 'Liberty vs. intrusion'
 layout: post
 categories:
-    - economics
+- economics
 tag: 'Larry P. Arnn'
 ---
 

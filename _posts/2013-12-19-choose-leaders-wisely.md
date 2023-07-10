@@ -2,7 +2,7 @@
 title: 'Knowledge is power'
 layout: post
 categories:
-    - knowledge
+- knowledge
 tag: 'Francis Bacon'
 ---
 

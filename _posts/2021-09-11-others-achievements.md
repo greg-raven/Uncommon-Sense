@@ -2,7 +2,7 @@
 title: 'Other’s achievements'
 layout: post
 categories:
-    - collectivization
+- collectivization
 tag: 'Thomas Sowell'
 ---
 

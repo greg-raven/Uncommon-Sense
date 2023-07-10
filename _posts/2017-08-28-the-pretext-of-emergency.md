@@ -2,7 +2,7 @@
 title: 'The pretext of ‘emergency’'
 layout: post
 categories:
-    - government
+- government
 tag: 'Charles Evans Hughes'
 ---
 

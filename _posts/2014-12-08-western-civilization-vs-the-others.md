@@ -2,7 +2,7 @@
 title: 'Western civilization vs. the others'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Ludwig von Mises'
 ---
 

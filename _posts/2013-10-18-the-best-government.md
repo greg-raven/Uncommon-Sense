@@ -2,7 +2,7 @@
 title: 'The best government'
 layout: post
 categories:
-    - government
+- government
 tag: 'Johann Wolfgang von Goethe'
 ---
 

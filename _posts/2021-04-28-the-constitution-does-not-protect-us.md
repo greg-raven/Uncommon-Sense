@@ -2,8 +2,8 @@
 title: 'The Constitution does not protect us'
 layout: post
 categories:
-    - Constitution
-    - rights
+- Constitution
+- rights
 tag: 'Thomas Sowell'
 ---
 

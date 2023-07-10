@@ -2,7 +2,7 @@
 title: Economists
 layout: post
 categories:
-    - economics
+- economics
 tag: 'George Bernard Shaw'
 ---
 

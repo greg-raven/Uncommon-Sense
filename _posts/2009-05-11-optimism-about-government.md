@@ -2,7 +2,7 @@
 title: 'Optimism about government'
 layout: post
 categories:
-    - government
+- government
 tag: 'P. J. O’Rourke'
 ---
 

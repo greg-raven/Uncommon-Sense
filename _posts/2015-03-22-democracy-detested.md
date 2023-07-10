@@ -2,7 +2,7 @@
 title: 'Democracy detested'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'Neal Boortz'
 ---
 

@@ -2,12 +2,12 @@
 title: 'Several by Sobran'
 layout: post
 categories:
-    - Constitution
-    - government
-    - morals
-    - politics
-    - truth
-    - war
+- Constitution
+- government
+- morals
+- politics
+- truth
+- war
 tag: 'Joe Sobran'
 ---
 

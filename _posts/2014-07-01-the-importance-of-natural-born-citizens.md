@@ -2,7 +2,7 @@
 title: 'The importance of natural born citizens'
 layout: post
 categories:
-    - citizenship
+- citizenship
 tag: 'Alexander Hamilton'
 ---
 

@@ -2,8 +2,8 @@
 title: 'What’s the difference?'
 layout: post
 categories:
-    - education
-    - press
+- education
+- press
 tag: 'Thomas E. Woods Jr.'
 ---
 

@@ -2,7 +2,7 @@
 title: 'What is profit?'
 layout: post
 categories:
-    - capitalism
+- capitalism
 tag: 'Walter E. Williams'
 ---
 

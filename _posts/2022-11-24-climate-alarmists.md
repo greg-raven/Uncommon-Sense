@@ -2,7 +2,7 @@
 title: 'Climate alarmists'
 layout: post
 categories:
-    - climate
+- climate
 tag: 'Thomas Sowell'
 ---
 

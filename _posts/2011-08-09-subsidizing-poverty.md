@@ -2,7 +2,7 @@
 title: 'Subsidizing poverty'
 layout: post
 categories:
-    - welfare
+- welfare
 tag: 'John Calvin Thomas'
 ---
 

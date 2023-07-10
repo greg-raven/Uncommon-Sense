@@ -2,7 +2,7 @@
 title: 'Preserving our liberty'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Charley Reese'
 ---
 

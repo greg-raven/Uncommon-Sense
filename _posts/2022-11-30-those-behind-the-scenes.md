@@ -2,7 +2,7 @@
 title: 'Those behind the scenes'
 layout: post
 categories:
-    - government
+- government
 tag: 'Benjamin Disraeli'
 ---
 

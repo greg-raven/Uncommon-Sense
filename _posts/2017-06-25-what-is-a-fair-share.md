@@ -2,7 +2,7 @@
 title: 'What is a ‘fair share’?'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Thomas Sowell'
 ---
 

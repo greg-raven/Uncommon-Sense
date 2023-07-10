@@ -2,12 +2,12 @@
 title: 'CPAC at the Bridge'
 layout: post
 categories:
-    - citizenship
-    - culture
-    - diversity
-    - immigration
-    - politics
-    - press
+- citizenship
+- culture
+- diversity
+- immigration
+- politics
+- press
 tag: 'Michelle Malkin'
 ---
 

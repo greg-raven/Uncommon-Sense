@@ -2,7 +2,7 @@
 title: 'Preserving liberty through knowledge'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'John Adams'
 ---
 

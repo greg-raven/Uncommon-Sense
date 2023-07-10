@@ -2,7 +2,7 @@
 title: 'Causes of downfall'
 layout: post
 categories:
-    - culture
+- culture
 tag: 'Charles de Montesquieu'
 ---
 

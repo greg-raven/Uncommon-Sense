@@ -2,7 +2,7 @@
 title: 'A republic promises the cure'
 layout: post
 categories:
-    - government
+- government
 tag: 'James Madison'
 ---
 

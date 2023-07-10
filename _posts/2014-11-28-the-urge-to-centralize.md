@@ -2,7 +2,7 @@
 title: 'The urge to centralize'
 layout: post
 categories:
-    - collectivization
+- collectivization
 tag: 'Joe Sobran'
 ---
 

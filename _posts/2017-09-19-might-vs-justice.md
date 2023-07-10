@@ -2,7 +2,7 @@
 title: 'Might vs. justice'
 layout: post
 categories:
-    - rights
+- rights
 tag: Plato
 ---
 

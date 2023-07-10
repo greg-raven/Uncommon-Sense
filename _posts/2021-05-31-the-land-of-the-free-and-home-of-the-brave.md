@@ -2,7 +2,7 @@
 title: 'The land of the free and home of the brave'
 layout: post
 categories:
-    - 'Second Amendment'
+- 'Second Amendment'
 tag: 'Greg Raven'
 ---
 

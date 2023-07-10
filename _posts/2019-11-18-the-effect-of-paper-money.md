@@ -2,7 +2,7 @@
 title: 'The effect of paper money'
 layout: post
 categories:
-    - money
+- money
 tag: 'George Washington'
 ---
 

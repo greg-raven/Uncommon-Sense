@@ -2,7 +2,7 @@
 title: 'Socialism as slavery'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Thomas Jefferson'
 ---
 

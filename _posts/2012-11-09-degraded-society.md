@@ -2,7 +2,7 @@
 title: 'Degraded society'
 layout: post
 categories:
-    - culture
+- culture
 tag: 'Pablo Casals'
 ---
 

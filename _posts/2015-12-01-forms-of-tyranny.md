@@ -2,7 +2,7 @@
 title: 'Forms of tyranny'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'Joe Sobran'
 ---
 

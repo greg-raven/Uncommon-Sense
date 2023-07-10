@@ -2,7 +2,7 @@
 title: 'Mission creep'
 layout: post
 categories:
-    - evil
+- evil
 tag: 'James Fenimore Cooper'
 ---
 

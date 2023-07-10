@@ -2,7 +2,7 @@
 title: 'Limiting future debt'
 layout: post
 categories:
-    - debt
+- debt
 tag: 'Thomas Jefferson'
 ---
 

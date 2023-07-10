@@ -2,7 +2,7 @@
 title: 'The real danger of oppression'
 layout: post
 categories:
-    - government
+- government
 tag: 'James Madison'
 ---
 

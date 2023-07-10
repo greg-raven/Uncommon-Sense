@@ -2,7 +2,7 @@
 title: 'If you see something, say something'
 layout: post
 categories:
-    - citizenship
+- citizenship
 tag: 'Abraham Lincoln'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Hate speech doesn’t exist. Stop legitimizing it'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'Andrew Torba'
 ---
 

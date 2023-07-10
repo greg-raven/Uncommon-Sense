@@ -2,7 +2,7 @@
 title: 'Six rules for liberty'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Matt Kibbe'
 ---
 

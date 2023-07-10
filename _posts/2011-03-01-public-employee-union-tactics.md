@@ -2,7 +2,7 @@
 title: 'Public employee union tactics'
 layout: post
 categories:
-    - collectivization
+- collectivization
 tag: 'Franklin D. Roosevelt'
 ---
 

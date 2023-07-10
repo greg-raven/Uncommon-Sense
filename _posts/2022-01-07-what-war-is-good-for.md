@@ -2,7 +2,7 @@
 title: 'What war is good for'
 layout: post
 categories:
-    - war
+- war
 tag: 'Alexander Solzhenitsyn'
 ---
 

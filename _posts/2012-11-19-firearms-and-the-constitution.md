@@ -2,7 +2,7 @@
 title: 'Firearms and the Constitution'
 layout: post
 categories:
-    - 'Second Amendment'
+- 'Second Amendment'
 tag: 'George Washington'
 ---
 

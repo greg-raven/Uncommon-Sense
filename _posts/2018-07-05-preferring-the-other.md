@@ -2,7 +2,7 @@
 title: 'Preferring the ‘other’'
 layout: post
 categories:
-    - nationalism
+- nationalism
 tag: Aristotle
 ---
 

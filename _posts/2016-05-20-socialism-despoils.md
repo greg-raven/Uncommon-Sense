@@ -2,7 +2,7 @@
 title: 'Socialism despoils'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Ludwig von Mises'
 ---
 

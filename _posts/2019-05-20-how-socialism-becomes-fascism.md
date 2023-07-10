@@ -2,7 +2,7 @@
 title: 'How socialism becomes fascism'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Ludwig von Mises'
 ---
 

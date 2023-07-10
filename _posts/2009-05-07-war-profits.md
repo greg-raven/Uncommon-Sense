@@ -2,7 +2,7 @@
 title: 'War profits'
 layout: post
 categories:
-    - war
+- war
 tag: 'Ron Paul'
 ---
 

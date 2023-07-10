@@ -2,8 +2,8 @@
 title: 'Freedom of commerce'
 layout: post
 categories:
-    - economics
-    - liberty
+- economics
+- liberty
 tag: 'Friedrich August von Hayek'
 ---
 

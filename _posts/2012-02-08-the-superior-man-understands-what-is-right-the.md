@@ -2,7 +2,7 @@
 title: 'Right vs. popular'
 layout: post
 categories:
-    - knowledge
+- knowledge
 tag: Confucius
 ---
 

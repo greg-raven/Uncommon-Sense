@@ -2,9 +2,9 @@
 title: 'Government vs. the people'
 layout: post
 categories:
-    - government
-    - socialism
-    - taxation
+- government
+- socialism
+- taxation
 tag: 'Ronald Reagan'
 ---
 

@@ -2,9 +2,9 @@
 title: 'A time for choosing'
 layout: post
 categories:
-    - liberty
-    - socialism
-    - taxation
+- liberty
+- socialism
+- taxation
 tag: 'Ronald Reagan'
 ---
 

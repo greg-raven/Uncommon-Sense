@@ -2,7 +2,7 @@
 title: 'No elective despotism'
 layout: post
 categories:
-    - government
+- government
 tag: 'James Madison'
 ---
 

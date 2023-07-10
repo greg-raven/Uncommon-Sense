@@ -2,7 +2,7 @@
 title: 'How to crush the middle class'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'Vladimir Ilyich Lenin'
 ---
 

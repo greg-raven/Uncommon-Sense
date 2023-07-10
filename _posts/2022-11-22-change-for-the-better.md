@@ -2,7 +2,7 @@
 title: 'Change for the better'
 layout: post
 categories:
-    - laws
+- laws
 tag: 'Ralph Waldo Emerson'
 ---
 

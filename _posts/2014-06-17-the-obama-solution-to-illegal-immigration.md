@@ -2,7 +2,7 @@
 title: 'The Obama solution to illegal immigration'
 layout: post
 categories:
-    - immigration
+- immigration
 tag: 'Brenda Walker'
 ---
 

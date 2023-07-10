@@ -2,7 +2,7 @@
 title: 'Socialism must be voluntary'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Ron Paul'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Discovering truths'
 layout: post
 categories:
-    - truth
+- truth
 tag: 'Galileo Galilei'
 ---
 

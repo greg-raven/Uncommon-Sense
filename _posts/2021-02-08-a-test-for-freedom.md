@@ -2,8 +2,8 @@
 title: 'A test for freedom'
 layout: post
 categories:
-    - individualism
-    - liberty
+- individualism
+- liberty
 tag: 'Salvador De Madariaga'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Putting the trans in transition'
 layout: post
 categories:
-    - morals
+- morals
 tag: 'Greg Raven'
 ---
 

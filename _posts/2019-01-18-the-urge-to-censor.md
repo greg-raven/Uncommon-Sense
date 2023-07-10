@@ -2,7 +2,7 @@
 title: 'The urge to censor'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'Thomas Sowell'
 ---
 

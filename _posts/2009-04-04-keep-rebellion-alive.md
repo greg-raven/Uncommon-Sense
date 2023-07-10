@@ -2,7 +2,7 @@
 title: 'Keep rebellion alive'
 layout: post
 categories:
-    - rebellion
+- rebellion
 tag: 'Thomas Jefferson'
 ---
 

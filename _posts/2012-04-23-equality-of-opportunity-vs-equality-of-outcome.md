@@ -2,7 +2,7 @@
 title: 'Equality of opportunity vs. equality of outcome'
 layout: post
 categories:
-    - equality
+- equality
 tag: 'Friedrich August von Hayek'
 ---
 

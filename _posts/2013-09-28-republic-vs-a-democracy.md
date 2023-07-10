@@ -2,7 +2,7 @@
 title: 'Republic vs. a democracy'
 layout: post
 categories:
-    - government
+- government
 tag: 'John Adams'
 ---
 

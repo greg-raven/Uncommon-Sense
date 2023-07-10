@@ -2,7 +2,7 @@
 title: 'Abuse of power'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'James Madison'
 ---
 

@@ -2,7 +2,7 @@
 title: Counter-history
 layout: post
 categories:
-    - history
+- history
 tag: 'Amos Funkenstein'
 ---
 

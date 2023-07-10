@@ -2,7 +2,7 @@
 title: 'More laws equal more poverty and crime'
 layout: post
 categories:
-    - laws
+- laws
 tag: 'Lao Tzu'
 ---
 

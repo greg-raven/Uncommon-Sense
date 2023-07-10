@@ -2,7 +2,7 @@
 title: 'An experiment in socialism'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'William Bradford'
 ---
 

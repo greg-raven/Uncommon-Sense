@@ -2,8 +2,8 @@
 title: 'Controlling the masses'
 layout: post
 categories:
-    - education
-    - press
+- education
+- press
 tag: 'Albert Einstein'
 ---
 

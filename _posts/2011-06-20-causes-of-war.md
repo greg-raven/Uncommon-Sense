@@ -2,7 +2,7 @@
 title: 'Causes of war'
 layout: post
 categories:
-    - war
+- war
 tag: 'John Jay'
 ---
 

@@ -2,8 +2,8 @@
 title: 'Socialist ‘economics’'
 layout: post
 categories:
-    - economics
-    - socialism
+- economics
+- socialism
 tag: 'Friedrich August von Hayek'
 ---
 

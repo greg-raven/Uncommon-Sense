@@ -2,8 +2,8 @@
 title: 'Pharmacological brainwashing'
 layout: post
 categories:
-    - collectivization
-    - 'external authority'
+- collectivization
+- 'external authority'
 tag: 'Aldous Huxley'
 ---
 

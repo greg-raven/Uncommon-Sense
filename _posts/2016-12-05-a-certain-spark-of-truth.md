@@ -2,7 +2,7 @@
 title: 'A certain spark of truth'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'Francis Bacon'
 ---
 

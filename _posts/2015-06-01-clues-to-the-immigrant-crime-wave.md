@@ -2,7 +2,7 @@
 title: 'Clues to the immigrant crime wave'
 layout: post
 categories:
-    - immigration
+- immigration
 tag: 'Ann Coulter'
 ---
 

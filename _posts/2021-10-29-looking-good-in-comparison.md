@@ -2,7 +2,7 @@
 title: 'Looking good in comparison'
 layout: post
 categories:
-    - politics
+- politics
 tag: 'Greg Raven'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Private sector vs. public sector'
 layout: post
 categories:
-    - government
+- government
 tag: 'Milton Friedman'
 ---
 

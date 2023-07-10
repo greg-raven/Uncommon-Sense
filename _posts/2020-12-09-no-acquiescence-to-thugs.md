@@ -2,7 +2,7 @@
 title: 'No acquiescence to thugs'
 layout: post
 categories:
-    - 'foreign policy'
+- 'foreign policy'
 tag: 'Alexander Hamilton'
 ---
 

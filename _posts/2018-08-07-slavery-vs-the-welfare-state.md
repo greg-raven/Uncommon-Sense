@@ -2,7 +2,7 @@
 title: 'Slavery vs. the welfare state'
 layout: post
 categories:
-    - welfare
+- welfare
 tag: 'Thomas Sowell'
 ---
 

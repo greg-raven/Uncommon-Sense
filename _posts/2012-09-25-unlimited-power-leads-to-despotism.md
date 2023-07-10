@@ -2,7 +2,7 @@
 title: 'Unlimited power leads to despotism'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'Friedrich August von Hayek'
 ---
 

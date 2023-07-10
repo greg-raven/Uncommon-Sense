@@ -2,7 +2,7 @@
 title: 'The most sacred duty of government'
 layout: post
 categories:
-    - government
+- government
 tag: 'Thomas Jefferson'
 ---
 

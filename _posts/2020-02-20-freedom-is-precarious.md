@@ -2,7 +2,7 @@
 title: 'Freedom is precarious'
 layout: post
 categories:
-    - 'Second Amendment'
+- 'Second Amendment'
 tag: 'Jacob G. Hornberger'
 ---
 

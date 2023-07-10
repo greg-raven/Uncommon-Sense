@@ -2,7 +2,7 @@
 title: 'Defining science'
 layout: post
 categories:
-    - knowledge
+- knowledge
 tag: 'Richard Feynman'
 ---
 

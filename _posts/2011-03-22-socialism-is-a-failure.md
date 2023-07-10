@@ -2,7 +2,7 @@
 title: 'Socialism is a failure'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Thomas Sowell'
 ---
 

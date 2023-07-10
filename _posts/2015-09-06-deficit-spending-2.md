@@ -2,7 +2,7 @@
 title: 'Deficit spending'
 layout: post
 categories:
-    - economics
+- economics
 tag: 'Alan Greenspan'
 ---
 

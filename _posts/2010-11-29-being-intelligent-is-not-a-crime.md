@@ -2,7 +2,7 @@
 title: 'Being intelligent is not a crime'
 layout: post
 categories:
-    - 'informed electorate'
+- 'informed electorate'
 tag: 'Robert A. Heinlein'
 ---
 

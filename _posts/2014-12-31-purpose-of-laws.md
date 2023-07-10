@@ -2,7 +2,7 @@
 title: 'Purpose of just laws'
 layout: post
 categories:
-    - laws
+- laws
 tag: 'Thomas Jefferson'
 ---
 

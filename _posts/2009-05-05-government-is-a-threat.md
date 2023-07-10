@@ -2,7 +2,7 @@
 title: 'Government is a threat'
 layout: post
 categories:
-    - 'Second Amendment'
+- 'Second Amendment'
 tag: 'Ayn Rand'
 ---
 

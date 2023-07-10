@@ -2,7 +2,7 @@
 title: 'Run your own life'
 layout: post
 categories:
-    - individualism
+- individualism
 tag: 'Ron Paul'
 ---
 

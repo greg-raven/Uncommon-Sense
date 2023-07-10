@@ -2,7 +2,7 @@
 title: Governance
 layout: post
 categories:
-    - individualism
+- individualism
 tag: 'Jean de la Bruyere'
 ---
 

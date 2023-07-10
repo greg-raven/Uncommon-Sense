@@ -2,8 +2,8 @@
 title: 'Virtue and freedom'
 layout: post
 categories:
-    - liberty
-    - virtue
+- liberty
+- virtue
 tag: 'Benjamin Franklin'
 ---
 

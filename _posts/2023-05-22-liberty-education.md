@@ -2,8 +2,8 @@
 title: 'Educate to preserve liberty'
 layout: post
 categories:
-    - education
-    - liberty
+- education
+- liberty
 tag: 'Thomas Jefferson'
 ---
 

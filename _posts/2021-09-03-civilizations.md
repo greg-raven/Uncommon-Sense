@@ -2,7 +2,7 @@
 title: Civilizations
 layout: post
 categories:
-    - culture
+- culture
 tag: 'Gustave Le Bon'
 ---
 

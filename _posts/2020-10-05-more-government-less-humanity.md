@@ -2,8 +2,8 @@
 title: 'More government = less humanity'
 layout: post
 categories:
-    - collectivization
-    - government
+- collectivization
+- government
 tag: 'William Godwin'
 ---
 

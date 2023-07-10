@@ -2,7 +2,7 @@
 title: 'The case for sound currency'
 layout: post
 categories:
-    - money
+- money
 tag: 'Daniel Webster'
 ---
 

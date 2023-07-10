@@ -2,7 +2,7 @@
 title: 'No change, no hope.'
 layout: post
 categories:
-    - race
+- race
 tag: 'David Mon'
 ---
 

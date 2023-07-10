@@ -2,7 +2,7 @@
 title: 'Keep it simple'
 layout: post
 categories:
-    - laws
+- laws
 tag: 'Thomas Jefferson'
 ---
 

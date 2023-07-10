@@ -2,7 +2,7 @@
 title: 'Loss of candor is grievous'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'Alexander Haig'
 ---
 

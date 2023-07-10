@@ -2,9 +2,9 @@
 title: 'Private rights are a public good'
 layout: post
 categories:
-    - property
-    - rights
-    - speech
+- property
+- rights
+- speech
 tag: 'William Blackstone'
 ---
 

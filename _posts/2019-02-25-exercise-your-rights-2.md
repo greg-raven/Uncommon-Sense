@@ -2,7 +2,7 @@
 title: 'Exercise your rights'
 layout: post
 categories:
-    - rights
+- rights
 tag: 'Eric Schaub'
 ---
 

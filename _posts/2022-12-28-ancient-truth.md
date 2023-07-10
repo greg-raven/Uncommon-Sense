@@ -2,8 +2,8 @@
 title: 'Ancient truth'
 layout: post
 categories:
-    - liberty
-    - speech
+- liberty
+- speech
 tag: 'Dwight D. Eisenhower'
 ---
 

@@ -2,7 +2,7 @@
 title: Self-protection
 layout: post
 categories:
-    - individualism
+- individualism
 tag: 'Ron Paul'
 ---
 

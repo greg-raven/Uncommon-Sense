@@ -2,7 +2,7 @@
 title: 'Dealing with invaders'
 layout: post
 categories:
-    - immigration
+- immigration
 tag: 'Patrick J. Buchanan'
 ---
 

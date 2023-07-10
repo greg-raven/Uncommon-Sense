@@ -2,7 +2,7 @@
 title: 'The purpose of the Bill of Rights'
 layout: post
 categories:
-    - Constitution
+- Constitution
 tag: 'L. A. Powe Jr.'
 ---
 

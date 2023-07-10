@@ -2,7 +2,7 @@
 title: 'The people must remain attentive'
 layout: post
 categories:
-    - 'informed electorate'
+- 'informed electorate'
 tag: 'Thomas Jefferson'
 ---
 

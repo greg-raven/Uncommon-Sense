@@ -2,7 +2,7 @@
 title: 'Abuses of paper money'
 layout: post
 categories:
-    - money
+- money
 tag: 'Thomas Jefferson'
 ---
 

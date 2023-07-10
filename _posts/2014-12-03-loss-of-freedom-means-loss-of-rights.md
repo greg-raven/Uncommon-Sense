@@ -2,9 +2,9 @@
 title: 'Loss of freedom means loss of rights'
 layout: post
 categories:
-    - liberty
-    - rights
-    - speech
+- liberty
+- rights
+- speech
 tag: 'George Orwell'
 ---
 

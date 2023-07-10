@@ -2,8 +2,8 @@
 title: 'Electoral college'
 layout: post
 categories:
-    - democracy
-    - voting
+- democracy
+- voting
 tag: 'Greg Raven'
 ---
 

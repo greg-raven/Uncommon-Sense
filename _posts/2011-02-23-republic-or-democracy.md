@@ -2,7 +2,7 @@
 title: 'Republic or democracy?'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'Walter E. Williams'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Property must be protected'
 layout: post
 categories:
-    - property
+- property
 tag: 'John Adams'
 ---
 

@@ -2,7 +2,7 @@
 title: 'The Five Wisdoms of politics'
 layout: post
 categories:
-    - politics
+- politics
 tag: anonymous
 ---
 

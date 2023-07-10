@@ -2,7 +2,7 @@
 title: 'Separation of powers'
 layout: post
 categories:
-    - Constitution
+- Constitution
 tag: 'James Madison'
 ---
 

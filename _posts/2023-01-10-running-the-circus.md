@@ -2,7 +2,7 @@
 title: 'Running the circus'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'H. L. Mencken'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Freedom vs. security'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Lyn Nofziger'
 ---
 

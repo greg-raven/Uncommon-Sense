@@ -2,7 +2,7 @@
 title: 'Gradual losses'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'David Hume'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Origins of the Federal Reserve'
 layout: post
 categories:
-    - money
+- money
 tag: 'Louis McFadden'
 ---
 

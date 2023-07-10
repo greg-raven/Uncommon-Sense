@@ -2,7 +2,7 @@
 title: 'The tyranny of the law'
 layout: post
 categories:
-    - laws
+- laws
 tag: 'Georges Ripert'
 ---
 

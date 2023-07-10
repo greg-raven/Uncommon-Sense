@@ -2,9 +2,9 @@
 title: 'Societal de-evolution'
 layout: post
 categories:
-    - culture
-    - knowledge
-    - truth
+- culture
+- knowledge
+- truth
 tag: 'Thomas Sowell'
 ---
 

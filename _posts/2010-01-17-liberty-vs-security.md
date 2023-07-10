@@ -2,7 +2,7 @@
 title: 'Liberty vs. security'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'John Adams'
 ---
 

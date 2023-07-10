@@ -2,7 +2,7 @@
 title: 'The cure for bad government'
 layout: post
 categories:
-    - voting
+- voting
 tag: 'Alexander Hamilton'
 ---
 

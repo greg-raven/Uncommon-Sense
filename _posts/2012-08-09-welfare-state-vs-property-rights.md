@@ -2,7 +2,7 @@
 title: 'Welfare state vs. property rights'
 layout: post
 categories:
-    - money
+- money
 tag: 'Alan Greenspan'
 ---
 

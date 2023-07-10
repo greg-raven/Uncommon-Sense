@@ -2,7 +2,7 @@
 title: 'Progressives and progress'
 layout: post
 categories:
-    - liberalism
+- liberalism
 tag: 'Greg Raven'
 ---
 

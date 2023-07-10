@@ -2,7 +2,7 @@
 title: 'Federal censorship'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'John Sauer'
 ---
 

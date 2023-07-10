@@ -2,7 +2,7 @@
 title: 'The beginning of all freedom'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'William O. Douglas'
 ---
 

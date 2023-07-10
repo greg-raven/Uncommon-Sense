@@ -2,7 +2,7 @@
 title: 'Tax duration'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'Thomas Jefferson'
 ---
 

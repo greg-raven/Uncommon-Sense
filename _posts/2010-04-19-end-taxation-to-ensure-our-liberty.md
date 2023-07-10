@@ -2,7 +2,7 @@
 title: 'End taxation to ensure our liberty'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'John Marshall'
 ---
 

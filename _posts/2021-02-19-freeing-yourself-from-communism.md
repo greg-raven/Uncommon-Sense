@@ -2,7 +2,7 @@
 title: 'Freeing yourself from communism'
 layout: post
 categories:
-    - collectivization
+- collectivization
 tag: 'Bella Dodd'
 ---
 

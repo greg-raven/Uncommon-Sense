@@ -2,7 +2,7 @@
 title: 'Lay down with dogs, get up with fleas'
 layout: post
 categories:
-    - immigration
+- immigration
 tag: 'Patrick J. Buchanan'
 ---
 

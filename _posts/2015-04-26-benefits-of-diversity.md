@@ -2,7 +2,7 @@
 title: 'Benefits of diversity?'
 layout: post
 categories:
-    - diversity
+- diversity
 tag: 'Thomas Sowell'
 ---
 

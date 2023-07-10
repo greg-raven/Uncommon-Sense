@@ -2,7 +2,7 @@
 title: 'White privilege'
 layout: post
 categories:
-    - race
+- race
 tag: 'Selwyn Duke'
 ---
 

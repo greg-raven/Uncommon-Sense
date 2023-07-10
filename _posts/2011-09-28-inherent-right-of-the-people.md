@@ -2,8 +2,8 @@
 title: 'Inherent right of the people'
 layout: post
 categories:
-    - 'external authority'
-    - rebellion
+- 'external authority'
+- rebellion
 tag: 'Daniel Webster'
 ---
 

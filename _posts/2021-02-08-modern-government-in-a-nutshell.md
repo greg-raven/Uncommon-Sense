@@ -2,7 +2,7 @@
 title: 'Modern government in a nutshell'
 layout: post
 categories:
-    - government
+- government
 tag: 'Peter Drucker'
 ---
 

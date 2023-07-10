@@ -2,7 +2,7 @@
 title: 'False words'
 layout: post
 categories:
-    - truth
+- truth
 tag: Socrates
 ---
 

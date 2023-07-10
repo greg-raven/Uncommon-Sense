@@ -2,7 +2,7 @@
 title: 'Society and government'
 layout: post
 categories:
-    - government
+- government
 tag: 'Thomas Paine'
 ---
 

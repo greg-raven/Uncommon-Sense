@@ -2,7 +2,7 @@
 title: 'Life support for racism'
 layout: post
 categories:
-    - race
+- race
 tag: 'Thomas Sowell'
 ---
 

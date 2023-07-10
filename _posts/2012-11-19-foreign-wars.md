@@ -2,7 +2,7 @@
 title: 'Foreign wars'
 layout: post
 categories:
-    - war
+- war
 tag: 'Dave Wilber'
 ---
 

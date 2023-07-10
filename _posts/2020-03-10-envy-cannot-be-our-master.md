@@ -2,7 +2,7 @@
 title: 'Envy cannot be our master'
 layout: post
 categories:
-    - equality
+- equality
 tag: 'Oliver Wendell Holmes Jr.'
 ---
 

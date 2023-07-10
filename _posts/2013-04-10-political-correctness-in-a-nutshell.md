@@ -2,7 +2,7 @@
 title: 'Political correctness in a nutshell'
 layout: post
 categories:
-    - individualism
+- individualism
 tag: 'Jared Taylor'
 ---
 

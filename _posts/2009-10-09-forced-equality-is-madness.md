@@ -2,7 +2,7 @@
 title: 'Forced equality is madness'
 layout: post
 categories:
-    - equality
+- equality
 tag: 'Josiah Warren'
 ---
 

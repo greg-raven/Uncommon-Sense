@@ -2,7 +2,7 @@
 title: 'Equal in slavery'
 layout: post
 categories:
-    - equality
+- equality
 tag: 'Alexis de Tocqueville'
 ---
 

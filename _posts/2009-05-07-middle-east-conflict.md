@@ -2,7 +2,7 @@
 title: 'Middle East conflict'
 layout: post
 categories:
-    - 'foreign policy'
+- 'foreign policy'
 tag: 'Ron Paul'
 ---
 

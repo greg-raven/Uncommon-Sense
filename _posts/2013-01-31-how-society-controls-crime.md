@@ -2,7 +2,7 @@
 title: 'How society controls crime'
 layout: post
 categories:
-    - 'Second Amendment'
+- 'Second Amendment'
 tag: 'Jeffrey R. Snyder'
 ---
 

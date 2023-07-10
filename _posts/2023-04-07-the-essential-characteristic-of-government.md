@@ -2,7 +2,7 @@
 title: 'The essential characteristic of government'
 layout: post
 categories:
-    - government
+- government
 tag: 'Woodrow Wilson'
 ---
 

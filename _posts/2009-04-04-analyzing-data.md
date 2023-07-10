@@ -2,7 +2,7 @@
 title: 'Analyzing data'
 layout: post
 categories:
-    - knowledge
+- knowledge
 tag: anonymous
 ---
 

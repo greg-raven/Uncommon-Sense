@@ -2,7 +2,7 @@
 title: 'Secular religion'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Auberon Herbert'
 ---
 

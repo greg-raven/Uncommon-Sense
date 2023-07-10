@@ -2,7 +2,7 @@
 title: 'Freedom vs. the state'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'John Kenneth Galbraith'
 ---
 

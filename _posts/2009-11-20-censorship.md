@@ -2,7 +2,7 @@
 title: Censorship
 layout: post
 categories:
-    - equality
+- equality
 tag: 'Mark Twain'
 ---
 

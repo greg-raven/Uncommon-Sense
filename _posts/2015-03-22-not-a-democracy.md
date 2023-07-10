@@ -2,7 +2,7 @@
 title: 'Not a democracy'
 layout: post
 categories:
-    - Constitution
+- Constitution
 tag: 'U. S. Constitution'
 ---
 

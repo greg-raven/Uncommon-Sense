@@ -2,7 +2,7 @@
 title: 'The progressive mindset'
 layout: post
 categories:
-    - intolerance
+- intolerance
 tag: 'Damon Linker'
 ---
 

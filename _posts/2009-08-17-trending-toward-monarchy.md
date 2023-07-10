@@ -2,7 +2,7 @@
 title: 'Trending toward monarchy'
 layout: post
 categories:
-    - government
+- government
 tag: 'Thomas Jefferson'
 ---
 

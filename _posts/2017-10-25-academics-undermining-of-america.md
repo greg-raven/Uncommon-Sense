@@ -2,7 +2,7 @@
 title: 'Academics’ undermining of America'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Walter E. Williams'
 ---
 

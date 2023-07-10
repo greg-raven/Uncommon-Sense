@@ -2,7 +2,7 @@
 title: Socialism
 layout: post
 categories:
-    - socialism
+- socialism
 tag: anonymous
 ---
 

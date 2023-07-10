@@ -2,7 +2,7 @@
 title: 'Entangling alliances'
 layout: post
 categories:
-    - 'foreign policy'
+- 'foreign policy'
 tag: 'Patrick J. Buchanan'
 ---
 

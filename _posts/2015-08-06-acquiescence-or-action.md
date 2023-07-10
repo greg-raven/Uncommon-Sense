@@ -2,9 +2,9 @@
 title: 'Acquiescence or action'
 layout: post
 categories:
-    - government
-    - rebellion
-    - virtue
+- government
+- rebellion
+- virtue
 tag: 'Michael Rivero'
 ---
 

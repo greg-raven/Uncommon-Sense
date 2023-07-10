@@ -2,7 +2,7 @@
 title: 'Liberalism is western suicide'
 layout: post
 categories:
-    - liberalism
+- liberalism
 tag: 'James Burnham'
 ---
 

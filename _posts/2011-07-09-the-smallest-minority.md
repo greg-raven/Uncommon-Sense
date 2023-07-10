@@ -2,7 +2,7 @@
 title: 'The smallest minority'
 layout: post
 categories:
-    - individualism
+- individualism
 tag: 'Ayn Rand'
 ---
 

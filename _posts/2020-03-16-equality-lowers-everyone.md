@@ -2,7 +2,7 @@
 title: '‘Equality’ lowers everyone'
 layout: post
 categories:
-    - equality
+- equality
 tag: 'Thomas Sowell'
 ---
 

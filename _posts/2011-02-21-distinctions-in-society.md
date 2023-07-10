@@ -2,8 +2,8 @@
 title: 'Distinctions in society'
 layout: post
 categories:
-    - individualism
-    - laws
+- individualism
+- laws
 tag: 'Andrew Jackson'
 ---
 

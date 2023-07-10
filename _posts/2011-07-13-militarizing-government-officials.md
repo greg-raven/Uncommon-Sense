@@ -2,7 +2,7 @@
 title: 'Militarizing government officials'
 layout: post
 categories:
-    - government
+- government
 tag: 'James J. Kouri'
 ---
 

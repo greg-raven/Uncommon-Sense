@@ -2,7 +2,7 @@
 title: 'Injurious banks'
 layout: post
 categories:
-    - money
+- money
 tag: 'John Adams'
 ---
 

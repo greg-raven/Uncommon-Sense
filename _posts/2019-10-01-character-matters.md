@@ -2,9 +2,9 @@
 title: 'Character matters'
 layout: post
 categories:
-    - demagogues
-    - morals
-    - truth
+- demagogues
+- morals
+- truth
 tag: 'Thomas Paine'
 ---
 

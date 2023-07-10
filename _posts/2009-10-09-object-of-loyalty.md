@@ -2,7 +2,7 @@
 title: 'Object of loyalty'
 layout: post
 categories:
-    - patriotism
+- patriotism
 tag: 'Samuel Adams'
 ---
 

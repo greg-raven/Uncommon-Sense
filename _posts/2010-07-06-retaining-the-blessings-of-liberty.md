@@ -2,7 +2,7 @@
 title: 'Retaining the blessings of liberty'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Patrick Henry'
 ---
 

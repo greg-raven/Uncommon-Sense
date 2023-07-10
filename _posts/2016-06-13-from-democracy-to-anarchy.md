@@ -2,7 +2,7 @@
 title: 'From democracy to anarchy'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'James Madison'
 ---
 

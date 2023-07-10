@@ -2,7 +2,7 @@
 title: 'Source of affluence'
 layout: post
 categories:
-    - prosperity
+- prosperity
 tag: 'P. J. O’Rourke'
 ---
 

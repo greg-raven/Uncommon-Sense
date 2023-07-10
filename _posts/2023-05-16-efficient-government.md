@@ -2,7 +2,7 @@
 title: 'Efficient government'
 layout: post
 categories:
-    - government
+- government
 tag: 'Harry S. Truman'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Dereliction of Congress'
 layout: post
 categories:
-    - 'foreign policy'
+- 'foreign policy'
 tag: 'Charley Reese'
 ---
 

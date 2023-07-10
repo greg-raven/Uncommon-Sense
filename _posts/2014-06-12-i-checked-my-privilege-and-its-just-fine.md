@@ -2,8 +2,8 @@
 title: 'I checked my privilege, and it’s just fine'
 layout: post
 categories:
-    - language
-    - self-improvement
+- language
+- self-improvement
 tag: 'Kurt Schlichter'
 ---
 

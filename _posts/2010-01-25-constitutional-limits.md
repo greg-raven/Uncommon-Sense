@@ -2,7 +2,7 @@
 title: 'Constitutional limits'
 layout: post
 categories:
-    - Constitution
+- Constitution
 tag: 'Ayn Rand'
 ---
 

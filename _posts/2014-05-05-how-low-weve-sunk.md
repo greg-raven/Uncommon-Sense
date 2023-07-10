@@ -2,7 +2,7 @@
 title: 'How low we’ve sunk'
 layout: post
 categories:
-    - culture
+- culture
 tag: 'George Orwell'
 ---
 

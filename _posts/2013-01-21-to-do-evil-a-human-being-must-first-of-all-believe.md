@@ -2,7 +2,7 @@
 title: 'Good intentions'
 layout: post
 categories:
-    - evil
+- evil
 tag: 'Alexander Solzhenitsyn'
 ---
 

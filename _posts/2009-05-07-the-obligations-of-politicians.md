@@ -2,7 +2,7 @@
 title: 'Government’s obligation'
 layout: post
 categories:
-    - government
+- government
 tag: 'Ron Paul'
 ---
 

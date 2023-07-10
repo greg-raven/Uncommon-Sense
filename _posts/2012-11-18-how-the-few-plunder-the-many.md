@@ -2,7 +2,7 @@
 title: 'How the few plunder the many'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'Arthur Goddard'
 ---
 

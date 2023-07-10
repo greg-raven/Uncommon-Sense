@@ -2,7 +2,7 @@
 title: 'Price of apathy'
 layout: post
 categories:
-    - government
+- government
 tag: Plato
 ---
 

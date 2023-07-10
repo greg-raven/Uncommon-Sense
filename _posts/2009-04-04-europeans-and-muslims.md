@@ -2,7 +2,7 @@
 title: 'Europeans and Muslims'
 layout: post
 categories:
-    - immigration
+- immigration
 tag: Fjordman
 ---
 

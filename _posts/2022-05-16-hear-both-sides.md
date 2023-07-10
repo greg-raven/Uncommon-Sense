@@ -2,8 +2,8 @@
 title: 'Hear both sides'
 layout: post
 categories:
-    - press
-    - speech
+- press
+- speech
 tag: 'Benjamin Franklin'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Changing and voluminous laws'
 layout: post
 categories:
-    - laws
+- laws
 tag: 'James Madison'
 ---
 

@@ -2,9 +2,9 @@
 title: 'Being successful in America'
 layout: post
 categories:
-    - prosperity
-    - self-improvement
-    - welfare
+- prosperity
+- self-improvement
+- welfare
 tag: 'Theodore Roosevelt'
 ---
 

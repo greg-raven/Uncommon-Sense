@@ -2,7 +2,7 @@
 title: 'First duty of citizens'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'James Madison'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Inequality before the law'
 layout: post
 categories:
-    - equality
+- equality
 tag: 'William O. Douglas'
 ---
 

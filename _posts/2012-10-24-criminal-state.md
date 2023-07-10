@@ -2,7 +2,7 @@
 title: 'The criminal state'
 layout: post
 categories:
-    - government
+- government
 tag: 'P. D. Ouspensky'
 ---
 

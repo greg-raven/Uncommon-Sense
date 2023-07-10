@@ -2,8 +2,8 @@
 title: 'Capitalism vs. socialism'
 layout: post
 categories:
-    - capitalism
-    - socialism
+- capitalism
+- socialism
 tag: 'Dennis Prager'
 ---
 

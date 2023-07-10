@@ -2,7 +2,7 @@
 title: 'Deficit spending'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'Ron Paul'
 ---
 

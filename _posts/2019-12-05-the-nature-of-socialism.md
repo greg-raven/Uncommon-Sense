@@ -2,8 +2,8 @@
 title: 'The nature of socialism'
 layout: post
 categories:
-    - collectivization
-    - socialism
+- collectivization
+- socialism
 tag: 'Ayn Rand'
 ---
 

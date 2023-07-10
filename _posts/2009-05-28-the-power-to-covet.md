@@ -2,8 +2,8 @@
 title: 'The power to covet'
 layout: post
 categories:
-    - democracy
-    - socialism
+- democracy
+- socialism
 tag: 'Hans-Hermann Hoppe'
 ---
 

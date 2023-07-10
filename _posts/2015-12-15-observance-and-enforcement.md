@@ -2,7 +2,7 @@
 title: 'Observance and enforcement'
 layout: post
 categories:
-    - laws
+- laws
 tag: 'Calvin Coolidge'
 ---
 

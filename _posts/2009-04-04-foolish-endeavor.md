@@ -2,7 +2,7 @@
 title: 'Foolish endeavor'
 layout: post
 categories:
-    - culture
+- culture
 tag: 'Herbert Spencer'
 ---
 

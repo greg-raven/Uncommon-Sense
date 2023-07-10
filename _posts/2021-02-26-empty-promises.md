@@ -2,7 +2,7 @@
 title: 'Empty promises'
 layout: post
 categories:
-    - demagogues
+- demagogues
 tag: 'Ron Paul'
 ---
 

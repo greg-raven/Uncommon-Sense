@@ -2,8 +2,8 @@
 title: 'Science vs. consensus'
 layout: post
 categories:
-    - knowledge
-    - truth
+- knowledge
+- truth
 tag: 'Michael Crichton'
 ---
 

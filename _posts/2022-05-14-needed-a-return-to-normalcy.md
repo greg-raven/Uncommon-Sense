@@ -2,7 +2,7 @@
 title: 'Needed: A return to normalcy'
 layout: post
 categories:
-    - rebellion
+- rebellion
 tag: 'H. L. Mencken'
 ---
 

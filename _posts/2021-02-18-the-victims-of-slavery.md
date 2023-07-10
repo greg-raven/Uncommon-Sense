@@ -2,7 +2,7 @@
 title: 'The victims of slavery'
 layout: post
 categories:
-    - race
+- race
 tag: 'Thomas Sowell'
 ---
 

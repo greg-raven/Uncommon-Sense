@@ -2,7 +2,7 @@
 title: 'Repeal welfare laws'
 layout: post
 categories:
-    - welfare
+- welfare
 tag: 'Benjamin Franklin'
 ---
 

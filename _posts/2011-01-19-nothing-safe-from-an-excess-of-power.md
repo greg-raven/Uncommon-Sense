@@ -2,7 +2,7 @@
 title: 'Nothing safe from an excess of power'
 layout: post
 categories:
-    - property
+- property
 tag: 'James Madison'
 ---
 

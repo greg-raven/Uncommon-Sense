@@ -2,7 +2,7 @@
 title: 'The basis of our republic'
 layout: post
 categories:
-    - Constitution
+- Constitution
 tag: 'William Howard Taft'
 ---
 

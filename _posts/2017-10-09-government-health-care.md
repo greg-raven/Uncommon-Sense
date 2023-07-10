@@ -2,7 +2,7 @@
 title: 'Government health care'
 layout: post
 categories:
-    - Obamacare
+- Obamacare
 tag: 'Kurt Schlichter'
 ---
 

@@ -2,7 +2,7 @@
 title: Reparations
 layout: post
 categories:
-    - race
+- race
 tag: 'Larry Elder'
 ---
 

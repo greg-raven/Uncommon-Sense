@@ -2,7 +2,7 @@
 title: 'Communists and anti-Communists'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Ronald Reagan'
 ---
 

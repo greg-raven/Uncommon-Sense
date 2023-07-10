@@ -2,7 +2,7 @@
 title: 'Limits, not license'
 layout: post
 categories:
-    - Constitution
+- Constitution
 tag: 'Ayn Rand'
 ---
 

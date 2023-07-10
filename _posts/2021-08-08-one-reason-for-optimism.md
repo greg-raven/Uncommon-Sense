@@ -2,7 +2,7 @@
 title: 'One reason for optimism'
 layout: post
 categories:
-    - language
+- language
 tag: 'Victor Davis Hanson'
 ---
 

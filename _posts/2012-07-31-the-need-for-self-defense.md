@@ -2,7 +2,7 @@
 title: 'The need for self-defense'
 layout: post
 categories:
-    - 'Second Amendment'
+- 'Second Amendment'
 tag: 'Thomas Paine'
 ---
 

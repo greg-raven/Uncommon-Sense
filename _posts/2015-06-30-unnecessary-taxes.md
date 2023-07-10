@@ -2,7 +2,7 @@
 title: 'Unnecessary taxes'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'Calvin Coolidge'
 ---
 

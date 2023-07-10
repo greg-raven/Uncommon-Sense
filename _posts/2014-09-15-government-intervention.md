@@ -2,7 +2,7 @@
 title: 'Government intervention'
 layout: post
 categories:
-    - government
+- government
 tag: 'Joe Sobran'
 ---
 

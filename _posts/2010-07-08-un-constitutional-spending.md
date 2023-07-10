@@ -2,7 +2,7 @@
 title: 'Un-Constitutional spending'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'Grover Cleveland'
 ---
 

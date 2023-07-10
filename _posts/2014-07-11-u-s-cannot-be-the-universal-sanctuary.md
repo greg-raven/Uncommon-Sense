@@ -2,7 +2,7 @@
 title: 'U.S. cannot be the universal sanctuary'
 layout: post
 categories:
-    - immigration
+- immigration
 tag: 'Steny Hoyer'
 ---
 

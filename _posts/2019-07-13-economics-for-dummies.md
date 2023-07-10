@@ -2,7 +2,7 @@
 title: 'Economics for Dummies'
 layout: post
 categories:
-    - economics
+- economics
 tag: 'Patrice Lewis'
 ---
 

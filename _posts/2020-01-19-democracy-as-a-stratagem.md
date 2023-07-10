@@ -2,7 +2,7 @@
 title: 'Democracy as a stratagem'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Ludwig von Mises'
 ---
 

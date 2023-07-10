@@ -2,7 +2,7 @@
 title: 'Honesty and deceit'
 layout: post
 categories:
-    - morals
+- morals
 tag: 'Noël Coward'
 ---
 

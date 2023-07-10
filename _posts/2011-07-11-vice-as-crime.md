@@ -2,7 +2,7 @@
 title: 'Vice as crime'
 layout: post
 categories:
-    - laws
+- laws
 tag: 'Lysander Spooner'
 ---
 

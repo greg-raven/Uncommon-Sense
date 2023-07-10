@@ -2,7 +2,7 @@
 title: 'Violating their oaths'
 layout: post
 categories:
-    - Constitution
+- Constitution
 tag: 'Edward Snowden'
 ---
 

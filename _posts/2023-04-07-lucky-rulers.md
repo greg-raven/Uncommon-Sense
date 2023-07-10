@@ -2,7 +2,7 @@
 title: 'Lucky rulers'
 layout: post
 categories:
-    - demagogues
+- demagogues
 tag: 'Adolf Hitler'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Treason and the nation'
 layout: post
 categories:
-    - corruption
+- corruption
 tag: 'Marcus Tullius Cicero'
 ---
 

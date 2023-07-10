@@ -2,8 +2,8 @@
 title: 'Central banking'
 layout: post
 categories:
-    - money
-    - war
+- money
+- war
 tag: 'Ron Paul'
 ---
 

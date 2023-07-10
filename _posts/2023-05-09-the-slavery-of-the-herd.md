@@ -2,7 +2,7 @@
 title: 'The slavery of the herd'
 layout: post
 categories:
-    - individualism
+- individualism
 tag: 'Antoine de Saint-Exupery'
 ---
 

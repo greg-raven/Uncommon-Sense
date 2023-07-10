@@ -2,7 +2,7 @@
 title: 'Too much liberty vs. too little'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Thomas Jefferson'
 ---
 

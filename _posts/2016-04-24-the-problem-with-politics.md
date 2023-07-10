@@ -2,7 +2,7 @@
 title: 'The problem with politics'
 layout: post
 categories:
-    - politics
+- politics
 tag: 'Napoleon Bonaparte'
 ---
 

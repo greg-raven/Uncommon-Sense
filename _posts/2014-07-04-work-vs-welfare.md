@@ -2,7 +2,7 @@
 title: 'Work vs. welfare'
 layout: post
 categories:
-    - welfare
+- welfare
 tag: 'Leo Tolstoy'
 ---
 

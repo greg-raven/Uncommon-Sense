@@ -2,7 +2,7 @@
 title: 'Why leaders go to war'
 layout: post
 categories:
-    - war
+- war
 tag: 'James Madison'
 ---
 

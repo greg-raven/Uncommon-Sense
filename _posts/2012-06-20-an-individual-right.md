@@ -2,7 +2,7 @@
 title: 'A right of the individual'
 layout: post
 categories:
-    - 'Second Amendment'
+- 'Second Amendment'
 tag: 'Bernard J. Bordonet'
 ---
 

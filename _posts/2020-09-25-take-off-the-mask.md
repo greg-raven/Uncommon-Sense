@@ -2,7 +2,7 @@
 title: 'Take off the mask'
 layout: post
 categories:
-    - liberalism
+- liberalism
 tag: 'Thomas Sowell'
 ---
 

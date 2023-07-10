@@ -2,8 +2,8 @@
 title: 'Expansion and collapse'
 layout: post
 categories:
-    - economics
-    - money
+- economics
+- money
 tag: 'Hunter Lewis'
 ---
 

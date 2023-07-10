@@ -2,8 +2,8 @@
 title: 'Goal achieved'
 layout: post
 categories:
-    - corruption
-    - evil
+- corruption
+- evil
 tag: 'William Casey'
 ---
 

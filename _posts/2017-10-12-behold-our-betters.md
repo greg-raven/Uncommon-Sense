@@ -2,7 +2,7 @@
 title: 'Behold our betters'
 layout: post
 categories:
-    - culture
+- culture
 tag: 'Kurt Schlichter'
 ---
 

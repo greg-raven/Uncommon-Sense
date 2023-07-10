@@ -2,7 +2,7 @@
 title: 'The power of the free market'
 layout: post
 categories:
-    - prosperity
+- prosperity
 tag: 'Milton Friedman'
 ---
 

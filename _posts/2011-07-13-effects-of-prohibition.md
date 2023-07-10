@@ -2,7 +2,7 @@
 title: 'The effects of Prohibition'
 layout: post
 categories:
-    - laws
+- laws
 tag: 'James Paine'
 ---
 

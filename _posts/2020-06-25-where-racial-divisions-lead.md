@@ -2,7 +2,7 @@
 title: 'Where racial divisions lead'
 layout: post
 categories:
-    - race
+- race
 tag: 'Thomas Sowell'
 ---
 

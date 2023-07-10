@@ -2,7 +2,7 @@
 title: 'Truth needs no law'
 layout: post
 categories:
-    - truth
+- truth
 tag: 'H. L. Mencken'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Protecting the future'
 layout: post
 categories:
-    - culture
+- culture
 tag: 'Vladimir Putin'
 ---
 

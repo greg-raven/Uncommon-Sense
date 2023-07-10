@@ -2,7 +2,7 @@
 title: 'Growth of illegitimate government'
 layout: post
 categories:
-    - government
+- government
 tag: 'Roger Pilon'
 ---
 

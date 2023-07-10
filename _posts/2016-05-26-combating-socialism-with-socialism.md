@@ -2,7 +2,7 @@
 title: 'Combating socialism with socialism'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'William L. Shirer'
 ---
 

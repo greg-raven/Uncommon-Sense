@@ -2,7 +2,7 @@
 title: 'Elections cynically viewed'
 layout: post
 categories:
-    - voting
+- voting
 tag: 'H. L. Mencken'
 ---
 

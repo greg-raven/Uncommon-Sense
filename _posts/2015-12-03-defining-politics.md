@@ -2,7 +2,7 @@
 title: 'Defining ‘politics’'
 layout: post
 categories:
-    - politics
+- politics
 tag: 'Ambrose Bierce'
 ---
 

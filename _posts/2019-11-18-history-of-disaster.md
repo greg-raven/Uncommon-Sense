@@ -2,7 +2,7 @@
 title: 'History of disaster'
 layout: post
 categories:
-    - money
+- money
 tag: 'Richard Ebeling'
 ---
 

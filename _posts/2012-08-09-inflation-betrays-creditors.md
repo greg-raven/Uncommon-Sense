@@ -2,7 +2,7 @@
 title: 'Inflation betrays creditors'
 layout: post
 categories:
-    - economics
+- economics
 tag: 'George Bernard Shaw'
 ---
 

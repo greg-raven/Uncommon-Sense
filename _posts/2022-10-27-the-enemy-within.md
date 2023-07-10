@@ -2,7 +2,7 @@
 title: 'The enemy within'
 layout: post
 categories:
-    - demagogues
+- demagogues
 tag: 'Sun Tzu'
 ---
 

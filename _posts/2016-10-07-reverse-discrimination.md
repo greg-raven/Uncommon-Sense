@@ -2,7 +2,7 @@
 title: 'Reverse discrimination'
 layout: post
 categories:
-    - press
+- press
 tag: 'Ann Coulter'
 ---
 

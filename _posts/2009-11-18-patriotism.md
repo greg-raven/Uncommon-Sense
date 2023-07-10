@@ -2,7 +2,7 @@
 title: Patriotism
 layout: post
 categories:
-    - patriotism
+- patriotism
 tag: 'Theodore Roosevelt'
 ---
 

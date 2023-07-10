@@ -2,8 +2,8 @@
 title: 'The power of the free man'
 layout: post
 categories:
-    - 'foreign policy'
-    - liberty
+- 'foreign policy'
+- liberty
 tag: 'George Washington'
 ---
 

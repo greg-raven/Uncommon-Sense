@@ -2,9 +2,9 @@
 title: 'Preserve the rule of law'
 layout: post
 categories:
-    - Constitution
-    - immigration
-    - laws
+- Constitution
+- immigration
+- laws
 tag: 'Trey Gowdy'
 ---
 

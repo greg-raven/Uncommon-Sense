@@ -2,7 +2,7 @@
 title: 'Majority rule'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'Jefferson Davis'
 ---
 

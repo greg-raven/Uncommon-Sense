@@ -2,7 +2,7 @@
 title: 'Gold is the ultimate'
 layout: post
 categories:
-    - money
+- money
 tag: 'Alan Greenspan'
 ---
 

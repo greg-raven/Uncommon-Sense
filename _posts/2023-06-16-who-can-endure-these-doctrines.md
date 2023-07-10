@@ -2,7 +2,7 @@
 title: 'Who can endure these doctrines?'
 layout: post
 categories:
-    - individualism
+- individualism
 tag: 'C. S. Lewis'
 ---
 

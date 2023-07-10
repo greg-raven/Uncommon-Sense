@@ -2,7 +2,7 @@
 title: 'All lawful authority'
 layout: post
 categories:
-    - government
+- government
 tag: 'James Burgh'
 ---
 

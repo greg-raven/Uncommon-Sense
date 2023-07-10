@@ -2,8 +2,8 @@
 title: 'Charity is not a duty of government'
 layout: post
 categories:
-    - socialism
-    - welfare
+- socialism
+- welfare
 tag: 'James Madison'
 ---
 

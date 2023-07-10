@@ -2,7 +2,7 @@
 title: 'Rational law'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Frederic Bastiat'
 ---
 

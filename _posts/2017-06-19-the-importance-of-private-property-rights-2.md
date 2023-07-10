@@ -2,7 +2,7 @@
 title: 'The importance of private property rights'
 layout: post
 categories:
-    - property
+- property
 tag: 'Ludwig von Mises'
 ---
 

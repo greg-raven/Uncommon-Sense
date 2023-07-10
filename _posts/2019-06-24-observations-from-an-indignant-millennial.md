@@ -2,7 +2,7 @@
 title: 'Observations from an indignant millennial'
 layout: post
 categories:
-    - collectivization
+- collectivization
 tag: 'Alyssa Ahlgren'
 ---
 

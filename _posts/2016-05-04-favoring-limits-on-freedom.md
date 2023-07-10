@@ -2,7 +2,7 @@
 title: 'Favoring limits on freedom'
 layout: post
 categories:
-    - culture
+- culture
 tag: 'Lyn Nofziger'
 ---
 

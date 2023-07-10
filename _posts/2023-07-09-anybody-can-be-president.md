@@ -2,7 +2,7 @@
 title: 'Anybody can be president'
 layout: post
 categories:
-    - government
+- government
 tag: 'Adlai E. Stevenson'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Value your freedoms'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Thomas Sowell'
 ---
 

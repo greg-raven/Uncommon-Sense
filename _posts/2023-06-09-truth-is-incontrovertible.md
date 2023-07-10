@@ -2,7 +2,7 @@
 title: 'Truth is incontrovertible'
 layout: post
 categories:
-    - truth
+- truth
 tag: 'Winston Churchill'
 ---
 

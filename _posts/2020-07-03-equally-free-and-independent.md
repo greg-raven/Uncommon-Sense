@@ -2,7 +2,7 @@
 title: 'Equally free and independent'
 layout: post
 categories:
-    - equality
+- equality
 tag: 'George Mason'
 ---
 

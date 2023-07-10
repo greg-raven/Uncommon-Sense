@@ -2,7 +2,7 @@
 title: 'Who to blame'
 layout: post
 categories:
-    - government
+- government
 tag: 'Charley Reese'
 ---
 

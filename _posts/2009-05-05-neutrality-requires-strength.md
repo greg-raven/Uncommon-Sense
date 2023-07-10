@@ -2,7 +2,7 @@
 title: 'Neutrality requires strength'
 layout: post
 categories:
-    - strength
+- strength
 tag: 'Alexander Hamilton'
 ---
 

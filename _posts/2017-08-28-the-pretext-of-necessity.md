@@ -2,7 +2,7 @@
 title: 'The pretext of ‘necessity’'
 layout: post
 categories:
-    - demagogues
+- demagogues
 tag: 'William Henry Harrison'
 ---
 

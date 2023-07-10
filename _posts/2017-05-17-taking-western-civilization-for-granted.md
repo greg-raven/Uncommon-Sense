@@ -2,7 +2,7 @@
 title: 'Taking Western civilization for granted'
 layout: post
 categories:
-    - culture
+- culture
 tag: 'Roger Ream'
 ---
 

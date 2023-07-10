@@ -2,7 +2,7 @@
 title: 'The palladium of our liberties'
 layout: post
 categories:
-    - 'Second Amendment'
+- 'Second Amendment'
 tag: 'Joseph Story'
 ---
 

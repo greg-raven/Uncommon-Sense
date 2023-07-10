@@ -2,7 +2,7 @@
 title: 'Free society'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Walter Lippmann'
 ---
 

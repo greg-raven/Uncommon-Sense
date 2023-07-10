@@ -2,8 +2,8 @@
 title: 'Honesty in office is paramount'
 layout: post
 categories:
-    - morals
-    - virtue
+- morals
+- virtue
 tag: 'Theodore Roosevelt'
 ---
 

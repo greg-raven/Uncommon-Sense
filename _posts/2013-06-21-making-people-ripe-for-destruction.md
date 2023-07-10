@@ -2,7 +2,7 @@
 title: 'Making people ripe for destruction'
 layout: post
 categories:
-    - morals
+- morals
 tag: 'John Witherspoon'
 ---
 

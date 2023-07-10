@@ -2,7 +2,7 @@
 title: 'The assault on Christianity'
 layout: post
 categories:
-    - religion
+- religion
 tag: 'William P. Barr'
 ---
 

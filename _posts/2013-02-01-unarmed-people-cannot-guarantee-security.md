@@ -2,7 +2,7 @@
 title: 'Unarmed people cannot guarantee security'
 layout: post
 categories:
-    - 'Second Amendment'
+- 'Second Amendment'
 tag: 'James Burgh'
 ---
 

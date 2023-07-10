@@ -2,8 +2,8 @@
 title: Newspapers
 layout: post
 categories:
-    - education
-    - 'informed electorate'
+- education
+- 'informed electorate'
 tag: 'H. L. Mencken'
 ---
 

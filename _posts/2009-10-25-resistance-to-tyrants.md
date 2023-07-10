@@ -2,7 +2,7 @@
 title: 'Resistance to tyrants'
 layout: post
 categories:
-    - rebellion
+- rebellion
 tag: 'Thomas Jefferson'
 ---
 

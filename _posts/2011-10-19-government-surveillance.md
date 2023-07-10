@@ -2,7 +2,7 @@
 title: 'Government surveillance'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Vance Packard'
 ---
 

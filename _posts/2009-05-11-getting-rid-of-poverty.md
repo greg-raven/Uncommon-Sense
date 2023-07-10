@@ -2,8 +2,8 @@
 title: 'Getting rid of poverty'
 layout: post
 categories:
-    - economics
-    - welfare
+- economics
+- welfare
 tag: 'P. J. O’Rourke'
 ---
 

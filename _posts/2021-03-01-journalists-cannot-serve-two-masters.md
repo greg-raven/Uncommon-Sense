@@ -2,7 +2,7 @@
 title: 'Journalists cannot serve two masters'
 layout: post
 categories:
-    - 'informed electorate'
+- 'informed electorate'
 tag: 'Thomas Sowell'
 ---
 

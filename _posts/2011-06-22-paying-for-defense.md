@@ -2,7 +2,7 @@
 title: 'Paying for defense'
 layout: post
 categories:
-    - 'foreign policy'
+- 'foreign policy'
 tag: 'David Bergland'
 ---
 

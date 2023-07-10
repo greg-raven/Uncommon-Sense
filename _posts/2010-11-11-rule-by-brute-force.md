@@ -2,7 +2,7 @@
 title: 'Rule by brute force'
 layout: post
 categories:
-    - collectivization
+- collectivization
 tag: 'Ayn Rand'
 ---
 

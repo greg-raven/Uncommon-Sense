@@ -2,7 +2,7 @@
 title: 'Don’t engage in ‘legal’ plunder'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'Henry David Thoreau'
 ---
 

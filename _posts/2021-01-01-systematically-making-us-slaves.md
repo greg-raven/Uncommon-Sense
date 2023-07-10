@@ -2,8 +2,8 @@
 title: 'Systematically making us slaves'
 layout: post
 categories:
-    - collectivization
-    - socialism
+- collectivization
+- socialism
 tag: 'Thomas Jefferson'
 ---
 

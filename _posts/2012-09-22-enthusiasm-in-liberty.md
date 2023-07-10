@@ -2,7 +2,7 @@
 title: 'Enthusiasm in liberty'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Alexander Hamilton'
 ---
 

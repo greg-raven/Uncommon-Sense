@@ -2,7 +2,7 @@
 title: 'Don’t fear the truth'
 layout: post
 categories:
-    - truth
+- truth
 tag: 'Herbert Spencer'
 ---
 

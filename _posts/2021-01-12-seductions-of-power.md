@@ -2,7 +2,7 @@
 title: 'Seductions of power'
 layout: post
 categories:
-    - equality
+- equality
 tag: 'Tammy Bruce'
 ---
 

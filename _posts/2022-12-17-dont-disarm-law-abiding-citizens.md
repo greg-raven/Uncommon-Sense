@@ -2,7 +2,7 @@
 title: 'Don’t disarm law-abiding citizens'
 layout: post
 categories:
-    - 'Second Amendment'
+- 'Second Amendment'
 tag: 'Ronald Reagan'
 ---
 

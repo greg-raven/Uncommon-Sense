@@ -2,7 +2,7 @@
 title: 'The importance of accountability'
 layout: post
 categories:
-    - laws
+- laws
 tag: 'John Leo'
 ---
 

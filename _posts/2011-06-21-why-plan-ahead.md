@@ -2,8 +2,8 @@
 title: 'Why plan ahead?'
 layout: post
 categories:
-    - economics
-    - socialism
+- economics
+- socialism
 tag: 'David Frum'
 ---
 

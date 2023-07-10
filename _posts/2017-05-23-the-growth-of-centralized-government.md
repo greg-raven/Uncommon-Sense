@@ -2,7 +2,7 @@
 title: 'The growth of centralized government'
 layout: post
 categories:
-    - collectivization
+- collectivization
 tag: 'Thomas Jefferson'
 ---
 

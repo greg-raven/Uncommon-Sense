@@ -2,7 +2,7 @@
 title: 'Carrying a gun'
 layout: post
 categories:
-    - 'Second Amendment'
+- 'Second Amendment'
 tag: 'John Longenecker'
 ---
 

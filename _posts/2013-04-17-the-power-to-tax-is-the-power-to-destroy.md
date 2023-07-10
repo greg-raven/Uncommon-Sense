@@ -2,7 +2,7 @@
 title: 'The power to tax is the power to destroy'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'John Marshall'
 ---
 

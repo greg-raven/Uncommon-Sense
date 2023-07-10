@@ -2,7 +2,7 @@
 title: 'The fight in the dog'
 layout: post
 categories:
-    - strength
+- strength
 tag: 'Mark Twain'
 ---
 

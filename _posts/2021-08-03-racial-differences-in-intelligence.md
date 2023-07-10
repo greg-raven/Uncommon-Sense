@@ -2,7 +2,7 @@
 title: 'Racial differences in intelligence'
 layout: post
 categories:
-    - culture
+- culture
 tag: 'Jared Taylor'
 ---
 

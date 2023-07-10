@@ -2,7 +2,7 @@
 title: 'Our wars must advance our interests'
 layout: post
 categories:
-    - war
+- war
 tag: 'Charles A. Lindbergh Jr.'
 ---
 

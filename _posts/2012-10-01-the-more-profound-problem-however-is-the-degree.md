@@ -2,7 +2,7 @@
 title: 'State vs. society'
 layout: post
 categories:
-    - collectivization
+- collectivization
 tag: 'Stephen Cox'
 ---
 

@@ -2,8 +2,8 @@
 title: 'Productivity through freedom'
 layout: post
 categories:
-    - liberty
-    - prosperity
+- liberty
+- prosperity
 tag: 'Jarret B. Wollstein'
 ---
 

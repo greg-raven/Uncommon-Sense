@@ -2,8 +2,8 @@
 title: 'Leftist sadism'
 layout: post
 categories:
-    - intolerance
-    - socialism
+- intolerance
+- socialism
 tag: 'Jim Goad'
 ---
 

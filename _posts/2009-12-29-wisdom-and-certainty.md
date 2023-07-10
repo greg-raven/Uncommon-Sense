@@ -2,7 +2,7 @@
 title: 'Wisdom and certainty'
 layout: post
 categories:
-    - knowledge
+- knowledge
 tag: 'Bertrand Russell'
 ---
 

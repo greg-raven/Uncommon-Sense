@@ -2,7 +2,7 @@
 title: 'Unscientific age'
 layout: post
 categories:
-    - knowledge
+- knowledge
 tag: 'Richard Feynman'
 ---
 

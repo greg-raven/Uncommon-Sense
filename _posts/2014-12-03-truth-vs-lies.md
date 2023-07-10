@@ -2,7 +2,7 @@
 title: 'Truth vs. lies'
 layout: post
 categories:
-    - truth
+- truth
 tag: 'George Orwell'
 ---
 

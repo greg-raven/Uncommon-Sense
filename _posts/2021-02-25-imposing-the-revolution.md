@@ -2,8 +2,8 @@
 title: 'Imposing the revolution'
 layout: post
 categories:
-    - collectivization
-    - socialism
+- collectivization
+- socialism
 tag: 'George Orwell'
 ---
 

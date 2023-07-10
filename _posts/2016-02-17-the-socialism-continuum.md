@@ -2,7 +2,7 @@
 title: 'The socialism continuum'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Friedrich Nietzsche'
 ---
 

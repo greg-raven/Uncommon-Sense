@@ -2,7 +2,7 @@
 title: 'How to ensure your freedom'
 layout: post
 categories:
-    - 'Second Amendment'
+- 'Second Amendment'
 tag: 'Edmund Randolph'
 ---
 

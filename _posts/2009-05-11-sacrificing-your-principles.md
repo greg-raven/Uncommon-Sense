@@ -2,7 +2,7 @@
 title: 'Sacrificing your principles'
 layout: post
 categories:
-    - virtue
+- virtue
 tag: 'Vox Day'
 ---
 

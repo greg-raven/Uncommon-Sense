@@ -2,7 +2,7 @@
 title: Dependence
 layout: post
 categories:
-    - individualism
+- individualism
 tag: 'Thomas Jefferson'
 ---
 

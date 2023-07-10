@@ -2,7 +2,7 @@
 title: 'Concentration of powers'
 layout: post
 categories:
-    - collectivization
+- collectivization
 tag: 'W. E. B. Du Bois'
 ---
 

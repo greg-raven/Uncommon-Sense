@@ -2,7 +2,7 @@
 title: 'Honesty in government'
 layout: post
 categories:
-    - politics
+- politics
 tag: 'H. L. Mencken'
 ---
 

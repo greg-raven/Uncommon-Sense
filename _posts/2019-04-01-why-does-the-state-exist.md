@@ -2,7 +2,7 @@
 title: 'Why does the state exist?'
 layout: post
 categories:
-    - government
+- government
 tag: 'C. S. Lewis'
 ---
 

@@ -2,8 +2,8 @@
 title: 'Take action for liberty'
 layout: post
 categories:
-    - demagogues
-    - liberty
+- demagogues
+- liberty
 tag: 'Ron Paul'
 ---
 

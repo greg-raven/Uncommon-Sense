@@ -2,7 +2,7 @@
 title: 'Getting back on the road to liberty'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'Neal Boortz'
 ---
 

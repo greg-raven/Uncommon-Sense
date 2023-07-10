@@ -2,7 +2,7 @@
 title: 'Arms control'
 layout: post
 categories:
-    - 'Second Amendment'
+- 'Second Amendment'
 tag: Aristotle
 ---
 

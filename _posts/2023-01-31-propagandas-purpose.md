@@ -2,7 +2,7 @@
 title: 'Propaganda’s purpose'
 layout: post
 categories:
-    - demagogues
+- demagogues
 tag: 'Aldous Huxley'
 ---
 

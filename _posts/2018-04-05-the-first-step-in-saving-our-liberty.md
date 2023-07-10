@@ -2,7 +2,7 @@
 title: 'The first step in saving our liberty'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'James Bovard'
 ---
 

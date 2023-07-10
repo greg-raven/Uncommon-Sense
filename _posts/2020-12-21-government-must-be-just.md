@@ -2,7 +2,7 @@
 title: 'Government must be just'
 layout: post
 categories:
-    - laws
+- laws
 tag: 'Daniel Webster'
 ---
 

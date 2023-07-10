@@ -2,7 +2,7 @@
 title: 'No compromise with evil'
 layout: post
 categories:
-    - evil
+- evil
 tag: 'Ayn Rand'
 ---
 

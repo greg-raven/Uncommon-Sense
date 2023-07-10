@@ -2,7 +2,7 @@
 title: 'Damaging effect of vote fraud'
 layout: post
 categories:
-    - voting
+- voting
 tag: 'Thomas Jefferson'
 ---
 

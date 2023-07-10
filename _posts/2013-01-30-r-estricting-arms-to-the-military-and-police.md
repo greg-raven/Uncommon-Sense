@@ -2,7 +2,7 @@
 title: 'Restricting arms'
 layout: post
 categories:
-    - 'Second Amendment'
+- 'Second Amendment'
 tag: 'Robert Dowlut'
 ---
 

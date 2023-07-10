@@ -2,7 +2,7 @@
 title: 'Power over men'
 layout: post
 categories:
-    - decentralization
+- decentralization
 tag: 'Alexander Hamilton'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Modern ‘diversity’'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'Joe Sobran'
 ---
 

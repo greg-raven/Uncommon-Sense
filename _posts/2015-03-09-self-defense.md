@@ -2,7 +2,7 @@
 title: 'Self defense'
 layout: post
 categories:
-    - strength
+- strength
 tag: 'St. Augustine'
 ---
 

@@ -2,7 +2,7 @@
 title: 'The failure of rigid central planning'
 layout: post
 categories:
-    - collectivization
+- collectivization
 tag: 'Adam Smith'
 ---
 

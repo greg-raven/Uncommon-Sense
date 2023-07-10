@@ -2,7 +2,7 @@
 title: 'America’s welfare first'
 layout: post
 categories:
-    - nationalism
+- nationalism
 tag: 'Charles A. Lindbergh Jr.'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Civil rights and equality'
 layout: post
 categories:
-    - equality
+- equality
 tag: 'Thomas Sowell'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Muslim multiculturalism'
 layout: post
 categories:
-    - culture
+- culture
 tag: 'Randall Parker'
 ---
 

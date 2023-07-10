@@ -2,7 +2,7 @@
 title: 'Numbers don’t change morality'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'Auberon Herbert'
 ---
 

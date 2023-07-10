@@ -2,7 +2,7 @@
 title: 'Put up or shut up'
 layout: post
 categories:
-    - adulthood
+- adulthood
 tag: 'Theodore Roosevelt'
 ---
 

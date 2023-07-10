@@ -2,7 +2,7 @@
 title: Thanksgiving
 layout: post
 categories:
-    - culture
+- culture
 tag: 'Thomas Sowell'
 ---
 

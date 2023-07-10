@@ -2,7 +2,7 @@
 title: 'The delegation public views'
 layout: post
 categories:
-    - government
+- government
 tag: 'James Madison'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Prison or liberty'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Dwight D. Eisenhower'
 ---
 

@@ -2,7 +2,7 @@
 title: 'The price of free benefits'
 layout: post
 categories:
-    - money
+- money
 tag: 'Ronald Reagan'
 ---
 

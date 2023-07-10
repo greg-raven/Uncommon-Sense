@@ -2,7 +2,7 @@
 title: 'Freedom of speech and association'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Walter E. Williams'
 ---
 

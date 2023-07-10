@@ -2,7 +2,7 @@
 title: 'People get the government they tolerate'
 layout: post
 categories:
-    - government
+- government
 tag: 'Frank Kent'
 ---
 

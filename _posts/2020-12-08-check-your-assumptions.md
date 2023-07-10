@@ -2,7 +2,7 @@
 title: 'Check your assumptions'
 layout: post
 categories:
-    - knowledge
+- knowledge
 tag: 'Bertrand Russell'
 ---
 

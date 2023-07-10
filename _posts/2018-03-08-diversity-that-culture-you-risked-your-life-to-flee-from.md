@@ -2,7 +2,7 @@
 title: 'Diversity: That culture you risked your life to flee from'
 layout: post
 categories:
-    - diversity
+- diversity
 tag: 'Ann Coulter'
 ---
 

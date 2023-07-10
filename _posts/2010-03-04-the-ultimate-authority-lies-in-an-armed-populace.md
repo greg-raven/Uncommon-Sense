@@ -2,7 +2,7 @@
 title: 'The ultimate authority lies in an armed populace'
 layout: post
 categories:
-    - 'Second Amendment'
+- 'Second Amendment'
 tag: 'James Madison'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Black and White Standards'
 layout: post
 categories:
-    - race
+- race
 tag: 'Walter E. Williams'
 ---
 

@@ -2,7 +2,7 @@
 title: 'The changing role of schools'
 layout: post
 categories:
-    - education
+- education
 tag: 'Thomas Sowell'
 ---
 

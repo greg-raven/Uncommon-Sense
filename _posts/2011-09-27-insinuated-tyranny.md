@@ -2,7 +2,7 @@
 title: 'Insinuated tyranny'
 layout: post
 categories:
-    - culture
+- culture
 tag: 'Michael Parenti'
 ---
 

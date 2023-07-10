@@ -2,7 +2,7 @@
 title: 'Power seekers'
 layout: post
 categories:
-    - demagogues
+- demagogues
 tag: 'Barry Goldwater'
 ---
 

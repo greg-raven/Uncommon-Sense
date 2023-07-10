@@ -2,8 +2,8 @@
 title: 'Efficiency of the private sector'
 layout: post
 categories:
-    - decentralization
-    - government
+- decentralization
+- government
 tag: 'Ronald Reagan'
 ---
 

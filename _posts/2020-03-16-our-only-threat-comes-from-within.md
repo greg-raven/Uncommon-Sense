@@ -2,7 +2,7 @@
 title: 'Our only threat comes from within'
 layout: post
 categories:
-    - culture
+- culture
 tag: 'Abraham Lincoln'
 ---
 

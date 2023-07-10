@@ -2,7 +2,7 @@
 title: 'Preserving liberty'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'George Washington'
 ---
 

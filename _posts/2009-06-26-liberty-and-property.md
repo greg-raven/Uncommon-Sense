@@ -2,7 +2,7 @@
 title: 'Liberty and property'
 layout: post
 categories:
-    - property
+- property
 tag: 'William Howard Taft'
 ---
 

@@ -2,7 +2,7 @@
 title: 'The individual vs. the group'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'John Stuart Mill'
 ---
 

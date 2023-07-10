@@ -2,7 +2,7 @@
 title: 'White supremacy'
 layout: post
 categories:
-    - culture
+- culture
 tag: 'Jim Goad'
 ---
 

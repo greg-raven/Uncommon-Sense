@@ -2,7 +2,7 @@
 title: 'The law vs fads'
 layout: post
 categories:
-    - laws
+- laws
 tag: 'Ann Coulter'
 ---
 

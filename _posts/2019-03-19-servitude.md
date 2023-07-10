@@ -2,7 +2,7 @@
 title: Servitude
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'Richard Armey'
 ---
 

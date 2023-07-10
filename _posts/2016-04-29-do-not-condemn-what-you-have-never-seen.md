@@ -2,8 +2,8 @@
 title: 'Do not condemn what you have never seen'
 layout: post
 categories:
-    - capitalism
-    - money
+- capitalism
+- money
 tag: 'Ron Paul'
 ---
 

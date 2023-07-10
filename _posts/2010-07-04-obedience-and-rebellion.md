@@ -2,7 +2,7 @@
 title: 'Obedience and rebellion'
 layout: post
 categories:
-    - collectivization
+- collectivization
 tag: 'C. P. Snow'
 ---
 

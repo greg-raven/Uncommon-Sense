@@ -2,7 +2,7 @@
 title: 'Fighting evil'
 layout: post
 categories:
-    - evil
+- evil
 tag: 'Edmund Burke'
 ---
 

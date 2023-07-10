@@ -2,7 +2,7 @@
 title: 'Country vs. government'
 layout: post
 categories:
-    - government
+- government
 tag: 'Robert A. Heinlein'
 ---
 

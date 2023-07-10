@@ -2,7 +2,7 @@
 title: 'Doing good for the poor'
 layout: post
 categories:
-    - welfare
+- welfare
 tag: 'Benjamin Franklin'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Unarmed people are slaves'
 layout: post
 categories:
-    - 'Second Amendment'
+- 'Second Amendment'
 tag: 'Huey P. Newton'
 ---
 

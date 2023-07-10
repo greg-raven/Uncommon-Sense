@@ -2,7 +2,7 @@
 title: 'The misfortune of government'
 layout: post
 categories:
-    - government
+- government
 tag: 'James Madison'
 ---
 

@@ -2,7 +2,7 @@
 title: Usurpation
 layout: post
 categories:
-    - money
+- money
 tag: 'Louis McFadden'
 ---
 

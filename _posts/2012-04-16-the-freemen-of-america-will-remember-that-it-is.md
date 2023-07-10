@@ -2,7 +2,7 @@
 title: 'Freedom is easy to lose'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Freeman’s Journal'
 ---
 

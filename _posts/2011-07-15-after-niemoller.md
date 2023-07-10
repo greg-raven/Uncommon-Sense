@@ -2,7 +2,7 @@
 title: 'After Niemoller'
 layout: post
 categories:
-    - rights
+- rights
 tag: 'Lyle Myhr'
 ---
 

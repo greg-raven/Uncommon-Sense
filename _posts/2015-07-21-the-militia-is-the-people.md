@@ -2,7 +2,7 @@
 title: 'The militia is the people'
 layout: post
 categories:
-    - 'Second Amendment'
+- 'Second Amendment'
 tag: 'Richard Henry Lee'
 ---
 

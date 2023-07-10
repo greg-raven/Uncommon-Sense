@@ -2,7 +2,7 @@
 title: 'Honor thy Founding Father'
 layout: post
 categories:
-    - Constitution
+- Constitution
 tag: 'Daniel Hannan'
 ---
 

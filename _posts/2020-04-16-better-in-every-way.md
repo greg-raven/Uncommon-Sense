@@ -2,7 +2,7 @@
 title: 'Better in every way'
 layout: post
 categories:
-    - liberalism
+- liberalism
 tag: 'Thomas Sowell'
 ---
 

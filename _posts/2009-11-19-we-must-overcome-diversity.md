@@ -2,7 +2,7 @@
 title: 'We must overcome ‘diversity’'
 layout: post
 categories:
-    - diversity
+- diversity
 tag: 'Ann Coulter'
 ---
 

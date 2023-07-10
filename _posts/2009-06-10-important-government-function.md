@@ -2,7 +2,7 @@
 title: 'Important government function'
 layout: post
 categories:
-    - money
+- money
 tag: anonymous
 ---
 

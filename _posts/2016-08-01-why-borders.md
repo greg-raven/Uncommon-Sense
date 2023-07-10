@@ -2,8 +2,8 @@
 title: 'Why borders?'
 layout: post
 categories:
-    - culture
-    - immigration
+- culture
+- immigration
 tag: 'Victor Davis Hanson'
 ---
 

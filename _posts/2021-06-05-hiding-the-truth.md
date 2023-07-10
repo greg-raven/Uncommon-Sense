@@ -2,7 +2,7 @@
 title: 'Hiding the truth'
 layout: post
 categories:
-    - truth
+- truth
 tag: 'Barack Hussein Obama'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Unenlightened self-interest'
 layout: post
 categories:
-    - demagogues
+- demagogues
 tag: 'Orson Scott Card'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Power vs. liberty'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: anonymous
 ---
 

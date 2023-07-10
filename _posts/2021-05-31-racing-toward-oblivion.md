@@ -2,7 +2,7 @@
 title: 'Racing toward oblivion'
 layout: post
 categories:
-    - prosperity
+- prosperity
 tag: 'Greg Raven'
 ---
 

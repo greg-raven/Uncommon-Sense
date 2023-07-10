@@ -2,7 +2,7 @@
 title: 'Youth vs. experience'
 layout: post
 categories:
-    - adulthood
+- adulthood
 tag: 'Winston Churchill'
 ---
 

@@ -2,8 +2,8 @@
 title: 'Why does socialism endure?'
 layout: post
 categories:
-    - press
-    - socialism
+- press
+- socialism
 tag: 'Taki Theodoracopulos'
 ---
 

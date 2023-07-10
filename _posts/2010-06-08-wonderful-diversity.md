@@ -2,7 +2,7 @@
 title: 'Wonderful diversity?'
 layout: post
 categories:
-    - diversity
+- diversity
 tag: 'Jared Taylor'
 ---
 

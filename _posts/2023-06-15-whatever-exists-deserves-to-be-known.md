@@ -2,7 +2,7 @@
 title: 'Whatever exists deserves to be known'
 layout: post
 categories:
-    - truth
+- truth
 tag: 'Francis Bacon'
 ---
 

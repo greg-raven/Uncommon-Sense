@@ -2,7 +2,7 @@
 title: 'How Affirmative Action creates dangerous double standards'
 layout: post
 categories:
-    - race
+- race
 tag: 'Thomas Sowell'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Short memories'
 layout: post
 categories:
-    - politics
+- politics
 tag: 'Will Rogers'
 ---
 

@@ -2,7 +2,7 @@
 title: 'From freedom to tyranny'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Nikita Khrushchev'
 ---
 

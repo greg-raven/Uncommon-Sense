@@ -2,7 +2,7 @@
 title: 'Formula for prosperity'
 layout: post
 categories:
-    - prosperity
+- prosperity
 tag: 'Thomas E. Woods Jr.'
 ---
 

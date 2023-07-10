@@ -2,7 +2,7 @@
 title: 'War is a racket'
 layout: post
 categories:
-    - war
+- war
 tag: 'Smedley D. Butler'
 ---
 

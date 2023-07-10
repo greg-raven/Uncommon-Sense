@@ -2,7 +2,7 @@
 title: 'Immigration policy'
 layout: post
 categories:
-    - immigration
+- immigration
 tag: 'Jonette Christian'
 ---
 

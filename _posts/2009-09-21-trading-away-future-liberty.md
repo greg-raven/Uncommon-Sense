@@ -2,7 +2,7 @@
 title: 'Trading away future liberty'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Samuel Adams'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Fiat money'
 layout: post
 categories:
-    - money
+- money
 tag: 'Milton Friedman'
 ---
 

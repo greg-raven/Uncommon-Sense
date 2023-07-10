@@ -2,7 +2,7 @@
 title: 'The truth about Afghanistan'
 layout: post
 categories:
-    - war
+- war
 tag: 'Paul Joseph Watson'
 ---
 

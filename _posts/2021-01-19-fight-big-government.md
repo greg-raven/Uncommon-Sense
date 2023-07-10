@@ -2,7 +2,7 @@
 title: 'Fight big government'
 layout: post
 categories:
-    - collectivization
+- collectivization
 tag: 'Jack Carr'
 ---
 

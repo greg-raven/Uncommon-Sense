@@ -2,7 +2,7 @@
 title: 'True patriotism'
 layout: post
 categories:
-    - patriotism
+- patriotism
 tag: 'Thomas Paine'
 ---
 

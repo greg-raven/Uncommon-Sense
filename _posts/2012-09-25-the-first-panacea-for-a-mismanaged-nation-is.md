@@ -2,8 +2,8 @@
 title: 'Inflation and war'
 layout: post
 categories:
-    - money
-    - war
+- money
+- war
 tag: 'Ernest Hemingway'
 ---
 

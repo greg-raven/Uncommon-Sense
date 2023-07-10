@@ -2,7 +2,7 @@
 title: 'Importance of morality'
 layout: post
 categories:
-    - morals
+- morals
 tag: 'Samuel Adams'
 ---
 

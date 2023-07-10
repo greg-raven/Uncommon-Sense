@@ -2,8 +2,8 @@
 title: 'Use it or lose it'
 layout: post
 categories:
-    - individualism
-    - knowledge
+- individualism
+- knowledge
 tag: 'Galileo Galilei'
 ---
 

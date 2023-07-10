@@ -2,7 +2,7 @@
 title: 'Individual self defense'
 layout: post
 categories:
-    - 'Second Amendment'
+- 'Second Amendment'
 tag: 'John Adams'
 ---
 

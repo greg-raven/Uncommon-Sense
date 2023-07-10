@@ -2,7 +2,7 @@
 title: Time-binding
 layout: post
 categories:
-    - knowledge
+- knowledge
 tag: 'Friedrich August von Hayek'
 ---
 

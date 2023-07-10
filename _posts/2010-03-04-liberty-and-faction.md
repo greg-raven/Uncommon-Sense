@@ -2,7 +2,7 @@
 title: 'Liberty and faction'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'James Madison'
 ---
 

@@ -2,7 +2,7 @@
 title: 'End the Fed'
 layout: post
 categories:
-    - economics
+- economics
 tag: 'Steve Forbes'
 ---
 

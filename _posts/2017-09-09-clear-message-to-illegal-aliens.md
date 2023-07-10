@@ -2,7 +2,7 @@
 title: 'Clear message to illegal aliens'
 layout: post
 categories:
-    - immigration
+- immigration
 tag: 'Hillary Clinton'
 ---
 

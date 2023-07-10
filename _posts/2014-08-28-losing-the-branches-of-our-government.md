@@ -2,7 +2,7 @@
 title: 'Losing the branches of our government'
 layout: post
 categories:
-    - government
+- government
 tag: 'Jonathan Turley'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Selective improvement'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'William Graham Sumner'
 ---
 

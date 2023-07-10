@@ -2,7 +2,7 @@
 title: 'Thought control and conditioning'
 layout: post
 categories:
-    - collectivization
+- collectivization
 tag: 'Isaiah Berlin'
 ---
 

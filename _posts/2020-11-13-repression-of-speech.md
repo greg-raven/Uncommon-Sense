@@ -2,7 +2,7 @@
 title: 'Repression of speech'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'Louis D. Brandeis'
 ---
 

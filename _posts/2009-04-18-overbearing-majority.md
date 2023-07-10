@@ -2,7 +2,7 @@
 title: 'Overbearing majority'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'James Madison'
 ---
 

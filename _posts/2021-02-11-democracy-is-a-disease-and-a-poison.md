@@ -2,7 +2,7 @@
 title: 'Democracy is a disease and a poison'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'Alexander Hamilton'
 ---
 

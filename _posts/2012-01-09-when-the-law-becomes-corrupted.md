@@ -2,7 +2,7 @@
 title: 'When the law becomes corrupted'
 layout: post
 categories:
-    - corruption
+- corruption
 tag: 'Frederic Bastiat'
 ---
 

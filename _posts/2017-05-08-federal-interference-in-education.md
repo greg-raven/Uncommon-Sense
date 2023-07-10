@@ -2,7 +2,7 @@
 title: 'Federal interference in education'
 layout: post
 categories:
-    - education
+- education
 tag: 'Ronald Reagan'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Culture in a tailspin'
 layout: post
 categories:
-    - culture
+- culture
 tag: 'Paul Ryan'
 ---
 

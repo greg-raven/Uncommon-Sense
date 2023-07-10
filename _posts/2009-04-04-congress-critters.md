@@ -2,7 +2,7 @@
 title: 'Congress critters'
 layout: post
 categories:
-    - government
+- government
 tag: 'Mark Twain'
 ---
 

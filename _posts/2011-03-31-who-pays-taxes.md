@@ -2,7 +2,7 @@
 title: 'Who pays taxes?'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'Calvin Coolidge'
 ---
 

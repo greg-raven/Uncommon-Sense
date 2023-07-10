@@ -2,7 +2,7 @@
 title: 'Socialism: Less power, less money for the people'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Bertrand de Jouvenel'
 ---
 

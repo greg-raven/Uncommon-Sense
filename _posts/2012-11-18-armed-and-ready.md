@@ -2,7 +2,7 @@
 title: 'Armed and ready'
 layout: post
 categories:
-    - 'Second Amendment'
+- 'Second Amendment'
 tag: 'George Washington'
 ---
 

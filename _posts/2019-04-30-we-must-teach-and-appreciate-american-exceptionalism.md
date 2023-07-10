@@ -2,8 +2,8 @@
 title: 'We must teach and appreciate American exceptionalism'
 layout: post
 categories:
-    - culture
-    - history
+- culture
+- history
 tag: 'Ronald Reagan'
 ---
 

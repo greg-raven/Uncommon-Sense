@@ -2,7 +2,7 @@
 title: 'The fundamental theory of American law'
 layout: post
 categories:
-    - politics
+- politics
 tag: 'H. L. Mencken'
 ---
 

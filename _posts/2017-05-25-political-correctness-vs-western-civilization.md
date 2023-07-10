@@ -2,8 +2,8 @@
 title: 'Political correctness vs. Western civilization'
 layout: post
 categories:
-    - culture
-    - education
+- culture
+- education
 tag: 'Elizabeth Kantor'
 ---
 

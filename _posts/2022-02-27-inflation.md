@@ -2,8 +2,8 @@
 title: Inflation
 layout: post
 categories:
-    - economics
-    - money
+- economics
+- money
 tag: 'Ronald Reagan'
 ---
 

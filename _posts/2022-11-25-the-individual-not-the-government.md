@@ -2,9 +2,9 @@
 title: 'The individual, not the government'
 layout: post
 categories:
-    - government
-    - individualism
-    - speech
+- government
+- individualism
+- speech
 tag: 'William O. Douglas'
 ---
 

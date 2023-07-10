@@ -2,7 +2,7 @@
 title: 'Manipulation through hate-crime hoaxes'
 layout: post
 categories:
-    - race
+- race
 tag: 'Walter E. Williams'
 ---
 

@@ -2,7 +2,7 @@
 title: 'The sea of liberty'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Thomas Jefferson'
 ---
 

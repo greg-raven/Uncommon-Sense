@@ -2,7 +2,7 @@
 title: 'Preventing force and fraud'
 layout: post
 categories:
-    - 'external authority'
+- 'external authority'
 tag: 'John Stuart Mill'
 ---
 

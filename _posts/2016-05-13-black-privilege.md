@@ -2,7 +2,7 @@
 title: 'Black privilege'
 layout: post
 categories:
-    - race
+- race
 tag: 'Kevin Jackson'
 ---
 

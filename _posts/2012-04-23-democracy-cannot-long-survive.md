@@ -2,7 +2,7 @@
 title: 'Democracy cannot long survive'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'Karl Marx'
 ---
 

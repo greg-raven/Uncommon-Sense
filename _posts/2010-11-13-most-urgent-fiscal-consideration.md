@@ -2,7 +2,7 @@
 title: 'Most urgent fiscal consideration'
 layout: post
 categories:
-    - debt
+- debt
 tag: 'George Washington'
 ---
 

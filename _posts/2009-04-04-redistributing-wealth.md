@@ -2,8 +2,8 @@
 title: 'Redistributing wealth'
 layout: post
 categories:
-    - taxation
-    - welfare
+- taxation
+- welfare
 tag: 'Thomas Jefferson'
 ---
 

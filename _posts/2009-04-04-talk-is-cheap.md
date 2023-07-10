@@ -2,7 +2,7 @@
 title: 'Talk is cheap'
 layout: post
 categories:
-    - government
+- government
 tag: 'Cullen Hightower'
 ---
 

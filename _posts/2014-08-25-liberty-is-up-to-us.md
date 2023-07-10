@@ -2,7 +2,7 @@
 title: 'Liberty is up to us'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Thomas Jefferson'
 ---
 

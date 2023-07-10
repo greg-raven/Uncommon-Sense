@@ -2,7 +2,7 @@
 title: 'Taxation through inflation'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'Milton Friedman'
 ---
 

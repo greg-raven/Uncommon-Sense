@@ -2,7 +2,7 @@
 title: 'No worse tyranny'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'Robert A. Heinlein'
 ---
 

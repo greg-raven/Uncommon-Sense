@@ -2,7 +2,7 @@
 title: 'Power in high places'
 layout: post
 categories:
-    - government
+- government
 tag: 'Rick Gaber'
 ---
 

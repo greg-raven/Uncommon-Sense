@@ -2,7 +2,7 @@
 title: 'Gun rights are fundamental to our liberty'
 layout: post
 categories:
-    - 'Second Amendment'
+- 'Second Amendment'
 tag: 'Ted Cruz'
 ---
 

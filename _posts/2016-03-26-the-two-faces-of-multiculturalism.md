@@ -2,9 +2,9 @@
 title: 'The two faces of multiculturalism'
 layout: post
 categories:
-    - culture
-    - diversity
-    - immigration
+- culture
+- diversity
+- immigration
 tag: 'Jeffrey T. Brown'
 ---
 

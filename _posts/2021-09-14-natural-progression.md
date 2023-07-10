@@ -2,8 +2,8 @@
 title: 'Natural progression'
 layout: post
 categories:
-    - government
-    - liberty
+- government
+- liberty
 tag: 'Thomas Jefferson'
 ---
 

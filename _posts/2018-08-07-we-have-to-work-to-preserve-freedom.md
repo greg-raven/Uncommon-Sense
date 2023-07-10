@@ -2,7 +2,7 @@
 title: 'We have to work to preserve freedom'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Lord Acton'
 ---
 

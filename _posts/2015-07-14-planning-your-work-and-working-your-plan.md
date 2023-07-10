@@ -2,7 +2,7 @@
 title: 'Planning your work, and working your plan'
 layout: post
 categories:
-    - adulthood
+- adulthood
 tag: Proverb
 ---
 

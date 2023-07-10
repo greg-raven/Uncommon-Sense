@@ -2,7 +2,7 @@
 title: 'A plea for Constitutional literacy on Constitution Day'
 layout: post
 categories:
-    - Constitution
+- Constitution
 tag: 'Ben Carson'
 ---
 

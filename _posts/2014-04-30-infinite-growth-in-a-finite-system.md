@@ -2,7 +2,7 @@
 title: 'Infinite growth in a finite system'
 layout: post
 categories:
-    - economics
+- economics
 tag: 'Kenneth Boulding'
 ---
 

@@ -2,9 +2,9 @@
 title: 'Totalitarian liberals'
 layout: post
 categories:
-    - education
-    - intolerance
-    - speech
+- education
+- intolerance
+- speech
 tag: 'Thomas Sowell'
 ---
 

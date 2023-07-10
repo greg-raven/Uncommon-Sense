@@ -2,7 +2,7 @@
 title: 'Liberty is keeping what you have earned'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'Calvin Coolidge'
 ---
 

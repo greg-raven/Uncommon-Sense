@@ -2,7 +2,7 @@
 title: 'Liberty and justice'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Edmund Burke'
 ---
 

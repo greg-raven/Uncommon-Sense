@@ -2,7 +2,7 @@
 title: 'Ethnic studies'
 layout: post
 categories:
-    - race
+- race
 tag: 'David Horowitz'
 ---
 

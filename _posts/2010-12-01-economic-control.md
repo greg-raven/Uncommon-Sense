@@ -2,7 +2,7 @@
 title: 'Economic control'
 layout: post
 categories:
-    - economics
+- economics
 tag: 'Ludwig von Mises'
 ---
 

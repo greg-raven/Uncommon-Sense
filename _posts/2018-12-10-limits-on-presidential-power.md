@@ -2,8 +2,8 @@
 title: 'Limits on presidential power'
 layout: post
 categories:
-    - Constitution
-    - immigration
+- Constitution
+- immigration
 tag: 'Barack Hussein Obama'
 ---
 

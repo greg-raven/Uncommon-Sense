@@ -2,7 +2,7 @@
 title: 'Losses under totalitarianism'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Eric Hoffer'
 ---
 

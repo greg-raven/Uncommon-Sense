@@ -2,7 +2,7 @@
 title: 'When liberty is abused to licentiousness'
 layout: post
 categories:
-    - virtue
+- virtue
 tag: 'George Washington'
 ---
 

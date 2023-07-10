@@ -2,7 +2,7 @@
 title: 'There is a difference'
 layout: post
 categories:
-    - government
+- government
 tag: 'Daniel Webster'
 ---
 

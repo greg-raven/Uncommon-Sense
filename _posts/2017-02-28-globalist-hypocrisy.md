@@ -2,8 +2,8 @@
 title: 'Globalist hypocrisy'
 layout: post
 categories:
-    - collectivization
-    - diversity
+- collectivization
+- diversity
 tag: 'Jim Goad'
 ---
 

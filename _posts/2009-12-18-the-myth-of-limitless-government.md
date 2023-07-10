@@ -2,7 +2,7 @@
 title: 'The myth of limitless government'
 layout: post
 categories:
-    - rights
+- rights
 tag: 'Auberon Herbert'
 ---
 

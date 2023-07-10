@@ -2,7 +2,7 @@
 title: 'Don’t give up when you’re right'
 layout: post
 categories:
-    - conviction
+- conviction
 tag: 'Chester W. Nimitz'
 ---
 

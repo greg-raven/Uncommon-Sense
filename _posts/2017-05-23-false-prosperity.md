@@ -2,8 +2,8 @@
 title: 'False prosperity'
 layout: post
 categories:
-    - war
-    - waste
+- war
+- waste
 tag: 'Ludwig von Mises'
 ---
 

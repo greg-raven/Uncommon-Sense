@@ -2,8 +2,8 @@
 title: 'Legalizing theft'
 layout: post
 categories:
-    - democracy
-    - rights
+- democracy
+- rights
 tag: 'H. L. Richardson'
 ---
 

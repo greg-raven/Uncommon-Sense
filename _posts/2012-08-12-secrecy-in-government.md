@@ -2,7 +2,7 @@
 title: 'Secrecy in government'
 layout: post
 categories:
-    - 'informed electorate'
+- 'informed electorate'
 tag: 'John F. Kennedy'
 ---
 

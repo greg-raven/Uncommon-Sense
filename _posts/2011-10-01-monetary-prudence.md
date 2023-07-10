@@ -2,7 +2,7 @@
 title: 'Monetary prudence'
 layout: post
 categories:
-    - money
+- money
 tag: 'Thomas Jefferson'
 ---
 

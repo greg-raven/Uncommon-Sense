@@ -2,8 +2,8 @@
 title: 'Debt overthrows public morality'
 layout: post
 categories:
-    - economics
-    - money
+- economics
+- money
 tag: 'Alexander Hamilton'
 ---
 

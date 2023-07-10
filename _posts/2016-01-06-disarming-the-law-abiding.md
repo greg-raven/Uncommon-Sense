@@ -2,7 +2,7 @@
 title: 'Disarming the law-abiding'
 layout: post
 categories:
-    - 'Second Amendment'
+- 'Second Amendment'
 tag: 'Walter E. Williams'
 ---
 

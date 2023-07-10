@@ -2,7 +2,7 @@
 title: 'The people are the rightful masters'
 layout: post
 categories:
-    - Constitution
+- Constitution
 tag: 'Abraham Lincoln'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Observe the Constitution, period'
 layout: post
 categories:
-    - Constitution
+- Constitution
 tag: 'Brannon P. Denning'
 ---
 

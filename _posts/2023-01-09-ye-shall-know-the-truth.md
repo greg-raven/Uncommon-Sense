@@ -2,7 +2,7 @@
 title: 'Ye shall know the truth'
 layout: post
 categories:
-    - truth
+- truth
 tag: 'Aldous Huxley'
 ---
 

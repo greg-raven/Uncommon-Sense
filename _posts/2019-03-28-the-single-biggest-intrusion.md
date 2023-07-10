@@ -2,7 +2,7 @@
 title: 'The single biggest intrusion'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'Harry Browne'
 ---
 

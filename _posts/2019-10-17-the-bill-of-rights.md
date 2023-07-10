@@ -2,7 +2,7 @@
 title: 'The Bill of Rights'
 layout: post
 categories:
-    - Constitution
+- Constitution
 tag: 'Jeffrey R. Snyder'
 ---
 

@@ -2,7 +2,7 @@
 title: 'What economists do'
 layout: post
 categories:
-    - economics
+- economics
 tag: 'Friedrich August von Hayek'
 ---
 

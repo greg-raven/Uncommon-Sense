@@ -2,7 +2,7 @@
 title: 'The path to prosperity'
 layout: post
 categories:
-    - prosperity
+- prosperity
 tag: 'John F. Kennedy'
 ---
 

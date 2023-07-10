@@ -2,7 +2,7 @@
 title: Intelligence
 layout: post
 categories:
-    - knowledge
+- knowledge
 tag: 'George Santayana'
 ---
 

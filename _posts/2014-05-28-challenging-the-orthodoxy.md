@@ -2,7 +2,7 @@
 title: 'Challenging the orthodoxy'
 layout: post
 categories:
-    - knowledge
+- knowledge
 tag: 'George Orwell'
 ---
 

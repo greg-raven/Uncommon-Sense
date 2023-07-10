@@ -2,8 +2,8 @@
 title: 'The importance of private property'
 layout: post
 categories:
-    - property
-    - rights
+- property
+- rights
 tag: 'Hernando de Soto Polar'
 ---
 

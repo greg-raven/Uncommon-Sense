@@ -2,7 +2,7 @@
 title: 'Progressive mind-control'
 layout: post
 categories:
-    - education
+- education
 tag: 'Vladimir Ilyich Lenin'
 ---
 

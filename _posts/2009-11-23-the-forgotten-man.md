@@ -2,8 +2,8 @@
 title: 'The forgotten man'
 layout: post
 categories:
-    - socialism
-    - taxation
+- socialism
+- taxation
 tag: 'William Graham Sumner'
 ---
 

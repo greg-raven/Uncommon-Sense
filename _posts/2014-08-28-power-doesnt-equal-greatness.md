@@ -2,7 +2,7 @@
 title: 'Power doesn’t equal greatness'
 layout: post
 categories:
-    - strength
+- strength
 tag: 'Stewart L. Udall'
 ---
 

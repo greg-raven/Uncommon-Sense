@@ -2,7 +2,7 @@
 title: 'Affirmative action to assuage guilt'
 layout: post
 categories:
-    - race
+- race
 tag: 'Walter E. Williams'
 ---
 

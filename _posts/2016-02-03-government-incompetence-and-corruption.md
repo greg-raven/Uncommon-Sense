@@ -2,7 +2,7 @@
 title: 'Government incompetence and corruption'
 layout: post
 categories:
-    - corruption
+- corruption
 tag: 'Arnold Ahlert'
 ---
 

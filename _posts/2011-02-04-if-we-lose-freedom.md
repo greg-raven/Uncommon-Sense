@@ -2,7 +2,7 @@
 title: 'If we lose freedom'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Ronald Reagan'
 ---
 

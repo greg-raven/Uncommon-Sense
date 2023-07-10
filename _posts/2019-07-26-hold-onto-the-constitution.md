@@ -2,7 +2,7 @@
 title: 'Hold onto the Constitution'
 layout: post
 categories:
-    - Constitution
+- Constitution
 tag: 'Daniel Webster'
 ---
 

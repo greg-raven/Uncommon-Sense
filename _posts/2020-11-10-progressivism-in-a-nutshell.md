@@ -2,8 +2,8 @@
 title: 'Progressivism in a nutshell'
 layout: post
 categories:
-    - culture
-    - liberalism
+- culture
+- liberalism
 tag: 'Walter E. Williams'
 ---
 

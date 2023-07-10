@@ -2,7 +2,7 @@
 title: 'Superficial distinctions of socialism'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Albert Jay Nock'
 ---
 

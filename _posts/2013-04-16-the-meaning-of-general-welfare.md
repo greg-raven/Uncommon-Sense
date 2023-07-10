@@ -2,7 +2,7 @@
 title: 'The meaning of ‘general welfare’'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'Thomas Jefferson'
 ---
 

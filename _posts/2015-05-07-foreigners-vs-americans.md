@@ -2,9 +2,9 @@
 title: 'Foreigners vs. Americans'
 layout: post
 categories:
-    - citizenship
-    - immigration
-    - nationalism
+- citizenship
+- immigration
+- nationalism
 tag: 'Alexander Hamilton'
 ---
 

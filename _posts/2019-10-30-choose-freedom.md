@@ -2,7 +2,7 @@
 title: 'Choose freedom'
 layout: post
 categories:
-    - government
+- government
 tag: 'Vladimir Ilyich Lenin'
 ---
 

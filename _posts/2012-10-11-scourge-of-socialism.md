@@ -2,7 +2,7 @@
 title: 'The scourge of socialism'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Mark Steyn'
 ---
 

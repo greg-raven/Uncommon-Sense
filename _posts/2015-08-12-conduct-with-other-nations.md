@@ -2,7 +2,7 @@
 title: 'Conduct with other nations'
 layout: post
 categories:
-    - 'foreign policy'
+- 'foreign policy'
 tag: 'George Washington'
 ---
 

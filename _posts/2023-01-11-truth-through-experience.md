@@ -2,7 +2,7 @@
 title: 'Truth through experience'
 layout: post
 categories:
-    - truth
+- truth
 tag: 'Samuel Johnson'
 ---
 

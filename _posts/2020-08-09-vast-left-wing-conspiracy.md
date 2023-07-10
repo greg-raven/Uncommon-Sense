@@ -2,7 +2,7 @@
 title: 'Vast left-wing conspiracy'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'John F. Kennedy'
 ---
 

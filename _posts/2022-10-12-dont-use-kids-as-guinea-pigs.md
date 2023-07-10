@@ -2,7 +2,7 @@
 title: 'Don’t use kids as guinea pigs'
 layout: post
 categories:
-    - education
+- education
 tag: 'Thomas Sowell'
 ---
 

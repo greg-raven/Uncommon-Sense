@@ -2,8 +2,8 @@
 title: 'Law and freedom'
 layout: post
 categories:
-    - laws
-    - liberty
+- laws
+- liberty
 tag: 'John Locke'
 ---
 

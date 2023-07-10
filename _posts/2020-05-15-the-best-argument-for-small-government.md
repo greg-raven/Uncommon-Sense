@@ -2,7 +2,7 @@
 title: 'The best argument for small government'
 layout: post
 categories:
-    - government
+- government
 tag: 'Lord Acton'
 ---
 

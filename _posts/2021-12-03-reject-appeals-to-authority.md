@@ -2,8 +2,8 @@
 title: 'Reject appeals to authority'
 layout: post
 categories:
-    - knowledge
-    - truth
+- knowledge
+- truth
 tag: 'Herbert Spencer'
 ---
 

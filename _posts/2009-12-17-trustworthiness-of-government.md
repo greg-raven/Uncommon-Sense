@@ -2,7 +2,7 @@
 title: 'Trustworthiness of government'
 layout: post
 categories:
-    - 'Second Amendment'
+- 'Second Amendment'
 tag: 'James Madison'
 ---
 

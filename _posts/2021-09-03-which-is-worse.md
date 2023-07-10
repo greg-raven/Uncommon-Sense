@@ -2,7 +2,7 @@
 title: 'Which is worse?'
 layout: post
 categories:
-    - culture
+- culture
 tag: 'Gustave Le Bon'
 ---
 

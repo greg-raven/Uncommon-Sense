@@ -2,7 +2,7 @@
 title: 'Demagogue defined'
 layout: post
 categories:
-    - demagogues
+- demagogues
 tag: 'H. L. Mencken'
 ---
 

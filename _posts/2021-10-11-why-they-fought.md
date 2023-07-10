@@ -2,7 +2,7 @@
 title: 'Why they fought'
 layout: post
 categories:
-    - war
+- war
 tag: 'Thomas Paine'
 ---
 

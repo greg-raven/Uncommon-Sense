@@ -2,7 +2,7 @@
 title: 'Importance of our Constitution'
 layout: post
 categories:
-    - Constitution
+- Constitution
 tag: 'Thomas Paine'
 ---
 

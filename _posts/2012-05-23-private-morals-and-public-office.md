@@ -2,7 +2,7 @@
 title: 'Private morals and public office'
 layout: post
 categories:
-    - virtue
+- virtue
 tag: 'Ravi Zacharias'
 ---
 

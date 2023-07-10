@@ -2,7 +2,7 @@
 title: 'Taxation vs. taxidermy'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'Mark Twain'
 ---
 

@@ -2,7 +2,7 @@
 title: 'The American ideal'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Charles Koch'
 ---
 

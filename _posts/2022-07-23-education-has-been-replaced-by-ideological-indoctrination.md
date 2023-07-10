@@ -2,7 +2,7 @@
 title: 'Education has been replaced by ideological indoctrination'
 layout: post
 categories:
-    - education
+- education
 tag: 'Thomas Sowell'
 ---
 

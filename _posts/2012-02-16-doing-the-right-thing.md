@@ -2,7 +2,7 @@
 title: 'Doing the right thing'
 layout: post
 categories:
-    - politics
+- politics
 tag: 'Ted Nugent'
 ---
 

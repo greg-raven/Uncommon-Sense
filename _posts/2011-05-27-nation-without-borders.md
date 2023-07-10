@@ -2,7 +2,7 @@
 title: 'Nation without borders'
 layout: post
 categories:
-    - immigration
+- immigration
 tag: 'Ronald Reagan'
 ---
 

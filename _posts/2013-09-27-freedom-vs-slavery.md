@@ -2,7 +2,7 @@
 title: 'Freedom vs. slavery'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Thomas Jefferson'
 ---
 

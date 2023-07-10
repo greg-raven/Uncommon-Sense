@@ -2,7 +2,7 @@
 title: 'Virtue of free markets'
 layout: post
 categories:
-    - economics
+- economics
 tag: 'Frederic Bastiat'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Excess taxation'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'Calvin Coolidge'
 ---
 

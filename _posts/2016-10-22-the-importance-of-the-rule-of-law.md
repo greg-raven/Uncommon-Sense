@@ -2,8 +2,8 @@
 title: 'The importance of the rule of law'
 layout: post
 categories:
-    - corruption
-    - laws
+- corruption
+- laws
 tag: 'World Justice Project'
 ---
 

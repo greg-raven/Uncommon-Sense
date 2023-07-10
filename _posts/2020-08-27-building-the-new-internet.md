@@ -2,7 +2,7 @@
 title: 'Building the new Internet'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'Andrew Torba'
 ---
 

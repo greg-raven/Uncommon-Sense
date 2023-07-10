@@ -2,9 +2,9 @@
 title: 'Becoming American'
 layout: post
 categories:
-    - equality
-    - individualism
-    - nationalism
+- equality
+- individualism
+- nationalism
 tag: 'John Quincy Adams'
 ---
 

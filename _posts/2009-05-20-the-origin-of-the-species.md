@@ -2,7 +2,7 @@
 title: 'The origin of the species'
 layout: post
 categories:
-    - evolution
+- evolution
 tag: 'Charles Darwin'
 ---
 

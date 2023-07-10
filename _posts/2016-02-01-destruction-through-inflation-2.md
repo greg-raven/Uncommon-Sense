@@ -2,7 +2,7 @@
 title: 'Destruction through inflation'
 layout: post
 categories:
-    - money
+- money
 tag: 'Vladimir Ilyich Lenin'
 ---
 

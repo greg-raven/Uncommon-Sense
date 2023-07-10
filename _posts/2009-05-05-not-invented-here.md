@@ -2,7 +2,7 @@
 title: 'Not invented here'
 layout: post
 categories:
-    - intolerance
+- intolerance
 tag: 'Alexander Hamilton'
 ---
 

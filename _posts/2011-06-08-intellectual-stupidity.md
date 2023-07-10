@@ -2,8 +2,8 @@
 title: 'Intellectual stupidity'
 layout: post
 categories:
-    - knowledge
-    - reason
+- knowledge
+- reason
 tag: 'George Orwell'
 ---
 

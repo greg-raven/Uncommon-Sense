@@ -2,7 +2,7 @@
 title: 'How socialism gains a foothold'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Frederic Bastiat'
 ---
 

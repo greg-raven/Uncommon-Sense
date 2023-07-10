@@ -2,7 +2,7 @@
 title: 'General welfare'
 layout: post
 categories:
-    - money
+- money
 tag: 'James Madison'
 ---
 

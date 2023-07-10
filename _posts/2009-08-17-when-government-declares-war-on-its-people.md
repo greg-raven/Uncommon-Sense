@@ -2,7 +2,7 @@
 title: 'When government declares war on its people'
 layout: post
 categories:
-    - government
+- government
 tag: 'John Locke'
 ---
 

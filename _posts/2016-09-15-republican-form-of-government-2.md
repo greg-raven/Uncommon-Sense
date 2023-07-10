@@ -2,7 +2,7 @@
 title: 'Republican form of government'
 layout: post
 categories:
-    - government
+- government
 tag: 'John Adams'
 ---
 

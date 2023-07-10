@@ -2,7 +2,7 @@
 title: '‘Gun control’ and murder'
 layout: post
 categories:
-    - 'Second Amendment'
+- 'Second Amendment'
 tag: 'Markus T. Funk'
 ---
 

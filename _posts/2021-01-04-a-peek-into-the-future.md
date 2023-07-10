@@ -2,8 +2,8 @@
 title: 'A peek into the future'
 layout: post
 categories:
-    - education
-    - war
+- education
+- war
 tag: 'Greg Raven'
 ---
 

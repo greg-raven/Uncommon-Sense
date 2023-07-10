@@ -2,7 +2,7 @@
 title: 'Border problem'
 layout: post
 categories:
-    - immigration
+- immigration
 tag: 'Barry Goldwater'
 ---
 

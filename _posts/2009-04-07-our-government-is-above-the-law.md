@@ -2,7 +2,7 @@
 title: 'Our government is above the law'
 layout: post
 categories:
-    - Constitution
+- Constitution
 tag: 'Joe Sobran'
 ---
 

@@ -2,8 +2,8 @@
 title: 'The Constitution protects minorities'
 layout: post
 categories:
-    - individualism
-    - rights
+- individualism
+- rights
 tag: 'Abraham Lincoln'
 ---
 

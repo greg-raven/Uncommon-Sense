@@ -2,8 +2,8 @@
 title: 'Democracy vs. liberty'
 layout: post
 categories:
-    - democracy
-    - liberty
+- democracy
+- liberty
 tag: 'Walter E. Williams'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Totalitarian democracy'
 layout: post
 categories:
-    - collectivization
+- collectivization
 tag: 'William P. Barr'
 ---
 

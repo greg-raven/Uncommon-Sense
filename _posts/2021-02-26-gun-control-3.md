@@ -2,7 +2,7 @@
 title: 'Gun control'
 layout: post
 categories:
-    - 'Second Amendment'
+- 'Second Amendment'
 tag: 'Ron Paul'
 ---
 

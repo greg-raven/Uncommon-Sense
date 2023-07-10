@@ -2,7 +2,7 @@
 title: 'Slouching toward socialism'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Christopher Whalen'
 ---
 

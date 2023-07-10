@@ -2,7 +2,7 @@
 title: 'Liberals and freedoms'
 layout: post
 categories:
-    - liberalism
+- liberalism
 tag: 'Ludwig von Mises'
 ---
 

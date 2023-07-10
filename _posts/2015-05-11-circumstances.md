@@ -2,7 +2,7 @@
 title: Circumstances
 layout: post
 categories:
-    - individualism
+- individualism
 tag: 'George Bernard Shaw'
 ---
 

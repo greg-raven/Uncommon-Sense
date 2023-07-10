@@ -2,7 +2,7 @@
 title: 'Silent encroachments'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'James Madison'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Deepening the Great Depression'
 layout: post
 categories:
-    - money
+- money
 tag: 'Milton Friedman'
 ---
 

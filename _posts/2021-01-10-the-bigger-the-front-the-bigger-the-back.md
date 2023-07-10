@@ -2,7 +2,7 @@
 title: 'The bigger the front, the bigger the back'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: anonymous
 ---
 

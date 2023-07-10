@@ -2,7 +2,7 @@
 title: 'Our currency determines our fate'
 layout: post
 categories:
-    - money
+- money
 tag: 'Milton Friedman'
 ---
 

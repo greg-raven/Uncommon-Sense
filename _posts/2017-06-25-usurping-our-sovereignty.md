@@ -2,7 +2,7 @@
 title: 'Usurping our sovereignty'
 layout: post
 categories:
-    - Constitution
+- Constitution
 tag: 'James Monroe'
 ---
 

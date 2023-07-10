@@ -2,7 +2,7 @@
 title: 'How to make the Constitution work again'
 layout: post
 categories:
-    - Constitution
+- Constitution
 tag: 'John Adams'
 ---
 

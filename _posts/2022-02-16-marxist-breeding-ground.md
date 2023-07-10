@@ -2,7 +2,7 @@
 title: 'Marxist breeding ground'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'Adolf Hitler'
 ---
 

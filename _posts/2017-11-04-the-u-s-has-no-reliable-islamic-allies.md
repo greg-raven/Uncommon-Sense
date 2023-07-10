@@ -2,8 +2,8 @@
 title: 'The U.S. has no reliable Islamic allies'
 layout: post
 categories:
-    - religion
-    - war
+- religion
+- war
 tag: 'Michael F. Scheuer'
 ---
 

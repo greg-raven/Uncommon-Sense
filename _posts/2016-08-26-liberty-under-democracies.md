@@ -2,7 +2,7 @@
 title: 'Liberty under democracies'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'Fisher Ames'
 ---
 

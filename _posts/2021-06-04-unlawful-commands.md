@@ -2,7 +2,7 @@
 title: 'Unlawful commands'
 layout: post
 categories:
-    - laws
+- laws
 tag: 'U. S. Supreme Court'
 ---
 

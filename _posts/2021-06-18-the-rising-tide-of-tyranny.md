@@ -2,7 +2,7 @@
 title: 'The rising tide of tyranny'
 layout: post
 categories:
-    - government
+- government
 tag: 'Charley Reese'
 ---
 

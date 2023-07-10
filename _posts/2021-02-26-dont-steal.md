@@ -2,7 +2,7 @@
 title: 'Don’t steal'
 layout: post
 categories:
-    - government
+- government
 tag: 'Ron Paul'
 ---
 

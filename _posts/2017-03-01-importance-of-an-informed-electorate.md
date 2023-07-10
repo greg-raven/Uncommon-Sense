@@ -2,8 +2,8 @@
 title: 'Importance of an informed electorate'
 layout: post
 categories:
-    - history
-    - knowledge
+- history
+- knowledge
 tag: 'Heather Mac Donald'
 ---
 

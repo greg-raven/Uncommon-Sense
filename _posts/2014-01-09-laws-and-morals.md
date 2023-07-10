@@ -2,7 +2,7 @@
 title: 'Laws and morals'
 layout: post
 categories:
-    - morals
+- morals
 tag: 'Robert Bork'
 ---
 

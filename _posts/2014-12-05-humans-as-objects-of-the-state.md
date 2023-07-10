@@ -2,7 +2,7 @@
 title: 'Humans as objects of the state'
 layout: post
 categories:
-    - collectivization
+- collectivization
 tag: 'Isaiah Berlin'
 ---
 

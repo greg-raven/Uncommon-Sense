@@ -2,7 +2,7 @@
 title: 'Fiscal prudence'
 layout: post
 categories:
-    - money
+- money
 tag: 'Thomas Jefferson'
 ---
 

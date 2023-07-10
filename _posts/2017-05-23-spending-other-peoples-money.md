@@ -2,9 +2,9 @@
 title: 'Spending other people’s money'
 layout: post
 categories:
-    - collectivization
-    - socialism
-    - taxation
+- collectivization
+- socialism
+- taxation
 tag: 'Calvin Coolidge'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Justifying freedom of speech'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'Henry Steele Commager'
 ---
 

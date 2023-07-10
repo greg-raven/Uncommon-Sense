@@ -2,8 +2,8 @@
 title: 'Disadvantage on campus'
 layout: post
 categories:
-    - education
-    - equality
+- education
+- equality
 tag: 'Walter E. Williams'
 ---
 

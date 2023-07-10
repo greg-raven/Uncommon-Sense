@@ -2,7 +2,7 @@
 title: 'Douglas on the First Amendment'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'William O. Douglas'
 ---
 

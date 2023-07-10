@@ -2,7 +2,7 @@
 title: 'Inside progressivism'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'David Horowitz'
 ---
 

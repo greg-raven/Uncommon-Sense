@@ -2,7 +2,7 @@
 title: 'The American nation'
 layout: post
 categories:
-    - culture
+- culture
 tag: 'John Jay'
 ---
 

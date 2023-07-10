@@ -2,7 +2,7 @@
 title: 'The road to state medical care'
 layout: post
 categories:
-    - Obamacare
+- Obamacare
 tag: 'Anna Ebeling'
 ---
 

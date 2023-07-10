@@ -2,7 +2,7 @@
 title: 'Escaping ‘utopia’'
 layout: post
 categories:
-    - perfection
+- perfection
 tag: 'John O’Sullivan'
 ---
 

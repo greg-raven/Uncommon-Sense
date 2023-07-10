@@ -2,10 +2,10 @@
 title: 'Federal intervention'
 layout: post
 categories:
-    - education
-    - government
-    - race
-    - welfare
+- education
+- government
+- race
+- welfare
 tag: 'Robert W. Lee'
 ---
 

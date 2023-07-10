@@ -2,7 +2,7 @@
 title: 'Greatest threat to America today'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'Ron Paul'
 ---
 

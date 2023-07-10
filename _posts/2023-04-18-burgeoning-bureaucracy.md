@@ -2,7 +2,7 @@
 title: 'Burgeoning bureaucracy'
 layout: post
 categories:
-    - government
+- government
 tag: 'Thomas Jefferson'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Consequences of PC'
 layout: post
 categories:
-    - war
+- war
 tag: 'Jerry Pournelle'
 ---
 

@@ -2,8 +2,8 @@
 title: 'Bi-partisan theft'
 layout: post
 categories:
-    - socialism
-    - taxation
+- socialism
+- taxation
 tag: 'Walter E. Williams'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Other views'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'William F. Buckley'
 ---
 

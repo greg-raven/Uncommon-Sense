@@ -2,7 +2,7 @@
 title: 'Government control of the economy'
 layout: post
 categories:
-    - economics
+- economics
 tag: 'Ayn Rand'
 ---
 

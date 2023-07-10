@@ -2,7 +2,7 @@
 title: 'Social democracy and fascism'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'Josef Stalin'
 ---
 

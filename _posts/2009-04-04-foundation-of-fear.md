@@ -2,7 +2,7 @@
 title: 'Foundation of fear'
 layout: post
 categories:
-    - politics
+- politics
 tag: 'John Adams'
 ---
 

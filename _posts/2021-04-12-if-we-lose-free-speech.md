@@ -2,7 +2,7 @@
 title: 'If we lose free speech'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'George Washington'
 ---
 

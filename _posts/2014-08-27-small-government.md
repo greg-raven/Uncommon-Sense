@@ -2,7 +2,7 @@
 title: 'Small government'
 layout: post
 categories:
-    - government
+- government
 tag: 'John P. Reid'
 ---
 

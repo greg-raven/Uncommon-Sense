@@ -2,8 +2,8 @@
 title: 'Politics and government'
 layout: post
 categories:
-    - government
-    - politics
+- government
+- politics
 tag: 'P. J. O’Rourke'
 ---
 

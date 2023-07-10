@@ -2,7 +2,7 @@
 title: 'Liberal racism'
 layout: post
 categories:
-    - race
+- race
 tag: 'Thomas Sowell'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Interpreting our Constitution'
 layout: post
 categories:
-    - Constitution
+- Constitution
 tag: 'Thomas Jefferson'
 ---
 

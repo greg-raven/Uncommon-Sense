@@ -2,7 +2,7 @@
 title: 'Communist schools result in communist leaders'
 layout: post
 categories:
-    - liberalism
+- liberalism
 tag: 'Xavier Lerma'
 ---
 

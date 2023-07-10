@@ -2,8 +2,8 @@
 title: 'Bad reputation'
 layout: post
 categories:
-    - liberty
-    - rebellion
+- liberty
+- rebellion
 tag: 'Charles Austin Beard'
 ---
 

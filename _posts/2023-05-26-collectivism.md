@@ -2,7 +2,7 @@
 title: 'The true object of propaganda'
 layout: post
 categories:
-    - collectivism
+- collectivism
 tag: 'Alan Bullock'
 ---
 

@@ -2,7 +2,7 @@
 title: 'If you don’t work, neither should you eat'
 layout: post
 categories:
-    - individualism
+- individualism
 tag: 'Josiah Warren'
 ---
 

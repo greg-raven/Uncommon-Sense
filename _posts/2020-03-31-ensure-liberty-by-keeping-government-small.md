@@ -2,7 +2,7 @@
 title: 'Ensure liberty by keeping government small'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Richard Henry Lee'
 ---
 

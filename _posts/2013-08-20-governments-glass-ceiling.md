@@ -2,7 +2,7 @@
 title: 'Government’s glass ceiling'
 layout: post
 categories:
-    - government
+- government
 tag: 'Ludwig von Mises'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Equal rights'
 layout: post
 categories:
-    - equality
+- equality
 tag: 'Edmund Burke'
 ---
 

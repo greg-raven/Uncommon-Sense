@@ -2,7 +2,7 @@
 title: 'Getting what you deserve'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'H. L. Mencken'
 ---
 

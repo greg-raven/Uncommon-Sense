@@ -2,7 +2,7 @@
 title: 'When the boom becomes a bust'
 layout: post
 categories:
-    - economics
+- economics
 tag: 'Ludwig von Mises'
 ---
 

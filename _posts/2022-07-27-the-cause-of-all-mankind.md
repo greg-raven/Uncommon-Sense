@@ -2,8 +2,8 @@
 title: 'The cause of all mankind'
 layout: post
 categories:
-    - liberty
-    - speech
+- liberty
+- speech
 tag: 'Benjamin Franklin'
 ---
 

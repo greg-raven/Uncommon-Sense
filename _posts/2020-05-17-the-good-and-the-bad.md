@@ -2,7 +2,7 @@
 title: 'The good and the bad'
 layout: post
 categories:
-    - politics
+- politics
 tag: 'Ann Coulter'
 ---
 

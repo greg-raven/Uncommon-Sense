@@ -2,8 +2,8 @@
 title: 'Our greatest source of security'
 layout: post
 categories:
-    - Constitution
-    - laws
+- Constitution
+- laws
 tag: 'Alexander Hamilton'
 ---
 

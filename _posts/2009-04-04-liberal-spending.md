@@ -2,7 +2,7 @@
 title: 'Liberal spending'
 layout: post
 categories:
-    - welfare
+- welfare
 tag: 'G. Gordon Liddy'
 ---
 

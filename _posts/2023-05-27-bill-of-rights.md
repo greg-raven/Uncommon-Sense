@@ -2,7 +2,7 @@
 title: 'Unalienable rights'
 layout: post
 categories:
-    - rights
+- rights
 tag: 'Albert Gallatin'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Debt rises with income'
 layout: post
 categories:
-    - economics
+- economics
 tag: 'Alexander Hamilton'
 ---
 

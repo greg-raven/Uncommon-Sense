@@ -2,7 +2,7 @@
 title: 'The American whey'
 layout: post
 categories:
-    - immigration
+- immigration
 tag: 'Ann Coulter'
 ---
 

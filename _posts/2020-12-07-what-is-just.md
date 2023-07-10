@@ -2,7 +2,7 @@
 title: 'What is ‘just’'
 layout: post
 categories:
-    - economics
+- economics
 tag: 'Walter E. Williams'
 ---
 

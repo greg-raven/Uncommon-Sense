@@ -2,8 +2,8 @@
 title: 'The foundation of self-government'
 layout: post
 categories:
-    - government
-    - liberty
+- government
+- liberty
 tag: 'James Madison'
 ---
 

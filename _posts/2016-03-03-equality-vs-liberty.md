@@ -2,8 +2,8 @@
 title: 'Equality vs. liberty'
 layout: post
 categories:
-    - equality
-    - liberty
+- equality
+- liberty
 tag: 'Margaret Thatcher'
 ---
 

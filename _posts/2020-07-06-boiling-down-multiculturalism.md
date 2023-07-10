@@ -2,7 +2,7 @@
 title: 'Boiling down ‘multiculturalism’'
 layout: post
 categories:
-    - culture
+- culture
 tag: 'Thomas Sowell'
 ---
 

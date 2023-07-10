@@ -2,8 +2,8 @@
 title: 'Guard against corruption and tyranny at all times'
 layout: post
 categories:
-    - corruption
-    - money
+- corruption
+- money
 tag: 'Thomas Jefferson'
 ---
 

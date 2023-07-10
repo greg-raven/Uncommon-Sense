@@ -2,7 +2,7 @@
 title: 'Too much government is bad'
 layout: post
 categories:
-    - government
+- government
 tag: 'Thomas Jefferson'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Checks and restraints'
 layout: post
 categories:
-    - government
+- government
 tag: 'William O. Douglas'
 ---
 

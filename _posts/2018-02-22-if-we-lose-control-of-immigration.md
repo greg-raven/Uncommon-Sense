@@ -2,7 +2,7 @@
 title: 'If we lose control of immigration'
 layout: post
 categories:
-    - immigration
+- immigration
 tag: 'Ann Coulter'
 ---
 

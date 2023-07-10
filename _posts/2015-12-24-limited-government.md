@@ -2,8 +2,8 @@
 title: 'Limited government'
 layout: post
 categories:
-    - Constitution
-    - government
+- Constitution
+- government
 tag: 'Edmund A. Opitz'
 ---
 

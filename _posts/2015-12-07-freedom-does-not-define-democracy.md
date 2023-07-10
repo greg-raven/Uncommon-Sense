@@ -2,7 +2,7 @@
 title: '‘Freedom’ does not define democracy'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'Thomas Sowell'
 ---
 

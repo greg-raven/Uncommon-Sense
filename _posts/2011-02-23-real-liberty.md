@@ -2,7 +2,7 @@
 title: 'Real liberty'
 layout: post
 categories:
-    - Constitution
+- Constitution
 tag: 'Alexander Hamilton'
 ---
 

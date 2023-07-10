@@ -2,7 +2,7 @@
 title: 'The pretense of caring'
 layout: post
 categories:
-    - demagogues
+- demagogues
 tag: 'Edmund Burke'
 ---
 

@@ -2,7 +2,7 @@
 title: 'States’ rights'
 layout: post
 categories:
-    - Constitution
+- Constitution
 tag: 'Alexander Hamilton'
 ---
 

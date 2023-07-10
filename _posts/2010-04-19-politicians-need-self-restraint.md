@@ -2,7 +2,7 @@
 title: 'Politicians need self-restraint'
 layout: post
 categories:
-    - rebellion
+- rebellion
 tag: 'Thomas Jefferson'
 ---
 

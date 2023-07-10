@@ -2,7 +2,7 @@
 title: 'Low standards are not compassionate'
 layout: post
 categories:
-    - culture
+- culture
 tag: 'Thomas Sowell'
 ---
 

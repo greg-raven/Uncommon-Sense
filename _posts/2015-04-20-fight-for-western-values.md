@@ -2,7 +2,7 @@
 title: 'Fight for Western values'
 layout: post
 categories:
-    - culture
+- culture
 tag: 'Lord Monckton'
 ---
 

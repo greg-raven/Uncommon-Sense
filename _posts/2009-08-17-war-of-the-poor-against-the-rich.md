@@ -2,7 +2,7 @@
 title: 'War of the poor against the rich'
 layout: post
 categories:
-    - Constitution
+- Constitution
 tag: 'Stephen Field'
 ---
 

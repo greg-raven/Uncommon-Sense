@@ -2,7 +2,7 @@
 title: 'Armed citizens prevent military tyranny'
 layout: post
 categories:
-    - 'Second Amendment'
+- 'Second Amendment'
 tag: 'Noah Webster'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Disarm people to enslave them'
 layout: post
 categories:
-    - 'Second Amendment'
+- 'Second Amendment'
 tag: 'George Mason'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Idiotic members of Congress'
 layout: post
 categories:
-    - government
+- government
 tag: 'Mark Twain'
 ---
 

@@ -2,7 +2,7 @@
 title: 'The worst of the worst'
 layout: post
 categories:
-    - politics
+- politics
 tag: 'Greg Raven'
 ---
 

@@ -2,7 +2,7 @@
 title: Bureaucrats
 layout: post
 categories:
-    - government
+- government
 tag: 'Marcus Tullius Cicero'
 ---
 

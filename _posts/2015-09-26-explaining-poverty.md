@@ -2,7 +2,7 @@
 title: 'Explaining poverty'
 layout: post
 categories:
-    - prosperity
+- prosperity
 tag: 'Walter E. Williams'
 ---
 

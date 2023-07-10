@@ -2,8 +2,8 @@
 title: 'Immigration diversity'
 layout: post
 categories:
-    - diversity
-    - immigration
+- diversity
+- immigration
 tag: 'Ann Coulter'
 ---
 

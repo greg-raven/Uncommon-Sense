@@ -2,7 +2,7 @@
 title: 'Enemies of the people'
 layout: post
 categories:
-    - Constitution
+- Constitution
 tag: 'Thomas Jefferson'
 ---
 

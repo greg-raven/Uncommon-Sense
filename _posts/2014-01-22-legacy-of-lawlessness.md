@@ -2,7 +2,7 @@
 title: 'Legacy of lawlessness'
 layout: post
 categories:
-    - demagogues
+- demagogues
 tag: 'Michelle Bachman'
 ---
 

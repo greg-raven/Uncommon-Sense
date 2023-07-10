@@ -2,7 +2,7 @@
 title: 'Terrorism vs. war'
 layout: post
 categories:
-    - war
+- war
 tag: 'Leon Uris'
 ---
 

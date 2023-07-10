@@ -2,7 +2,7 @@
 title: Doublethink
 layout: post
 categories:
-    - truth
+- truth
 tag: 'George Orwell'
 ---
 

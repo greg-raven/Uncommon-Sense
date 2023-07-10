@@ -2,7 +2,7 @@
 title: 'Defining political correctness'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'Charlton Heston'
 ---
 

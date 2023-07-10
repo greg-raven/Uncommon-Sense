@@ -2,7 +2,7 @@
 title: 'Illegal immigration is wrong'
 layout: post
 categories:
-    - immigration
+- immigration
 tag: 'Chuck Schumer'
 ---
 

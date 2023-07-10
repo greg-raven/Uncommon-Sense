@@ -2,7 +2,7 @@
 title: 'Destroying capitalism'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Ayn Rand'
 ---
 

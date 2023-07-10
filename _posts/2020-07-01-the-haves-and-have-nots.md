@@ -2,8 +2,8 @@
 title: 'The haves and have-nots'
 layout: post
 categories:
-    - individualism
-    - self-improvement
+- individualism
+- self-improvement
 tag: 'Eric Hoffer'
 ---
 

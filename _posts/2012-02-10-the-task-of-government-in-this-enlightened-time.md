@@ -2,7 +2,7 @@
 title: 'Government doesn’t solve problems'
 layout: post
 categories:
-    - government
+- government
 tag: 'Bob Emmers'
 ---
 

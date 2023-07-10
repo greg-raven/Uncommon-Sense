@@ -2,8 +2,8 @@
 title: 'Subsidizing problems'
 layout: post
 categories:
-    - socialism
-    - welfare
+- socialism
+- welfare
 tag: 'Ronald Reagan'
 ---
 

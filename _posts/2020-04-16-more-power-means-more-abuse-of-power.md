@@ -2,7 +2,7 @@
 title: 'More power means more abuse of power'
 layout: post
 categories:
-    - corruption
+- corruption
 tag: 'Edmund Burke'
 ---
 

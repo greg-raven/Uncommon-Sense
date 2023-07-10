@@ -2,7 +2,7 @@
 title: 'Prohibition destroys civil rights'
 layout: post
 categories:
-    - rights
+- rights
 tag: 'Milton Friedman'
 ---
 

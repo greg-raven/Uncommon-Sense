@@ -2,10 +2,10 @@
 title: 'Islam and the West'
 layout: post
 categories:
-    - culture
-    - diversity
-    - immigration
-    - religion
+- culture
+- diversity
+- immigration
+- religion
 tag: 'Brenda Walker'
 ---
 

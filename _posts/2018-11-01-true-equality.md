@@ -2,8 +2,8 @@
 title: 'True equality'
 layout: post
 categories:
-    - equality
-    - liberty
+- equality
+- liberty
 tag: 'William Graham Sumner'
 ---
 

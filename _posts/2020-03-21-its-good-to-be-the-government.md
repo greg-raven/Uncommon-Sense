@@ -2,7 +2,7 @@
 title: 'It’s good to be the government'
 layout: post
 categories:
-    - 'external authority'
+- 'external authority'
 tag: 'Thomas Sowell'
 ---
 

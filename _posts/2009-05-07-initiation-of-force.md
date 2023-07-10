@@ -2,7 +2,7 @@
 title: 'Initiation of force'
 layout: post
 categories:
-    - rights
+- rights
 tag: 'Ron Paul'
 ---
 

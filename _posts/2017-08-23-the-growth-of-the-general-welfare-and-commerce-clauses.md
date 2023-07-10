@@ -2,7 +2,7 @@
 title: 'The growth of the General Welfare and Commerce clauses'
 layout: post
 categories:
-    - Constitution
+- Constitution
 tag: 'Roger Pilon'
 ---
 

@@ -2,7 +2,7 @@
 title: 'The law defends plunder'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'Frederic Bastiat'
 ---
 

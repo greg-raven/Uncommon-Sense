@@ -2,7 +2,7 @@
 title: 'Who is destroying the world?'
 layout: post
 categories:
-    - evil
+- evil
 tag: 'Ayn Rand'
 ---
 

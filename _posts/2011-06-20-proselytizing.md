@@ -2,7 +2,7 @@
 title: Proselytizing
 layout: post
 categories:
-    - politics
+- politics
 tag: 'Alexander Hamilton'
 ---
 

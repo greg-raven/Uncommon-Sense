@@ -2,7 +2,7 @@
 title: 'Conscience vs rights'
 layout: post
 categories:
-    - rights
+- rights
 tag: 'Samuel Johnson'
 ---
 

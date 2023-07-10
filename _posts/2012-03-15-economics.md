@@ -2,7 +2,7 @@
 title: Economics
 layout: post
 categories:
-    - economics
+- economics
 tag: 'James M. Buchanan'
 ---
 

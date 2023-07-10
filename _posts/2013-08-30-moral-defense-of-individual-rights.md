@@ -2,7 +2,7 @@
 title: 'Moral defense of individual rights'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Robert Bidinotto'
 ---
 

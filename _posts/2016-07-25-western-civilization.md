@@ -2,7 +2,7 @@
 title: 'Western civilization'
 layout: post
 categories:
-    - culture
+- culture
 tag: 'Steve King'
 ---
 

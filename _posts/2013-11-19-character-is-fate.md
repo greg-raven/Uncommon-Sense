@@ -2,7 +2,7 @@
 title: 'Character is fate'
 layout: post
 categories:
-    - Obamacare
+- Obamacare
 tag: 'Robert Kuttner'
 ---
 

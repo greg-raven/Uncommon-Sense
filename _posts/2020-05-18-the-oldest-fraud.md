@@ -2,7 +2,7 @@
 title: 'The oldest fraud'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Thomas Sowell'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Safety against foreign force'
 layout: post
 categories:
-    - war
+- war
 tag: 'John Jay'
 ---
 

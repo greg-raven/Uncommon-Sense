@@ -2,7 +2,7 @@
 title: 'Humility before wisdom'
 layout: post
 categories:
-    - history
+- history
 tag: 'Friedrich August von Hayek'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Think before voting'
 layout: post
 categories:
-    - 'informed electorate'
+- 'informed electorate'
 tag: 'Albert Camus'
 ---
 

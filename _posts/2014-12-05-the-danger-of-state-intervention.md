@@ -2,7 +2,7 @@
 title: 'The danger of state intervention'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'José Ortega y Gasset'
 ---
 

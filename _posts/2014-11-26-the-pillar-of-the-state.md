@@ -2,7 +2,7 @@
 title: 'The pillar of the state'
 layout: post
 categories:
-    - demagogues
+- demagogues
 tag: 'Alexander Solzhenitsyn'
 ---
 

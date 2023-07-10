@@ -2,8 +2,8 @@
 title: 'Blacks don’t need these ‘favors’'
 layout: post
 categories:
-    - race
-    - welfare
+- race
+- welfare
 tag: 'Thomas Sowell'
 ---
 

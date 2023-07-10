@@ -2,7 +2,7 @@
 title: 'State expense'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'Frederic Bastiat'
 ---
 

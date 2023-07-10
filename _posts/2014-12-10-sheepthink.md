@@ -2,7 +2,7 @@
 title: Sheepthink
 layout: post
 categories:
-    - knowledge
+- knowledge
 tag: 'John Stuart Mill'
 ---
 

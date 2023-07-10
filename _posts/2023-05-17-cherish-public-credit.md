@@ -2,7 +2,7 @@
 title: 'Cherish public credit'
 layout: post
 categories:
-    - debt
+- debt
 tag: 'George Washington'
 ---
 

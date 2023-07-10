@@ -2,7 +2,7 @@
 title: 'Why import foreign criminals?'
 layout: post
 categories:
-    - immigration
+- immigration
 tag: 'Ann Coulter'
 ---
 

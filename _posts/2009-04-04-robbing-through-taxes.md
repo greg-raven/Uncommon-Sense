@@ -2,7 +2,7 @@
 title: 'Robbing through taxes'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'George Bernard Shaw'
 ---
 

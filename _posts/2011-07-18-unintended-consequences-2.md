@@ -2,7 +2,7 @@
 title: 'Unintended consequences'
 layout: post
 categories:
-    - economics
+- economics
 tag: 'Marisa Manley'
 ---
 

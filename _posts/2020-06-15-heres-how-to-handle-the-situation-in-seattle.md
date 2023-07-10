@@ -2,7 +2,7 @@
 title: 'Here’s how to handle the situation in Seattle'
 layout: post
 categories:
-    - 'foreign policy'
+- 'foreign policy'
 tag: 'Greg Raven'
 ---
 

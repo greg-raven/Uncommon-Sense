@@ -2,7 +2,7 @@
 title: 'Insidious forces within'
 layout: post
 categories:
-    - corruption
+- corruption
 tag: 'Douglas MacArthur'
 ---
 

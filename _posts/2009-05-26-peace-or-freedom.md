@@ -2,7 +2,7 @@
 title: 'Peace or freedom'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Robert A. Heinlein'
 ---
 

@@ -2,7 +2,7 @@
 title: 'If only they never did anything'
 layout: post
 categories:
-    - government
+- government
 tag: 'Will Rogers'
 ---
 

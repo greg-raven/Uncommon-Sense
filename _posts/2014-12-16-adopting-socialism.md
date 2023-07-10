@@ -2,7 +2,7 @@
 title: 'Adopting socialism'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Norman Thomas'
 ---
 

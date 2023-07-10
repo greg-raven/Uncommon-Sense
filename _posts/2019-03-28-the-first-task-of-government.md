@@ -2,8 +2,8 @@
 title: 'The first task of government'
 layout: post
 categories:
-    - socialism
-    - taxation
+- socialism
+- taxation
 tag: 'Marcus Tullius Cicero'
 ---
 

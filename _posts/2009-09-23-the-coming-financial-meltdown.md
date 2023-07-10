@@ -2,7 +2,7 @@
 title: 'The coming financial meltdown'
 layout: post
 categories:
-    - debt
+- debt
 tag: 'Walter E. Williams'
 ---
 

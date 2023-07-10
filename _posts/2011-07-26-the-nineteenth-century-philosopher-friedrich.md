@@ -2,7 +2,7 @@
 title: 'Embrace the fruit, reject the tree'
 layout: post
 categories:
-    - religion
+- religion
 tag: 'Michael Horton'
 ---
 

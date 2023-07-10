@@ -2,7 +2,7 @@
 title: 'Government control equals poverty'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Bob McEwen'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Reason vs. ignorance'
 layout: post
 categories:
-    - reason
+- reason
 tag: 'Thomas Paine'
 ---
 

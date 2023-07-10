@@ -2,7 +2,7 @@
 title: 'What government does'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Dave Barry'
 ---
 

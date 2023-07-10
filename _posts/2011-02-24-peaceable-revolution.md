@@ -2,7 +2,7 @@
 title: 'Peaceable revolution'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'Henry David Thoreau'
 ---
 

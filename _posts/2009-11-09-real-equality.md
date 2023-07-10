@@ -2,7 +2,7 @@
 title: 'Real equality'
 layout: post
 categories:
-    - equality
+- equality
 tag: 'Benjamin Franklin'
 ---
 

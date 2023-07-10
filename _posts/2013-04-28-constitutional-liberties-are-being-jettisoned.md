@@ -2,8 +2,8 @@
 title: 'Constitutional liberties are being jettisoned'
 layout: post
 categories:
-    - Constitution
-    - liberty
+- Constitution
+- liberty
 tag: 'Joseph Baldacchino'
 ---
 

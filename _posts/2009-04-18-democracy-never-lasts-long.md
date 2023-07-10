@@ -2,7 +2,7 @@
 title: 'Democracy never lasts long'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'John Adams'
 ---
 

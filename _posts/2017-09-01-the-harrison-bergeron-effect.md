@@ -2,7 +2,7 @@
 title: 'The Harrison Bergeron effect'
 layout: post
 categories:
-    - equality
+- equality
 tag: 'Milton Friedman'
 ---
 

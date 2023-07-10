@@ -2,7 +2,7 @@
 title: 'When to act'
 layout: post
 categories:
-    - conviction
+- conviction
 tag: 'Antoine de Saint-Exupery'
 ---
 

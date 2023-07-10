@@ -2,7 +2,7 @@
 title: 'Regressive progressives'
 layout: post
 categories:
-    - culture
+- culture
 tag: 'Laura Hollis'
 ---
 

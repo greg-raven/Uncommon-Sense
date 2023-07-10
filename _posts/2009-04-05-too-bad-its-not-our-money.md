@@ -2,7 +2,7 @@
 title: 'Too bad it’s not our money'
 layout: post
 categories:
-    - corruption
+- corruption
 tag: 'Will Rogers'
 ---
 

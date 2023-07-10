@@ -2,8 +2,8 @@
 title: 'Government mismanagement of monies'
 layout: post
 categories:
-    - economics
-    - money
+- economics
+- money
 tag: 'Friedrich August von Hayek'
 ---
 

@@ -2,7 +2,7 @@
 title: 'The best and brightest'
 layout: post
 categories:
-    - government
+- government
 tag: 'Thomas Babington Macaulay'
 ---
 

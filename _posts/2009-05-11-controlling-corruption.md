@@ -2,8 +2,8 @@
 title: 'Controlling corruption'
 layout: post
 categories:
-    - decentralization
-    - politics
+- decentralization
+- politics
 tag: 'P. J. O’Rourke'
 ---
 

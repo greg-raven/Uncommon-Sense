@@ -2,7 +2,7 @@
 title: 'Hyphenated Americans'
 layout: post
 categories:
-    - citizenship
+- citizenship
 tag: 'Woodrow Wilson'
 ---
 

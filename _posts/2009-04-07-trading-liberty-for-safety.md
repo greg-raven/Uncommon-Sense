@@ -2,7 +2,7 @@
 title: 'Trading liberty for safety'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Benjamin Franklin'
 ---
 

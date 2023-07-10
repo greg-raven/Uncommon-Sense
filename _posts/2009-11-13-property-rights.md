@@ -2,7 +2,7 @@
 title: 'Property rights'
 layout: post
 categories:
-    - rights
+- rights
 tag: 'Auberon Herbert'
 ---
 

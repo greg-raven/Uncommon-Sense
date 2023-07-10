@@ -2,8 +2,8 @@
 title: 'No right to self-defense, no peace'
 layout: post
 categories:
-    - property
-    - 'Second Amendment'
+- property
+- 'Second Amendment'
 tag: 'Thomas Paine'
 ---
 

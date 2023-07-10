@@ -2,7 +2,7 @@
 title: 'Democracy leads to tyranny'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'Walter E. Williams'
 ---
 

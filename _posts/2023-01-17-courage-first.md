@@ -2,7 +2,7 @@
 title: 'Courage first'
 layout: post
 categories:
-    - strength
+- strength
 tag: 'Samuel Johnson'
 ---
 

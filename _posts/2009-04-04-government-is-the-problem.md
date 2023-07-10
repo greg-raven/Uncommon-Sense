@@ -2,7 +2,7 @@
 title: 'Government is the problem'
 layout: post
 categories:
-    - government
+- government
 tag: 'Ronald Reagan'
 ---
 

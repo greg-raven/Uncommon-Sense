@@ -2,7 +2,7 @@
 title: 'Communism and socialism'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Joe Sobran'
 ---
 

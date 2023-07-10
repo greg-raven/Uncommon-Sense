@@ -2,7 +2,7 @@
 title: 'Socialized medicine'
 layout: post
 categories:
-    - Obamacare
+- Obamacare
 tag: 'Vladimir Ilyich Lenin'
 ---
 

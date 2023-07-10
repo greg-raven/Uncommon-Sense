@@ -2,9 +2,9 @@
 title: 'Why government grows'
 layout: post
 categories:
-    - socialism
-    - taxation
-    - welfare
+- socialism
+- taxation
+- welfare
 tag: 'Tim Donnelly'
 ---
 

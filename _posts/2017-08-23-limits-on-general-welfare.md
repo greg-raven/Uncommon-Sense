@@ -2,7 +2,7 @@
 title: 'Limits on general welfare'
 layout: post
 categories:
-    - Constitution
+- Constitution
 tag: 'Thomas Jefferson'
 ---
 

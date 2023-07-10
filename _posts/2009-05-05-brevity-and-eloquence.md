@@ -2,7 +2,7 @@
 title: 'Brevity and eloquence'
 layout: post
 categories:
-    - language
+- language
 tag: 'Marcus Tullius Cicero'
 ---
 

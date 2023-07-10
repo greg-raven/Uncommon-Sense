@@ -2,8 +2,8 @@
 title: 'The most oppressive taxation'
 layout: post
 categories:
-    - money
-    - taxation
+- money
+- taxation
 tag: 'Thomas Jefferson'
 ---
 

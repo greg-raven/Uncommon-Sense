@@ -2,7 +2,7 @@
 title: 'Socialism vs. society'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Frederic Bastiat'
 ---
 

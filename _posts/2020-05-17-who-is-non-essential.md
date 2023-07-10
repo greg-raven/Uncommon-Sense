@@ -2,7 +2,7 @@
 title: 'Who is non-essential?'
 layout: post
 categories:
-    - government
+- government
 tag: 'Ann Coulter'
 ---
 

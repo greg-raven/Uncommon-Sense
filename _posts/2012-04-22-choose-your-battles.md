@@ -2,7 +2,7 @@
 title: 'Choose your battles'
 layout: post
 categories:
-    - reason
+- reason
 tag: 'Thomas Paine'
 ---
 

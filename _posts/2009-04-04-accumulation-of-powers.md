@@ -2,7 +2,7 @@
 title: 'Accumulation of powers'
 layout: post
 categories:
-    - decentralization
+- decentralization
 tag: 'James Madison'
 ---
 

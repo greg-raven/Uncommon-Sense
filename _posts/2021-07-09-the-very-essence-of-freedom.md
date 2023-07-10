@@ -2,8 +2,8 @@
 title: 'The very essence of freedom'
 layout: post
 categories:
-    - equality
-    - speech
+- equality
+- speech
 tag: 'Walter Lippmann'
 ---
 

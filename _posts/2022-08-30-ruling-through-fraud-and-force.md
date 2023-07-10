@@ -2,7 +2,7 @@
 title: 'Ruling through fraud and force'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'George Orwell'
 ---
 

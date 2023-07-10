@@ -2,7 +2,7 @@
 title: 'Nuclear war cannot be won'
 layout: post
 categories:
-    - war
+- war
 tag: 'Ronald Reagan'
 ---
 

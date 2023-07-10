@@ -2,8 +2,8 @@
 title: 'Why a republic?'
 layout: post
 categories:
-    - Constitution
-    - democracy
+- Constitution
+- democracy
 tag: 'James Madison'
 ---
 

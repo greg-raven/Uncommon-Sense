@@ -2,7 +2,7 @@
 title: 'What free speech is'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'Hugo L. Black'
 ---
 

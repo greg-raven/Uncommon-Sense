@@ -2,7 +2,7 @@
 title: 'Choosing serfdom'
 layout: post
 categories:
-    - 'Second Amendment'
+- 'Second Amendment'
 tag: 'L. Neil Smith'
 ---
 

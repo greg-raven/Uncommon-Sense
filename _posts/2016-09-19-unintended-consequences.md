@@ -2,7 +2,7 @@
 title: 'Unintended consequences'
 layout: post
 categories:
-    - perfection
+- perfection
 tag: 'Friedrich August von Hayek'
 ---
 

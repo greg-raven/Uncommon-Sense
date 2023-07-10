@@ -2,7 +2,7 @@
 title: 'Public employee unions'
 layout: post
 categories:
-    - collectivization
+- collectivization
 tag: 'Calvin Coolidge'
 ---
 

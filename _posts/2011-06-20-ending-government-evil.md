@@ -2,7 +2,7 @@
 title: 'Ending government evil'
 layout: post
 categories:
-    - evil
+- evil
 tag: 'Frank Kent'
 ---
 

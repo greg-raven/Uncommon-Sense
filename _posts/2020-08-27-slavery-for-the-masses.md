@@ -2,7 +2,7 @@
 title: 'Slavery for the masses'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: Sallust
 ---
 

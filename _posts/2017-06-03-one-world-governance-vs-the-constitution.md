@@ -2,7 +2,7 @@
 title: 'One-world governance vs. the Constitution'
 layout: post
 categories:
-    - Constitution
+- Constitution
 tag: 'Andrew C. McCarthy'
 ---
 

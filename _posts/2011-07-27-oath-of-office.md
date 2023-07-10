@@ -2,7 +2,7 @@
 title: 'Oath of office'
 layout: post
 categories:
-    - Constitution
+- Constitution
 tag: 'Joseph Story'
 ---
 

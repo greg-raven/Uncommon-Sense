@@ -2,8 +2,8 @@
 title: 'Consequences for Congress'
 layout: post
 categories:
-    - Constitution
-    - decentralization
+- Constitution
+- decentralization
 tag: 'James Madison'
 ---
 

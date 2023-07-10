@@ -2,7 +2,7 @@
 title: 'Our institutions have become untrustworthy and corrupted'
 layout: post
 categories:
-    - corruption
+- corruption
 tag: 'Andy Biggs'
 ---
 

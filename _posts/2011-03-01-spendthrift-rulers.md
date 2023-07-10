@@ -2,7 +2,7 @@
 title: 'Spendthrift rulers'
 layout: post
 categories:
-    - waste
+- waste
 tag: 'Adam Smith'
 ---
 

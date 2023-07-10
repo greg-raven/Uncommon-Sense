@@ -2,7 +2,7 @@
 title: 'Democrats and Republicans'
 layout: post
 categories:
-    - politics
+- politics
 tag: 'P. J. O’Rourke'
 ---
 

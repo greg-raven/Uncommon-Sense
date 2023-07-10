@@ -2,8 +2,8 @@
 title: 'Truth during war'
 layout: post
 categories:
-    - truth
-    - war
+- truth
+- war
 tag: 'Charles A. Lindbergh Jr.'
 ---
 

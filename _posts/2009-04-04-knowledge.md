@@ -2,7 +2,7 @@
 title: Knowledge
 layout: post
 categories:
-    - knowledge
+- knowledge
 tag: 'Lord Kelvin'
 ---
 

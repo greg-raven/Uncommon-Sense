@@ -2,7 +2,7 @@
 title: 'Sound reasoning'
 layout: post
 categories:
-    - reason
+- reason
 tag: anonymous
 ---
 

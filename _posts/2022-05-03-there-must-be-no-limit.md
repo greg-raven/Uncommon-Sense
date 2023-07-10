@@ -2,7 +2,7 @@
 title: 'There must be no limit'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'William O. Douglas'
 ---
 

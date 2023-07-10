@@ -2,7 +2,7 @@
 title: 'Happiness lies in avoiding socialism'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Thomas Jefferson'
 ---
 

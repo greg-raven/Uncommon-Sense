@@ -2,7 +2,7 @@
 title: 'Society does not equal the State'
 layout: post
 categories:
-    - government
+- government
 tag: 'Murray N. Rothbard'
 ---
 

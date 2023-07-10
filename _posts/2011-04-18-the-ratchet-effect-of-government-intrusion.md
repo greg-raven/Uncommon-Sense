@@ -2,7 +2,7 @@
 title: 'The ratchet effect of government intrusion'
 layout: post
 categories:
-    - decentralization
+- decentralization
 tag: 'Thomas Jefferson'
 ---
 

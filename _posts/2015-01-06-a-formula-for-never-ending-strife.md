@@ -2,7 +2,7 @@
 title: 'A formula for never-ending strife'
 layout: post
 categories:
-    - equality
+- equality
 tag: 'Thomas Sowell'
 ---
 

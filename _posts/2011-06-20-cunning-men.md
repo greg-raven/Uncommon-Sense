@@ -2,7 +2,7 @@
 title: 'Cunning men'
 layout: post
 categories:
-    - demagogues
+- demagogues
 tag: 'Francis Bacon'
 ---
 

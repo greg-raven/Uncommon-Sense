@@ -2,7 +2,7 @@
 title: 'Money from thin air'
 layout: post
 categories:
-    - money
+- money
 tag: 'L. L. B. Angus'
 ---
 

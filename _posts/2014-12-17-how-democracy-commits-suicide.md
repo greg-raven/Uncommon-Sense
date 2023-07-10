@@ -2,7 +2,7 @@
 title: 'How democracy commits suicide'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'Friedrich August von Hayek'
 ---
 

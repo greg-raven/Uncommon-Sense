@@ -2,7 +2,7 @@
 title: 'Preconceived notions'
 layout: post
 categories:
-    - truth
+- truth
 tag: 'Leo Tolstoy'
 ---
 

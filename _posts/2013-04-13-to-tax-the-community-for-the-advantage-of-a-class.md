@@ -2,8 +2,8 @@
 title: 'Redistribution is plunder'
 layout: post
 categories:
-    - taxation
-    - welfare
+- taxation
+- welfare
 tag: 'Benjamin Disraeli'
 ---
 

@@ -2,7 +2,7 @@
 title: 'The rights of the people'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Samuel Adams'
 ---
 

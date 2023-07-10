@@ -2,7 +2,7 @@
 title: 'The thirteen States'
 layout: post
 categories:
-    - Constitution
+- Constitution
 tag: 'James Wilson'
 ---
 

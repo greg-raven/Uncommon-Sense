@@ -2,7 +2,7 @@
 title: 'True sense of value'
 layout: post
 categories:
-    - service
+- service
 tag: anonymous
 ---
 

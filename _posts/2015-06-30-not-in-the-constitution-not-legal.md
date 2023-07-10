@@ -2,7 +2,7 @@
 title: 'Not in the Constitution? Not legal.'
 layout: post
 categories:
-    - Constitution
+- Constitution
 tag: 'Thomas Paine'
 ---
 

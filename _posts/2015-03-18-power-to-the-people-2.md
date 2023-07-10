@@ -2,8 +2,8 @@
 title: 'Power to the people?'
 layout: post
 categories:
-    - liberalism
-    - race
+- liberalism
+- race
 tag: 'Walter E. Williams'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Freedom does not come from government'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Ronald Reagan'
 ---
 

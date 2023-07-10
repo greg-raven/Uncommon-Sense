@@ -2,8 +2,8 @@
 title: 'How to run Rome'
 layout: post
 categories:
-    - government
-    - welfare
+- government
+- welfare
 tag: 'Marcus Tullius Cicero'
 ---
 

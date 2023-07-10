@@ -2,7 +2,7 @@
 title: 'Thought crimes'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'Bertrand Russell'
 ---
 

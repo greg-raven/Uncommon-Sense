@@ -2,8 +2,8 @@
 title: 'Progressive policies make the rich richer'
 layout: post
 categories:
-    - conservatism
-    - immigration
+- conservatism
+- immigration
 tag: 'Ann Coulter'
 ---
 

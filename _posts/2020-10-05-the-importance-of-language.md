@@ -2,7 +2,7 @@
 title: 'The importance of language'
 layout: post
 categories:
-    - language
+- language
 tag: 'John Milton'
 ---
 

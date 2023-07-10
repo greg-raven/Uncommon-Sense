@@ -2,7 +2,7 @@
 title: 'Burdensome government'
 layout: post
 categories:
-    - government
+- government
 tag: 'William E. Borah'
 ---
 

@@ -2,8 +2,8 @@
 title: 'I considered myself a liberal …'
 layout: post
 categories:
-    - equality
-    - liberalism
+- equality
+- liberalism
 tag: 'Jim Goad'
 ---
 

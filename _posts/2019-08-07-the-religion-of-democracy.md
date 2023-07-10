@@ -2,7 +2,7 @@
 title: 'The religion of democracy'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'H. L. Mencken'
 ---
 

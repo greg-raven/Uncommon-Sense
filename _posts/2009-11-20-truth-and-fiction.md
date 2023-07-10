@@ -2,7 +2,7 @@
 title: 'Truth and fiction'
 layout: post
 categories:
-    - truth
+- truth
 tag: 'Mark Twain'
 ---
 

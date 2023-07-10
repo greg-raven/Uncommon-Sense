@@ -2,7 +2,7 @@
 title: 'The real threat we face'
 layout: post
 categories:
-    - culture
+- culture
 tag: 'John Dewey'
 ---
 

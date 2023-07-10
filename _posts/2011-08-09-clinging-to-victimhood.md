@@ -2,7 +2,7 @@
 title: 'Clinging to victimhood'
 layout: post
 categories:
-    - welfare
+- welfare
 tag: 'J. Tucker Alford'
 ---
 

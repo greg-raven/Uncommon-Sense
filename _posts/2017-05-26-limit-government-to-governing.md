@@ -2,7 +2,7 @@
 title: 'Limit government to governing'
 layout: post
 categories:
-    - government
+- government
 tag: 'Barry Goldwater'
 ---
 

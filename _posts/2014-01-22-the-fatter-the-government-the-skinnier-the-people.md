@@ -2,7 +2,7 @@
 title: 'The fatter the government, the skinnier the people'
 layout: post
 categories:
-    - government
+- government
 tag: 'Dennis Prager'
 ---
 

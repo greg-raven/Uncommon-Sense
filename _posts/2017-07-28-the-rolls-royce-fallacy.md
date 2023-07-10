@@ -2,7 +2,7 @@
 title: 'The Rolls Royce fallacy'
 layout: post
 categories:
-    - economics
+- economics
 tag: 'Thomas Sowell'
 ---
 

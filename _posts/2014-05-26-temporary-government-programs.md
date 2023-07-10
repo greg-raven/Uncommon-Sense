@@ -2,7 +2,7 @@
 title: 'Temporary government programs'
 layout: post
 categories:
-    - government
+- government
 tag: 'Milton Friedman'
 ---
 

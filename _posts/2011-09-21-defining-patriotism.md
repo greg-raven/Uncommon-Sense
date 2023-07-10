@@ -2,7 +2,7 @@
 title: 'Defining patriotism'
 layout: post
 categories:
-    - patriotism
+- patriotism
 tag: 'Mark Twain'
 ---
 

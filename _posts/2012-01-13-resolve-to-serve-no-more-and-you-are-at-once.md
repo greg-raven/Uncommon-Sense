@@ -2,7 +2,7 @@
 title: 'Stay free'
 layout: post
 categories:
-    - individualism
+- individualism
 tag: 'Étienne de la Boétie'
 ---
 

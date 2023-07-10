@@ -2,7 +2,7 @@
 title: 'The goal of ‘liberals’'
 layout: post
 categories:
-    - collectivization
+- collectivization
 tag: 'Ayn Rand'
 ---
 

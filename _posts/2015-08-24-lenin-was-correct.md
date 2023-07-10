@@ -2,7 +2,7 @@
 title: 'Lenin was correct'
 layout: post
 categories:
-    - money
+- money
 tag: 'John Maynard Keynes'
 ---
 

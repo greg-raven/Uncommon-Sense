@@ -2,8 +2,8 @@
 title: 'The insidious wiles of foreign influence'
 layout: post
 categories:
-    - 'foreign policy'
-    - nationalism
+- 'foreign policy'
+- nationalism
 tag: 'George Washington'
 ---
 

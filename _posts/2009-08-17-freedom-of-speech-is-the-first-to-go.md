@@ -2,7 +2,7 @@
 title: 'Freedom of speech is the first to go'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'Benjamin Franklin'
 ---
 

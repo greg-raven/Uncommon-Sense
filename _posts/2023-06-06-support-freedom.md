@@ -2,7 +2,7 @@
 title: 'Support freedom'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Thomas Paine'
 ---
 

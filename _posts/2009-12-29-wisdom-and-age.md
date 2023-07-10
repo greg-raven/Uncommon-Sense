@@ -2,7 +2,7 @@
 title: 'Wisdom and age'
 layout: post
 categories:
-    - education
+- education
 tag: anonymous
 ---
 

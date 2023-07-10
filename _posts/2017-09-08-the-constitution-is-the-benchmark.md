@@ -2,7 +2,7 @@
 title: 'The Constitution is the benchmark'
 layout: post
 categories:
-    - Constitution
+- Constitution
 tag: 'Hugo L. Black'
 ---
 

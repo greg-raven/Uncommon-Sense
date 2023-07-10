@@ -2,7 +2,7 @@
 title: 'Addicted to power'
 layout: post
 categories:
-    - demagogues
+- demagogues
 tag: 'Edmund Burke'
 ---
 

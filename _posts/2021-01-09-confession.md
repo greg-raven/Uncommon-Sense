@@ -2,7 +2,7 @@
 title: Confession
 layout: post
 categories:
-    - speech
+- speech
 tag: 'Thomas Sowell'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Governments and bureaucracies'
 layout: post
 categories:
-    - government
+- government
 tag: 'P. J. O’Rourke'
 ---
 

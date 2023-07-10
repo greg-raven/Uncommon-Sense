@@ -2,7 +2,7 @@
 title: 'The fiction of government'
 layout: post
 categories:
-    - government
+- government
 tag: 'Frederic Bastiat'
 ---
 

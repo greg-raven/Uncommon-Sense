@@ -2,7 +2,7 @@
 title: 'Liberty is not for wimps'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Walter E. Williams'
 ---
 

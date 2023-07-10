@@ -2,7 +2,7 @@
 title: 'No legal plunder'
 layout: post
 categories:
-    - rights
+- rights
 tag: 'Frederic Bastiat'
 ---
 

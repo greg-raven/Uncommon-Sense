@@ -2,7 +2,7 @@
 title: 'Why can’t government cut back?'
 layout: post
 categories:
-    - government
+- government
 tag: 'Neal Boortz'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Going from despotism to liberty'
 layout: post
 categories:
-    - rebellion
+- rebellion
 tag: 'Thomas Jefferson'
 ---
 

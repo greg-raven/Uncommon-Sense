@@ -2,8 +2,8 @@
 title: 'Pay as you go'
 layout: post
 categories:
-    - economics
-    - war
+- economics
+- war
 tag: 'Thomas Jefferson'
 ---
 

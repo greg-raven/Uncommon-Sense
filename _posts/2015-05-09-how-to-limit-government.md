@@ -2,8 +2,8 @@
 title: 'How to limit government?'
 layout: post
 categories:
-    - government
-    - liberty
+- government
+- liberty
 tag: 'Milton Friedman'
 ---
 

@@ -2,7 +2,7 @@
 title: 'It’s dangerous to be correct'
 layout: post
 categories:
-    - truth
+- truth
 tag: Voltaire
 ---
 

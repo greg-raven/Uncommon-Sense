@@ -2,7 +2,7 @@
 title: 'Education paradox'
 layout: post
 categories:
-    - education
+- education
 tag: 'Bertrand Russell'
 ---
 

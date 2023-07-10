@@ -2,7 +2,7 @@
 title: Voting
 layout: post
 categories:
-    - voting
+- voting
 tag: 'Josef Stalin'
 ---
 

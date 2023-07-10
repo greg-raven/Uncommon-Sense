@@ -2,8 +2,8 @@
 title: Persistence
 layout: post
 categories:
-    - education
-    - knowledge
+- education
+- knowledge
 tag: 'Calvin Coolidge'
 ---
 

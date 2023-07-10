@@ -2,7 +2,7 @@
 title: 'Only one way'
 layout: post
 categories:
-    - truth
+- truth
 tag: 'George Washington'
 ---
 

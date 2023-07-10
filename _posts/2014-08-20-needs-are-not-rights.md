@@ -2,7 +2,7 @@
 title: 'Needs are not rights'
 layout: post
 categories:
-    - welfare
+- welfare
 tag: 'Lawrence Auster'
 ---
 

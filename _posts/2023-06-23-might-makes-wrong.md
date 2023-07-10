@@ -2,7 +2,7 @@
 title: 'Might does not make right'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'Hans Eysenck'
 ---
 

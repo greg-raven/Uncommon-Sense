@@ -2,7 +2,7 @@
 title: 'Freedom of thought'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'Andrei Sakharov'
 ---
 

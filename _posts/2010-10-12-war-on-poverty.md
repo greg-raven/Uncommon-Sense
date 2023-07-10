@@ -2,7 +2,7 @@
 title: 'War on poverty'
 layout: post
 categories:
-    - prosperity
+- prosperity
 tag: 'Ronald Reagan'
 ---
 

@@ -2,8 +2,8 @@
 title: 'The problem with socialism'
 layout: post
 categories:
-    - socialism
-    - taxation
+- socialism
+- taxation
 tag: 'Margaret Thatcher'
 ---
 

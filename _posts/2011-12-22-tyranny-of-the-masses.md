@@ -2,7 +2,7 @@
 title: 'Tyranny of the masses'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'Alexis de Tocqueville'
 ---
 

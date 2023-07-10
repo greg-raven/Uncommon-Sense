@@ -2,7 +2,7 @@
 title: 'Our current madness'
 layout: post
 categories:
-    - government
+- government
 tag: 'Michael F. Scheuer'
 ---
 

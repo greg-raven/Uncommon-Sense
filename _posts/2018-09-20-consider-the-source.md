@@ -2,7 +2,7 @@
 title: 'Consider the source'
 layout: post
 categories:
-    - knowledge
+- knowledge
 tag: 'Robert A. Heinlein'
 ---
 

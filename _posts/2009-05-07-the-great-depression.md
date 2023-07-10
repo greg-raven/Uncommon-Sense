@@ -2,7 +2,7 @@
 title: 'The Great Depression'
 layout: post
 categories:
-    - economics
+- economics
 tag: 'Milton Friedman'
 ---
 

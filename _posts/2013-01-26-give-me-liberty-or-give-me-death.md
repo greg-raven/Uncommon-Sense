@@ -2,7 +2,7 @@
 title: 'Give me liberty or give me death'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Patrick Henry'
 ---
 

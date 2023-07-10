@@ -2,7 +2,7 @@
 title: 'Marriage is the parent of society'
 layout: post
 categories:
-    - culture
+- culture
 tag: 'Joseph Story'
 ---
 

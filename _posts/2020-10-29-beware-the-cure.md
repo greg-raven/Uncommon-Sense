@@ -2,7 +2,7 @@
 title: 'Beware the cure'
 layout: post
 categories:
-    - demagogues
+- demagogues
 tag: 'Thomas Sowell'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Absolute power does not exist'
 layout: post
 categories:
-    - individualism
+- individualism
 tag: 'Wyoming Declaration of Rights'
 ---
 

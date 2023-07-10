@@ -2,7 +2,7 @@
 title: 'Facts are facts'
 layout: post
 categories:
-    - truth
+- truth
 tag: 'Aldous Huxley'
 ---
 

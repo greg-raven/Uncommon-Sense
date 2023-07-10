@@ -2,7 +2,7 @@
 title: 'Who really pays corporate taxes'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'Calvin Coolidge'
 ---
 

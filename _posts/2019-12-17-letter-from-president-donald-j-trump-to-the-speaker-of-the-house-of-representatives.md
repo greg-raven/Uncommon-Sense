@@ -2,9 +2,9 @@
 title: 'Letter from President Donald J. Trump to the Speaker of the House of Representatives'
 layout: post
 categories:
-    - Constitution
-    - demagogues
-    - politics
+- Constitution
+- demagogues
+- politics
 tag: 'Donald J. Trump'
 ---
 

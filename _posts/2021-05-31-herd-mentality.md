@@ -2,7 +2,7 @@
 title: 'Herd mentality'
 layout: post
 categories:
-    - collectivization
+- collectivization
 tag: 'Robert Anton Wilson'
 ---
 

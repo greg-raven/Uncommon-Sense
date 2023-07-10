@@ -2,7 +2,7 @@
 title: 'Family and country'
 layout: post
 categories:
-    - collectivization
+- collectivization
 tag: 'Vladimir Ilyich Lenin'
 ---
 

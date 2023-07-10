@@ -2,7 +2,7 @@
 title: 'Tireless minority'
 layout: post
 categories:
-    - politics
+- politics
 tag: 'Samuel Adams'
 ---
 

@@ -2,9 +2,9 @@
 title: 'No freedom in socialism'
 layout: post
 categories:
-    - economics
-    - money
-    - socialism
+- economics
+- money
+- socialism
 tag: 'Ron Paul'
 ---
 

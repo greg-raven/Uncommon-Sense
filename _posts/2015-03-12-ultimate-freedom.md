@@ -2,7 +2,7 @@
 title: 'Ultimate freedom'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Steven R. Covey'
 ---
 

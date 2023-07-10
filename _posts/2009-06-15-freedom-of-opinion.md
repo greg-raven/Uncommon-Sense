@@ -2,7 +2,7 @@
 title: 'Freedom of opinion'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'Bertrand Russell'
 ---
 

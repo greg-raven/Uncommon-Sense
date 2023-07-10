@@ -2,7 +2,7 @@
 title: 'Border watch'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'Ann Coulter'
 ---
 

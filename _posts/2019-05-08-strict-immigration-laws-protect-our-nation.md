@@ -2,7 +2,7 @@
 title: 'Strict immigration laws protect our nation'
 layout: post
 categories:
-    - immigration
+- immigration
 tag: 'Alexander Hamilton'
 ---
 

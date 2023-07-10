@@ -2,7 +2,7 @@
 title: 'Assault weapons'
 layout: post
 categories:
-    - 'Second Amendment'
+- 'Second Amendment'
 tag: 'Greg Raven'
 ---
 

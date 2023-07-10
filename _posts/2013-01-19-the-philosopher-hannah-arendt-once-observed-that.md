@@ -2,7 +2,7 @@
 title: 'Support the rule of law'
 layout: post
 categories:
-    - laws
+- laws
 tag: 'Roger Kimball'
 ---
 

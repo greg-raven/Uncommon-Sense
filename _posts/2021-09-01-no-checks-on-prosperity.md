@@ -2,8 +2,8 @@
 title: 'No checks on prosperity'
 layout: post
 categories:
-    - socialism
-    - taxation
+- socialism
+- taxation
 tag: 'Edmund Burke'
 ---
 

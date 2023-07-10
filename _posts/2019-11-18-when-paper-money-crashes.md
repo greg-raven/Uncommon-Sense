@@ -2,7 +2,7 @@
 title: 'When paper money crashes'
 layout: post
 categories:
-    - money
+- money
 tag: 'Harry Browne'
 ---
 

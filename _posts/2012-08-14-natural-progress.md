@@ -2,7 +2,7 @@
 title: 'Natural progress'
 layout: post
 categories:
-    - self-improvement
+- self-improvement
 tag: 'Adam Smith'
 ---
 

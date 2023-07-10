@@ -2,7 +2,7 @@
 title: 'The Constitution is the standard'
 layout: post
 categories:
-    - Constitution
+- Constitution
 tag: 'Alexander Hamilton'
 ---
 

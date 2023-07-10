@@ -2,7 +2,7 @@
 title: 'Reversing Muslim immigration'
 layout: post
 categories:
-    - immigration
+- immigration
 tag: 'Lawrence Auster'
 ---
 

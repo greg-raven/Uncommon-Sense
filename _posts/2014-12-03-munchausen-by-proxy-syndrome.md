@@ -2,7 +2,7 @@
 title: 'Munchausen by Proxy Syndrome'
 layout: post
 categories:
-    - liberalism
+- liberalism
 tag: 'Marlin Newburn'
 ---
 

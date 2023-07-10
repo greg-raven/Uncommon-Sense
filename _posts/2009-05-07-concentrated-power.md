@@ -2,7 +2,7 @@
 title: 'Concentrated power'
 layout: post
 categories:
-    - decentralization
+- decentralization
 tag: 'Milton Friedman'
 ---
 

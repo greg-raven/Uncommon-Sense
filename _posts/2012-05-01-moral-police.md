@@ -2,7 +2,7 @@
 title: 'The moral police'
 layout: post
 categories:
-    - morals
+- morals
 tag: 'John Stuart Mill'
 ---
 

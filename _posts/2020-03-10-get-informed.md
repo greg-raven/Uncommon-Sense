@@ -2,7 +2,7 @@
 title: 'Get informed'
 layout: post
 categories:
-    - 'informed electorate'
+- 'informed electorate'
 tag: 'Benjamin Franklin'
 ---
 

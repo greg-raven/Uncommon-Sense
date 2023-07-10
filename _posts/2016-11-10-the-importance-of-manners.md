@@ -2,7 +2,7 @@
 title: 'The importance of manners'
 layout: post
 categories:
-    - intolerance
+- intolerance
 tag: 'Robert A. Heinlein'
 ---
 

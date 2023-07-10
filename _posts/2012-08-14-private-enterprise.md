@@ -2,7 +2,7 @@
 title: 'Private enterprise'
 layout: post
 categories:
-    - capitalism
+- capitalism
 tag: 'Winston Churchill'
 ---
 

@@ -2,7 +2,7 @@
 title: 'The squeaky wheels'
 layout: post
 categories:
-    - demagogues
+- demagogues
 tag: 'Edmund Burke'
 ---
 

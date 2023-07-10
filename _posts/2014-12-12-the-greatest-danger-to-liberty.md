@@ -2,7 +2,7 @@
 title: 'The greatest danger to liberty'
 layout: post
 categories:
-    - government
+- government
 tag: 'Friedrich August von Hayek'
 ---
 

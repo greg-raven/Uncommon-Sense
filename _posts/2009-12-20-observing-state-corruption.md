@@ -2,7 +2,7 @@
 title: 'Observing state corruption'
 layout: post
 categories:
-    - corruption
+- corruption
 tag: Tacitus
 ---
 

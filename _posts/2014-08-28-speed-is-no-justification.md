@@ -2,7 +2,7 @@
 title: 'Speed is no justification'
 layout: post
 categories:
-    - evil
+- evil
 tag: 'Theodore Roosevelt'
 ---
 

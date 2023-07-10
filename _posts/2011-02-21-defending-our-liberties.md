@@ -2,7 +2,7 @@
 title: 'Defending our liberties'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Samuel Adams'
 ---
 

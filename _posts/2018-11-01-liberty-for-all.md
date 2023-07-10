@@ -2,7 +2,7 @@
 title: 'Liberty for all'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'William Graham Sumner'
 ---
 

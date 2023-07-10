@@ -2,7 +2,7 @@
 title: 'Self-affirming negativity'
 layout: post
 categories:
-    - perfection
+- perfection
 tag: 'Thomas Sowell'
 ---
 

@@ -2,7 +2,7 @@
 title: 'At your feet or at your throat'
 layout: post
 categories:
-    - demagogues
+- demagogues
 tag: 'Alexander Hamilton'
 ---
 

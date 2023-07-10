@@ -2,7 +2,7 @@
 title: 'Decent men needed'
 layout: post
 categories:
-    - government
+- government
 tag: 'H. L. Mencken'
 ---
 

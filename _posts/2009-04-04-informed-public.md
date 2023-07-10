@@ -2,7 +2,7 @@
 title: 'Informed public'
 layout: post
 categories:
-    - 'informed electorate'
+- 'informed electorate'
 tag: 'George Washington'
 ---
 

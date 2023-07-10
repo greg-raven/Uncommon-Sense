@@ -2,7 +2,7 @@
 title: 'Darfur is the natural state of the world'
 layout: post
 categories:
-    - culture
+- culture
 tag: 'Ann Coulter'
 ---
 

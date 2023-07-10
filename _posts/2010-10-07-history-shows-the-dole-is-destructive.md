@@ -2,7 +2,7 @@
 title: 'History shows the dole is destructive'
 layout: post
 categories:
-    - welfare
+- welfare
 tag: 'Franklin D. Roosevelt'
 ---
 

@@ -2,8 +2,8 @@
 title: 'No time for political correctness'
 layout: post
 categories:
-    - prosperity
-    - speech
+- prosperity
+- speech
 tag: 'Donald J. Trump'
 ---
 

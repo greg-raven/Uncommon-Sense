@@ -2,7 +2,7 @@
 title: 'Government ought to be open to improvement'
 layout: post
 categories:
-    - government
+- government
 tag: 'Thomas Paine'
 ---
 

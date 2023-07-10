@@ -2,7 +2,7 @@
 title: 'Hollywood vs. DC'
 layout: post
 categories:
-    - culture
+- culture
 tag: 'Kurt Schlichter'
 ---
 

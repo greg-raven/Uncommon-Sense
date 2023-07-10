@@ -2,7 +2,7 @@
 title: 'Free speech'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'Winston Churchill'
 ---
 

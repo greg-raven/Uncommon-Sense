@@ -2,7 +2,7 @@
 title: Perfection
 layout: post
 categories:
-    - perfection
+- perfection
 tag: 'Antoine de Saint-Exupery'
 ---
 

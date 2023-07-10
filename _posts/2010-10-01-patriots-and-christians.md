@@ -2,7 +2,7 @@
 title: 'Patriots and Christians'
 layout: post
 categories:
-    - individualism
+- individualism
 tag: 'Thomas Jefferson'
 ---
 

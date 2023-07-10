@@ -2,7 +2,7 @@
 title: 'Systemic violence'
 layout: post
 categories:
-    - culture
+- culture
 tag: 'Andrew Torba'
 ---
 

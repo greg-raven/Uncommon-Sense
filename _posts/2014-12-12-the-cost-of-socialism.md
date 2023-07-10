@@ -2,8 +2,8 @@
 title: 'The cost of socialism'
 layout: post
 categories:
-    - liberty
-    - socialism
+- liberty
+- socialism
 tag: 'Frank Chodorov'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Government policy'
 layout: post
 categories:
-    - government
+- government
 tag: anonymous
 ---
 

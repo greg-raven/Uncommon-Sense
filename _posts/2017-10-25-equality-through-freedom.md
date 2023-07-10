@@ -2,7 +2,7 @@
 title: 'Equality through freedom'
 layout: post
 categories:
-    - equality
+- equality
 tag: 'John Locke'
 ---
 

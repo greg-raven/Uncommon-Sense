@@ -2,7 +2,7 @@
 title: 'Hidden taxation'
 layout: post
 categories:
-    - money
+- money
 tag: 'Jerry Voorhis'
 ---
 

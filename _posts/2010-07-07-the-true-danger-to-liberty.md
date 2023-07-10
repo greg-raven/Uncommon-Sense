@@ -2,7 +2,7 @@
 title: 'The true danger to liberty'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Edmund Burke'
 ---
 

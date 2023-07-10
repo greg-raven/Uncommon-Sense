@@ -2,7 +2,7 @@
 title: 'People must be incorruptible'
 layout: post
 categories:
-    - morals
+- morals
 tag: 'Samuel Adams'
 ---
 

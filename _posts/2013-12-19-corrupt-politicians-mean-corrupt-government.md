@@ -2,7 +2,7 @@
 title: 'Corrupt politicians mean corrupt government'
 layout: post
 categories:
-    - corruption
+- corruption
 tag: 'Noah Webster'
 ---
 

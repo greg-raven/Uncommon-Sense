@@ -2,7 +2,7 @@
 title: 'Democrats on dissent'
 layout: post
 categories:
-    - demagogues
+- demagogues
 tag: 'Ann Coulter'
 ---
 

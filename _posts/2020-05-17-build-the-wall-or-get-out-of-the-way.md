@@ -2,7 +2,7 @@
 title: 'Build the wall or get out of the way'
 layout: post
 categories:
-    - immigration
+- immigration
 tag: 'Ann Coulter'
 ---
 

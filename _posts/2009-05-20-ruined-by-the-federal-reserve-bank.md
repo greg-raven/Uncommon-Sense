@@ -2,7 +2,7 @@
 title: 'U.S. ruined by the Federal Reserve Bank'
 layout: post
 categories:
-    - money
+- money
 tag: 'Woodrow Wilson'
 ---
 

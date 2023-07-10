@@ -2,7 +2,7 @@
 title: 'Knowing is not enough'
 layout: post
 categories:
-    - citizenship
+- citizenship
 tag: 'Johann Wolfgang von Goethe'
 ---
 

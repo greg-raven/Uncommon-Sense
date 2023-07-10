@@ -2,7 +2,7 @@
 title: 'Circumspection and distrust'
 layout: post
 categories:
-    - corruption
+- corruption
 tag: 'James Madison'
 ---
 

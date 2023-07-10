@@ -2,7 +2,7 @@
 title: 'The voluntary Union'
 layout: post
 categories:
-    - decentralization
+- decentralization
 tag: 'Alexis de Tocqueville'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Our growing cultural deviancy'
 layout: post
 categories:
-    - culture
+- culture
 tag: 'Walter E. Williams'
 ---
 

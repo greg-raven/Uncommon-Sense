@@ -2,7 +2,7 @@
 title: 'Legislative priorities'
 layout: post
 categories:
-    - government
+- government
 tag: 'Calvin Coolidge'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Government must pay its debts'
 layout: post
 categories:
-    - debt
+- debt
 tag: 'Alexander Hamilton'
 ---
 

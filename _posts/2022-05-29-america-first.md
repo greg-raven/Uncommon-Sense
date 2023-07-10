@@ -2,7 +2,7 @@
 title: 'America first'
 layout: post
 categories:
-    - 'foreign policy'
+- 'foreign policy'
 tag: 'Donald J. Trump'
 ---
 

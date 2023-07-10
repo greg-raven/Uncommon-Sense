@@ -2,7 +2,7 @@
 title: 'Government efficiency'
 layout: post
 categories:
-    - government
+- government
 tag: 'John Maynard Keynes'
 ---
 

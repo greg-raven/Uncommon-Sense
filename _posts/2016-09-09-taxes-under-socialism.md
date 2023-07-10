@@ -2,8 +2,8 @@
 title: 'Taxes under socialism'
 layout: post
 categories:
-    - socialism
-    - taxation
+- socialism
+- taxation
 tag: 'Margaret Thatcher'
 ---
 

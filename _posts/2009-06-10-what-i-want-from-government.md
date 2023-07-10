@@ -2,7 +2,7 @@
 title: 'What I want from government'
 layout: post
 categories:
-    - money
+- money
 tag: 'Robert Welch'
 ---
 

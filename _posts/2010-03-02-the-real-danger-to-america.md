@@ -2,7 +2,7 @@
 title: 'The real danger to America'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: anonymous
 ---
 

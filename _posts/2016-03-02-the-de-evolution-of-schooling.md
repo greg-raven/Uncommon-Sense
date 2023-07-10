@@ -2,7 +2,7 @@
 title: 'The de-evolution of schooling'
 layout: post
 categories:
-    - education
+- education
 tag: 'Joe Sobran'
 ---
 

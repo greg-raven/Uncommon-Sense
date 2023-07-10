@@ -2,7 +2,7 @@
 title: 'Care more for truth'
 layout: post
 categories:
-    - truth
+- truth
 tag: Aristotle
 ---
 

@@ -2,7 +2,7 @@
 title: 'Government effectiveness'
 layout: post
 categories:
-    - government
+- government
 tag: 'Milton Friedman'
 ---
 

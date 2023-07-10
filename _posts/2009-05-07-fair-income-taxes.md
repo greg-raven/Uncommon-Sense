@@ -2,7 +2,7 @@
 title: 'Fair income taxes'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'William F. Buckley'
 ---
 

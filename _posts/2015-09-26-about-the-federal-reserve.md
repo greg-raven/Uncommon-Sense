@@ -2,7 +2,7 @@
 title: 'About the Federal Reserve'
 layout: post
 categories:
-    - money
+- money
 tag: 'Louis McFadden'
 ---
 

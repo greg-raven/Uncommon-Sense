@@ -2,7 +2,7 @@
 title: 'Cause of inflation'
 layout: post
 categories:
-    - money
+- money
 tag: 'Ayn Rand'
 ---
 

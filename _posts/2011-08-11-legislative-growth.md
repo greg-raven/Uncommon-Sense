@@ -2,7 +2,7 @@
 title: 'Legislative growth'
 layout: post
 categories:
-    - government
+- government
 tag: 'James Madison'
 ---
 

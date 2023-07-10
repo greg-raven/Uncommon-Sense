@@ -2,7 +2,7 @@
 title: 'Persecution for opinion'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'Francis Wright'
 ---
 

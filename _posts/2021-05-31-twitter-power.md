@@ -2,7 +2,7 @@
 title: 'Twitter power'
 layout: post
 categories:
-    - press
+- press
 tag: 'Mark Dice'
 ---
 

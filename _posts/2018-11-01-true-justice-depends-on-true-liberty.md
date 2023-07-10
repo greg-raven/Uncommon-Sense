@@ -2,7 +2,7 @@
 title: 'True justice depends on true liberty'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'William Graham Sumner'
 ---
 

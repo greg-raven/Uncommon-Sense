@@ -2,7 +2,7 @@
 title: 'Cost of liberty'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Robert A. Heinlein'
 ---
 

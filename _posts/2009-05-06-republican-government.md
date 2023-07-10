@@ -2,7 +2,7 @@
 title: 'Republican government'
 layout: post
 categories:
-    - government
+- government
 tag: 'Herbert Spencer'
 ---
 

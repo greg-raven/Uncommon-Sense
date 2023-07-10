@@ -2,7 +2,7 @@
 title: 'Science in the service of globalism'
 layout: post
 categories:
-    - environment
+- environment
 tag: 'Ottmar Edenhofer'
 ---
 

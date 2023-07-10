@@ -2,7 +2,7 @@
 title: 'Conspiracy against peace'
 layout: post
 categories:
-    - war
+- war
 tag: 'James Madison'
 ---
 

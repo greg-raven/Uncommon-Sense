@@ -2,7 +2,7 @@
 title: 'Defining ‘plebiscite’'
 layout: post
 categories:
-    - voting
+- voting
 tag: 'Ambrose Bierce'
 ---
 

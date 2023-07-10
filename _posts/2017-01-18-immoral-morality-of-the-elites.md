@@ -2,7 +2,7 @@
 title: 'Immoral morality of the elites'
 layout: post
 categories:
-    - collectivization
+- collectivization
 tag: 'Ayn Rand'
 ---
 

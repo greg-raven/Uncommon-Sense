@@ -2,7 +2,7 @@
 title: 'Securing our borders'
 layout: post
 categories:
-    - immigration
+- immigration
 tag: 'Paul Cook'
 ---
 

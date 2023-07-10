@@ -2,8 +2,8 @@
 title: 'Destroying our liberties'
 layout: post
 categories:
-    - liberty
-    - war
+- liberty
+- war
 tag: 'Alexis de Tocqueville'
 ---
 

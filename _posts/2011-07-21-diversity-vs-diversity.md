@@ -2,7 +2,7 @@
 title: 'Diversity vs. diversity'
 layout: post
 categories:
-    - diversity
+- diversity
 tag: 'Mark Steyn'
 ---
 

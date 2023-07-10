@@ -2,7 +2,7 @@
 title: 'Socialism’s worst victims'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Thomas Sowell'
 ---
 

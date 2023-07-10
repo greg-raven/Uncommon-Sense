@@ -2,7 +2,7 @@
 title: 'Liberalism is suicide'
 layout: post
 categories:
-    - liberalism
+- liberalism
 tag: 'James Burnham'
 ---
 

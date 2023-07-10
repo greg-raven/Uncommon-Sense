@@ -2,7 +2,7 @@
 title: 'Faux sophistication'
 layout: post
 categories:
-    - 'external authority'
+- 'external authority'
 tag: 'Ilana Mercer'
 ---
 

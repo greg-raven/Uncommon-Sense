@@ -2,8 +2,8 @@
 title: 'Patriotic obligation'
 layout: post
 categories:
-    - corruption
-    - patriotism
+- corruption
+- patriotism
 tag: 'G. Edward Griffin'
 ---
 

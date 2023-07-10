@@ -2,7 +2,7 @@
 title: 'Leftist political strategy'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Star Parker'
 ---
 

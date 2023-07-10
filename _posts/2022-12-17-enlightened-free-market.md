@@ -2,7 +2,7 @@
 title: 'Enlightened free-market'
 layout: post
 categories:
-    - economics
+- economics
 tag: 'James Madison'
 ---
 

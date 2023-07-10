@@ -2,7 +2,7 @@
 title: 'Perpetual war'
 layout: post
 categories:
-    - war
+- war
 tag: 'George Orwell'
 ---
 

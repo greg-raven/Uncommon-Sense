@@ -2,7 +2,7 @@
 title: 'Finding the right answer'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'Thomas Babington Macaulay'
 ---
 

@@ -2,8 +2,8 @@
 title: 'Don’t hand over your powers'
 layout: post
 categories:
-    - collectivization
-    - government
+- collectivization
+- government
 tag: 'Charley Reese'
 ---
 

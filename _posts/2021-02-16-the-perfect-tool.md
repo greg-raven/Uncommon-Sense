@@ -2,7 +2,7 @@
 title: 'The perfect tool'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Gary Allen'
 ---
 

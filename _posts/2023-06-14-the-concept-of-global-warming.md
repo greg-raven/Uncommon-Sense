@@ -2,7 +2,7 @@
 title: 'The concept of global warming'
 layout: post
 categories:
-    - climate
+- climate
 tag: 'Donald J. Trump'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Republican form of government'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'Thomas Jefferson'
 ---
 

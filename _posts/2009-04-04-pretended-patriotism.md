@@ -2,7 +2,7 @@
 title: 'Pretended patriotism'
 layout: post
 categories:
-    - patriotism
+- patriotism
 tag: 'George Washington'
 ---
 

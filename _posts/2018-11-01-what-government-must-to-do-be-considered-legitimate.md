@@ -2,8 +2,8 @@
 title: 'What government must to do be considered legitimate'
 layout: post
 categories:
-    - government
-    - liberty
+- government
+- liberty
 tag: 'William Graham Sumner'
 ---
 

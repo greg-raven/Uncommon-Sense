@@ -2,8 +2,8 @@
 title: 'Violence vs. truth'
 layout: post
 categories:
-    - reason
-    - truth
+- reason
+- truth
 tag: 'Robert A. Heinlein'
 ---
 

@@ -2,7 +2,7 @@
 title: Compassion
 layout: post
 categories:
-    - laws
+- laws
 tag: 'Tom Minnery'
 ---
 

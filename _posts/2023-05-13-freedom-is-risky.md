@@ -2,7 +2,7 @@
 title: 'Freedom is risky'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Eric Schaub'
 ---
 

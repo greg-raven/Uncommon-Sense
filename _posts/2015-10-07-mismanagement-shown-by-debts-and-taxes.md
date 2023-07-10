@@ -2,8 +2,8 @@
 title: 'Mismanagement shown by debts and taxes'
 layout: post
 categories:
-    - debt
-    - taxation
+- debt
+- taxation
 tag: 'Thomas Paine'
 ---
 

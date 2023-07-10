@@ -2,8 +2,8 @@
 title: 'Modern ‘progressivism’'
 layout: post
 categories:
-    - culture
-    - socialism
+- culture
+- socialism
 tag: 'Greg Raven'
 ---
 

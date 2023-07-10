@@ -2,7 +2,7 @@
 title: 'Crimes of ego'
 layout: post
 categories:
-    - evil
+- evil
 tag: 'Albert Camus'
 ---
 

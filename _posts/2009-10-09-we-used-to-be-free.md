@@ -2,7 +2,7 @@
 title: 'We used to be free'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Friedrich August von Hayek'
 ---
 

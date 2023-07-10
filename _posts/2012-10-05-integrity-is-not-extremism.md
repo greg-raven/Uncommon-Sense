@@ -2,7 +2,7 @@
 title: 'Integrity is not extremism'
 layout: post
 categories:
-    - virtue
+- virtue
 tag: 'Ayn Rand'
 ---
 

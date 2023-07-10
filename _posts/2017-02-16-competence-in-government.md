@@ -2,7 +2,7 @@
 title: 'Competence in government'
 layout: post
 categories:
-    - government
+- government
 tag: 'Daniel Patrick Moynihan'
 ---
 

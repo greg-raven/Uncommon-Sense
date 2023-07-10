@@ -2,7 +2,7 @@
 title: 'Government only supports losers'
 layout: post
 categories:
-    - waste
+- waste
 tag: 'Thomas E. Woods Jr.'
 ---
 

@@ -2,7 +2,7 @@
 title: 'The danger of private interests'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'John Adams'
 ---
 

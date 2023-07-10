@@ -2,7 +2,7 @@
 title: 'The best form of government'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'George Washington'
 ---
 

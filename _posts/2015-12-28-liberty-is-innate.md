@@ -2,7 +2,7 @@
 title: 'Liberty is innate'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Woodrow Wilson'
 ---
 

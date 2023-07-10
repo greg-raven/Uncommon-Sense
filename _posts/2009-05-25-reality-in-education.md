@@ -2,7 +2,7 @@
 title: 'Reality in education'
 layout: post
 categories:
-    - education
+- education
 tag: 'Charles Murray'
 ---
 

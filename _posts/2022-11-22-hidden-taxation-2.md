@@ -2,7 +2,7 @@
 title: 'Hidden taxation'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'Thomas Sowell'
 ---
 

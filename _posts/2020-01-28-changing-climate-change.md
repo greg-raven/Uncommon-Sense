@@ -2,7 +2,7 @@
 title: 'Changing climate change'
 layout: post
 categories:
-    - climate
+- climate
 tag: 'Thomas Sowell'
 ---
 

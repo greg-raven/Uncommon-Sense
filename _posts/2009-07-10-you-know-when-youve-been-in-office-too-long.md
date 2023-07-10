@@ -2,7 +2,7 @@
 title: 'You know when you’ve been in office too long'
 layout: post
 categories:
-    - government
+- government
 tag: 'Ronald Reagan'
 ---
 

@@ -2,7 +2,7 @@
 title: 'The industrial/political complex'
 layout: post
 categories:
-    - corruption
+- corruption
 tag: 'Samuel P. Hays'
 ---
 

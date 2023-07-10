@@ -2,8 +2,8 @@
 title: 'Tenth Amendment'
 layout: post
 categories:
-    - Constitution
-    - decentralization
+- Constitution
+- decentralization
 tag: 'Thomas Jefferson'
 ---
 

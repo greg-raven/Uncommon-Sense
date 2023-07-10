@@ -2,7 +2,7 @@
 title: 'Virtue: Public and private'
 layout: post
 categories:
-    - virtue
+- virtue
 tag: 'John Adams'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Dangerous servant and fearful master'
 layout: post
 categories:
-    - government
+- government
 tag: 'George Washington'
 ---
 

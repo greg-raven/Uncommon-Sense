@@ -2,7 +2,7 @@
 title: 'Learning from others'
 layout: post
 categories:
-    - education
+- education
 tag: Aesop
 ---
 

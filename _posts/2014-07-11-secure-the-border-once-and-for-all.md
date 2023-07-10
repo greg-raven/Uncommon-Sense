@@ -2,7 +2,7 @@
 title: 'Secure the border once and for all'
 layout: post
 categories:
-    - immigration
+- immigration
 tag: 'Ted Cruz'
 ---
 

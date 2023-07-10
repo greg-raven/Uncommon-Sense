@@ -2,7 +2,7 @@
 title: 'Democracy’s inevitable end'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: Plato
 ---
 

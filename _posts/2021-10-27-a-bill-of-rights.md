@@ -2,7 +2,7 @@
 title: 'A Bill of Rights'
 layout: post
 categories:
-    - rights
+- rights
 tag: 'Thomas Jefferson'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Constant kind of warfare'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'Benjamin Franklin'
 ---
 

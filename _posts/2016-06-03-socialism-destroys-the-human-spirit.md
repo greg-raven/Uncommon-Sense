@@ -2,7 +2,7 @@
 title: 'Socialism destroys the human spirit'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Alexander Solzhenitsyn'
 ---
 

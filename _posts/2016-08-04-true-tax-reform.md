@@ -2,7 +2,7 @@
 title: 'True tax reform'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'Ronald Reagan'
 ---
 

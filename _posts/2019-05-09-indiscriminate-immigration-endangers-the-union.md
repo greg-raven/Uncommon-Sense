@@ -2,7 +2,7 @@
 title: 'Indiscriminate immigration endangers the Union'
 layout: post
 categories:
-    - immigration
+- immigration
 tag: 'Joseph Story'
 ---
 

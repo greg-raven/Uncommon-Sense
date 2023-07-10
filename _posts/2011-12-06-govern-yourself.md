@@ -2,7 +2,7 @@
 title: 'Govern yourself'
 layout: post
 categories:
-    - 'external authority'
+- 'external authority'
 tag: 'George Herron'
 ---
 

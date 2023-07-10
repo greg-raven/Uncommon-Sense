@@ -2,7 +2,7 @@
 title: 'The corrosive effect of welfare'
 layout: post
 categories:
-    - welfare
+- welfare
 tag: 'Benjamin Franklin'
 ---
 

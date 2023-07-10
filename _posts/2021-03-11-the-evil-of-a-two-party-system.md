@@ -2,7 +2,7 @@
 title: 'The evil of a two-party system'
 layout: post
 categories:
-    - politics
+- politics
 tag: 'John Adams'
 ---
 

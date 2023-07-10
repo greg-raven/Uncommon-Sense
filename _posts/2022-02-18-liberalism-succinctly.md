@@ -2,7 +2,7 @@
 title: 'Liberalism succinctly'
 layout: post
 categories:
-    - liberalism
+- liberalism
 tag: 'Joe Sobran'
 ---
 

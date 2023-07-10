@@ -2,7 +2,7 @@
 title: 'Gold is a currency'
 layout: post
 categories:
-    - money
+- money
 tag: 'Alan Greenspan'
 ---
 

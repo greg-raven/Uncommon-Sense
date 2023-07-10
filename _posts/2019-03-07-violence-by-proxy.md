@@ -2,7 +2,7 @@
 title: 'Violence by proxy'
 layout: post
 categories:
-    - 'Second Amendment'
+- 'Second Amendment'
 tag: 'Jeffrey R. Snyder'
 ---
 

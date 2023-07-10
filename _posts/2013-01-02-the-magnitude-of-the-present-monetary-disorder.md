@@ -2,7 +2,7 @@
 title: 'Our present money disorder'
 layout: post
 categories:
-    - money
+- money
 tag: 'Merrill Jenkins'
 ---
 

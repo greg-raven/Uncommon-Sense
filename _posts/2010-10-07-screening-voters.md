@@ -2,7 +2,7 @@
 title: 'Screening voters'
 layout: post
 categories:
-    - voting
+- voting
 tag: 'Charley Reese'
 ---
 

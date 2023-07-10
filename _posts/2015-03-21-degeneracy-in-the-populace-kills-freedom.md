@@ -2,7 +2,7 @@
 title: 'Degeneracy in the populace kills freedom'
 layout: post
 categories:
-    - culture
+- culture
 tag: 'Thomas Jefferson'
 ---
 

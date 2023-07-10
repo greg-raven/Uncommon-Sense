@@ -2,7 +2,7 @@
 title: 'Centralization of powers'
 layout: post
 categories:
-    - collectivization
+- collectivization
 tag: 'Robert E. Lee'
 ---
 

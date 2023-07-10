@@ -2,7 +2,7 @@
 title: 'Endangered species'
 layout: post
 categories:
-    - adulthood
+- adulthood
 tag: 'Star Parker'
 ---
 

@@ -2,7 +2,7 @@
 title: 'The law of the land'
 layout: post
 categories:
-    - Constitution
+- Constitution
 tag: 'Andrew Jackson'
 ---
 

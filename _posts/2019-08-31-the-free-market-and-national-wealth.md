@@ -2,7 +2,7 @@
 title: 'The free market and national wealth'
 layout: post
 categories:
-    - capitalism
+- capitalism
 tag: 'Alexander Hamilton'
 ---
 

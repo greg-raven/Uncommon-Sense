@@ -2,9 +2,9 @@
 title: 'American unity'
 layout: post
 categories:
-    - citizenship
-    - culture
-    - language
+- citizenship
+- culture
+- language
 tag: 'Theodore Roosevelt'
 ---
 

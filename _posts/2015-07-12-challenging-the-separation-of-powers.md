@@ -2,7 +2,7 @@
 title: 'Challenging the separation of powers'
 layout: post
 categories:
-    - Constitution
+- Constitution
 tag: 'U. S. Supreme Court'
 ---
 

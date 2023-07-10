@@ -2,7 +2,7 @@
 title: 'Advances come from free men'
 layout: post
 categories:
-    - prosperity
+- prosperity
 tag: 'Milton Friedman'
 ---
 

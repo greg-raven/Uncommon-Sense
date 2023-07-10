@@ -2,8 +2,8 @@
 title: 'Educated into stupidity'
 layout: post
 categories:
-    - education
-    - knowledge
+- education
+- knowledge
 tag: 'Bertrand Russell'
 ---
 

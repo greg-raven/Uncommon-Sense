@@ -2,7 +2,7 @@
 title: 'No unilateral military actions'
 layout: post
 categories:
-    - war
+- war
 tag: 'Barack Hussein Obama'
 ---
 

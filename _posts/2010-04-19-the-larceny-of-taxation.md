@@ -2,7 +2,7 @@
 title: 'The larceny of taxation'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'Calvin Coolidge'
 ---
 

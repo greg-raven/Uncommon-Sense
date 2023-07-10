@@ -2,7 +2,7 @@
 title: 'Destroy civilization by first destroying the money'
 layout: post
 categories:
-    - money
+- money
 tag: 'Ayn Rand'
 ---
 

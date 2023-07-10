@@ -2,7 +2,7 @@
 title: 'Stumbling over the truth'
 layout: post
 categories:
-    - truth
+- truth
 tag: 'Winston Churchill'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Government as the extension of the self'
 layout: post
 categories:
-    - liberalism
+- liberalism
 tag: 'Ann Coulter'
 ---
 

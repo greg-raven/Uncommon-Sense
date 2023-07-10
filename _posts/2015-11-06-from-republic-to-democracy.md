@@ -2,7 +2,7 @@
 title: 'From republic to democracy'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'Barry Goldwater'
 ---
 

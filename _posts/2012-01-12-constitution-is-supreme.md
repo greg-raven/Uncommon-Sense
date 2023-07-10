@@ -2,7 +2,7 @@
 title: 'The Constitution is supreme'
 layout: post
 categories:
-    - Constitution
+- Constitution
 tag: 'Walter F. Dodd'
 ---
 

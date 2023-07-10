@@ -2,7 +2,7 @@
 title: 'Can the real Constitution be restored?'
 layout: post
 categories:
-    - Constitution
+- Constitution
 tag: 'Joe Sobran'
 ---
 

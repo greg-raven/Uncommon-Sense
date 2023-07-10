@@ -2,7 +2,7 @@
 title: 'Bureaucracies and identity politics'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Mark Twain'
 ---
 

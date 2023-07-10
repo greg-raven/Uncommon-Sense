@@ -2,7 +2,7 @@
 title: 'The people must be moral'
 layout: post
 categories:
-    - morals
+- morals
 tag: 'John Adams'
 ---
 

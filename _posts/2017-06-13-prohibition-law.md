@@ -2,7 +2,7 @@
 title: 'Prohibition law'
 layout: post
 categories:
-    - rights
+- rights
 tag: 'Abraham Lincoln'
 ---
 

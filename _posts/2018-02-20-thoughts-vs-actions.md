@@ -2,7 +2,7 @@
 title: 'Thoughts vs. actions'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'George Orwell'
 ---
 

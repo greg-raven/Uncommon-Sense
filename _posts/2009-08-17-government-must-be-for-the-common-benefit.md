@@ -2,7 +2,7 @@
 title: 'Government must be for the common benefit'
 layout: post
 categories:
-    - government
+- government
 tag: 'George Mason'
 ---
 

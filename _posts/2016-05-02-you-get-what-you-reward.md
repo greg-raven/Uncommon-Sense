@@ -2,7 +2,7 @@
 title: 'You get what you reward'
 layout: post
 categories:
-    - government
+- government
 tag: 'Mark Twain'
 ---
 

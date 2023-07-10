@@ -2,7 +2,7 @@
 title: 'Arms for free men'
 layout: post
 categories:
-    - 'Second Amendment'
+- 'Second Amendment'
 tag: 'Thomas Jefferson'
 ---
 

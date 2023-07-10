@@ -2,7 +2,7 @@
 title: 'Power is the prize'
 layout: post
 categories:
-    - corruption
+- corruption
 tag: 'Oliver Wendell Holmes Jr.'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Disarmed citizens are servants'
 layout: post
 categories:
-    - 'Second Amendment'
+- 'Second Amendment'
 tag: 'Jeffrey R. Snyder'
 ---
 

@@ -2,7 +2,7 @@
 title: 'What is this liberty?'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Frederic Bastiat'
 ---
 

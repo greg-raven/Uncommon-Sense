@@ -2,7 +2,7 @@
 title: 'The importance of free speech'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'John Marshall Harlan'
 ---
 

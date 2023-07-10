@@ -2,8 +2,8 @@
 title: 'Don’t let them take you alive'
 layout: post
 categories:
-    - 'external authority'
-    - individualism
+- 'external authority'
+- individualism
 tag: 'Thomas Babington Macaulay'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Politicians vs. free market capitalism'
 layout: post
 categories:
-    - capitalism
+- capitalism
 tag: 'Walter E. Williams'
 ---
 

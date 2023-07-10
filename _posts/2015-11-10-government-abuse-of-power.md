@@ -2,7 +2,7 @@
 title: 'Government abuse of power'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'James Fenimore Cooper'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Redistribution is robbery'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'U. S. Supreme Court'
 ---
 

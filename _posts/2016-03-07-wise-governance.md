@@ -2,7 +2,7 @@
 title: 'Wise governance'
 layout: post
 categories:
-    - government
+- government
 tag: 'Thomas Jefferson'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Labor is not the source of wealth'
 layout: post
 categories:
-    - economics
+- economics
 tag: 'Thomas Sowell'
 ---
 

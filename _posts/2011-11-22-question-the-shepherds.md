@@ -2,7 +2,7 @@
 title: 'Question the ‘shepherds’'
 layout: post
 categories:
-    - demagogues
+- demagogues
 tag: 'Frederic Bastiat'
 ---
 

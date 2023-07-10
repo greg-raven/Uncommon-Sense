@@ -2,7 +2,7 @@
 title: 'Commerce Clause'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'James Madison'
 ---
 

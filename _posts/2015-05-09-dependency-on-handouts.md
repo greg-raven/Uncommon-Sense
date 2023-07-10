@@ -2,7 +2,7 @@
 title: 'Dependency on handouts'
 layout: post
 categories:
-    - welfare
+- welfare
 tag: 'Auberon Herbert'
 ---
 

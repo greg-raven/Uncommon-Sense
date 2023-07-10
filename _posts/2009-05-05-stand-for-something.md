@@ -2,7 +2,7 @@
 title: 'Stand for something'
 layout: post
 categories:
-    - conviction
+- conviction
 tag: 'Alexander Hamilton'
 ---
 

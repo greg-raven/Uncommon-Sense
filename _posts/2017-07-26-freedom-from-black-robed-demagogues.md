@@ -2,7 +2,7 @@
 title: 'Freedom from black-robed demagogues'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Daniel Webster'
 ---
 

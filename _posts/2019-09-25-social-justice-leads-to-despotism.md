@@ -2,7 +2,7 @@
 title: '‘Social justice’ leads to despotism'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Thomas Sowell'
 ---
 

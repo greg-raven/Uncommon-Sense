@@ -2,8 +2,8 @@
 title: 'The standard crisis response'
 layout: post
 categories:
-    - collectivization
-    - socialism
+- collectivization
+- socialism
 tag: 'Ann Coulter'
 ---
 

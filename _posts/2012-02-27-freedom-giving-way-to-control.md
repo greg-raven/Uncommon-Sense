@@ -2,7 +2,7 @@
 title: 'Freedom giving way to control'
 layout: post
 categories:
-    - collectivization
+- collectivization
 tag: 'Darren Perkins'
 ---
 

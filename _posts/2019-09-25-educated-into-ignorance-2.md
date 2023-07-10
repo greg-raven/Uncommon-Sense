@@ -2,7 +2,7 @@
 title: 'Educated into ignorance'
 layout: post
 categories:
-    - education
+- education
 tag: 'Thomas Sowell'
 ---
 

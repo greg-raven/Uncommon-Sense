@@ -2,7 +2,7 @@
 title: 'Bad precedents'
 layout: post
 categories:
-    - laws
+- laws
 tag: 'Julius Caesar'
 ---
 

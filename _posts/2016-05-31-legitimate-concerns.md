@@ -2,8 +2,8 @@
 title: 'Legitimate concerns'
 layout: post
 categories:
-    - 'informed electorate'
-    - socialism
+- 'informed electorate'
+- socialism
 tag: 'Hans-Hermann Hoppe'
 ---
 

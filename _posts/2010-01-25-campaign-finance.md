@@ -2,7 +2,7 @@
 title: 'Campaign finance'
 layout: post
 categories:
-    - money
+- money
 tag: anonymous
 ---
 

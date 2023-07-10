@@ -2,7 +2,7 @@
 title: 'Wolves and lambs'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: anonymous
 ---
 

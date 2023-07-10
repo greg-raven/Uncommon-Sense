@@ -2,8 +2,8 @@
 title: 'Modern ‘progressives’'
 layout: post
 categories:
-    - culture
-    - liberalism
+- culture
+- liberalism
 tag: 'Greg Raven'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Equality and liberty'
 layout: post
 categories:
-    - demagogues
+- demagogues
 tag: 'Johann Wolfgang von Goethe'
 ---
 

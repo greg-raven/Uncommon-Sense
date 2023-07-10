@@ -2,7 +2,7 @@
 title: 'Government obligations to constituents'
 layout: post
 categories:
-    - government
+- government
 tag: 'James Madison'
 ---
 

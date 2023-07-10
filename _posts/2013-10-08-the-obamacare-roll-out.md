@@ -2,7 +2,7 @@
 title: 'The Obamacare roll-out'
 layout: post
 categories:
-    - Obamacare
+- Obamacare
 tag: 'Jon Stewart'
 ---
 

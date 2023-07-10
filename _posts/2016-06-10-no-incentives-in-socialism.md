@@ -2,7 +2,7 @@
 title: 'No incentives in socialism'
 layout: post
 categories:
-    - education
+- education
 tag: 'Carolyn Lochhead'
 ---
 

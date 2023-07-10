@@ -2,7 +2,7 @@
 title: 'The new racism'
 layout: post
 categories:
-    - race
+- race
 tag: 'Larry Elder'
 ---
 

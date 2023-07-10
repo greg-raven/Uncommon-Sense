@@ -2,7 +2,7 @@
 title: 'Consumer protection'
 layout: post
 categories:
-    - regulations
+- regulations
 tag: 'Milton Friedman'
 ---
 

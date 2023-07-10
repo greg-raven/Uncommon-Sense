@@ -2,7 +2,7 @@
 title: 'Accidental insults'
 layout: post
 categories:
-    - citizenship
+- citizenship
 tag: 'Robert A. Heinlein'
 ---
 

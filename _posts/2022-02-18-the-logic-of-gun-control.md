@@ -2,7 +2,7 @@
 title: 'The logic of gun control'
 layout: post
 categories:
-    - 'Second Amendment'
+- 'Second Amendment'
 tag: 'Joe Sobran'
 ---
 

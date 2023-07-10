@@ -2,7 +2,7 @@
 title: 'Love of money'
 layout: post
 categories:
-    - money
+- money
 tag: 'Ayn Rand'
 ---
 

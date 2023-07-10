@@ -2,7 +2,7 @@
 title: 'Freedom is not a reward'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Albert Camus'
 ---
 

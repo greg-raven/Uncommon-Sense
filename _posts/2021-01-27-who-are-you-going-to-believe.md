@@ -2,7 +2,7 @@
 title: 'Who are you going to believe?'
 layout: post
 categories:
-    - knowledge
+- knowledge
 tag: 'George Orwell'
 ---
 

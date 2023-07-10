@@ -2,7 +2,7 @@
 title: 'Undermining immigration laws'
 layout: post
 categories:
-    - immigration
+- immigration
 tag: 'Jeff Sessions'
 ---
 

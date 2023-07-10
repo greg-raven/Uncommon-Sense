@@ -2,7 +2,7 @@
 title: 'The grant of liberty'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Daniel Webster'
 ---
 

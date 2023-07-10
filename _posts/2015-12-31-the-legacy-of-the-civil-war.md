@@ -2,7 +2,7 @@
 title: 'The legacy of the Civil War'
 layout: post
 categories:
-    - war
+- war
 tag: 'Walter E. Williams'
 ---
 

@@ -2,8 +2,8 @@
 title: 'Too dangerous'
 layout: post
 categories:
-    - demagogues
-    - politics
+- demagogues
+- politics
 tag: 'Thomas Sowell'
 ---
 

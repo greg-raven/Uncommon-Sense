@@ -2,7 +2,7 @@
 title: 'The real reason for small government'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'David Boaz'
 ---
 

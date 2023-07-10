@@ -2,7 +2,7 @@
 title: 'Sanity needed'
 layout: post
 categories:
-    - liberalism
+- liberalism
 tag: 'Ann Coulter'
 ---
 

@@ -2,7 +2,7 @@
 title: 'The progressive illusion'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Ludwig von Mises'
 ---
 

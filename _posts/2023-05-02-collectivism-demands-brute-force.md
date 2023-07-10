@@ -2,7 +2,7 @@
 title: 'Collectivism demands brute force'
 layout: post
 categories:
-    - collectivization
+- collectivization
 tag: 'Ayn Rand'
 ---
 

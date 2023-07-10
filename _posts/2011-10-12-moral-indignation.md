@@ -2,7 +2,7 @@
 title: 'Moral indignation'
 layout: post
 categories:
-    - evil
+- evil
 tag: 'Vittorio de Sica'
 ---
 

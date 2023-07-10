@@ -2,7 +2,7 @@
 title: 'Collective wisdom'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'H. L. Mencken'
 ---
 

@@ -2,7 +2,7 @@
 title: Fantasyland
 layout: post
 categories:
-    - education
+- education
 tag: 'Thomas Sowell'
 ---
 

@@ -2,8 +2,8 @@
 title: 'Government power vs. individual liberty'
 layout: post
 categories:
-    - government
-    - taxation
+- government
+- taxation
 tag: 'Hans-Hermann Hoppe'
 ---
 

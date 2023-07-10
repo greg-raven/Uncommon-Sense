@@ -2,7 +2,7 @@
 title: 'The simple life'
 layout: post
 categories:
-    - prosperity
+- prosperity
 tag: 'Thomas Jefferson'
 ---
 

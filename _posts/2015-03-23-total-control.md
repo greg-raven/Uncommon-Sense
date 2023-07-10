@@ -2,7 +2,7 @@
 title: 'Total control'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'John F. McManus'
 ---
 

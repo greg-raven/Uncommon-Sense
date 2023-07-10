@@ -2,7 +2,7 @@
 title: 'Political debate is patriotic'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'Hillary Clinton'
 ---
 

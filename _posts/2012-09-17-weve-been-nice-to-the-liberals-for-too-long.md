@@ -2,7 +2,7 @@
 title: 'We’ve been nice to the liberals for too long'
 layout: post
 categories:
-    - liberalism
+- liberalism
 tag: 'P. J. O’Rourke'
 ---
 

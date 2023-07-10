@@ -2,7 +2,7 @@
 title: 'The ills of democracy'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'Edmund Randolph'
 ---
 

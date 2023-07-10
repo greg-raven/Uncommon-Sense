@@ -2,8 +2,8 @@
 title: 'Compound interest'
 layout: post
 categories:
-    - government
-    - laws
+- government
+- laws
 tag: 'Cullen Hightower'
 ---
 

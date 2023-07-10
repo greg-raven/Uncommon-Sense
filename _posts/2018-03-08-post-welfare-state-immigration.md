@@ -2,7 +2,7 @@
 title: 'Post-welfare-state immigration'
 layout: post
 categories:
-    - immigration
+- immigration
 tag: 'Ann Coulter'
 ---
 

@@ -2,8 +2,8 @@
 title: 'Two means of survival'
 layout: post
 categories:
-    - liberty
-    - socialism
+- liberty
+- socialism
 tag: 'Albert Jay Nock'
 ---
 

@@ -2,7 +2,7 @@
 title: 'A right of the people'
 layout: post
 categories:
-    - 'Second Amendment'
+- 'Second Amendment'
 tag: 'Steven P. Halbrook'
 ---
 

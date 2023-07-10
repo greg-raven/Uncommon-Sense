@@ -2,7 +2,7 @@
 title: 'Why most Americans love government'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'Walter E. Williams'
 ---
 

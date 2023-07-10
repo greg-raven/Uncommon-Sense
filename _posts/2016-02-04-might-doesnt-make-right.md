@@ -2,7 +2,7 @@
 title: 'Might doesn’t make right'
 layout: post
 categories:
-    - laws
+- laws
 tag: 'Frederic Bastiat'
 ---
 

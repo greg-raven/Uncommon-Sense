@@ -2,7 +2,7 @@
 title: 'Conservatives vs. liberals'
 layout: post
 categories:
-    - politics
+- politics
 tag: 'Ambrose Bierce'
 ---
 

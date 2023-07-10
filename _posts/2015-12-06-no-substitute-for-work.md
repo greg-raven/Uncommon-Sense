@@ -2,7 +2,7 @@
 title: 'No substitute for work'
 layout: post
 categories:
-    - self-improvement
+- self-improvement
 tag: 'Gordon B. Hinckley'
 ---
 

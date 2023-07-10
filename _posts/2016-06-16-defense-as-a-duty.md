@@ -2,7 +2,7 @@
 title: 'Defense as a duty'
 layout: post
 categories:
-    - government
+- government
 tag: 'John Adams'
 ---
 

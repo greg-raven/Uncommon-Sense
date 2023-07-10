@@ -2,7 +2,7 @@
 title: 'The George Soros factor'
 layout: post
 categories:
-    - corruption
+- corruption
 tag: 'Ann Coulter'
 ---
 

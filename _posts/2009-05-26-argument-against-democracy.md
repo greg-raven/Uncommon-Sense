@@ -2,7 +2,7 @@
 title: 'Argument against democracy'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'Winston Churchill'
 ---
 

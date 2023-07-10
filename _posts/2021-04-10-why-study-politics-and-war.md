@@ -2,7 +2,7 @@
 title: 'Why study politics and war'
 layout: post
 categories:
-    - culture
+- culture
 tag: 'John Adams'
 ---
 

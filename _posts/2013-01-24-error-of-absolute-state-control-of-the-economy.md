@@ -2,7 +2,7 @@
 title: 'The error of absolute state control of the economy'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Vladimir Putin'
 ---
 

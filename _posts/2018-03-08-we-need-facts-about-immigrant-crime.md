@@ -2,7 +2,7 @@
 title: 'We need facts about immigrant crime'
 layout: post
 categories:
-    - immigration
+- immigration
 tag: 'Ann Coulter'
 ---
 

@@ -2,7 +2,7 @@
 title: 'The limits of their compassion'
 layout: post
 categories:
-    - liberalism
+- liberalism
 tag: 'Thomas Sowell'
 ---
 

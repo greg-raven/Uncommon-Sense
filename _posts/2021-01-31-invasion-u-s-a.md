@@ -2,7 +2,7 @@
 title: 'Invasion U.S.A.'
 layout: post
 categories:
-    - immigration
+- immigration
 tag: 'Sam Francis'
 ---
 

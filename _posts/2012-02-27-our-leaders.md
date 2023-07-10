@@ -2,7 +2,7 @@
 title: 'Our leaders'
 layout: post
 categories:
-    - knowledge
+- knowledge
 tag: 'Axel Oxenstierna'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Instruments of government'
 layout: post
 categories:
-    - rebellion
+- rebellion
 tag: 'Alexander Hamilton'
 ---
 

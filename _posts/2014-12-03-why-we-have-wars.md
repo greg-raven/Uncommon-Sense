@@ -2,7 +2,7 @@
 title: 'Why we have wars'
 layout: post
 categories:
-    - war
+- war
 tag: 'George Orwell'
 ---
 

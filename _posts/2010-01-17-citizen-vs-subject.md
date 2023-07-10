@@ -2,7 +2,7 @@
 title: 'Citizen vs. subject'
 layout: post
 categories:
-    - 'Second Amendment'
+- 'Second Amendment'
 tag: anonymous
 ---
 

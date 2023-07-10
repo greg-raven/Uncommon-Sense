@@ -2,7 +2,7 @@
 title: 'Actions, not thoughts or words'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'Charles Evans Hughes'
 ---
 

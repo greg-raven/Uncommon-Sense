@@ -2,8 +2,8 @@
 title: 'The cost of good intentions'
 layout: post
 categories:
-    - collectivization
-    - socialism
+- collectivization
+- socialism
 tag: 'Rick Gaber'
 ---
 

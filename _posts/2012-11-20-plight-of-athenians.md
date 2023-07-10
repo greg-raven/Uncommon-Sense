@@ -2,7 +2,7 @@
 title: 'The plight of the Athenians'
 layout: post
 categories:
-    - rights
+- rights
 tag: 'Edward Gibbon'
 ---
 

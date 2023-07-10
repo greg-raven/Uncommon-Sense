@@ -2,8 +2,8 @@
 title: 'Freedom shrinks as government grows'
 layout: post
 categories:
-    - government
-    - liberty
+- government
+- liberty
 tag: 'Dennis Prager'
 ---
 

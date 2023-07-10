@@ -2,7 +2,7 @@
 title: 'Who rules you'
 layout: post
 categories:
-    - speech
+- speech
 tag: Voltaire
 ---
 

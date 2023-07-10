@@ -2,7 +2,7 @@
 title: 'Solving problems'
 layout: post
 categories:
-    - knowledge
+- knowledge
 tag: 'Albert Einstein'
 ---
 

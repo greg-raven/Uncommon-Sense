@@ -2,7 +2,7 @@
 title: 'Government is a cancer'
 layout: post
 categories:
-    - government
+- government
 tag: 'Harry Browne'
 ---
 

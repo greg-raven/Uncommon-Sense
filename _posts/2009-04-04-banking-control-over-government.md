@@ -2,7 +2,7 @@
 title: 'Banking control over government'
 layout: post
 categories:
-    - money
+- money
 tag: 'James Madison'
 ---
 

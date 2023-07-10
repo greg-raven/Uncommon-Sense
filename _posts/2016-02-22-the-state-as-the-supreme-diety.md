@@ -2,8 +2,8 @@
 title: 'The State as the supreme diety'
 layout: post
 categories:
-    - rights
-    - taxation
+- rights
+- taxation
 tag: 'C. S. Lewis'
 ---
 

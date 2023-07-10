@@ -2,8 +2,8 @@
 title: 'The savagery of crowds'
 layout: post
 categories:
-    - collectivization
-    - democracy
+- collectivization
+- democracy
 tag: 'Gustave Le Bon'
 ---
 

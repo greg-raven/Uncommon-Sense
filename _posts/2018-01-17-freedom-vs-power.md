@@ -2,7 +2,7 @@
 title: 'Freedom vs. power'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Eric Hoffer'
 ---
 

@@ -2,7 +2,7 @@
 title: 'This is our problem right here'
 layout: post
 categories:
-    - education
+- education
 tag: 'Thomas Jefferson'
 ---
 

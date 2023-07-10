@@ -2,7 +2,7 @@
 title: 'The benefits and hypocrisy of playing the slavery card'
 layout: post
 categories:
-    - race
+- race
 tag: 'Thomas Sowell'
 ---
 

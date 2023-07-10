@@ -2,7 +2,7 @@
 title: 'Hope and change'
 layout: post
 categories:
-    - rebellion
+- rebellion
 tag: 'John F. Kennedy'
 ---
 

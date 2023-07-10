@@ -2,7 +2,7 @@
 title: 'Freedom and restraint'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Daniel Webster'
 ---
 

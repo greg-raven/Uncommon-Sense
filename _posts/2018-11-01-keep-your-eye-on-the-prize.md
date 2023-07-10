@@ -2,7 +2,7 @@
 title: 'Keep your eye on the prize'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'William Graham Sumner'
 ---
 

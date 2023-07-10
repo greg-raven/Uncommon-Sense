@@ -2,7 +2,7 @@
 title: 'Fixing the open border'
 layout: post
 categories:
-    - immigration
+- immigration
 tag: 'Victor Davis Hanson'
 ---
 

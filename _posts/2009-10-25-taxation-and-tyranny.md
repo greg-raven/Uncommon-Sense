@@ -2,7 +2,7 @@
 title: 'Taxation and tyranny'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'Paul Freda'
 ---
 

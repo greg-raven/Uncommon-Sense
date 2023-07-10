@@ -2,7 +2,7 @@
 title: 'Money talks'
 layout: post
 categories:
-    - money
+- money
 tag: 'Franklin D. Roosevelt'
 ---
 

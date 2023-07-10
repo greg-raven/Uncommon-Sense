@@ -2,7 +2,7 @@
 title: 'The Federal clique'
 layout: post
 categories:
-    - government
+- government
 tag: 'Joe Sobran'
 ---
 

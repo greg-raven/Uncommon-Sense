@@ -2,7 +2,7 @@
 title: 'Built-in excess'
 layout: post
 categories:
-    - government
+- government
 tag: 'John C. Calhoun'
 ---
 

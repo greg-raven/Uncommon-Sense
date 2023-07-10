@@ -2,7 +2,7 @@
 title: 'Government responsibility'
 layout: post
 categories:
-    - government
+- government
 tag: 'David Horowitz'
 ---
 

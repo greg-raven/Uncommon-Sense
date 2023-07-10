@@ -2,8 +2,8 @@
 title: 'Denigrating the rule of law'
 layout: post
 categories:
-    - laws
-    - socialism
+- laws
+- socialism
 tag: 'Steve Stockman'
 ---
 

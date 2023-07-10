@@ -2,8 +2,8 @@
 title: 'Super humans'
 layout: post
 categories:
-    - economics
-    - socialism
+- economics
+- socialism
 tag: 'Thomas Sowell'
 ---
 

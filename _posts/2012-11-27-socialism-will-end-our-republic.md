@@ -2,7 +2,7 @@
 title: 'Socialism will end our Republic'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'Benjamin Franklin'
 ---
 

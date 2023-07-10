@@ -2,8 +2,8 @@
 title: 'Making government work'
 layout: post
 categories:
-    - decentralization
-    - government
+- decentralization
+- government
 tag: 'Ronald Reagan'
 ---
 

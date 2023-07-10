@@ -2,7 +2,7 @@
 title: 'The totalitarian principle'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'T. H. White'
 ---
 

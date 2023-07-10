@@ -2,8 +2,8 @@
 title: 'War and money'
 layout: post
 categories:
-    - money
-    - war
+- money
+- war
 tag: 'Marcus Tullius Cicero'
 ---
 

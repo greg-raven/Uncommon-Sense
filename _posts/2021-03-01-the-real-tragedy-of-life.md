@@ -2,7 +2,7 @@
 title: 'The real tragedy of life'
 layout: post
 categories:
-    - truth
+- truth
 tag: Plato
 ---
 

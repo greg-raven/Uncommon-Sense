@@ -2,7 +2,7 @@
 title: 'Government gaining ground'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Thomas Jefferson'
 ---
 

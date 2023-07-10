@@ -2,7 +2,7 @@
 title: 'The statist objective'
 layout: post
 categories:
-    - collectivization
+- collectivization
 tag: 'Robert W. Lee'
 ---
 

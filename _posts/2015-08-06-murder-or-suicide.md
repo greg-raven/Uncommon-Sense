@@ -2,7 +2,7 @@
 title: 'Murder or suicide'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Ayn Rand'
 ---
 

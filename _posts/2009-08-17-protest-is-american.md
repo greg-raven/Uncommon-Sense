@@ -2,7 +2,7 @@
 title: 'Protest is American'
 layout: post
 categories:
-    - 'informed electorate'
+- 'informed electorate'
 tag: 'Nancy Pelosi'
 ---
 

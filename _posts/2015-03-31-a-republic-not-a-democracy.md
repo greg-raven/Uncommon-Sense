@@ -2,7 +2,7 @@
 title: 'A republic, not a democracy'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'Fisher Ames'
 ---
 

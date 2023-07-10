@@ -2,8 +2,8 @@
 title: 'Why we fight'
 layout: post
 categories:
-    - equality
-    - liberty
+- equality
+- liberty
 tag: 'Charles Koch'
 ---
 

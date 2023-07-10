@@ -2,7 +2,7 @@
 title: 'Black racism is politically correct'
 layout: post
 categories:
-    - race
+- race
 tag: 'Kevin Jackson'
 ---
 

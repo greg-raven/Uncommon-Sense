@@ -2,8 +2,8 @@
 title: 'Stop arbitrary power cold'
 layout: post
 categories:
-    - decentralization
-    - 'external authority'
+- decentralization
+- 'external authority'
 tag: 'John Adams'
 ---
 

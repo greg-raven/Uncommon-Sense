@@ -2,7 +2,7 @@
 title: 'Paper money cheats the common man'
 layout: post
 categories:
-    - money
+- money
 tag: 'Daniel Webster'
 ---
 

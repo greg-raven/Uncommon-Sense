@@ -2,7 +2,7 @@
 title: 'American exceptionalism'
 layout: post
 categories:
-    - history
+- history
 tag: 'Ronald Reagan'
 ---
 

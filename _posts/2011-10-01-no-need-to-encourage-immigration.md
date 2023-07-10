@@ -2,7 +2,7 @@
 title: 'No need to encourage immigration'
 layout: post
 categories:
-    - immigration
+- immigration
 tag: 'George Washington'
 ---
 

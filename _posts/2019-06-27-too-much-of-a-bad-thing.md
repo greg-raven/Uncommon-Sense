@@ -2,7 +2,7 @@
 title: 'Too much of a bad thing'
 layout: post
 categories:
-    - government
+- government
 tag: 'Greg Raven'
 ---
 

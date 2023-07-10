@@ -2,7 +2,7 @@
 title: 'Authority and responsibility'
 layout: post
 categories:
-    - government
+- government
 tag: 'Thomas Sowell'
 ---
 

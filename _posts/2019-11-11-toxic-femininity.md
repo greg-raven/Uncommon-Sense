@@ -2,7 +2,7 @@
 title: 'Toxic femininity'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: Aristotle
 ---
 

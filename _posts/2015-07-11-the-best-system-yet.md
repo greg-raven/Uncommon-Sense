@@ -2,8 +2,8 @@
 title: 'The best system yet'
 layout: post
 categories:
-    - capitalism
-    - economics
+- capitalism
+- economics
 tag: 'Rush Limbaugh'
 ---
 

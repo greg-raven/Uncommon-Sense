@@ -2,7 +2,7 @@
 title: 'Political language'
 layout: post
 categories:
-    - politics
+- politics
 tag: 'George Orwell'
 ---
 

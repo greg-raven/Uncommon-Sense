@@ -2,8 +2,8 @@
 title: 'Is capitalism moral?'
 layout: post
 categories:
-    - capitalism
-    - morals
+- capitalism
+- morals
 tag: 'Walter E. Williams'
 ---
 

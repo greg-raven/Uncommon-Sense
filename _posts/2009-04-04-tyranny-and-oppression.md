@@ -2,7 +2,7 @@
 title: 'Tyranny and oppression'
 layout: post
 categories:
-    - war
+- war
 tag: 'James Madison'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Jury nullification'
 layout: post
 categories:
-    - juries
+- juries
 tag: 'William C. Goodle'
 ---
 

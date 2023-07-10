@@ -2,7 +2,7 @@
 title: 'Examining the Cold War'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Ronald Reagan'
 ---
 

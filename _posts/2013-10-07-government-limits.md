@@ -2,7 +2,7 @@
 title: 'Government limits'
 layout: post
 categories:
-    - government
+- government
 tag: 'Lysander Spooner'
 ---
 

@@ -2,7 +2,7 @@
 title: 'The first ten Amendments'
 layout: post
 categories:
-    - Constitution
+- Constitution
 tag: 'Hugo L. Black'
 ---
 

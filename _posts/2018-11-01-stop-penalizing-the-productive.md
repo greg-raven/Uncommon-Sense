@@ -2,7 +2,7 @@
 title: 'Stop penalizing the productive'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'William Graham Sumner'
 ---
 

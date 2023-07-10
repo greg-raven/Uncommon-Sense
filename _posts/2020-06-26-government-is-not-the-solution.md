@@ -2,9 +2,9 @@
 title: 'Government is not the solution'
 layout: post
 categories:
-    - collectivization
-    - decentralization
-    - 'external authority'
+- collectivization
+- decentralization
+- 'external authority'
 tag: 'Thomas Sowell'
 ---
 

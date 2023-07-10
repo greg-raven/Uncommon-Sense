@@ -2,7 +2,7 @@
 title: 'Socialism is a system that invites abuse'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Thomas Sowell'
 ---
 

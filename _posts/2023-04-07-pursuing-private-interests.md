@@ -2,8 +2,8 @@
 title: 'Pursuing private interests'
 layout: post
 categories:
-    - capitalism
-    - individualism
+- capitalism
+- individualism
 tag: 'Adam Smith'
 ---
 

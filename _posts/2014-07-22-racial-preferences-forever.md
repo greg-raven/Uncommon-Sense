@@ -2,7 +2,7 @@
 title: 'Racial preferences forever'
 layout: post
 categories:
-    - race
+- race
 tag: 'Walter E. Williams'
 ---
 

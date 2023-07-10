@@ -2,7 +2,7 @@
 title: 'Hyphenated Americanism'
 layout: post
 categories:
-    - citizenship
+- citizenship
 tag: 'Theodore Roosevelt'
 ---
 

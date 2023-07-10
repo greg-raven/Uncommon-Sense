@@ -2,7 +2,7 @@
 title: Democracy
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'James Bovard'
 ---
 

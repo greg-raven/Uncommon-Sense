@@ -2,7 +2,7 @@
 title: 'How to earn dignity'
 layout: post
 categories:
-    - self-improvement
+- self-improvement
 tag: 'Bill Hybels'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Ministries of propaganda'
 layout: post
 categories:
-    - decentralization
+- decentralization
 tag: 'Aldous Huxley'
 ---
 

@@ -2,7 +2,7 @@
 title: 'The root of democracy'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'Bertrand Russell'
 ---
 

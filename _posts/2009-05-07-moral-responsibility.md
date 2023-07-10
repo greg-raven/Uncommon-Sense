@@ -2,8 +2,8 @@
 title: 'Moral responsibility'
 layout: post
 categories:
-    - individualism
-    - liberty
+- individualism
+- liberty
 tag: 'Robert A. Heinlein'
 ---
 

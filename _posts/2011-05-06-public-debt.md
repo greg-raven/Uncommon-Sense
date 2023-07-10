@@ -2,7 +2,7 @@
 title: 'Public debt'
 layout: post
 categories:
-    - debt
+- debt
 tag: 'James Madison'
 ---
 

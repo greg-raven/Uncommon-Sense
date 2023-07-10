@@ -2,7 +2,7 @@
 title: 'The tree of liberty'
 layout: post
 categories:
-    - rebellion
+- rebellion
 tag: 'Thomas Jefferson'
 ---
 

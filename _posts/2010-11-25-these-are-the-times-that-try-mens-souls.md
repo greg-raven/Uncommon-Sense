@@ -2,7 +2,7 @@
 title: 'These are the times that try men’s souls'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Thomas Paine'
 ---
 

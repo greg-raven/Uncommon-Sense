@@ -2,7 +2,7 @@
 title: 'Our Bill of Rights'
 layout: post
 categories:
-    - rights
+- rights
 tag: 'Walter Lippmann'
 ---
 

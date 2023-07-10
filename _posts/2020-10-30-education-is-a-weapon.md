@@ -2,7 +2,7 @@
 title: 'Education is a weapon'
 layout: post
 categories:
-    - education
+- education
 tag: 'Josef Stalin'
 ---
 

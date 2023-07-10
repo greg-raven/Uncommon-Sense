@@ -2,7 +2,7 @@
 title: 'Don’t conflate capitalism and corporatism'
 layout: post
 categories:
-    - capitalism
+- capitalism
 tag: 'Ayn Rand'
 ---
 

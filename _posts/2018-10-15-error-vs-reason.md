@@ -2,7 +2,7 @@
 title: 'Error vs. reason'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'Thomas Jefferson'
 ---
 

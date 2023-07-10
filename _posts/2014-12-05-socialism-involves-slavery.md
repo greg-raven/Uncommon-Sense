@@ -2,7 +2,7 @@
 title: 'Socialism involves slavery'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Herbert Spencer'
 ---
 

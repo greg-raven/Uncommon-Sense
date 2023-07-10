@@ -2,8 +2,8 @@
 title: Dysgenics
 layout: post
 categories:
-    - war
-    - welfare
+- war
+- welfare
 tag: 'Thomas Jackson'
 ---
 

@@ -2,8 +2,8 @@
 title: 'Educating children'
 layout: post
 categories:
-    - education
-    - liberty
+- education
+- liberty
 tag: 'John Adams'
 ---
 

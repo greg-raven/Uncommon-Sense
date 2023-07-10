@@ -2,7 +2,7 @@
 title: 'False compassion'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Thomas Sowell'
 ---
 

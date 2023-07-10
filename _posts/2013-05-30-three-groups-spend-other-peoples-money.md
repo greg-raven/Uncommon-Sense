@@ -2,7 +2,7 @@
 title: 'Spending other people’s money'
 layout: post
 categories:
-    - welfare
+- welfare
 tag: 'Richard Armey'
 ---
 

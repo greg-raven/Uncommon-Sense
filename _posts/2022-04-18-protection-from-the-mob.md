@@ -2,7 +2,7 @@
 title: 'Protection against the mob'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'Lord Acton'
 ---
 

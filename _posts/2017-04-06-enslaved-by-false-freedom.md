@@ -2,7 +2,7 @@
 title: 'Enslaved by false freedom'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Johann Wolfgang von Goethe'
 ---
 

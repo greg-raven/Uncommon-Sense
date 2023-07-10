@@ -2,7 +2,7 @@
 title: 'Fluctuating policies'
 layout: post
 categories:
-    - regulations
+- regulations
 tag: 'James Madison'
 ---
 

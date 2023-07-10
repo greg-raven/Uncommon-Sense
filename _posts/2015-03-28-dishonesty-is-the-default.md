@@ -2,7 +2,7 @@
 title: 'Dishonesty is the default'
 layout: post
 categories:
-    - truth
+- truth
 tag: 'Joe Digenova'
 ---
 

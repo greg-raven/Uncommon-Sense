@@ -2,8 +2,8 @@
 title: 'One sin of socialism'
 layout: post
 categories:
-    - socialism
-    - taxation
+- socialism
+- taxation
 tag: 'Thomas Jefferson'
 ---
 

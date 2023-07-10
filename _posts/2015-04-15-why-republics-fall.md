@@ -2,8 +2,8 @@
 title: 'Why republics fall'
 layout: post
 categories:
-    - corruption
-    - government
+- corruption
+- government
 tag: 'Joseph Story'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Good intentions'
 layout: post
 categories:
-    - collectivization
+- collectivization
 tag: 'Daniel Webster'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Second Amendment stand is revealing'
 layout: post
 categories:
-    - 'Second Amendment'
+- 'Second Amendment'
 tag: 'Suzanna Gratia Hupp'
 ---
 

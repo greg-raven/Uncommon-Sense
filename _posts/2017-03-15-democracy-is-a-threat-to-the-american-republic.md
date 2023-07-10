@@ -2,8 +2,8 @@
 title: 'Democracy is a threat to the American republic'
 layout: post
 categories:
-    - Constitution
-    - democracy
+- Constitution
+- democracy
 tag: 'Paul Pauker'
 ---
 

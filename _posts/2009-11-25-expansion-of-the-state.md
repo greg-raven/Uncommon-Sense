@@ -2,7 +2,7 @@
 title: 'Expansion of the state'
 layout: post
 categories:
-    - government
+- government
 tag: 'Frederic Bastiat'
 ---
 

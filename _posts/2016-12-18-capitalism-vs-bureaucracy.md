@@ -2,7 +2,7 @@
 title: 'Capitalism vs. bureaucracy'
 layout: post
 categories:
-    - capitalism
+- capitalism
 tag: 'Donald J. Trump'
 ---
 

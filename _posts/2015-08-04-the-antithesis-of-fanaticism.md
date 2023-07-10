@@ -2,7 +2,7 @@
 title: 'The antithesis of fanaticism'
 layout: post
 categories:
-    - conservatism
+- conservatism
 tag: 'Ronald Reagan'
 ---
 

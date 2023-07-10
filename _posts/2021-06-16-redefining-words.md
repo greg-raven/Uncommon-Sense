@@ -2,7 +2,7 @@
 title: 'Redefining words'
 layout: post
 categories:
-    - language
+- language
 tag: 'Greg Raven'
 ---
 

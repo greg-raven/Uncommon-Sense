@@ -2,7 +2,7 @@
 title: 'Government power'
 layout: post
 categories:
-    - government
+- government
 tag: 'Harry Browne'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Cultural relativism'
 layout: post
 categories:
-    - culture
+- culture
 tag: 'Vox Day'
 ---
 

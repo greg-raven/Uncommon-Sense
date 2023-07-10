@@ -2,7 +2,7 @@
 title: 'Global warming'
 layout: post
 categories:
-    - climate
+- climate
 tag: 'John Coleman'
 ---
 

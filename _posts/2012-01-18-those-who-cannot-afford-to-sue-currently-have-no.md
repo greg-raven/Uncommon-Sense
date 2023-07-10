@@ -2,7 +2,7 @@
 title: 'Only the rich have property rights'
 layout: post
 categories:
-    - rights
+- rights
 tag: 'Steve Symms'
 ---
 

@@ -2,9 +2,9 @@
 title: 'A nation of immigrants is not a nation'
 layout: post
 categories:
-    - diversity
-    - immigration
-    - race
+- diversity
+- immigration
+- race
 tag: 'Ann Coulter'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Jaws of power'
 layout: post
 categories:
-    - collectivization
+- collectivization
 tag: 'John Adams'
 ---
 

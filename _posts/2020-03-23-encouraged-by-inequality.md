@@ -2,7 +2,7 @@
 title: 'Encouraged by inequality'
 layout: post
 categories:
-    - capitalism
+- capitalism
 tag: 'Abraham Lincoln'
 ---
 

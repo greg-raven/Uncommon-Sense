@@ -2,7 +2,7 @@
 title: 'What freedom isn’t'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'P. J. O’Rourke'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Federal forces'
 layout: post
 categories:
-    - Constitution
+- Constitution
 tag: 'Ron Paul'
 ---
 

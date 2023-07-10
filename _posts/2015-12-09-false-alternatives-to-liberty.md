@@ -2,7 +2,7 @@
 title: 'False alternatives to liberty'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Edmund Burke'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Oppression destroys society'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'Thomas Jefferson'
 ---
 

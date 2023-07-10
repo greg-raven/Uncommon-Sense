@@ -2,8 +2,8 @@
 title: 'The ‘gateway’ state'
 layout: post
 categories:
-    - government
-    - welfare
+- government
+- welfare
 tag: 'Michael Taylor'
 ---
 

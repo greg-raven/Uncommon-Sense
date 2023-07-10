@@ -2,7 +2,7 @@
 title: 'Failings of the fourth estate'
 layout: post
 categories:
-    - press
+- press
 tag: 'H. L. Mencken'
 ---
 

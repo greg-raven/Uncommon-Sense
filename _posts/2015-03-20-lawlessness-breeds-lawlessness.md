@@ -2,9 +2,9 @@
 title: 'Lawlessness breeds more lawlessness'
 layout: post
 categories:
-    - Constitution
-    - immigration
-    - laws
+- Constitution
+- immigration
+- laws
 tag: 'Heather Mac Donald'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Guilt is personal'
 layout: post
 categories:
-    - individualism
+- individualism
 tag: 'Charles Evans Hughes'
 ---
 

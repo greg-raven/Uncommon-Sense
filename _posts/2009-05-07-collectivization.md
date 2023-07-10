@@ -2,7 +2,7 @@
 title: Collectivization
 layout: post
 categories:
-    - collectivization
+- collectivization
 tag: 'William F. Buckley'
 ---
 

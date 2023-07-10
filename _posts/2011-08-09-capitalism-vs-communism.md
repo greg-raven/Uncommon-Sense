@@ -2,7 +2,7 @@
 title: 'Capitalism vs. communism'
 layout: post
 categories:
-    - capitalism
+- capitalism
 tag: 'Phelps Adams'
 ---
 

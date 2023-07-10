@@ -2,7 +2,7 @@
 title: 'Preserving freedom'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Dwight D. Eisenhower'
 ---
 

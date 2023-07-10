@@ -2,7 +2,7 @@
 title: 'Stop false climate teachings'
 layout: post
 categories:
-    - education
+- education
 tag: 'Orson Scott Card'
 ---
 

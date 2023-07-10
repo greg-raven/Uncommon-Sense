@@ -2,8 +2,8 @@
 title: 'Legal plunder'
 layout: post
 categories:
-    - socialism
-    - taxation
+- socialism
+- taxation
 tag: 'Frederic Bastiat'
 ---
 

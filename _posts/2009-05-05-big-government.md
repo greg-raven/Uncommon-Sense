@@ -2,7 +2,7 @@
 title: 'Big government'
 layout: post
 categories:
-    - government
+- government
 tag: 'Barry Goldwater'
 ---
 

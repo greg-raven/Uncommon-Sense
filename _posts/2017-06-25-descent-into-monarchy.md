@@ -2,7 +2,7 @@
 title: 'Descent into monarchy'
 layout: post
 categories:
-    - property
+- property
 tag: 'Benjamin Franklin'
 ---
 

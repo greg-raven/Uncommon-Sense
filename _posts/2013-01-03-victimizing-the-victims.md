@@ -2,7 +2,7 @@
 title: 'Victimizing the victims'
 layout: post
 categories:
-    - 'Second Amendment'
+- 'Second Amendment'
 tag: 'William Burroughs'
 ---
 

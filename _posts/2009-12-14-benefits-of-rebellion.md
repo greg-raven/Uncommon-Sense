@@ -2,7 +2,7 @@
 title: 'Benefits of rebellion'
 layout: post
 categories:
-    - rebellion
+- rebellion
 tag: 'Thomas Jefferson'
 ---
 

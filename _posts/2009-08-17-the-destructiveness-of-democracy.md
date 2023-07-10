@@ -2,7 +2,7 @@
 title: 'The destructiveness of democracy'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'Thomas Babington Macaulay'
 ---
 

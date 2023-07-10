@@ -2,7 +2,7 @@
 title: 'The prime function of government'
 layout: post
 categories:
-    - property
+- property
 tag: 'James Madison'
 ---
 

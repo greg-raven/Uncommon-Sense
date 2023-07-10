@@ -2,7 +2,7 @@
 title: 'We must understand our monetary system'
 layout: post
 categories:
-    - money
+- money
 tag: 'John Adams'
 ---
 

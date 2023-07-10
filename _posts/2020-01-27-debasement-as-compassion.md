@@ -2,7 +2,7 @@
 title: 'Debasement as compassion'
 layout: post
 categories:
-    - welfare
+- welfare
 tag: 'Thomas Sowell'
 ---
 

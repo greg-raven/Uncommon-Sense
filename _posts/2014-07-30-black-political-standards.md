@@ -2,7 +2,7 @@
 title: 'Black political standards'
 layout: post
 categories:
-    - race
+- race
 tag: 'Walter E. Williams'
 ---
 

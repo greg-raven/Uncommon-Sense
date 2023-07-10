@@ -2,7 +2,7 @@
 title: 'Eat the others'
 layout: post
 categories:
-    - politics
+- politics
 tag: 'H. L. Mencken'
 ---
 

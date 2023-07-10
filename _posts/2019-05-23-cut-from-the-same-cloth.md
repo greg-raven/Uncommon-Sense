@@ -2,7 +2,7 @@
 title: 'Cut from the same cloth'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Jacob G. Hornberger'
 ---
 

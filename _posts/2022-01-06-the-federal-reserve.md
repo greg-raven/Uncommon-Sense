@@ -2,7 +2,7 @@
 title: 'The Federal Reserve'
 layout: post
 categories:
-    - money
+- money
 tag: 'Barry Goldwater'
 ---
 

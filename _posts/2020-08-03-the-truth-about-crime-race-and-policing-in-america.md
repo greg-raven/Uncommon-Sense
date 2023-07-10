@@ -2,7 +2,7 @@
 title: 'The truth about crime, race, and policing in America'
 layout: post
 categories:
-    - race
+- race
 tag: 'Heather Mac Donald'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Freedom lost to ‘law and order’'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'John Lindsay'
 ---
 

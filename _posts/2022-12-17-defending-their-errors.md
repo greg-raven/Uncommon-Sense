@@ -2,7 +2,7 @@
 title: 'Defending their errors'
 layout: post
 categories:
-    - demagogues
+- demagogues
 tag: 'Edmund Burke'
 ---
 

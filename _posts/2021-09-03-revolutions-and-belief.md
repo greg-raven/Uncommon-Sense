@@ -2,7 +2,7 @@
 title: 'Revolutions and belief'
 layout: post
 categories:
-    - rebellion
+- rebellion
 tag: 'Gustave Le Bon'
 ---
 

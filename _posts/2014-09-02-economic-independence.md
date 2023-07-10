@@ -2,7 +2,7 @@
 title: 'Economic independence'
 layout: post
 categories:
-    - individualism
+- individualism
 tag: 'C. S. Lewis'
 ---
 

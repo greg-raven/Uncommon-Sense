@@ -2,7 +2,7 @@
 title: 'The future belongs to patriots'
 layout: post
 categories:
-    - patriotism
+- patriotism
 tag: 'Donald J. Trump'
 ---
 

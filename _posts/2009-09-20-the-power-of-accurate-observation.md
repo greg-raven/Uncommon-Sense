@@ -2,8 +2,8 @@
 title: 'The power of accurate observation'
 layout: post
 categories:
-    - knowledge
-    - truth
+- knowledge
+- truth
 tag: 'George Bernard Shaw'
 ---
 

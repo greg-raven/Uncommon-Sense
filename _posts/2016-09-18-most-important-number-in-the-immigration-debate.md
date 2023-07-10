@@ -2,7 +2,7 @@
 title: 'Most important number in the immigration debate'
 layout: post
 categories:
-    - immigration
+- immigration
 tag: 'Donald J. Trump'
 ---
 

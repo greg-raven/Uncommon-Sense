@@ -2,7 +2,7 @@
 title: 'When politicians pass laws'
 layout: post
 categories:
-    - capitalism
+- capitalism
 tag: 'Rick Gaber'
 ---
 

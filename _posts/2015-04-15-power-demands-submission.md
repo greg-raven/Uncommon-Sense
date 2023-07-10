@@ -2,7 +2,7 @@
 title: 'Power demands submission'
 layout: post
 categories:
-    - 'external authority'
+- 'external authority'
 tag: 'Eric Hoffer'
 ---
 

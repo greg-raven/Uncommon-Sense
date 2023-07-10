@@ -2,7 +2,7 @@
 title: 'We get to pick and choose'
 layout: post
 categories:
-    - immigration
+- immigration
 tag: 'Ann Coulter'
 ---
 

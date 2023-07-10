@@ -2,7 +2,7 @@
 title: 'Privacy rights'
 layout: post
 categories:
-    - rights
+- rights
 tag: 'John Louis Coffey'
 ---
 

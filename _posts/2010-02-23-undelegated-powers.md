@@ -2,7 +2,7 @@
 title: 'Undelegated powers'
 layout: post
 categories:
-    - Constitution
+- Constitution
 tag: 'Thomas Jefferson'
 ---
 

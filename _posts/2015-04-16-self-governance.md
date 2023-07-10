@@ -2,7 +2,7 @@
 title: 'Self governance'
 layout: post
 categories:
-    - individualism
+- individualism
 tag: 'Adam Smith'
 ---
 

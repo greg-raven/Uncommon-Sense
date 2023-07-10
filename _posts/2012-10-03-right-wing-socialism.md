@@ -2,7 +2,7 @@
 title: '‘Right-wing’ socialism'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'John Joseph Ray'
 ---
 

@@ -2,7 +2,7 @@
 title: 'You ain’t seen nothing yet'
 layout: post
 categories:
-    - government
+- government
 tag: anonymous
 ---
 

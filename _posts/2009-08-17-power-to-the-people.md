@@ -2,7 +2,7 @@
 title: 'Power to the people'
 layout: post
 categories:
-    - rebellion
+- rebellion
 tag: 'Nancy Pelosi'
 ---
 

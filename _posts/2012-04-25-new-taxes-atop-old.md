@@ -2,7 +2,7 @@
 title: 'New taxes atop old'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'H. L. Mencken'
 ---
 

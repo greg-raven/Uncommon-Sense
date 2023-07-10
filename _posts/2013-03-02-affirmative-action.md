@@ -2,7 +2,7 @@
 title: 'Affirmative action'
 layout: post
 categories:
-    - equality
+- equality
 tag: 'Christopher Caldwell'
 ---
 

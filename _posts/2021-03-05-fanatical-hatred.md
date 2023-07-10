@@ -2,9 +2,9 @@
 title: 'Fanatical hatred'
 layout: post
 categories:
-    - collectivization
-    - conviction
-    - 'external authority'
+- collectivization
+- conviction
+- 'external authority'
 tag: 'Eric Hoffer'
 ---
 

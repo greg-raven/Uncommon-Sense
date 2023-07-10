@@ -2,7 +2,7 @@
 title: 'It happens every year'
 layout: post
 categories:
-    - race
+- race
 tag: 'Pistol Pete'
 ---
 

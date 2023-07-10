@@ -2,8 +2,8 @@
 title: 'Education creates inequality'
 layout: post
 categories:
-    - education
-    - equality
+- education
+- equality
 tag: 'Felix Emmanuel Schelling'
 ---
 

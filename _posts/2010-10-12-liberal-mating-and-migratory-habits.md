@@ -2,8 +2,8 @@
 title: 'Liberal mating and migratory habits'
 layout: post
 categories:
-    - liberalism
-    - race
+- liberalism
+- race
 tag: 'Joe Sobran'
 ---
 

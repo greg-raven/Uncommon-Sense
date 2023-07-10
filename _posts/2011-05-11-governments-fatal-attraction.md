@@ -2,7 +2,7 @@
 title: 'Government’s fatal attraction'
 layout: post
 categories:
-    - government
+- government
 tag: 'Thomas Sowell'
 ---
 

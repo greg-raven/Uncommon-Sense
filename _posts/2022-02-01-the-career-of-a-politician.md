@@ -2,7 +2,7 @@
 title: 'The career of a politician'
 layout: post
 categories:
-    - politics
+- politics
 tag: 'Auberon Herbert'
 ---
 

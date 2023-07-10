@@ -2,7 +2,7 @@
 title: 'Drug crime'
 layout: post
 categories:
-    - laws
+- laws
 tag: 'Ron Paul'
 ---
 

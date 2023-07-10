@@ -2,7 +2,7 @@
 title: 'On assault weapons and hate speech'
 layout: post
 categories:
-    - 'Second Amendment'
+- 'Second Amendment'
 tag: 'James Bovard'
 ---
 

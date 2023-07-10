@@ -2,7 +2,7 @@
 title: 'Equal treatment for all'
 layout: post
 categories:
-    - equality
+- equality
 tag: 'Thomas Sowell'
 ---
 

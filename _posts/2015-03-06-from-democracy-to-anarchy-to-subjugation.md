@@ -2,7 +2,7 @@
 title: 'From democracy to anarchy to subjugation'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'John Adams'
 ---
 

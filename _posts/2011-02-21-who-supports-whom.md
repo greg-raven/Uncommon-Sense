@@ -2,7 +2,7 @@
 title: 'Who supports whom'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'Grover Cleveland'
 ---
 

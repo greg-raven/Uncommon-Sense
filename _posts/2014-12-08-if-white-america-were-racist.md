@@ -2,7 +2,7 @@
 title: 'If white America were racist'
 layout: post
 categories:
-    - race
+- race
 tag: 'Ben Kinchlow'
 ---
 

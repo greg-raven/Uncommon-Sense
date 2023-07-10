@@ -2,8 +2,8 @@
 title: 'Vote for freedom'
 layout: post
 categories:
-    - democracy
-    - liberty
+- democracy
+- liberty
 tag: 'Herbert Spencer'
 ---
 

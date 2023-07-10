@@ -2,7 +2,7 @@
 title: 'The strongest argument for free enterprise'
 layout: post
 categories:
-    - capitalism
+- capitalism
 tag: 'Milton Friedman'
 ---
 

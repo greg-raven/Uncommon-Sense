@@ -2,7 +2,7 @@
 title: 'Often wrong'
 layout: post
 categories:
-    - liberalism
+- liberalism
 tag: 'Thomas Sowell'
 ---
 

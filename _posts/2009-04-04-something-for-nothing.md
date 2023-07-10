@@ -2,7 +2,7 @@
 title: 'Something for nothing'
 layout: post
 categories:
-    - economics
+- economics
 tag: 'Greg Raven'
 ---
 

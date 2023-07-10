@@ -2,7 +2,7 @@
 title: 'From servants to masters'
 layout: post
 categories:
-    - government
+- government
 tag: 'Samuel Adams'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Illegal immigration'
 layout: post
 categories:
-    - immigration
+- immigration
 tag: 'Barack Hussein Obama'
 ---
 

@@ -2,8 +2,8 @@
 title: 'Ability and honor'
 layout: post
 categories:
-    - morals
-    - virtue
+- morals
+- virtue
 tag: 'Marcus Tullius Cicero'
 ---
 

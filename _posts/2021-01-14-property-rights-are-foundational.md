@@ -2,7 +2,7 @@
 title: 'Property rights are foundational'
 layout: post
 categories:
-    - property
+- property
 tag: 'Daniel Webster'
 ---
 

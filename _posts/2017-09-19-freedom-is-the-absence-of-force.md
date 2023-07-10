@@ -2,7 +2,7 @@
 title: 'Freedom is the absence of force'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Thomas Sowell'
 ---
 

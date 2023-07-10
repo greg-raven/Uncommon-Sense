@@ -2,7 +2,7 @@
 title: 'Foreign aid'
 layout: post
 categories:
-    - 'foreign policy'
+- 'foreign policy'
 tag: 'Douglas Casey'
 ---
 

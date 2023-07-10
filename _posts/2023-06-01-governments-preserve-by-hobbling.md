@@ -2,7 +2,7 @@
 title: 'Governments preserve by hobbling'
 layout: post
 categories:
-    - government
+- government
 tag: 'H. L. Mencken'
 ---
 

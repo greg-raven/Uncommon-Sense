@@ -2,7 +2,7 @@
 title: 'Fascism in America'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Ronald Reagan'
 ---
 

@@ -2,7 +2,7 @@
 title: 'With freedom comes responsibility'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Calvin Coolidge'
 ---
 

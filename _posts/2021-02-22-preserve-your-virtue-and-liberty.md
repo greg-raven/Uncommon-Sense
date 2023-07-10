@@ -2,7 +2,7 @@
 title: 'Preserve your virtue and liberty'
 layout: post
 categories:
-    - morals
+- morals
 tag: 'Benjamin Franklin'
 ---
 

@@ -2,7 +2,7 @@
 title: 'The enemy is the State'
 layout: post
 categories:
-    - government
+- government
 tag: 'H. L. Mencken'
 ---
 

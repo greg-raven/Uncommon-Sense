@@ -2,7 +2,7 @@
 title: 'Welfare for businesses'
 layout: post
 categories:
-    - welfare
+- welfare
 tag: 'Charles Koch'
 ---
 

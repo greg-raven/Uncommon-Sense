@@ -2,7 +2,7 @@
 title: 'Big cities and corruption'
 layout: post
 categories:
-    - corruption
+- corruption
 tag: 'Thomas Jefferson'
 ---
 

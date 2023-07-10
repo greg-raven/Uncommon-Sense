@@ -2,7 +2,7 @@
 title: 'Proportionality in government power'
 layout: post
 categories:
-    - government
+- government
 tag: 'Thomas Jefferson'
 ---
 

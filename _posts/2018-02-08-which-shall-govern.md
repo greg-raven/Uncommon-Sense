@@ -2,7 +2,7 @@
 title: 'Which shall govern?'
 layout: post
 categories:
-    - individualism
+- individualism
 tag: 'Thomas Jefferson'
 ---
 

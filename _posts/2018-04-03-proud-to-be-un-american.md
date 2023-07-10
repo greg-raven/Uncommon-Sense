@@ -2,7 +2,7 @@
 title: 'Proud to be un-American'
 layout: post
 categories:
-    - immigration
+- immigration
 tag: 'Ann Coulter'
 ---
 

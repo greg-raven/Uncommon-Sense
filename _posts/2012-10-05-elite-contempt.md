@@ -2,7 +2,7 @@
 title: 'Elite contempt'
 layout: post
 categories:
-    - demagogues
+- demagogues
 tag: 'Alexis de Tocqueville'
 ---
 

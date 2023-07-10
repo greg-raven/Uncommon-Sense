@@ -2,7 +2,7 @@
 title: '‘Yes, immigration hurts American workers’'
 layout: post
 categories:
-    - immigration
+- immigration
 tag: 'George Borjas'
 ---
 

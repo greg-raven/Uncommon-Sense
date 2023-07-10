@@ -2,7 +2,7 @@
 title: 'Victims of the war on poverty'
 layout: post
 categories:
-    - welfare
+- welfare
 tag: 'Thomas Sowell'
 ---
 

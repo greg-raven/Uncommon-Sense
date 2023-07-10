@@ -2,7 +2,7 @@
 title: 'Voting for tyranny'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'Friedrich August von Hayek'
 ---
 

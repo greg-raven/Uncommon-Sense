@@ -2,7 +2,7 @@
 title: 'Living document or dead letter?'
 layout: post
 categories:
-    - Constitution
+- Constitution
 tag: 'Joe Sobran'
 ---
 

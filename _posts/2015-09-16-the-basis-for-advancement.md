@@ -2,8 +2,8 @@
 title: 'The basis for advancement'
 layout: post
 categories:
-    - self-improvement
-    - socialism
+- self-improvement
+- socialism
 tag: 'William Howard Taft'
 ---
 

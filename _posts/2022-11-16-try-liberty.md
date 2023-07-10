@@ -2,7 +2,7 @@
 title: 'Try liberty'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Frederic Bastiat'
 ---
 

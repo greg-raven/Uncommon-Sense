@@ -2,7 +2,7 @@
 title: 'The NSA'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'Frank Church'
 ---
 

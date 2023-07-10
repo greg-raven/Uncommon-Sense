@@ -2,7 +2,7 @@
 title: 'Politics are everywhere'
 layout: post
 categories:
-    - politics
+- politics
 tag: 'George Orwell'
 ---
 

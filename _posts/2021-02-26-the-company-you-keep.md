@@ -2,7 +2,7 @@
 title: 'The company you keep'
 layout: post
 categories:
-    - government
+- government
 tag: 'Ron Paul'
 ---
 

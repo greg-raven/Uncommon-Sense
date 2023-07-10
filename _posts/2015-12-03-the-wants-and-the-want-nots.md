@@ -2,7 +2,7 @@
 title: 'The wants and the want-nots'
 layout: post
 categories:
-    - culture
+- culture
 tag: 'Robert A. Heinlein'
 ---
 

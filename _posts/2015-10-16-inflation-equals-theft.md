@@ -2,7 +2,7 @@
 title: 'Inflation equals theft'
 layout: post
 categories:
-    - money
+- money
 tag: 'G. Edward Griffin'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Skepticism needed'
 layout: post
 categories:
-    - demagogues
+- demagogues
 tag: Voltaire
 ---
 

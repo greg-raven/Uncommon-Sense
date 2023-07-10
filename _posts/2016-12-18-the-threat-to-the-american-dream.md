@@ -2,7 +2,7 @@
 title: 'The threat to the American Dream'
 layout: post
 categories:
-    - government
+- government
 tag: 'Donald J. Trump'
 ---
 

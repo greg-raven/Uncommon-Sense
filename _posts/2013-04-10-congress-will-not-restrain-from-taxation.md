@@ -2,7 +2,7 @@
 title: 'Congress will not restrain from taxation'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'Melancton Smith'
 ---
 

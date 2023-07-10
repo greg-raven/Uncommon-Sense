@@ -2,7 +2,7 @@
 title: 'Instant democracy doesn’t work'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'Walter E. Williams'
 ---
 

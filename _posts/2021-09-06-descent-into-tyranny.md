@@ -2,7 +2,7 @@
 title: 'Descent into tyranny'
 layout: post
 categories:
-    - government
+- government
 tag: 'Thomas Jefferson'
 ---
 

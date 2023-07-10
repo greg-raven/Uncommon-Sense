@@ -2,7 +2,7 @@
 title: 'The general welfare'
 layout: post
 categories:
-    - decentralization
+- decentralization
 tag: 'Thomas Jefferson'
 ---
 

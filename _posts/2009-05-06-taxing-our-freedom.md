@@ -2,7 +2,7 @@
 title: 'Taxes diminish freedom'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'Herbert Spencer'
 ---
 

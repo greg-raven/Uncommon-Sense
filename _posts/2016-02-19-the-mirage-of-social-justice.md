@@ -2,7 +2,7 @@
 title: 'The mirage of social justice'
 layout: post
 categories:
-    - equality
+- equality
 tag: 'Friedrich August von Hayek'
 ---
 

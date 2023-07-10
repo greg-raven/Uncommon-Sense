@@ -2,7 +2,7 @@
 title: 'The tyranny of majority rule'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'John C. Calhoun'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Destructive power of inflation'
 layout: post
 categories:
-    - economics
+- economics
 tag: 'Milton Friedman'
 ---
 

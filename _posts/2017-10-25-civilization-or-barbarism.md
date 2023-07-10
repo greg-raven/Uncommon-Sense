@@ -2,7 +2,7 @@
 title: 'Civilization or barbarism'
 layout: post
 categories:
-    - war
+- war
 tag: 'Thomas Sowell'
 ---
 

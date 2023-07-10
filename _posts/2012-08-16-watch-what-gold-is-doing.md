@@ -2,8 +2,8 @@
 title: 'Watch what gold is doing'
 layout: post
 categories:
-    - economics
-    - money
+- economics
+- money
 tag: 'Rick Santelli'
 ---
 

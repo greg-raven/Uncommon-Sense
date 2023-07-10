@@ -2,7 +2,7 @@
 title: 'The mystery of government'
 layout: post
 categories:
-    - government
+- government
 tag: 'P. J. O’Rourke'
 ---
 

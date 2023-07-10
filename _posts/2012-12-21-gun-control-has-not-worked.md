@@ -2,7 +2,7 @@
 title: '‘Gun control’ has not worked'
 layout: post
 categories:
-    - 'Second Amendment'
+- 'Second Amendment'
 tag: 'Lt. Lowell Duckett'
 ---
 

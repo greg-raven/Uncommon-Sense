@@ -2,7 +2,7 @@
 title: 'Watch your ‘leaders’'
 layout: post
 categories:
-    - demagogues
+- demagogues
 tag: 'William Henry Harrison'
 ---
 

@@ -2,9 +2,9 @@
 title: 'Democracy is destroying diversity'
 layout: post
 categories:
-    - diversity
-    - education
-    - equality
+- diversity
+- education
+- equality
 tag: 'C. S. Lewis'
 ---
 

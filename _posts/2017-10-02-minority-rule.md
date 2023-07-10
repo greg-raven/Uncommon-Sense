@@ -2,7 +2,7 @@
 title: 'Minority rule'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Eric Hoffer'
 ---
 

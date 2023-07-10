@@ -2,7 +2,7 @@
 title: 'Character'
 layout: post
 categories:
-    - morals
+- morals
 tag: 'Alan Keyes'
 ---
 

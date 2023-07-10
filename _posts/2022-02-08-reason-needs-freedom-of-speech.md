@@ -2,7 +2,7 @@
 title: 'Reason needs freedom of speech'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'George Washington'
 ---
 

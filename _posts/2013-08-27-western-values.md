@@ -2,7 +2,7 @@
 title: 'Western values'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Walter E. Williams'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Education benchmarks'
 layout: post
 categories:
-    - education
+- education
 tag: 'Thomas Sowell'
 ---
 

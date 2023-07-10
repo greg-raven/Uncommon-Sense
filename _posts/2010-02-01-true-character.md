@@ -2,7 +2,7 @@
 title: 'True character'
 layout: post
 categories:
-    - virtue
+- virtue
 tag: 'Samuel Johnson'
 ---
 

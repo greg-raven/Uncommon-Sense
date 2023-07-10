@@ -2,7 +2,7 @@
 title: 'Progressive fascism'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Friedrich August von Hayek'
 ---
 

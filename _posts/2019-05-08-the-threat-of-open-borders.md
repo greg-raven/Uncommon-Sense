@@ -2,7 +2,7 @@
 title: 'The threat of open borders'
 layout: post
 categories:
-    - immigration
+- immigration
 tag: 'Alexander Hamilton'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Bank bail-outs'
 layout: post
 categories:
-    - economics
+- economics
 tag: 'Walter Bagehot'
 ---
 

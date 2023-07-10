@@ -2,7 +2,7 @@
 title: 'View from the top'
 layout: post
 categories:
-    - government
+- government
 tag: 'Adolf Hitler'
 ---
 

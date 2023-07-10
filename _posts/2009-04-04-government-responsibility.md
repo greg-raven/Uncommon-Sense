@@ -2,8 +2,8 @@
 title: 'Government responsibility'
 layout: post
 categories:
-    - economics
-    - government
+- economics
+- government
 tag: 'P. J. O’Rourke'
 ---
 

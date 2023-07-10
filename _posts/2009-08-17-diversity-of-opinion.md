@@ -2,7 +2,7 @@
 title: 'Diversity of opinion'
 layout: post
 categories:
-    - individualism
+- individualism
 tag: 'James Bryant Conant'
 ---
 

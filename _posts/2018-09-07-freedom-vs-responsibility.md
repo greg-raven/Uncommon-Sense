@@ -2,7 +2,7 @@
 title: 'Freedom vs. responsibility'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Eric Hoffer'
 ---
 

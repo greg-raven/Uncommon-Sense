@@ -2,7 +2,7 @@
 title: 'The politics of envy'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Thomas Sowell'
 ---
 

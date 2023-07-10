@@ -2,7 +2,7 @@
 title: 'Avoiding barbarism'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Ludwig von Mises'
 ---
 

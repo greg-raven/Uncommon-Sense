@@ -2,7 +2,7 @@
 title: 'Bureaucracy cannot tolerate individuals'
 layout: post
 categories:
-    - individualism
+- individualism
 tag: 'Dean William Ralph Inge'
 ---
 

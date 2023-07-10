@@ -2,7 +2,7 @@
 title: 'The goal of Newspeak'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'George Orwell'
 ---
 

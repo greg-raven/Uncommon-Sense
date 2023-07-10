@@ -2,8 +2,8 @@
 title: 'Enumerated powers'
 layout: post
 categories:
-    - Constitution
-    - decentralization
+- Constitution
+- decentralization
 tag: 'Edward H. Crane'
 ---
 

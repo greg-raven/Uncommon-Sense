@@ -2,7 +2,7 @@
 title: 'Defining ‘vote’'
 layout: post
 categories:
-    - voting
+- voting
 tag: 'Ambrose Bierce'
 ---
 

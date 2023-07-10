@@ -2,7 +2,7 @@
 title: 'Demagogues and bureaucrats'
 layout: post
 categories:
-    - demagogues
+- demagogues
 tag: 'Ludwig von Mises'
 ---
 

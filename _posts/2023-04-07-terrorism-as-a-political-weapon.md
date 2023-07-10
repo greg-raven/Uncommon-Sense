@@ -2,7 +2,7 @@
 title: 'Terrorism as a political weapon'
 layout: post
 categories:
-    - evil
+- evil
 tag: 'Adolf Hitler'
 ---
 

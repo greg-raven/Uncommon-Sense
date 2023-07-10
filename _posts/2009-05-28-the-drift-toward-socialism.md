@@ -2,7 +2,7 @@
 title: 'The drift toward socialism'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Lyn Nofziger'
 ---
 

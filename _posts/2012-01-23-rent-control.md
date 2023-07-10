@@ -2,7 +2,7 @@
 title: 'Rent control'
 layout: post
 categories:
-    - economics
+- economics
 tag: 'Trevor Burrus'
 ---
 

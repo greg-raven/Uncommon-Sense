@@ -2,7 +2,7 @@
 title: 'Switching places'
 layout: post
 categories:
-    - politics
+- politics
 tag: 'Ronald Reagan'
 ---
 

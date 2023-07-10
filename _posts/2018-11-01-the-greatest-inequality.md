@@ -2,7 +2,7 @@
 title: 'The greatest inequality'
 layout: post
 categories:
-    - equality
+- equality
 tag: Aristotle
 ---
 

@@ -2,7 +2,7 @@
 title: 'Life and liberty'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Thomas Jefferson'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Life, liberty, and property'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Samuel Adams'
 ---
 

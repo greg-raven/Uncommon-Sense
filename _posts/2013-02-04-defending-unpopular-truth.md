@@ -2,7 +2,7 @@
 title: 'Defending unpopular truth'
 layout: post
 categories:
-    - truth
+- truth
 tag: 'James A. Garfield'
 ---
 

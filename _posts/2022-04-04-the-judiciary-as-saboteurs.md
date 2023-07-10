@@ -2,8 +2,8 @@
 title: 'The judiciary as saboteurs'
 layout: post
 categories:
-    - Constitution
-    - laws
+- Constitution
+- laws
 tag: 'Thomas Jefferson'
 ---
 

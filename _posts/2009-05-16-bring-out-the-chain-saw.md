@@ -2,8 +2,8 @@
 title: 'Bring out the chain saw'
 layout: post
 categories:
-    - economics
-    - government
+- economics
+- government
 tag: 'Thomas Jefferson'
 ---
 

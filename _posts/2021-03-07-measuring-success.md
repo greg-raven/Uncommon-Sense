@@ -2,7 +2,7 @@
 title: 'Measuring success'
 layout: post
 categories:
-    - strength
+- strength
 tag: 'Charles A. Lindbergh Jr.'
 ---
 

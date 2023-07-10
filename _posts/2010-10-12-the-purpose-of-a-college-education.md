@@ -2,7 +2,7 @@
 title: 'The purpose of a college education'
 layout: post
 categories:
-    - race
+- race
 tag: 'Joe Sobran'
 ---
 

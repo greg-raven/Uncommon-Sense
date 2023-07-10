@@ -2,7 +2,7 @@
 title: 'Life, liberty, and property'
 layout: post
 categories:
-    - laws
+- laws
 tag: 'Frederic Bastiat'
 ---
 

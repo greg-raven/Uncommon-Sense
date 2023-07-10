@@ -2,7 +2,7 @@
 title: 'Perception gap'
 layout: post
 categories:
-    - 'foreign policy'
+- 'foreign policy'
 tag: 'Michael Parenti'
 ---
 

@@ -2,7 +2,7 @@
 title: 'More dangerous than standing armies'
 layout: post
 categories:
-    - money
+- money
 tag: 'Thomas Jefferson'
 ---
 

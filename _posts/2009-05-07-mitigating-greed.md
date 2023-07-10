@@ -2,7 +2,7 @@
 title: 'Mitigating greed'
 layout: post
 categories:
-    - capitalism
+- capitalism
 tag: 'Milton Friedman'
 ---
 

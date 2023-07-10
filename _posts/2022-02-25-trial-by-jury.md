@@ -2,7 +2,7 @@
 title: 'Trial by jury'
 layout: post
 categories:
-    - juries
+- juries
 tag: 'Thomas Jefferson'
 ---
 

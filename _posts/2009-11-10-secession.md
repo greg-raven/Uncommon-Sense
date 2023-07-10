@@ -2,7 +2,7 @@
 title: Secession
 layout: post
 categories:
-    - decentralization
+- decentralization
 tag: 'Thomas Jefferson'
 ---
 

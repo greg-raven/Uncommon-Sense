@@ -2,7 +2,7 @@
 title: 'Independence through self-sufficiency'
 layout: post
 categories:
-    - individualism
+- individualism
 tag: 'James Madison'
 ---
 

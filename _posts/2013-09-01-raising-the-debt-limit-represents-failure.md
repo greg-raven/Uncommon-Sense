@@ -2,7 +2,7 @@
 title: 'Raising the debt limit represents failure'
 layout: post
 categories:
-    - debt
+- debt
 tag: 'Barack Hussein Obama'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Government backs only losers'
 layout: post
 categories:
-    - waste
+- waste
 tag: 'Greg Raven'
 ---
 

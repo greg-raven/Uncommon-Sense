@@ -2,7 +2,7 @@
 title: 'The camel’s nose under the tent'
 layout: post
 categories:
-    - government
+- government
 tag: 'Harry Browne'
 ---
 

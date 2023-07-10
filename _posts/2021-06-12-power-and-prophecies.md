@@ -2,7 +2,7 @@
 title: 'Power and prophecies'
 layout: post
 categories:
-    - corruption
+- corruption
 tag: 'Eric Hoffer'
 ---
 

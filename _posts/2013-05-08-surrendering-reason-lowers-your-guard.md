@@ -2,7 +2,7 @@
 title: 'Surrendering reason lowers your guard'
 layout: post
 categories:
-    - reason
+- reason
 tag: 'Thomas Jefferson'
 ---
 

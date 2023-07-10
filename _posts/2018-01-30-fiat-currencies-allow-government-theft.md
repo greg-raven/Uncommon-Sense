@@ -2,7 +2,7 @@
 title: 'Fiat currencies allow government theft'
 layout: post
 categories:
-    - economics
+- economics
 tag: 'Friedrich August von Hayek'
 ---
 

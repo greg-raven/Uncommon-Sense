@@ -2,9 +2,9 @@
 title: 'Demographics and crime'
 layout: post
 categories:
-    - culture
-    - immigration
-    - race
+- culture
+- immigration
+- race
 tag: 'Dennis Prager'
 ---
 

@@ -2,8 +2,8 @@
 title: 'Wealth transfer means the death of freedom'
 layout: post
 categories:
-    - socialism
-    - welfare
+- socialism
+- welfare
 tag: 'Thomas Jefferson'
 ---
 

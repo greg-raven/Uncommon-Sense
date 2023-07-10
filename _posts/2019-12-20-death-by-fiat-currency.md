@@ -2,7 +2,7 @@
 title: 'Death by fiat currency'
 layout: post
 categories:
-    - money
+- money
 tag: 'George Washington'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Set business free'
 layout: post
 categories:
-    - capitalism
+- capitalism
 tag: 'Thomas Jefferson'
 ---
 

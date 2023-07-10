@@ -2,7 +2,7 @@
 title: 'Politicians and other people’s money'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'Adam Smith'
 ---
 

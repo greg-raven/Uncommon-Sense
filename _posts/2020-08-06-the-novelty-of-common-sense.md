@@ -2,7 +2,7 @@
 title: 'The novelty of common sense'
 layout: post
 categories:
-    - virtue
+- virtue
 tag: 'Ralph Waldo Emerson'
 ---
 

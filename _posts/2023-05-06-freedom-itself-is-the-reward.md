@@ -2,7 +2,7 @@
 title: 'Freedom itself is the reward'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Alexis de Tocqueville'
 ---
 

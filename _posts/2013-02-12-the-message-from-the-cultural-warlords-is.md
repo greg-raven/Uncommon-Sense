@@ -2,7 +2,7 @@
 title: 'Normal Americans are barriers to social progress'
 layout: post
 categories:
-    - culture
+- culture
 tag: 'Charlton Heston'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Honest money needed'
 layout: post
 categories:
-    - money
+- money
 tag: 'Frederick Soddy'
 ---
 

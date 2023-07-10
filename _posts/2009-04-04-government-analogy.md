@@ -2,7 +2,7 @@
 title: 'Government analogy'
 layout: post
 categories:
-    - government
+- government
 tag: 'Ronald Reagan'
 ---
 

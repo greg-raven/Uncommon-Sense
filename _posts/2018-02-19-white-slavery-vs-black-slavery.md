@@ -2,7 +2,7 @@
 title: 'White slavery vs. black slavery'
 layout: post
 categories:
-    - history
+- history
 tag: 'Thomas Sowell'
 ---
 

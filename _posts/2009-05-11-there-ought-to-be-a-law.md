@@ -2,7 +2,7 @@
 title: 'There ought to be a law'
 layout: post
 categories:
-    - government
+- government
 tag: 'P. J. O’Rourke'
 ---
 

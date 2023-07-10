@@ -2,7 +2,7 @@
 title: 'Knowledge and virtue'
 layout: post
 categories:
-    - 'informed electorate'
+- 'informed electorate'
 tag: 'Samuel Adams'
 ---
 

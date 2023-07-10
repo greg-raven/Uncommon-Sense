@@ -2,7 +2,7 @@
 title: 'Need, greed, and compassion'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Joe Sobran'
 ---
 

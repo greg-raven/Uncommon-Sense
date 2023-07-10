@@ -2,8 +2,8 @@
 title: 'In the name of liberalism'
 layout: post
 categories:
-    - collectivization
-    - socialism
+- collectivization
+- socialism
 tag: 'Ronald Reagan'
 ---
 

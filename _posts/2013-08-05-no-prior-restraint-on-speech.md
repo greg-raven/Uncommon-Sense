@@ -2,7 +2,7 @@
 title: 'No prior restraint on speech'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'Clarence Thomas'
 ---
 

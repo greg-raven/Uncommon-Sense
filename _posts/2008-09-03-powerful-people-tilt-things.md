@@ -2,10 +2,10 @@
 title: 'People in power tend to tilt things in their direction'
 layout: post
 categories:
-    - demagogues
-    - government
-    - politics
-    - voting
+- demagogues
+- government
+- politics
+- voting
 tag: 'Barack Hussein Obama'
 ---
 

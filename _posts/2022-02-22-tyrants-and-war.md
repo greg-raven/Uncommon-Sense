@@ -2,7 +2,7 @@
 title: 'Tyrants and war'
 layout: post
 categories:
-    - war
+- war
 tag: Plato
 ---
 

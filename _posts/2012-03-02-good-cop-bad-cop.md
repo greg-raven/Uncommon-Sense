@@ -2,7 +2,7 @@
 title: 'Good cop, bad cop'
 layout: post
 categories:
-    - government
+- government
 tag: 'Phillip J. Birmingham'
 ---
 

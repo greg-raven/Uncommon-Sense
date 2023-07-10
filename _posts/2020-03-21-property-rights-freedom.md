@@ -2,7 +2,7 @@
 title: 'Property rights = freedom'
 layout: post
 categories:
-    - property
+- property
 tag: 'Ayn Rand'
 ---
 

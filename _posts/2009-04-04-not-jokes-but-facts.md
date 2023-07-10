@@ -2,7 +2,7 @@
 title: 'Not jokes, but facts'
 layout: post
 categories:
-    - government
+- government
 tag: 'Will Rogers'
 ---
 

@@ -2,8 +2,8 @@
 title: 'What our Federal government should be'
 layout: post
 categories:
-    - decentralization
-    - government
+- decentralization
+- government
 tag: 'Thomas Jefferson'
 ---
 

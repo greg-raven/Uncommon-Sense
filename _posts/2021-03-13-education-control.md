@@ -2,7 +2,7 @@
 title: 'Education control'
 layout: post
 categories:
-    - education
+- education
 tag: 'Adolf Hitler'
 ---
 

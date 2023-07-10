@@ -2,7 +2,7 @@
 title: 'How communism will come to America'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Nikita Khrushchev'
 ---
 

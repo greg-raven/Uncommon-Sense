@@ -2,7 +2,7 @@
 title: 'Scientific authority'
 layout: post
 categories:
-    - truth
+- truth
 tag: 'Galileo Galilei'
 ---
 

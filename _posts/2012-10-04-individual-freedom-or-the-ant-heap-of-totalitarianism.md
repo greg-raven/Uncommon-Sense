@@ -2,7 +2,7 @@
 title: 'Individual freedom, or the ant heap of totalitarianism'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Ronald Reagan'
 ---
 

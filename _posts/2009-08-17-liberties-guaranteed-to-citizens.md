@@ -2,7 +2,7 @@
 title: 'Liberties guaranteed to citizens'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'William O. Douglas'
 ---
 

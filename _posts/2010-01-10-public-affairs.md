@@ -2,7 +2,7 @@
 title: 'Public affairs'
 layout: post
 categories:
-    - government
+- government
 tag: 'John Adams'
 ---
 

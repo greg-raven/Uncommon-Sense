@@ -2,7 +2,7 @@
 title: 'When plunder is organized by law'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'Frederic Bastiat'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Closet capitalists'
 layout: post
 categories:
-    - capitalism
+- capitalism
 tag: 'Ludwig von Mises'
 ---
 

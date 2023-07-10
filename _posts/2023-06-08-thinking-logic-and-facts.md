@@ -2,7 +2,7 @@
 title: 'Thinking, logic, and facts'
 layout: post
 categories:
-    - 'informed electorate'
+- 'informed electorate'
 tag: 'H. L. Mencken'
 ---
 

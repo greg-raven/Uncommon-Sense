@@ -2,7 +2,7 @@
 title: 'Using every trick to expand government'
 layout: post
 categories:
-    - government
+- government
 tag: 'James Madison'
 ---
 

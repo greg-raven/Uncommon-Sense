@@ -2,7 +2,7 @@
 title: 'Practical politics'
 layout: post
 categories:
-    - politics
+- politics
 tag: 'H. L. Mencken'
 ---
 

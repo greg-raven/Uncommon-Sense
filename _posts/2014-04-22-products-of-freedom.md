@@ -2,7 +2,7 @@
 title: 'Products of freedom'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Albert Einstein'
 ---
 

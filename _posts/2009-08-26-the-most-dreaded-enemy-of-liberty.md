@@ -2,7 +2,7 @@
 title: 'The most dreaded enemy of liberty'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'James Madison'
 ---
 

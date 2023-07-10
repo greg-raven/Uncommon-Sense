@@ -2,7 +2,7 @@
 title: 'Best exercise'
 layout: post
 categories:
-    - 'Second Amendment'
+- 'Second Amendment'
 tag: 'Thomas Jefferson'
 ---
 

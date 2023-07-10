@@ -2,8 +2,8 @@
 title: Entitlements
 layout: post
 categories:
-    - taxation
-    - welfare
+- taxation
+- welfare
 tag: 'Milton Friedman'
 ---
 

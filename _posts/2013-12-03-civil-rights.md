@@ -2,7 +2,7 @@
 title: 'Civil rights'
 layout: post
 categories:
-    - race
+- race
 tag: 'Walter E. Williams'
 ---
 

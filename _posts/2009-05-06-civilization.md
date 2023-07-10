@@ -2,7 +2,7 @@
 title: Civilization
 layout: post
 categories:
-    - evolution
+- evolution
 tag: 'Herbert Spencer'
 ---
 

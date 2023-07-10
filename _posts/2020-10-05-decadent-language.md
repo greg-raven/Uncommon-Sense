@@ -2,7 +2,7 @@
 title: 'Decadent language'
 layout: post
 categories:
-    - language
+- language
 tag: 'Gore Vidal'
 ---
 

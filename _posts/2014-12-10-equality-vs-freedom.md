@@ -2,8 +2,8 @@
 title: 'Equality vs. freedom'
 layout: post
 categories:
-    - equality
-    - liberty
+- equality
+- liberty
 tag: 'Milton Friedman'
 ---
 

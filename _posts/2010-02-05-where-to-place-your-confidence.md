@@ -2,7 +2,7 @@
 title: 'Where to place your confidence'
 layout: post
 categories:
-    - Constitution
+- Constitution
 tag: 'Thomas Jefferson'
 ---
 

@@ -2,7 +2,7 @@
 title: 'That time is now'
 layout: post
 categories:
-    - corruption
+- corruption
 tag: 'Samuel Adams'
 ---
 

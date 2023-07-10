@@ -2,7 +2,7 @@
 title: 'Blind belief in authority'
 layout: post
 categories:
-    - 'external authority'
+- 'external authority'
 tag: 'Albert Einstein'
 ---
 

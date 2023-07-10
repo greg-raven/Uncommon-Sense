@@ -2,7 +2,7 @@
 title: 'Free thought, free speech'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'Oliver Wendell Holmes Sr.'
 ---
 

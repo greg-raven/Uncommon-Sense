@@ -2,7 +2,7 @@
 title: 'Taking action for liberty'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Woodrow Wilson'
 ---
 

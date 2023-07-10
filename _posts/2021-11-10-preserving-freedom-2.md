@@ -2,7 +2,7 @@
 title: 'Preserving freedom'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'J. Robert Oppenheimer'
 ---
 

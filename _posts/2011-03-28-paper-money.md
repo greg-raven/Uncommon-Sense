@@ -2,7 +2,7 @@
 title: 'Paper money'
 layout: post
 categories:
-    - money
+- money
 tag: Voltaire
 ---
 

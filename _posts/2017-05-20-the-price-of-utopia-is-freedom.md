@@ -2,8 +2,8 @@
 title: 'The price of utopia is freedom'
 layout: post
 categories:
-    - collectivization
-    - liberty
+- collectivization
+- liberty
 tag: 'Rod Eccles'
 ---
 

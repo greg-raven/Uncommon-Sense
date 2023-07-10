@@ -2,7 +2,7 @@
 title: 'Fourth of July'
 layout: post
 categories:
-    - conservatism
+- conservatism
 tag: 'Ronald Reagan'
 ---
 

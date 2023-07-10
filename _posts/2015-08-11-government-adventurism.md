@@ -2,8 +2,8 @@
 title: 'Government adventurism'
 layout: post
 categories:
-    - 'foreign policy'
-    - liberty
+- 'foreign policy'
+- liberty
 tag: 'Sheldon Richman'
 ---
 

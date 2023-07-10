@@ -2,7 +2,7 @@
 title: 'General Welfare'
 layout: post
 categories:
-    - Constitution
+- Constitution
 tag: 'James Madison'
 ---
 

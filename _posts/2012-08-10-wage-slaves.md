@@ -2,7 +2,7 @@
 title: 'Wage slaves'
 layout: post
 categories:
-    - truth
+- truth
 tag: 'Upton Sinclair'
 ---
 

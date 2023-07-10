@@ -2,7 +2,7 @@
 title: 'Tyranny or liberty'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Thomas Jefferson'
 ---
 

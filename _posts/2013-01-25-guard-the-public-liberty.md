@@ -2,7 +2,7 @@
 title: 'Guard the public liberty'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Patrick Henry'
 ---
 

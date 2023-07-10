@@ -2,7 +2,7 @@
 title: 'Liberty vs. force'
 layout: post
 categories:
-    - politics
+- politics
 tag: 'Auberon Herbert'
 ---
 

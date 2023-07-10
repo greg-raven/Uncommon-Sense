@@ -2,8 +2,8 @@
 title: 'The most dangerous man'
 layout: post
 categories:
-    - knowledge
-    - truth
+- knowledge
+- truth
 tag: 'H. L. Mencken'
 ---
 

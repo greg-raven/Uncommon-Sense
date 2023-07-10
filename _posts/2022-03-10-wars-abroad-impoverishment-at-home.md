@@ -2,7 +2,7 @@
 title: 'Wars abroad, impoverishment at home'
 layout: post
 categories:
-    - war
+- war
 tag: 'Abraham Lincoln'
 ---
 

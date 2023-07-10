@@ -2,8 +2,8 @@
 title: 'As government expands, liberty contracts'
 layout: post
 categories:
-    - government
-    - liberty
+- government
+- liberty
 tag: 'Ronald Reagan'
 ---
 

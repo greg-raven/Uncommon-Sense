@@ -2,7 +2,7 @@
 title: 'Taxation = theft'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'Thomas Sowell'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Neither restraint nor aid'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Thomas Jefferson'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Government medicine'
 layout: post
 categories:
-    - government
+- government
 tag: 'L. Neil Smith'
 ---
 

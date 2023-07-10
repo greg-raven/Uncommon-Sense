@@ -2,7 +2,7 @@
 title: 'Supporting our troops'
 layout: post
 categories:
-    - war
+- war
 tag: 'Ron Paul'
 ---
 

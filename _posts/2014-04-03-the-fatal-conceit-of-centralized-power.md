@@ -2,7 +2,7 @@
 title: 'The fatal conceit of centralized power'
 layout: post
 categories:
-    - decentralization
+- decentralization
 tag: 'Charles Koch'
 ---
 

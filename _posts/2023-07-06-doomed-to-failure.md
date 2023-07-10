@@ -2,7 +2,7 @@
 title: 'Dooming civilization to failure'
 layout: post
 categories:
-    - knowledge
+- knowledge
 tag: 'Tony Heller'
 ---
 

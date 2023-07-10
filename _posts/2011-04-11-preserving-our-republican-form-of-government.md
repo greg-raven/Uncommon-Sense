@@ -2,7 +2,7 @@
 title: 'Preserving our republican form of government'
 layout: post
 categories:
-    - government
+- government
 tag: 'Thomas Jefferson'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Sliding into servitude'
 layout: post
 categories:
-    - money
+- money
 tag: 'Peter Kershaw'
 ---
 

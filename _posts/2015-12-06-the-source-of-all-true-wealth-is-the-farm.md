@@ -2,7 +2,7 @@
 title: 'The source of all true wealth is the farm'
 layout: post
 categories:
-    - economics
+- economics
 tag: 'Daniel Webster'
 ---
 

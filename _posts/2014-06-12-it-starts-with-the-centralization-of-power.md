@@ -2,7 +2,7 @@
 title: 'It starts with the centralization of power'
 layout: post
 categories:
-    - collectivization
+- collectivization
 tag: 'Walter E. Williams'
 ---
 

@@ -2,7 +2,7 @@
 title: 'The free market'
 layout: post
 categories:
-    - economics
+- economics
 tag: 'Ludwig von Mises'
 ---
 

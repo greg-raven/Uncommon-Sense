@@ -2,7 +2,7 @@
 title: 'Cheerleading for war'
 layout: post
 categories:
-    - war
+- war
 tag: 'George Orwell'
 ---
 

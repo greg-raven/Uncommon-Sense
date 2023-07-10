@@ -2,7 +2,7 @@
 title: 'Liberties are the gift of God'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Thomas Jefferson'
 ---
 

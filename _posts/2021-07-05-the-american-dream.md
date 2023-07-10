@@ -2,7 +2,7 @@
 title: 'The American dream'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Archibald MacLeish'
 ---
 

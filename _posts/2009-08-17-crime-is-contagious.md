@@ -2,7 +2,7 @@
 title: 'Crime is contagious'
 layout: post
 categories:
-    - corruption
+- corruption
 tag: 'Louis D. Brandeis'
 ---
 

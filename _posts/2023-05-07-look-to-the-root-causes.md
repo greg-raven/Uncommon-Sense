@@ -2,7 +2,7 @@
 title: 'Look to the root causes'
 layout: post
 categories:
-    - laws
+- laws
 tag: 'Auberon Herbert'
 ---
 

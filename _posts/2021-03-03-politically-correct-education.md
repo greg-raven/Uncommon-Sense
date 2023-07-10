@@ -2,7 +2,7 @@
 title: 'Politically-correct education'
 layout: post
 categories:
-    - education
+- education
 tag: 'Jacob G. Hornberger'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Teaching skepticism'
 layout: post
 categories:
-    - education
+- education
 tag: 'Neal Boortz'
 ---
 

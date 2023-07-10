@@ -2,7 +2,7 @@
 title: 'They chose freedom'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Nat Hentoff'
 ---
 

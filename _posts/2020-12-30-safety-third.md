@@ -2,7 +2,7 @@
 title: 'Safety third'
 layout: post
 categories:
-    - rebellion
+- rebellion
 tag: 'Albert Einstein'
 ---
 

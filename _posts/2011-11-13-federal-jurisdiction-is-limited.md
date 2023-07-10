@@ -2,7 +2,7 @@
 title: 'Federal jurisdiction is limited'
 layout: post
 categories:
-    - Constitution
+- Constitution
 tag: 'James Madison'
 ---
 

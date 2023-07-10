@@ -2,7 +2,7 @@
 title: 'Economic control = people control'
 layout: post
 categories:
-    - economics
+- economics
 tag: 'Ronald Reagan'
 ---
 

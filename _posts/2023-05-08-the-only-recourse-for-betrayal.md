@@ -2,8 +2,8 @@
 title: 'The only recourse for betrayal'
 layout: post
 categories:
-    - corruption
-    - government
+- corruption
+- government
 tag: 'Alexander Hamilton'
 ---
 

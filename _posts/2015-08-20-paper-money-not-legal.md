@@ -2,7 +2,7 @@
 title: 'Paper money not legal'
 layout: post
 categories:
-    - money
+- money
 tag: 'George Bancroft'
 ---
 

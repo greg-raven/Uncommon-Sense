@@ -2,8 +2,8 @@
 title: 'Minimum-wage laws'
 layout: post
 categories:
-    - economics
-    - regulations
+- economics
+- regulations
 tag: 'Thomas Sowell'
 ---
 

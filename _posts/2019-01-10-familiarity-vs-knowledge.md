@@ -2,8 +2,8 @@
 title: 'Familiarity vs. knowledge'
 layout: post
 categories:
-    - education
-    - knowledge
+- education
+- knowledge
 tag: 'Samuel Johnson'
 ---
 

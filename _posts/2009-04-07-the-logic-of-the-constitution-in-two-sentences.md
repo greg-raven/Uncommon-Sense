@@ -2,7 +2,7 @@
 title: 'The logic of the Constitution in two sentences'
 layout: post
 categories:
-    - Constitution
+- Constitution
 tag: 'Alexis de Tocqueville'
 ---
 

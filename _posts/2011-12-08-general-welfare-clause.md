@@ -2,7 +2,7 @@
 title: 'The general welfare clause'
 layout: post
 categories:
-    - welfare
+- welfare
 tag: 'William Drayton'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Appropriate form of government'
 layout: post
 categories:
-    - government
+- government
 tag: 'Charles de Montesquieu'
 ---
 

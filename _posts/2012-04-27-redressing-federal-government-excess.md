@@ -2,7 +2,7 @@
 title: 'Redressing federal government excess'
 layout: post
 categories:
-    - rebellion
+- rebellion
 tag: 'Alexander Hamilton'
 ---
 

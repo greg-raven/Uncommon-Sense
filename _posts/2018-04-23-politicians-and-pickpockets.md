@@ -2,8 +2,8 @@
 title: 'Politicians and pickpockets'
 layout: post
 categories:
-    - socialism
-    - taxation
+- socialism
+- taxation
 tag: 'Joe Sobran'
 ---
 

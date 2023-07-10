@@ -2,7 +2,7 @@
 title: 'Liberty and the press'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Harry Browne'
 ---
 

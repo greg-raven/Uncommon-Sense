@@ -2,7 +2,7 @@
 title: 'Private thoughts'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'Charles A. Lindbergh Jr.'
 ---
 

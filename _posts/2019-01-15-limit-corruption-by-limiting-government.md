@@ -2,7 +2,7 @@
 title: 'Limit corruption by limiting government'
 layout: post
 categories:
-    - corruption
+- corruption
 tag: 'P. J. O’Rourke'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Ultimate absurdity'
 layout: post
 categories:
-    - collectivization
+- collectivization
 tag: 'Thomas Sowell'
 ---
 

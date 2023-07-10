@@ -2,7 +2,7 @@
 title: 'Prolonged warfare'
 layout: post
 categories:
-    - war
+- war
 tag: 'Sun Tzu'
 ---
 

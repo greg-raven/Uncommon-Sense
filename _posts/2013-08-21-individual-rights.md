@@ -2,7 +2,7 @@
 title: 'Individual rights'
 layout: post
 categories:
-    - rights
+- rights
 tag: 'Ayn Rand'
 ---
 

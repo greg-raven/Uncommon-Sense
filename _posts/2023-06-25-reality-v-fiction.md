@@ -2,7 +2,7 @@
 title: 'Reality vs. fiction'
 layout: post
 categories:
-    - reason
+- reason
 tag: 'Tom Clancy'
 ---
 

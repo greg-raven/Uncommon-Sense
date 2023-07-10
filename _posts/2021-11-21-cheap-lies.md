@@ -2,7 +2,7 @@
 title: 'Cheap lies'
 layout: post
 categories:
-    - war
+- war
 tag: 'Mark Twain'
 ---
 

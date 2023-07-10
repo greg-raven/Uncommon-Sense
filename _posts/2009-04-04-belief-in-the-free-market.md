@@ -2,8 +2,8 @@
 title: 'Belief in the free market'
 layout: post
 categories:
-    - capitalism
-    - liberty
+- capitalism
+- liberty
 tag: 'Milton Friedman'
 ---
 

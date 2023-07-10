@@ -2,7 +2,7 @@
 title: 'Collectivist emergencies'
 layout: post
 categories:
-    - collectivization
+- collectivization
 tag: 'Herbert Hoover'
 ---
 

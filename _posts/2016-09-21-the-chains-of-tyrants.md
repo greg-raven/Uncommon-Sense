@@ -2,7 +2,7 @@
 title: 'The  chains of tyrants'
 layout: post
 categories:
-    - corruption
+- corruption
 tag: 'Patrick Henry'
 ---
 

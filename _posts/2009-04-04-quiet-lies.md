@@ -2,7 +2,7 @@
 title: 'Quiet lies'
 layout: post
 categories:
-    - truth
+- truth
 tag: 'Yevgeny Yevtushenko'
 ---
 

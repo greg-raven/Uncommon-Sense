@@ -2,7 +2,7 @@
 title: 'Is your life worth protecting?'
 layout: post
 categories:
-    - Second Amendment
+- Second Amendment
 tag: 'Jeffrey R. Snyder'
 ---
 

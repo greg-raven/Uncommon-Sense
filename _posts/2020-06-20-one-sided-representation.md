@@ -2,7 +2,7 @@
 title: 'One-sided representation'
 layout: post
 categories:
-    - race
+- race
 tag: 'Thomas Sowell'
 ---
 

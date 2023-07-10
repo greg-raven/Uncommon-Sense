@@ -2,7 +2,7 @@
 title: 'The blessing of small government'
 layout: post
 categories:
-    - conservatism
+- conservatism
 tag: 'Calvin Coolidge'
 ---
 

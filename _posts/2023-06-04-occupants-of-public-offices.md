@@ -2,7 +2,7 @@
 title: 'Occupants of public offices'
 layout: post
 categories:
-    - government
+- government
 tag: 'George Washington'
 ---
 

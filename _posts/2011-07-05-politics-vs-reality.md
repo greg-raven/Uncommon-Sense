@@ -2,7 +2,7 @@
 title: 'Politics vs. reality'
 layout: post
 categories:
-    - politics
+- politics
 tag: 'Thomas Sowell'
 ---
 

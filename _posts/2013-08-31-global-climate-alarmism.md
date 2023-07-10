@@ -2,7 +2,7 @@
 title: 'Global climate alarmism'
 layout: post
 categories:
-    - environment
+- environment
 tag: 'Richard Lindzen'
 ---
 

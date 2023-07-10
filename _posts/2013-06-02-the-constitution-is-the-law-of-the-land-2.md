@@ -2,7 +2,7 @@
 title: 'The Constitution is the law of the land'
 layout: post
 categories:
-    - Constitution
+- Constitution
 tag: 'Alexander Hamilton'
 ---
 

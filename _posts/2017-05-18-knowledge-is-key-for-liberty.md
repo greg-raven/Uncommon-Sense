@@ -2,8 +2,8 @@
 title: 'Knowledge is key for liberty'
 layout: post
 categories:
-    - knowledge
-    - liberty
+- knowledge
+- liberty
 tag: 'James Madison'
 ---
 

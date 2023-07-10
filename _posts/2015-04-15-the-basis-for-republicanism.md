@@ -2,7 +2,7 @@
 title: 'The basis for republicanism'
 layout: post
 categories:
-    - individualism
+- individualism
 tag: 'Hans L. Eicholz'
 ---
 

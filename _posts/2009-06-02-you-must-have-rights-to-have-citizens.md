@@ -2,7 +2,7 @@
 title: 'You must have rights to have citizens'
 layout: post
 categories:
-    - rights
+- rights
 tag: 'Dwight D. Eisenhower'
 ---
 

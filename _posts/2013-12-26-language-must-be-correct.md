@@ -2,7 +2,7 @@
 title: 'Language must be correct'
 layout: post
 categories:
-    - language
+- language
 tag: Confucius
 ---
 

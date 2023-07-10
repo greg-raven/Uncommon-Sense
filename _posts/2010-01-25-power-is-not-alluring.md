@@ -2,7 +2,7 @@
 title: 'Power is not alluring'
 layout: post
 categories:
-    - individualism
+- individualism
 tag: 'Thomas Jefferson'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Delegation of powers'
 layout: post
 categories:
-    - government
+- government
 tag: 'John Locke'
 ---
 

@@ -2,8 +2,8 @@
 title: 'Government waste'
 layout: post
 categories:
-    - government
-    - waste
+- government
+- waste
 tag: 'P. J. O’Rourke'
 ---
 

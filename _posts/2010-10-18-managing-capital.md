@@ -2,7 +2,7 @@
 title: 'Managing capital'
 layout: post
 categories:
-    - economics
+- economics
 tag: 'Adam Smith'
 ---
 

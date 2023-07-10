@@ -2,7 +2,7 @@
 title: Uniformity
 layout: post
 categories:
-    - equality
+- equality
 tag: 'Thomas Jefferson'
 ---
 

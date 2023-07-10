@@ -2,8 +2,8 @@
 title: 'Everybody knows'
 layout: post
 categories:
-    - 'informed electorate'
-    - knowledge
+- 'informed electorate'
+- knowledge
 tag: 'John Kenneth Galbraith'
 ---
 

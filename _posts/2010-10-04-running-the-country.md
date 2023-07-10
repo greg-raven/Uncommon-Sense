@@ -2,7 +2,7 @@
 title: 'Running the country'
 layout: post
 categories:
-    - government
+- government
 tag: 'Will Rogers'
 ---
 

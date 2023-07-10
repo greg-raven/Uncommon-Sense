@@ -2,8 +2,8 @@
 title: 'The Constitution stops democracy'
 layout: post
 categories:
-    - Constitution
-    - democracy
+- Constitution
+- democracy
 tag: 'Horatio Seymour'
 ---
 

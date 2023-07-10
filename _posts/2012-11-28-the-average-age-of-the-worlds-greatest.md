@@ -2,7 +2,7 @@
 title: 'The path of civilization'
 layout: post
 categories:
-    - history
+- history
 tag: 'Alex Fraser Tytler'
 ---
 

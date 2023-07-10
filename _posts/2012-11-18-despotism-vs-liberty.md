@@ -2,7 +2,7 @@
 title: 'Despotism vs. liberty'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Thomas Jefferson'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Distribution of powers'
 layout: post
 categories:
-    - decentralization
+- decentralization
 tag: 'Thomas Jefferson'
 ---
 

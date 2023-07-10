@@ -2,7 +2,7 @@
 title: 'Charlatans need followers'
 layout: post
 categories:
-    - individualism
+- individualism
 tag: 'Elbert Hubbard'
 ---
 

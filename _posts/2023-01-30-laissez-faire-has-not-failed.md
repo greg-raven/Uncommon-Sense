@@ -2,7 +2,7 @@
 title: 'Laissez-faire has not failed'
 layout: post
 categories:
-    - truth
+- truth
 tag: 'Auberon Herbert'
 ---
 

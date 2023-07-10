@@ -2,7 +2,7 @@
 title: 'The war on drugs'
 layout: post
 categories:
-    - laws
+- laws
 tag: 'Steven Martinovich'
 ---
 

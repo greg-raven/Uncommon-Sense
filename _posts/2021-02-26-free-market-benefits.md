@@ -2,7 +2,7 @@
 title: 'Free market benefits'
 layout: post
 categories:
-    - capitalism
+- capitalism
 tag: 'Ron Paul'
 ---
 

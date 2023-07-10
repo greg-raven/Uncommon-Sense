@@ -2,7 +2,7 @@
 title: 'Power tests character'
 layout: post
 categories:
-    - virtue
+- virtue
 tag: 'Abraham Lincoln'
 ---
 

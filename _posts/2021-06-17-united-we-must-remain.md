@@ -2,7 +2,7 @@
 title: 'United we must remain'
 layout: post
 categories:
-    - culture
+- culture
 tag: 'Theodore Roosevelt'
 ---
 

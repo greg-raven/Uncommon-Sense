@@ -2,7 +2,7 @@
 title: 'Death and taxes'
 layout: post
 categories:
-    - Constitution
+- Constitution
 tag: 'Benjamin Franklin'
 ---
 

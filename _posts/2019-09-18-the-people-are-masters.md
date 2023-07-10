@@ -2,7 +2,7 @@
 title: 'The people are masters'
 layout: post
 categories:
-    - Constitution
+- Constitution
 tag: 'Abraham Lincoln'
 ---
 

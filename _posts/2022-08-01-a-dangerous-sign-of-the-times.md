@@ -2,8 +2,8 @@
 title: 'A dangerous sign of the times'
 layout: post
 categories:
-    - collectivization
-    - speech
+- collectivization
+- speech
 tag: 'Thomas Sowell'
 ---
 

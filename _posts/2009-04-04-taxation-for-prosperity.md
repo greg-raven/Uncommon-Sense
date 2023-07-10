@@ -2,7 +2,7 @@
 title: 'Taxation for prosperity'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'Winston Churchill'
 ---
 

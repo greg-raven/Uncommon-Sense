@@ -2,7 +2,7 @@
 title: 'Unconstitutional appropriations'
 layout: post
 categories:
-    - welfare
+- welfare
 tag: 'Grover Cleveland'
 ---
 

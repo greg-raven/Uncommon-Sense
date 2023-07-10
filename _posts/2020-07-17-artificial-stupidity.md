@@ -2,7 +2,7 @@
 title: 'Artificial stupidity'
 layout: post
 categories:
-    - education
+- education
 tag: 'Thomas Sowell'
 ---
 

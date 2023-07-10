@@ -2,7 +2,7 @@
 title: 'Dumbing down higher education'
 layout: post
 categories:
-    - education
+- education
 tag: 'Charles Sykes'
 ---
 

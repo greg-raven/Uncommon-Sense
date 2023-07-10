@@ -2,7 +2,7 @@
 title: 'Socialism and Marxism'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Adolf Hitler'
 ---
 

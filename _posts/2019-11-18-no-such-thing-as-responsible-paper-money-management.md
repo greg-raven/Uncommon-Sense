@@ -2,7 +2,7 @@
 title: 'No such thing as responsible paper money management'
 layout: post
 categories:
-    - money
+- money
 tag: 'Henry Hazlitt'
 ---
 

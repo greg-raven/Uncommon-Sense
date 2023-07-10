@@ -2,7 +2,7 @@
 title: Appeasement
 layout: post
 categories:
-    - politics
+- politics
 tag: 'Winston Churchill'
 ---
 

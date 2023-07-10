@@ -2,7 +2,7 @@
 title: 'No prior restraint'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'Clarence Thomas'
 ---
 

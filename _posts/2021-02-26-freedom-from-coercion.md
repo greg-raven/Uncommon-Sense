@@ -2,9 +2,9 @@
 title: 'Freedom from coercion'
 layout: post
 categories:
-    - demagogues
-    - government
-    - liberty
+- demagogues
+- government
+- liberty
 tag: 'Ron Paul'
 ---
 

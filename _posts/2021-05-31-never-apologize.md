@@ -2,7 +2,7 @@
 title: 'Never apologize'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'Mark Dice'
 ---
 

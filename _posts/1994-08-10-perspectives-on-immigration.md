@@ -2,7 +2,7 @@
 title: 'Perspectives on immigration: Cut legal admissions by two-thirds'
 layout: post
 categories:
-    - immigration
+- immigration
 tag: 'Harry Reid'
 ---
 

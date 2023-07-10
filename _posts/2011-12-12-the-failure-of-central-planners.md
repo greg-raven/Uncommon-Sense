@@ -2,7 +2,7 @@
 title: 'The failure of central planners'
 layout: post
 categories:
-    - collectivization
+- collectivization
 tag: 'Thomas Jefferson'
 ---
 

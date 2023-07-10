@@ -2,7 +2,7 @@
 title: 'New manner of thinking'
 layout: post
 categories:
-    - knowledge
+- knowledge
 tag: 'Albert Einstein'
 ---
 

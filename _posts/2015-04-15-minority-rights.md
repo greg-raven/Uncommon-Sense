@@ -2,7 +2,7 @@
 title: 'Minority rights'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'Lysander Spooner'
 ---
 

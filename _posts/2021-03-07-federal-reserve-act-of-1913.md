@@ -2,7 +2,7 @@
 title: 'Federal Reserve Act of 1913'
 layout: post
 categories:
-    - money
+- money
 tag: 'Charles A. Lindbergh Sr.'
 ---
 

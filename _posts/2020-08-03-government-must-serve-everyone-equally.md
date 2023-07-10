@@ -2,7 +2,7 @@
 title: 'Government must serve everyone equally'
 layout: post
 categories:
-    - equality
+- equality
 tag: 'Alexander Hamilton'
 ---
 

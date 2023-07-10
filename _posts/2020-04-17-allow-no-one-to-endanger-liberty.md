@@ -2,7 +2,7 @@
 title: 'Allow no one to endanger liberty'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'John Adams'
 ---
 

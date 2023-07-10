@@ -2,7 +2,7 @@
 title: 'Zero-sum socialism'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'William Graham Sumner'
 ---
 

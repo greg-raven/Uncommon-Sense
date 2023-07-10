@@ -2,9 +2,9 @@
 title: 'Mass immigration means giving up our rights and freedoms'
 layout: post
 categories:
-    - immigration
-    - liberty
-    - rights
+- immigration
+- liberty
+- rights
 tag: 'Ann Coulter'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Liberty of the individual'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Alexander Ivanovich Herzen'
 ---
 

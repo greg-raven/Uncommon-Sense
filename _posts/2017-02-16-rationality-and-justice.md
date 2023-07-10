@@ -2,8 +2,8 @@
 title: 'Rationality and justice'
 layout: post
 categories:
-    - liberty
-    - reason
+- liberty
+- reason
 tag: 'Paul Pauker'
 ---
 

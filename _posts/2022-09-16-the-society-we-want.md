@@ -2,8 +2,8 @@
 title: 'The society we want'
 layout: post
 categories:
-    - liberty
-    - morals
+- liberty
+- morals
 tag: 'Margaret Thatcher'
 ---
 

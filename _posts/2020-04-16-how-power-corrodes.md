@@ -2,7 +2,7 @@
 title: 'How power corrodes'
 layout: post
 categories:
-    - corruption
+- corruption
 tag: 'Edmund Burke'
 ---
 

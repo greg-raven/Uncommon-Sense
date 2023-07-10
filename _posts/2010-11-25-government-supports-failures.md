@@ -2,7 +2,7 @@
 title: 'Government supports failures'
 layout: post
 categories:
-    - truth
+- truth
 tag: 'Thomas Jefferson'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Protect the Constitution'
 layout: post
 categories:
-    - Constitution
+- Constitution
 tag: 'Thomas Sowell'
 ---
 

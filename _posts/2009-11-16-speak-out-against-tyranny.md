@@ -2,7 +2,7 @@
 title: 'Speak out against tyranny'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'John Bryant'
 ---
 

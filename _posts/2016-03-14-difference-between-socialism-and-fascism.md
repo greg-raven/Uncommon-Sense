@@ -2,7 +2,7 @@
 title: 'Difference between socialism and fascism'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Ayn Rand'
 ---
 

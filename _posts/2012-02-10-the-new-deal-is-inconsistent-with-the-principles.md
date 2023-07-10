@@ -2,7 +2,7 @@
 title: 'Unlimited government'
 layout: post
 categories:
-    - government
+- government
 tag: 'Richard A. Epstein'
 ---
 

@@ -2,8 +2,8 @@
 title: 'I believe in only one thing'
 layout: post
 categories:
-    - liberty
-    - war
+- liberty
+- war
 tag: 'H. L. Mencken'
 ---
 

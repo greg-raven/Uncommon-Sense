@@ -2,9 +2,9 @@
 title: 'Collectivist promised'
 layout: post
 categories:
-    - collectivization
-    - Obamacare
-    - socialism
+- collectivization
+- Obamacare
+- socialism
 tag: 'Charles Koch'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Climate change and political power'
 layout: post
 categories:
-    - climate
+- climate
 tag: 'Ted Cruz'
 ---
 

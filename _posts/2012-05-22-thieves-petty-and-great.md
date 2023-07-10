@@ -2,7 +2,7 @@
 title: 'Thieves petty and great'
 layout: post
 categories:
-    - government
+- government
 tag: Aesop
 ---
 

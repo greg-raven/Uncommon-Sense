@@ -2,7 +2,7 @@
 title: 'Legalize drugs'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Milton Friedman'
 ---
 

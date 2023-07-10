@@ -2,7 +2,7 @@
 title: 'Liberal paradise'
 layout: post
 categories:
-    - liberalism
+- liberalism
 tag: 'Joe Arpaio'
 ---
 

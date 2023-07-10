@@ -2,7 +2,7 @@
 title: 'Frank discussion needed'
 layout: post
 categories:
-    - race
+- race
 tag: 'Eric Holder'
 ---
 

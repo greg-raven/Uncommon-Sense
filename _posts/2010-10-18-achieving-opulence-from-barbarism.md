@@ -2,7 +2,7 @@
 title: 'Achieving opulence from barbarism'
 layout: post
 categories:
-    - prosperity
+- prosperity
 tag: 'Adam Smith'
 ---
 

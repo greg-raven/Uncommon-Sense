@@ -2,7 +2,7 @@
 title: 'Government and social constructs'
 layout: post
 categories:
-    - race
+- race
 tag: 'Steve Sailer'
 ---
 

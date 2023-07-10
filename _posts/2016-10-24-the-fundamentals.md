@@ -2,7 +2,7 @@
 title: 'The fundamentals'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Albert J. Beveridge'
 ---
 

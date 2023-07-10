@@ -2,7 +2,7 @@
 title: 'Racists in high places'
 layout: post
 categories:
-    - demagogues
+- demagogues
 tag: 'Joseph Farah'
 ---
 

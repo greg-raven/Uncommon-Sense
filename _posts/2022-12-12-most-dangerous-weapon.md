@@ -2,7 +2,7 @@
 title: 'Most dangerous weapon'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'William O. Douglas'
 ---
 

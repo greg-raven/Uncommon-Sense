@@ -2,7 +2,7 @@
 title: 'One-size-fits-all government'
 layout: post
 categories:
-    - decentralization
+- decentralization
 tag: 'William P. Barr'
 ---
 

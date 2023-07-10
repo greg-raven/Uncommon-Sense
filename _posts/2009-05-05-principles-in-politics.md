@@ -2,7 +2,7 @@
 title: 'Principles in politics'
 layout: post
 categories:
-    - virtue
+- virtue
 tag: 'Alexis de Tocqueville'
 ---
 

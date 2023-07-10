@@ -2,7 +2,7 @@
 title: 'Liable to abuse'
 layout: post
 categories:
-    - money
+- money
 tag: 'Thomas Jefferson'
 ---
 

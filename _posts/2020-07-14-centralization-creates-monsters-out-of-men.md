@@ -2,7 +2,7 @@
 title: 'Centralization creates monsters out of men'
 layout: post
 categories:
-    - decentralization
+- decentralization
 tag: 'C. S. Lewis'
 ---
 

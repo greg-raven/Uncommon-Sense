@@ -2,8 +2,8 @@
 title: 'Cheaper than ever'
 layout: post
 categories:
-    - economics
-    - welfare
+- economics
+- welfare
 tag: 'Greg Raven'
 ---
 

@@ -2,8 +2,8 @@
 title: 'Freedom, reason, and the slavery of fear'
 layout: post
 categories:
-    - liberty
-    - truth
+- liberty
+- truth
 tag: 'Thomas Paine'
 ---
 

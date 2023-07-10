@@ -2,7 +2,7 @@
 title: 'Distrust of powerful men'
 layout: post
 categories:
-    - virtue
+- virtue
 tag: 'James Madison'
 ---
 

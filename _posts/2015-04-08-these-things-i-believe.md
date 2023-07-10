@@ -2,7 +2,7 @@
 title: 'These things I believe'
 layout: post
 categories:
-    - government
+- government
 tag: 'Lyn Nofziger'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Limited government, neutrality, and armed citizens'
 layout: post
 categories:
-    - 'Second Amendment'
+- 'Second Amendment'
 tag: 'Benedict D. LaRosa'
 ---
 

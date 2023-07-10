@@ -2,7 +2,7 @@
 title: 'All might be free'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Samuel Adams'
 ---
 

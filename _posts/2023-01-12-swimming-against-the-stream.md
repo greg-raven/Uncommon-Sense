@@ -2,7 +2,7 @@
 title: 'Swimming against the stream'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'Albert Einstein'
 ---
 

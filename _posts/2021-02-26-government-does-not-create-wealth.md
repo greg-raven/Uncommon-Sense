@@ -2,8 +2,8 @@
 title: 'Government does not create wealth'
 layout: post
 categories:
-    - money
-    - taxation
+- money
+- taxation
 tag: 'Ron Paul'
 ---
 

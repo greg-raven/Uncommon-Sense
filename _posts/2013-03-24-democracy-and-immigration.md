@@ -2,7 +2,7 @@
 title: 'Democracy and immigration'
 layout: post
 categories:
-    - immigration
+- immigration
 tag: 'David Goodhart'
 ---
 

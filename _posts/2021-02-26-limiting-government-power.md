@@ -2,8 +2,8 @@
 title: 'Limiting government power'
 layout: post
 categories:
-    - government
-    - laws
+- government
+- laws
 tag: 'Ron Paul'
 ---
 

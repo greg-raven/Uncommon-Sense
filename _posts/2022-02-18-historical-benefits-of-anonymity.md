@@ -2,7 +2,7 @@
 title: 'Historical benefits of anonymity'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'Hugo L. Black'
 ---
 

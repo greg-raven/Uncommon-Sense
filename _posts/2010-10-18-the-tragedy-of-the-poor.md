@@ -2,7 +2,7 @@
 title: 'The tragedy of the poor'
 layout: post
 categories:
-    - self-improvement
+- self-improvement
 tag: 'Adam Smith'
 ---
 

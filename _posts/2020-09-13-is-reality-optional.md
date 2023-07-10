@@ -2,7 +2,7 @@
 title: 'Is reality optional?'
 layout: post
 categories:
-    - economics
+- economics
 tag: 'Thomas Sowell'
 ---
 

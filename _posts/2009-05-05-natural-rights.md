@@ -2,7 +2,7 @@
 title: 'Natural rights'
 layout: post
 categories:
-    - 'Second Amendment'
+- 'Second Amendment'
 tag: 'Frederic Bastiat'
 ---
 

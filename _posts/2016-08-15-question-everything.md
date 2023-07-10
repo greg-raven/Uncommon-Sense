@@ -2,7 +2,7 @@
 title: 'Question everything'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Ronald Reagan'
 ---
 

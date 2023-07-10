@@ -2,7 +2,7 @@
 title: 'Government ‘solutions’'
 layout: post
 categories:
-    - government
+- government
 tag: 'Milton Friedman'
 ---
 

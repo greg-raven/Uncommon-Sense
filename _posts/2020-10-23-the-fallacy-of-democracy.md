@@ -2,7 +2,7 @@
 title: 'The fallacy of democracy'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'E. B. White'
 ---
 

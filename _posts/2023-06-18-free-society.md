@@ -2,7 +2,7 @@
 title: 'My definition of a free society'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Adlai E. Stevenson'
 ---
 

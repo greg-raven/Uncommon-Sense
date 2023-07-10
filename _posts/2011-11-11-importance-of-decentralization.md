@@ -2,7 +2,7 @@
 title: 'Importance of decentralization'
 layout: post
 categories:
-    - decentralization
+- decentralization
 tag: 'Thomas Jefferson'
 ---
 

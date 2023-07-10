@@ -2,7 +2,7 @@
 title: 'People’s choice'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'Thomas Jefferson'
 ---
 

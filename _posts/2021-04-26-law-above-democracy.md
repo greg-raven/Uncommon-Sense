@@ -2,7 +2,7 @@
 title: 'Law above democracy'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'U. S. Supreme Court'
 ---
 

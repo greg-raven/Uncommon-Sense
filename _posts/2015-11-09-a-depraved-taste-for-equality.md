@@ -2,7 +2,7 @@
 title: 'A depraved taste for equality'
 layout: post
 categories:
-    - equality
+- equality
 tag: 'Alexis de Tocqueville'
 ---
 

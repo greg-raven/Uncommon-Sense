@@ -2,7 +2,7 @@
 title: 'On the value of being irritating'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'George Bernard Shaw'
 ---
 

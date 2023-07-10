@@ -2,7 +2,7 @@
 title: 'Opposites: Force and reason'
 layout: post
 categories:
-    - reason
+- reason
 tag: 'Auberon Herbert'
 ---
 

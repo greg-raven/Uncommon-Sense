@@ -2,7 +2,7 @@
 title: '‘White privilege’ is a dangerous conspiracy theory'
 layout: post
 categories:
-    - race
+- race
 tag: 'Jared Taylor'
 ---
 

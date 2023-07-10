@@ -2,8 +2,8 @@
 title: 'The forced march to mediocrity'
 layout: post
 categories:
-    - economics
-    - socialism
+- economics
+- socialism
 tag: 'Douglas MacArthur'
 ---
 

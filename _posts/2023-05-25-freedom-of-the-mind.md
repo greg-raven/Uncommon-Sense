@@ -2,7 +2,7 @@
 title: 'Freedom of the mind'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'Alan Bloom'
 ---
 

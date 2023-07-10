@@ -2,7 +2,7 @@
 title: 'Dishonorable persons'
 layout: post
 categories:
-    - virtue
+- virtue
 tag: 'Thomas Sowell'
 ---
 

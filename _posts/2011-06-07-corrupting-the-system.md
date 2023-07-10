@@ -2,7 +2,7 @@
 title: 'Corrupting the system'
 layout: post
 categories:
-    - corruption
+- corruption
 tag: 'Alexis de Tocqueville'
 ---
 

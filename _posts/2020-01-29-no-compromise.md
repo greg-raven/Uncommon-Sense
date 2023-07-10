@@ -2,8 +2,8 @@
 title: 'There can be no compromise'
 layout: post
 categories:
-    - culture
-    - morals
+- culture
+- morals
 tag: 'Ayn Rand'
 ---
 

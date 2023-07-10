@@ -2,7 +2,7 @@
 title: 'Greek democracy'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'Henry Grady Weaver'
 ---
 

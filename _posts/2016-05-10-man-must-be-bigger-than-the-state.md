@@ -2,7 +2,7 @@
 title: 'Man must be bigger than the state'
 layout: post
 categories:
-    - strength
+- strength
 tag: 'John Stuart Mill'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Freedom of the press'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'James Madison'
 ---
 

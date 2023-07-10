@@ -2,7 +2,7 @@
 title: 'Long live the republic'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'Westbrook Pegler'
 ---
 

@@ -2,7 +2,7 @@
 title: 'That which belongs to everyone belongs to no one'
 layout: post
 categories:
-    - collectivization
+- collectivization
 tag: Aristotle
 ---
 

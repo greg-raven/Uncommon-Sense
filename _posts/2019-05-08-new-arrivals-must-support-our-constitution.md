@@ -2,7 +2,7 @@
 title: 'New arrivals must support our Constitution'
 layout: post
 categories:
-    - immigration
+- immigration
 tag: 'James Madison'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Currency duties'
 layout: post
 categories:
-    - money
+- money
 tag: 'James A. Garfield'
 ---
 

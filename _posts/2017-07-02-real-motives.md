@@ -2,7 +2,7 @@
 title: 'Real motives'
 layout: post
 categories:
-    - liberalism
+- liberalism
 tag: 'Thomas Sowell'
 ---
 

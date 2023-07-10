@@ -2,7 +2,7 @@
 title: 'Dealing with inequality'
 layout: post
 categories:
-    - equality
+- equality
 tag: 'Friedrich August von Hayek'
 ---
 

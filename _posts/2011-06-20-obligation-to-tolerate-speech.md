@@ -2,7 +2,7 @@
 title: 'Obligation to tolerate speech'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'Anthony Kennedy'
 ---
 

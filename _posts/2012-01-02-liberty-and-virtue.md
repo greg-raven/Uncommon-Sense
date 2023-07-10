@@ -2,7 +2,7 @@
 title: 'Liberty and virtue'
 layout: post
 categories:
-    - virtue
+- virtue
 tag: 'Algernon Sidney'
 ---
 

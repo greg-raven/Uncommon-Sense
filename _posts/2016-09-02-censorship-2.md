@@ -2,7 +2,7 @@
 title: Censorship
 layout: post
 categories:
-    - speech
+- speech
 tag: 'Joe Sobran'
 ---
 

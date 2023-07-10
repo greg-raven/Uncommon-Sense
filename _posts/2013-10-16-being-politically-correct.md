@@ -2,7 +2,7 @@
 title: 'Being politically correct'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'Charles Osgood'
 ---
 

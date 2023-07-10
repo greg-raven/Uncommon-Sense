@@ -2,7 +2,7 @@
 title: 'The sacred obligation of the Constitution'
 layout: post
 categories:
-    - Constitution
+- Constitution
 tag: 'George Washington'
 ---
 

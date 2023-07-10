@@ -2,7 +2,7 @@
 title: 'Carbon dioxide and climate'
 layout: post
 categories:
-    - climate
+- climate
 tag: 'Tony Heller'
 ---
 

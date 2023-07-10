@@ -2,7 +2,7 @@
 title: 'Act in haste, repent in leisure'
 layout: post
 categories:
-    - government
+- government
 tag: 'Brian Doherty'
 ---
 

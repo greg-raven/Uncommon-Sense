@@ -2,7 +2,7 @@
 title: 'Point of view'
 layout: post
 categories:
-    - liberalism
+- liberalism
 tag: anonymous
 ---
 

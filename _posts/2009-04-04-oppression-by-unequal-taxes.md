@@ -2,7 +2,7 @@
 title: 'Oppression by unequal taxes'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'James Madison'
 ---
 

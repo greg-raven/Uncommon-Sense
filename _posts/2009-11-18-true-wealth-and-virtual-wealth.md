@@ -2,7 +2,7 @@
 title: 'Real wealth and virtual wealth'
 layout: post
 categories:
-    - debt
+- debt
 tag: 'Frederick Soddy'
 ---
 

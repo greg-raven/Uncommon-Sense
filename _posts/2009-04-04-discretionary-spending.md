@@ -2,8 +2,8 @@
 title: '‘Discretionary’ spending'
 layout: post
 categories:
-    - socialism
-    - welfare
+- socialism
+- welfare
 tag: 'James Madison'
 ---
 

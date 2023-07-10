@@ -2,7 +2,7 @@
 title: 'The problem of governments'
 layout: post
 categories:
-    - government
+- government
 tag: 'Thomas Paine'
 ---
 

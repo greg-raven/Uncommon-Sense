@@ -2,7 +2,7 @@
 title: 'Gold and freedom'
 layout: post
 categories:
-    - money
+- money
 tag: 'Alan Greenspan'
 ---
 

@@ -2,7 +2,7 @@
 title: 'God or tyrants'
 layout: post
 categories:
-    - 'external authority'
+- 'external authority'
 tag: 'Benjamin Franklin'
 ---
 

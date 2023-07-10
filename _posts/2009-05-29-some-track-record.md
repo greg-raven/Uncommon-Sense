@@ -2,7 +2,7 @@
 title: 'Some track record'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'Ronald Reagan'
 ---
 

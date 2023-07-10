@@ -2,7 +2,7 @@
 title: 'The philosophy of socialism'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Winston Churchill'
 ---
 

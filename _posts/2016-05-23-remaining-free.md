@@ -2,7 +2,7 @@
 title: 'Remaining free'
 layout: post
 categories:
-    - 'Second Amendment'
+- 'Second Amendment'
 tag: 'Thomas Jefferson'
 ---
 

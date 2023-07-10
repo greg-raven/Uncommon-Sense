@@ -2,7 +2,7 @@
 title: 'Institutionalized tyranny'
 layout: post
 categories:
-    - laws
+- laws
 tag: 'Charles de Montesquieu'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Americans must put America first'
 layout: post
 categories:
-    - citizenship
+- citizenship
 tag: 'George Washington'
 ---
 

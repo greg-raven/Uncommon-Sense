@@ -2,7 +2,7 @@
 title: 'Mind control'
 layout: post
 categories:
-    - 'external authority'
+- 'external authority'
 tag: 'Robert A. Heinlein'
 ---
 

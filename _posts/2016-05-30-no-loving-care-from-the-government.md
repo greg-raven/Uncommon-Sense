@@ -2,7 +2,7 @@
 title: 'No loving care from the government'
 layout: post
 categories:
-    - government
+- government
 tag: 'Murray N. Rothbard'
 ---
 

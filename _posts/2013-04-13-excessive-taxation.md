@@ -2,7 +2,7 @@
 title: 'Excessive taxation'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'Grover Cleveland'
 ---
 

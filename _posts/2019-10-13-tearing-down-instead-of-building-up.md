@@ -2,7 +2,7 @@
 title: 'Tearing down instead of building up'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Thomas Sowell'
 ---
 

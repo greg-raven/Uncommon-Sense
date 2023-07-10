@@ -2,7 +2,7 @@
 title: 'Parliament of whores'
 layout: post
 categories:
-    - politics
+- politics
 tag: 'Ronald Reagan'
 ---
 

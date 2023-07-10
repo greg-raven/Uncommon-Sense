@@ -2,8 +2,8 @@
 title: 'Right-sizing government'
 layout: post
 categories:
-    - Constitution
-    - government
+- Constitution
+- government
 tag: 'Harry Browne'
 ---
 

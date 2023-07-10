@@ -2,7 +2,7 @@
 title: 'The judiciary'
 layout: post
 categories:
-    - government
+- government
 tag: 'Thomas Jefferson'
 ---
 

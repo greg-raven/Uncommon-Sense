@@ -2,8 +2,8 @@
 title: 'False facts'
 layout: post
 categories:
-    - knowledge
-    - truth
+- knowledge
+- truth
 tag: 'Charles Darwin'
 ---
 

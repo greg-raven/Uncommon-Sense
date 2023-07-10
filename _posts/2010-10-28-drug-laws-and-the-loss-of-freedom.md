@@ -2,7 +2,7 @@
 title: 'Drug laws and the loss of freedom'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Milton Friedman'
 ---
 

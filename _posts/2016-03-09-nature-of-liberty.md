@@ -2,7 +2,7 @@
 title: 'Nature of liberty'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Calvin Coolidge'
 ---
 

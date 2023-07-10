@@ -2,7 +2,7 @@
 title: 'Freedom and responsibility'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Robert Welch'
 ---
 

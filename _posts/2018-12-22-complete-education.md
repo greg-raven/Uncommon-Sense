@@ -2,7 +2,7 @@
 title: 'Complete education'
 layout: post
 categories:
-    - education
+- education
 tag: 'Theodore Roosevelt'
 ---
 

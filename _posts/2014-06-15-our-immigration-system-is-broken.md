@@ -2,7 +2,7 @@
 title: 'Our immigration system is broken'
 layout: post
 categories:
-    - immigration
+- immigration
 tag: 'Donald A. Collins'
 ---
 

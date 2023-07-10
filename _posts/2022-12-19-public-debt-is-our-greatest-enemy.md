@@ -2,8 +2,8 @@
 title: 'Public debt is our greatest enemy'
 layout: post
 categories:
-    - economics
-    - money
+- economics
+- money
 tag: 'Thomas Jefferson'
 ---
 

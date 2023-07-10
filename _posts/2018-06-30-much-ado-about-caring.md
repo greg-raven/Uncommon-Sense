@@ -2,7 +2,7 @@
 title: 'Much ado about caring'
 layout: post
 categories:
-    - liberalism
+- liberalism
 tag: 'Jim Goad'
 ---
 

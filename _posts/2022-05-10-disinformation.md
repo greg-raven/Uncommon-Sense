@@ -2,11 +2,11 @@
 title: Disinformation
 layout: post
 categories:
-    - corruption
-    - demagogues
-    - evil
-    - government
-    - liberalism
+- corruption
+- demagogues
+- evil
+- government
+- liberalism
 tag: 'George Orwell'
 ---
 

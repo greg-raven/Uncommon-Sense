@@ -2,7 +2,7 @@
 title: 'Scrutinize government'
 layout: post
 categories:
-    - 'informed electorate'
+- 'informed electorate'
 tag: 'Daniel Webster'
 ---
 

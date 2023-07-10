@@ -2,8 +2,8 @@
 title: 'The crossroads in our history'
 layout: post
 categories:
-    - corruption
-    - patriotism
+- corruption
+- patriotism
 tag: 'Donald J. Trump'
 ---
 

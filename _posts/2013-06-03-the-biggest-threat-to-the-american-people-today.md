@@ -2,7 +2,7 @@
 title: 'The biggest threat to the American people'
 layout: post
 categories:
-    - government
+- government
 tag: 'Jacob G. Hornberger'
 ---
 

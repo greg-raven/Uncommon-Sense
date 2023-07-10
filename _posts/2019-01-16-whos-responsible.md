@@ -2,7 +2,7 @@
 title: 'Who’s responsible?'
 layout: post
 categories:
-    - culture
+- culture
 tag: 'Thomas Sowell'
 ---
 

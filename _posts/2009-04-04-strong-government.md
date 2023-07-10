@@ -2,7 +2,7 @@
 title: 'Strong government'
 layout: post
 categories:
-    - government
+- government
 tag: 'Thomas Jefferson'
 ---
 

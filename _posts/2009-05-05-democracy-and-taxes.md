@@ -2,8 +2,8 @@
 title: 'Democracy and taxes'
 layout: post
 categories:
-    - democracy
-    - taxation
+- democracy
+- taxation
 tag: 'Alexis de Tocqueville'
 ---
 

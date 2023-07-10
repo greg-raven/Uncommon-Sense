@@ -2,8 +2,8 @@
 title: 'Private property creates liberty'
 layout: post
 categories:
-    - liberty
-    - property
+- liberty
+- property
 tag: 'John Adams'
 ---
 

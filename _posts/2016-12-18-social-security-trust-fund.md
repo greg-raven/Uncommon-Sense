@@ -2,7 +2,7 @@
 title: 'Social Security Trust Fund'
 layout: post
 categories:
-    - corruption
+- corruption
 tag: 'Donald J. Trump'
 ---
 

@@ -2,7 +2,7 @@
 title: 'The Tenth Amendment'
 layout: post
 categories:
-    - Constitution
+- Constitution
 tag: 'Melville Fuller'
 ---
 

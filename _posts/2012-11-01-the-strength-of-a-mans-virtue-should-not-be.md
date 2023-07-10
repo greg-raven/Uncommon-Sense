@@ -2,7 +2,7 @@
 title: 'Measuring a man’s virtue'
 layout: post
 categories:
-    - virtue
+- virtue
 tag: 'Blaise Pascal'
 ---
 

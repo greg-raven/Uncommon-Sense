@@ -2,7 +2,7 @@
 title: 'How to conquer and enslave'
 layout: post
 categories:
-    - debt
+- debt
 tag: 'John Adams'
 ---
 

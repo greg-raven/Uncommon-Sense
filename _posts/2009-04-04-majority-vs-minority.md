@@ -2,7 +2,7 @@
 title: 'Majority vs. minority'
 layout: post
 categories:
-    - collectivization
+- collectivization
 tag: Aristotle
 ---
 

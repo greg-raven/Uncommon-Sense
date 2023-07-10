@@ -2,10 +2,10 @@
 title: 'Thank you, Christian white men'
 layout: post
 categories:
-    - culture
-    - equality
-    - liberty
-    - rights
+- culture
+- equality
+- liberty
+- rights
 tag: 'Andrew Klavan'
 ---
 

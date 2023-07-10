@@ -2,8 +2,8 @@
 title: Preparedness
 layout: post
 categories:
-    - individualism
-    - 'Second Amendment'
+- individualism
+- 'Second Amendment'
 tag: 'Robert A. Heinlein'
 ---
 

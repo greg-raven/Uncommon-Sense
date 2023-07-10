@@ -2,7 +2,7 @@
 title: 'May sound good, but it doesn’t work'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Thomas Sowell'
 ---
 

@@ -2,7 +2,7 @@
 title: 'The time is now near at hand'
 layout: post
 categories:
-    - war
+- war
 tag: 'George Washington'
 ---
 

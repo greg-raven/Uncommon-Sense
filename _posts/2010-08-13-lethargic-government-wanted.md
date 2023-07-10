@@ -2,8 +2,8 @@
 title: 'Lethargic government wanted'
 layout: post
 categories:
-    - decentralization
-    - government
+- decentralization
+- government
 tag: 'Thomas Jefferson'
 ---
 

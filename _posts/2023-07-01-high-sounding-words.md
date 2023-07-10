@@ -2,7 +2,7 @@
 title: 'Too many high-sounding words'
 layout: post
 categories:
-    - corruption
+- corruption
 tag: 'Abigail Adams'
 ---
 

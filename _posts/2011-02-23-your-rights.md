@@ -2,7 +2,7 @@
 title: 'Your rights'
 layout: post
 categories:
-    - rights
+- rights
 tag: 'John Adams'
 ---
 

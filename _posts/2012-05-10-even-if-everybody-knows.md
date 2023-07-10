@@ -2,7 +2,7 @@
 title: 'Even if everybody knows …'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'Anatole France'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Let’s hear it for vocational ed'
 layout: post
 categories:
-    - education
+- education
 tag: 'Mike Rowe'
 ---
 

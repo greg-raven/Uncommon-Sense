@@ -2,7 +2,7 @@
 title: 'Global tides'
 layout: post
 categories:
-    - nationalism
+- nationalism
 tag: 'Ann Coulter'
 ---
 

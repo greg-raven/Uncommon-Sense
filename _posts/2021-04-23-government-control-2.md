@@ -2,7 +2,7 @@
 title: 'Government control'
 layout: post
 categories:
-    - decentralization
+- decentralization
 tag: 'P. J. O’Rourke'
 ---
 

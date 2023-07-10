@@ -2,7 +2,7 @@
 title: 'Economical numbers'
 layout: post
 categories:
-    - debt
+- debt
 tag: 'Richard Feynman'
 ---
 

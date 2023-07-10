@@ -2,7 +2,7 @@
 title: 'What socialism means'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'George Bernard Shaw'
 ---
 

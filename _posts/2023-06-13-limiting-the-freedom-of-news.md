@@ -2,7 +2,7 @@
 title: 'Limiting the freedom of news'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'Robert A. Heinlein'
 ---
 

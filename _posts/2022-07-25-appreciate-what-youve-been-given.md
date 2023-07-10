@@ -2,7 +2,7 @@
 title: 'Appreciate what you’ve been given'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'John Quincy Adams'
 ---
 

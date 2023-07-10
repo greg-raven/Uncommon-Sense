@@ -2,7 +2,7 @@
 title: 'The free market limits oppression'
 layout: post
 categories:
-    - capitalism
+- capitalism
 tag: 'Friedrich August von Hayek'
 ---
 

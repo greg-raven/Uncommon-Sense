@@ -2,7 +2,7 @@
 title: 'Founded on liberty'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Margaret Thatcher'
 ---
 

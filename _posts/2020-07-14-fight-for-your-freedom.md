@@ -2,7 +2,7 @@
 title: 'Fight for your freedom'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Calvin Coolidge'
 ---
 

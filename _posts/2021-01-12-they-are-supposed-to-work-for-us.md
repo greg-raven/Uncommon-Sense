@@ -2,7 +2,7 @@
 title: 'They are supposed to work for us'
 layout: post
 categories:
-    - government
+- government
 tag: 'William O. Douglas'
 ---
 

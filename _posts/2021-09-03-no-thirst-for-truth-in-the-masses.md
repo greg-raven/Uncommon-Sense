@@ -2,7 +2,7 @@
 title: 'No thirst for truth in the masses'
 layout: post
 categories:
-    - truth
+- truth
 tag: 'Gustave Le Bon'
 ---
 

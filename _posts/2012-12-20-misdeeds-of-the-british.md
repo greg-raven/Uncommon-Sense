@@ -2,7 +2,7 @@
 title: 'Misdeeds of the British'
 layout: post
 categories:
-    - 'Second Amendment'
+- 'Second Amendment'
 tag: 'Mahatma Mohandas K. Gandhi'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Honest differences'
 layout: post
 categories:
-    - speech
+- speech
 tag: 'Herbert Hoover'
 ---
 

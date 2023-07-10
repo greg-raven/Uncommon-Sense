@@ -2,7 +2,7 @@
 title: 'Government’s view of the economy'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'Ronald Reagan'
 ---
 

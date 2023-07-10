@@ -2,7 +2,7 @@
 title: 'Laws needed to protect liberty'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Fisher Ames'
 ---
 

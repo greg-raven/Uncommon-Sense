@@ -2,7 +2,7 @@
 title: 'What is the Alt-right?'
 layout: post
 categories:
-    - conservatism
+- conservatism
 tag: 'Vox Day'
 ---
 

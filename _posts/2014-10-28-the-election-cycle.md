@@ -2,7 +2,7 @@
 title: 'The election cycle'
 layout: post
 categories:
-    - voting
+- voting
 tag: 'John Adams'
 ---
 

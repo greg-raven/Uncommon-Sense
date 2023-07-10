@@ -2,7 +2,7 @@
 title: 'Breeding ground for tyrants'
 layout: post
 categories:
-    - decentralization
+- decentralization
 tag: 'Walter E. Williams'
 ---
 

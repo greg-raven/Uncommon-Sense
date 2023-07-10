@@ -2,7 +2,7 @@
 title: 'The legacy of the U.N.'
 layout: post
 categories:
-    - war
+- war
 tag: 'Paul Harvey'
 ---
 

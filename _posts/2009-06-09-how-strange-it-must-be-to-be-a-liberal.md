@@ -2,7 +2,7 @@
 title: 'How strange it must be to be a liberal'
 layout: post
 categories:
-    - liberalism
+- liberalism
 tag: 'Thomas Jackson'
 ---
 

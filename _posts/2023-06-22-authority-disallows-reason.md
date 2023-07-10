@@ -2,7 +2,7 @@
 title: 'Authority disallows reason'
 layout: post
 categories:
-    - reason
+- reason
 tag: 'Orson Scott Card'
 ---
 

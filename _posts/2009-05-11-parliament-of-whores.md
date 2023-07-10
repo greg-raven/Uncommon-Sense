@@ -2,8 +2,8 @@
 title: 'Parliament of whores'
 layout: post
 categories:
-    - government
-    - politics
+- government
+- politics
 tag: 'P. J. O’Rourke'
 ---
 

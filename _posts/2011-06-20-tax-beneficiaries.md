@@ -2,7 +2,7 @@
 title: 'Tax beneficiaries'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'Robert A. Heinlein'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Social security'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'P. J. O’Rourke'
 ---
 

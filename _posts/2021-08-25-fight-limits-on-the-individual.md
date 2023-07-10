@@ -2,7 +2,7 @@
 title: 'Fight limits on the individual'
 layout: post
 categories:
-    - individualism
+- individualism
 tag: 'John Steinbeck'
 ---
 

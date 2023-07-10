@@ -2,7 +2,7 @@
 title: 'Beware the enemy within'
 layout: post
 categories:
-    - 'external authority'
+- 'external authority'
 tag: 'John Dewey'
 ---
 

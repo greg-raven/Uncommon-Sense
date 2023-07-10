@@ -2,7 +2,7 @@
 title: 'The people, authority, and responsibility'
 layout: post
 categories:
-    - individualism
+- individualism
 tag: 'John Jay'
 ---
 

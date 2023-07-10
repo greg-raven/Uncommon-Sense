@@ -2,8 +2,8 @@
 title: 'Freedom of speech'
 layout: post
 categories:
-    - liberty
-    - speech
+- liberty
+- speech
 tag: 'John G. Diefenbaker'
 ---
 

@@ -2,7 +2,7 @@
 title: 'The Great Depression'
 layout: post
 categories:
-    - economics
+- economics
 tag: 'Edward H. Crane'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Debt ends liberty'
 layout: post
 categories:
-    - debt
+- debt
 tag: 'Benjamin Franklin'
 ---
 

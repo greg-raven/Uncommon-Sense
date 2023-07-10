@@ -2,7 +2,7 @@
 title: Collectivism
 layout: post
 categories:
-    - collectivization
+- collectivization
 tag: 'Ayn Rand'
 ---
 

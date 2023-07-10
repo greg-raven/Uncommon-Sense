@@ -2,7 +2,7 @@
 title: 'Public employee collective bargaining'
 layout: post
 categories:
-    - collectivization
+- collectivization
 tag: 'Franklin D. Roosevelt'
 ---
 

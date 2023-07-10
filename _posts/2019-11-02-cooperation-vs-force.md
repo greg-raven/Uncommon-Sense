@@ -2,8 +2,8 @@
 title: 'Cooperation vs. force'
 layout: post
 categories:
-    - capitalism
-    - socialism
+- capitalism
+- socialism
 tag: 'Milton Friedman'
 ---
 

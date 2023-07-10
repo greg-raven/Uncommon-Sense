@@ -2,7 +2,7 @@
 title: 'The burden of government'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'Milton Friedman'
 ---
 

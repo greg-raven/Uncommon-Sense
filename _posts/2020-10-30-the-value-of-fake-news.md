@@ -2,7 +2,7 @@
 title: 'The value of fake news'
 layout: post
 categories:
-    - press
+- press
 tag: 'Josef Stalin'
 ---
 

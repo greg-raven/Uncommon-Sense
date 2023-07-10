@@ -2,7 +2,7 @@
 title: 'The best security for liberty'
 layout: post
 categories:
-    - knowledge
+- knowledge
 tag: 'Benjamin Franklin'
 ---
 

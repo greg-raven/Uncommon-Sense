@@ -2,7 +2,7 @@
 title: 'The people are not to be disarmed'
 layout: post
 categories:
-    - 'Second Amendment'
+- 'Second Amendment'
 tag: 'Zachariah Johnson'
 ---
 

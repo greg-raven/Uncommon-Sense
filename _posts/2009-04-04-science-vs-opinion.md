@@ -2,7 +2,7 @@
 title: 'Science vs. opinion'
 layout: post
 categories:
-    - knowledge
+- knowledge
 tag: 'Robert A. Heinlein'
 ---
 

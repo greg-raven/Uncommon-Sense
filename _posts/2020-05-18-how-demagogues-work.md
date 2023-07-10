@@ -2,7 +2,7 @@
 title: 'How demagogues work'
 layout: post
 categories:
-    - demagogues
+- demagogues
 tag: 'Thomas Sowell'
 ---
 

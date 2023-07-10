@@ -2,7 +2,7 @@
 title: 'Idealists and fanatics'
 layout: post
 categories:
-    - intolerance
+- intolerance
 tag: 'Friedrich August von Hayek'
 ---
 

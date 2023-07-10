@@ -2,7 +2,7 @@
 title: 'Democracy’s problem'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'Edmund Burke'
 ---
 

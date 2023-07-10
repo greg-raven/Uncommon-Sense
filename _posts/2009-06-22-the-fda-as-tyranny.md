@@ -2,7 +2,7 @@
 title: 'The FDA as tyranny'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Thomas Jefferson'
 ---
 

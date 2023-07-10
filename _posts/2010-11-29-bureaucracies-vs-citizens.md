@@ -2,7 +2,7 @@
 title: 'Bureaucracies vs. citizens'
 layout: post
 categories:
-    - government
+- government
 tag: 'H. L. Mencken'
 ---
 

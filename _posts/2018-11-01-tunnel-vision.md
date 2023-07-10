@@ -2,7 +2,7 @@
 title: 'Tunnel vision'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'William Graham Sumner'
 ---
 

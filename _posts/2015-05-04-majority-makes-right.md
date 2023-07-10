@@ -2,7 +2,7 @@
 title: 'Majority makes right?'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'James Madison'
 ---
 

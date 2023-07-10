@@ -2,7 +2,7 @@
 title: 'Politics as religion'
 layout: post
 categories:
-    - collectivization
+- collectivization
 tag: 'William P. Barr'
 ---
 

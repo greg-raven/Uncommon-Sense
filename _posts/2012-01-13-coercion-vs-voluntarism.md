@@ -2,7 +2,7 @@
 title: 'Coercion vs. voluntarism'
 layout: post
 categories:
-    - individualism
+- individualism
 tag: 'Edward H. Crane'
 ---
 

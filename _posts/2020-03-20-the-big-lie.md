@@ -2,7 +2,7 @@
 title: 'The big lie'
 layout: post
 categories:
-    - truth
+- truth
 tag: 'Adolf Hitler'
 ---
 

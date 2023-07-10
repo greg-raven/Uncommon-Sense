@@ -2,9 +2,9 @@
 title: 'No liberty without the sword and the purse'
 layout: post
 categories:
-    - liberty
-    - money
-    - 'Second Amendment'
+- liberty
+- money
+- 'Second Amendment'
 tag: 'Patrick Henry'
 ---
 

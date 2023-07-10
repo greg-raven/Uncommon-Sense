@@ -2,7 +2,7 @@
 title: 'Choose your rulers wisely'
 layout: post
 categories:
-    - government
+- government
 tag: 'William F. Buckley'
 ---
 

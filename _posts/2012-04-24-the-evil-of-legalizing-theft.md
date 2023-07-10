@@ -2,7 +2,7 @@
 title: 'The evil of legalizing theft'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'Frederic Bastiat'
 ---
 

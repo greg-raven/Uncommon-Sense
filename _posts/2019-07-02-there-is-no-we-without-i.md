@@ -2,8 +2,8 @@
 title: 'There is no ‘we’ without ‘I’'
 layout: post
 categories:
-    - collectivization
-    - individualism
+- collectivization
+- individualism
 tag: 'Ayn Rand'
 ---
 

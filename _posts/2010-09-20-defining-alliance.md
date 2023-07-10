@@ -2,7 +2,7 @@
 title: 'Defining ‘alliance’'
 layout: post
 categories:
-    - 'foreign policy'
+- 'foreign policy'
 tag: 'Ambrose Bierce'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Always stand on principle'
 layout: post
 categories:
-    - virtue
+- virtue
 tag: 'John Quincy Adams'
 ---
 

@@ -2,7 +2,7 @@
 title: 'The need for good leaders'
 layout: post
 categories:
-    - corruption
+- corruption
 tag: 'Theodore Roosevelt'
 ---
 

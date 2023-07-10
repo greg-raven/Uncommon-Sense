@@ -2,9 +2,9 @@
 title: 'Party above truth'
 layout: post
 categories:
-    - demagogues
-    - politics
-    - truth
+- demagogues
+- politics
+- truth
 tag: 'Adam Smith'
 ---
 

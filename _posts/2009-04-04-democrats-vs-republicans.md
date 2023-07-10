@@ -2,7 +2,7 @@
 title: 'Democrats vs. Republicans'
 layout: post
 categories:
-    - politics
+- politics
 tag: anonymous
 ---
 

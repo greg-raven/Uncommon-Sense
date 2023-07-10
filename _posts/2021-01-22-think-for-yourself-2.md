@@ -2,7 +2,7 @@
 title: 'Think for yourself'
 layout: post
 categories:
-    - self-improvement
+- self-improvement
 tag: 'F. Scott Fitzgerald'
 ---
 

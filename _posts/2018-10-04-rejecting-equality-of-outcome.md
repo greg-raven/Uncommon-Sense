@@ -2,7 +2,7 @@
 title: 'Rejecting ‘equality of outcome’'
 layout: post
 categories:
-    - equality
+- equality
 tag: 'Ayn Rand'
 ---
 

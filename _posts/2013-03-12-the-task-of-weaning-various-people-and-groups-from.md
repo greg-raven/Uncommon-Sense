@@ -2,7 +2,7 @@
 title: 'Weaning people from the state teat'
 layout: post
 categories:
-    - individualism
+- individualism
 tag: 'Linda Bowles'
 ---
 

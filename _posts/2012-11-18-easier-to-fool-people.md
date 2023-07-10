@@ -2,7 +2,7 @@
 title: 'Easier to fool people'
 layout: post
 categories:
-    - education
+- education
 tag: 'Mark Twain'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Liberty or servitude'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Samuel Adams'
 ---
 

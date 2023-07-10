@@ -2,7 +2,7 @@
 title: 'Unconstitutional Congressional redistribution'
 layout: post
 categories:
-    - welfare
+- welfare
 tag: 'Roger Pilon'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Communism vs. socialism'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Kevin D. Williamson'
 ---
 

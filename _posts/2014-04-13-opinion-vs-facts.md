@@ -2,8 +2,8 @@
 title: 'Opinion vs. facts'
 layout: post
 categories:
-    - demagogues
-    - truth
+- demagogues
+- truth
 tag: 'Daniel Patrick Moynihan'
 ---
 

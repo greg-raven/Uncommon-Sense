@@ -2,7 +2,7 @@
 title: 'Power corrupts'
 layout: post
 categories:
-    - decentralization
+- decentralization
 tag: 'Lord Acton'
 ---
 

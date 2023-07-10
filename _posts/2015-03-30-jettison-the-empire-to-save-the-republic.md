@@ -2,8 +2,8 @@
 title: 'Jettison the empire to save the republic'
 layout: post
 categories:
-    - 'foreign policy'
-    - war
+- 'foreign policy'
+- war
 tag: 'Robert Owens'
 ---
 

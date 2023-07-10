@@ -2,8 +2,8 @@
 title: 'The cost of false equality'
 layout: post
 categories:
-    - economics
-    - equality
+- economics
+- equality
 tag: 'Thomas Sowell'
 ---
 

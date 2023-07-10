@@ -2,7 +2,7 @@
 title: 'More laws for more control'
 layout: post
 categories:
-    - laws
+- laws
 tag: 'Ayn Rand'
 ---
 

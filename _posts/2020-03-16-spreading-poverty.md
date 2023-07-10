@@ -2,7 +2,7 @@
 title: 'Spreading poverty'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Thomas Sowell'
 ---
 

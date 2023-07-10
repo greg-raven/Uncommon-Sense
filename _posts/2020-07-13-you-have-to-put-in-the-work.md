@@ -2,7 +2,7 @@
 title: 'You have to put in the work'
 layout: post
 categories:
-    - prosperity
+- prosperity
 tag: 'Thomas Sowell'
 ---
 

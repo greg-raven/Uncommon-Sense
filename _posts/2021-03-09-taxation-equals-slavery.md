@@ -2,7 +2,7 @@
 title: 'Taxation equals slavery'
 layout: post
 categories:
-    - taxation
+- taxation
 tag: 'Robert Nozick'
 ---
 

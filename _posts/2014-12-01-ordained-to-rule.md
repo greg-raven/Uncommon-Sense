@@ -2,7 +2,7 @@
 title: 'Ordained to rule'
 layout: post
 categories:
-    - demagogues
+- demagogues
 tag: 'Walter E. Williams'
 ---
 

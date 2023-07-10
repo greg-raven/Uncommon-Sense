@@ -2,7 +2,7 @@
 title: 'I want liberty'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Benjamin Franklin'
 ---
 

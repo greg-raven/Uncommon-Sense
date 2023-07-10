@@ -2,7 +2,7 @@
 title: 'Willful ignorance'
 layout: post
 categories:
-    - knowledge
+- knowledge
 tag: 'Thomas Sowell'
 ---
 

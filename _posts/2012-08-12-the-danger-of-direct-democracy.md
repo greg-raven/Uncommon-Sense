@@ -2,7 +2,7 @@
 title: 'The danger of direct democracy'
 layout: post
 categories:
-    - democracy
+- democracy
 tag: 'John Adams'
 ---
 

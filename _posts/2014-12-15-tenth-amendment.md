@@ -2,7 +2,7 @@
 title: 'Tenth Commandment'
 layout: post
 categories:
-    - morals
+- morals
 tag: 'P. J. O’Rourke'
 ---
 

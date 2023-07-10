@@ -2,9 +2,9 @@
 title: 'Equality under the law'
 layout: post
 categories:
-    - equality
-    - laws
-    - rights
+- equality
+- laws
+- rights
 tag: 'John F. Di Leo'
 ---
 

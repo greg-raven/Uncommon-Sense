@@ -2,7 +2,7 @@
 title: 'Centralized power'
 layout: post
 categories:
-    - government
+- government
 tag: 'John C. Calhoun'
 ---
 

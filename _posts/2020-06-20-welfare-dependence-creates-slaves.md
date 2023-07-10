@@ -2,8 +2,8 @@
 title: 'Welfare dependence creates slaves'
 layout: post
 categories:
-    - race
-    - welfare
+- race
+- welfare
 tag: 'Thomas Sowell'
 ---
 

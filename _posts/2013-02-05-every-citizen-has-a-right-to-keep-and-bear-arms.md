@@ -2,7 +2,7 @@
 title: 'The right to arms shall never be questioned'
 layout: post
 categories:
-    - 'Second Amendment'
+- 'Second Amendment'
 tag: 'Maine Constitution'
 ---
 

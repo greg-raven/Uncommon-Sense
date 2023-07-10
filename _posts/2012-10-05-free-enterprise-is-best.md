@@ -2,7 +2,7 @@
 title: 'Free enterprise is best'
 layout: post
 categories:
-    - socialism
+- socialism
 tag: 'Lew Rockwell'
 ---
 

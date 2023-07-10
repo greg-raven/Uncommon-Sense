@@ -2,8 +2,8 @@
 title: 'Re-defining ‘marriage’'
 layout: post
 categories:
-    - culture
-    - liberty
+- culture
+- liberty
 tag: 'Ron Paul'
 ---
 

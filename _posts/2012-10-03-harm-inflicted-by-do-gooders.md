@@ -2,7 +2,7 @@
 title: 'The harm inflicted by do-gooders'
 layout: post
 categories:
-    - individualism
+- individualism
 tag: 'Henry Grady Weaver'
 ---
 

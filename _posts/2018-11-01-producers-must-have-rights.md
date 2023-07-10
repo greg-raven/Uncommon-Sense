@@ -2,9 +2,9 @@
 title: 'Producers must have rights'
 layout: post
 categories:
-    - collectivization
-    - rights
-    - taxation
+- collectivization
+- rights
+- taxation
 tag: 'William Graham Sumner'
 ---
 

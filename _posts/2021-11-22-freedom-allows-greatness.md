@@ -2,7 +2,7 @@
 title: 'Freedom allows greatness'
 layout: post
 categories:
-    - liberty
+- liberty
 tag: 'Thomas Jefferson'
 ---
 

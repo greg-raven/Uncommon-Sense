@@ -2,7 +2,7 @@
 title: 'Politicians and money'
 layout: post
 categories:
-    - corruption
+- corruption
 tag: 'Harry S. Truman'
 ---
 

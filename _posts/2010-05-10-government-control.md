@@ -2,7 +2,7 @@
 title: 'Government control'
 layout: post
 categories:
-    - 'external authority'
+- 'external authority'
 tag: 'Alexis de Tocqueville'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Press must be impartial and accurate'
 layout: post
 categories:
-    - press
+- press
 tag: 'Thomas Jefferson'
 ---
 

@@ -2,7 +2,7 @@
 title: 'Invade the world, invite the world, investigate the world'
 layout: post
 categories:
-    - rights
+- rights
 tag: 'Michael F. Scheuer'
 ---
 

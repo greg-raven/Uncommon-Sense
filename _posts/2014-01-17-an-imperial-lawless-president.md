@@ -2,7 +2,7 @@
 title: 'An imperial, lawless president'
 layout: post
 categories:
-    - demagogues
+- demagogues
 tag: 'David Limbaugh'
 ---
 

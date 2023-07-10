@@ -2,8 +2,8 @@
 title: 'Limiting our liberties'
 layout: post
 categories:
-    - government
-    - liberty
+- government
+- liberty
 tag: 'H. L. Mencken'
 ---
 

@@ -2,8 +2,8 @@
 title: 'Freedom from parasites'
 layout: post
 categories:
-    - socialism
-    - taxation
+- socialism
+- taxation
 tag: 'William Graham Sumner'
 ---
 

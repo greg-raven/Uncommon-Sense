@@ -2,10 +2,10 @@
 title: 'The four boxes of liberty'
 layout: post
 categories:
-    - juries
-    - 'Second Amendment'
-    - speech
-    - voting
+- juries
+- 'Second Amendment'
+- speech
+- voting
 tag: 'Ed Howdershelt'
 ---
 

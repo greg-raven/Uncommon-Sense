@@ -2,7 +2,7 @@
 title: 'Making the best use of knowledge'
 layout: post
 categories:
-    - knowledge
+- knowledge
 tag: 'Gregory Christainsen'
 ---
 

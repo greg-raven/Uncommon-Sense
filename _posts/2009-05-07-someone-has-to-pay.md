@@ -2,7 +2,7 @@
 title: 'Someone has to pay'
 layout: post
 categories:
-    - economics
+- economics
 tag: 'Milton Friedman'
 ---
 
