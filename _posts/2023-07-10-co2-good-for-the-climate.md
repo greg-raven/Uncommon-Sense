@@ -1,5 +1,5 @@
 ---
-title: 'CO2 and climate'
+title: 'Carbon dioxide and climate'
 layout: post
 categories:
     - climate
