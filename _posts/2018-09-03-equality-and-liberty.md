@@ -3,7 +3,7 @@ title: 'Equality and liberty'
 layout: post
 categories:
     - demagogues
-tag: 'Johann Wolfgang von Goethe'
+tags: 'Johann Wolfgang von Goethe'
 ---
 
 Legislators and revolutionaries who promise equality and liberty at the same time are either psychopaths or mountebanks.

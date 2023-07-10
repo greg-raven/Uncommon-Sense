@@ -3,7 +3,7 @@ title: 'Perspectives on immigration: Cut legal admissions by two-thirds'
 layout: post
 categories:
     - immigration
-tag: 'Harry Reid'
+tags: 'Harry Reid'
 ---
 
 Immigration: A senator offers a ‘stabilization’ bill.

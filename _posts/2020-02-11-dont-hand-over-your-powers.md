@@ -4,7 +4,7 @@ layout: post
 categories:
     - collectivization
     - government
-tag: 'Charley Reese'
+tags: 'Charley Reese'
 ---
 
 Powers once assumed are never relinquished, just as bureaucracies, once created, never die.

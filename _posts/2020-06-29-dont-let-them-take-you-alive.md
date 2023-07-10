@@ -4,7 +4,7 @@ layout: post
 categories:
     - 'external authority'
     - individualism
-tag: 'Thomas Babington Macaulay'
+tags: 'Thomas Babington Macaulay'
 ---
 
 Nothing is so galling to a people not broken in from birth as a paternal, or, in other words, a meddling government, a government which tells them what to read, and say, and eat, and drink, and wear.

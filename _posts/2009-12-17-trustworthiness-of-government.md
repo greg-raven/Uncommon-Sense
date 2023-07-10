@@ -3,7 +3,7 @@ title: 'Trustworthiness of government'
 layout: post
 categories:
     - 'Second Amendment'
-tag: 'James Madison'
+tags: 'James Madison'
 ---
 
 A government that does not trust its law-abiding citizens to keep and bear arms is itself unworthy of trust.

@@ -3,7 +3,7 @@ title: 'Beware the technocracy'
 layout: post
 categories:
     - 'external authority'
-tag: 'Dwight D. Eisenhower'
+tags: 'Dwight D. Eisenhower'
 ---
 
 The prospect of domination of the nation’s scholars by Federal employment, project allocations, and the power of money is ever present — and is gravely to be regarded.

@@ -3,7 +3,7 @@ title: 'Liberty is not for wimps'
 layout: post
 categories:
     - liberty
-tag: 'Walter E. Williams'
+tags: 'Walter E. Williams'
 ---
 
 Most Americans, whether liberal or conservative, Democratic or Republican, do not show much understanding or respect for the principles of personal liberty. We criticize our political leaders, but we must recognize that their behavior simply reflects the values of people who elected them to office. That means we are all to blame for greater governmental control over our lives and a decline in personal liberty. Let me outline some fundamental principles of liberty.  

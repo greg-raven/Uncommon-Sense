@@ -3,7 +3,7 @@ title: 'These things I believe'
 layout: post
 categories:
     - government
-tag: 'Lyn Nofziger'
+tags: 'Lyn Nofziger'
 ---
 
 These things I believe:

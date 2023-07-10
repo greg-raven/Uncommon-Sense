@@ -3,7 +3,7 @@ title: 'Economics for Dummies'
 layout: post
 categories:
     - economics
-tag: 'Patrice Lewis'
+tags: 'Patrice Lewis'
 ---
 
 > “You cannot legislate the poor into freedom by legislating the wealthy out of freedom. What one person receives without working for, another person must work for without receiving. The government cannot give to anybody anything that the government does not first take from somebody else. When half of the people get the idea that they do not have to work because the other half is going to take care of them, and when the other half gets the idea that it does no good to work because somebody else is going to get what they work for, that my dear friend, is about the end of any nation. You cannot multiply wealth by dividing it.”

@@ -4,7 +4,7 @@ layout: post
 categories:
     - religion
     - war
-tag: 'Michael F. Scheuer'
+tags: 'Michael F. Scheuer'
 ---
 
 The ambush of U.S. Special Forces (SF) in Niger — in which four soldiers were killed — was a small, deadly, and lamentable incident. The deaths have aroused a lot of debate and finger-pointing about why the SF unit was ambushed. Those involved in that debate — the Pentagon spokesmen, the media, senators, and congressmen — are all playing a game in which the goal is to find a palatable lie to tell the American people about why their soldiers were sent into a trap in which they died.  

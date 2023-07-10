@@ -3,7 +3,7 @@ title: 'Freedom vs. slavery'
 layout: post
 categories:
     - liberty
-tag: 'Thomas Jefferson'
+tags: 'Thomas Jefferson'
 ---
 
 I prefer dangerous freedom over peaceful slavery.

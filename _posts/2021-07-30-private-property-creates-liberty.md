@@ -4,7 +4,7 @@ layout: post
 categories:
     - liberty
     - property
-tag: 'John Adams'
+tags: 'John Adams'
 ---
 
 Property must be secured, or liberty cannot exist.

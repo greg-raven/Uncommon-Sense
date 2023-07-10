@@ -3,7 +3,7 @@ title: 'Hell hath no fury'
 layout: post
 categories:
     - government
-tag: 'Milton Friedman'
+tags: 'Milton Friedman'
 ---
 
 Hell hath no fury like a bureaucrat scorned.

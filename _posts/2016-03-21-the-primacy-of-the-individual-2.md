@@ -3,7 +3,7 @@ title: 'The primacy of the individual'
 layout: post
 categories:
     - individualism
-tag: 'Robert F. Kennedy'
+tags: 'Robert F. Kennedy'
 ---
 
 At the heart of western freedom and democracy is the belief that  

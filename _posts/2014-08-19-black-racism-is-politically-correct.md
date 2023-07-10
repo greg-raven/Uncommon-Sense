@@ -3,7 +3,7 @@ title: 'Black racism is politically correct'
 layout: post
 categories:
     - race
-tag: 'Kevin Jackson'
+tags: 'Kevin Jackson'
 ---
 
 I’m amazed at how openly racist black Liberals have become, and how few non-blacks are willing to call them out on it.  

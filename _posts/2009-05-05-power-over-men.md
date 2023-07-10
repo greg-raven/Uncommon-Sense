@@ -3,7 +3,7 @@ title: 'Power over men'
 layout: post
 categories:
     - decentralization
-tag: 'Alexander Hamilton'
+tags: 'Alexander Hamilton'
 ---
 
 Power over a man’s subsistence is power over his will.

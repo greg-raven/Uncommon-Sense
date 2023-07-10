@@ -4,7 +4,7 @@ layout: post
 categories:
     - education
     - knowledge
-tag: 'Calvin Coolidge'
+tags: 'Calvin Coolidge'
 ---
 
 Nothing in the world can take the place of persistence. Talent will not; nothing is more common than unsuccessful men with talent. Genius will not; unrewarded genius is almost a proverb. Education will not; the world is full of educated derelicts. Persistence and determination alone are omnipotent.

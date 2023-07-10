@@ -3,7 +3,7 @@ title: 'Causes of downfall'
 layout: post
 categories:
     - culture
-tag: 'Charles de Montesquieu'
+tags: 'Charles de Montesquieu'
 ---
 
 Republics end through luxury; monarchies through poverty.

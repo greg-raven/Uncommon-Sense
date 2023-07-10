@@ -3,7 +3,7 @@ title: 'Freedom is risky'
 layout: post
 categories:
     - liberty
-tag: 'Eric Schaub'
+tags: 'Eric Schaub'
 ---
 
 Freedom is risky. Nature makes no promises.

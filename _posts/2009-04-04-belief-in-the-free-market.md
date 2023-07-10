@@ -4,7 +4,7 @@ layout: post
 categories:
     - capitalism
     - liberty
-tag: 'Milton Friedman'
+tags: 'Milton Friedman'
 ---
 
 Underlying most arguments against the free market is a lack of belief in freedom itself.

@@ -3,7 +3,7 @@ title: 'Fair income taxes'
 layout: post
 categories:
     - taxation
-tag: 'William F. Buckley'
+tags: 'William F. Buckley'
 ---
 
 I would like to electrocute everyone who uses the word “fair” in connection with income tax policies.

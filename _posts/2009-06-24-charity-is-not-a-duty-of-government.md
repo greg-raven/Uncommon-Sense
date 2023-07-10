@@ -4,7 +4,7 @@ layout: post
 categories:
     - socialism
     - welfare
-tag: 'James Madison'
+tags: 'James Madison'
 ---
 
 Charity is no part of the legislative duty of the government.

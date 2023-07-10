@@ -3,7 +3,7 @@ title: 'Exercise your rights'
 layout: post
 categories:
     - rights
-tag: 'Eric Schaub'
+tags: 'Eric Schaub'
 ---
 
 The ‘strength’ of the People becomes weak when we don’t ‘exercise’ our rights.

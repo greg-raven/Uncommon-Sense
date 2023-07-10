@@ -4,7 +4,7 @@ layout: post
 categories:
     - liberalism
     - race
-tag: 'Walter E. Williams'
+tags: 'Walter E. Williams'
 ---
 
 Black leaders stress the importance of political power and getting out the vote, but we might ask how important political power is to the ordinary black person.  

@@ -4,7 +4,7 @@ layout: post
 categories:
     - liberty
     - speech
-tag: 'Adlai E. Stevenson'
+tags: 'Adlai E. Stevenson'
 ---
 
 Freedom rings where opinions clash.

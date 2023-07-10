@@ -4,7 +4,7 @@ layout: post
 categories:
 	- laws
     - liberty
-tag: 'James Wilson'
+tags: 'James Wilson'
 ---
 
 Without liberty, law loses its nature and its name, and becomes oppression. Without law, liberty also loses its nature and its name, and becomes licentiousness.

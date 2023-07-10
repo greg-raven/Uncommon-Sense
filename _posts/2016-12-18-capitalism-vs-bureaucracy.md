@@ -3,7 +3,7 @@ title: 'Capitalism vs. bureaucracy'
 layout: post
 categories:
     - capitalism
-tag: 'Donald J. Trump'
+tags: 'Donald J. Trump'
 ---
 
 What’s worked beautifully throughout American history is the freemarket economy. What has brought us low is government bureaucracy and corruption.

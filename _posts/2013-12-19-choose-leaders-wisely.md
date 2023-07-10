@@ -3,7 +3,7 @@ title: 'Knowledge is power'
 layout: post
 categories:
     - knowledge
-tag: 'Francis Bacon'
+tags: 'Francis Bacon'
 ---
 
 Knowledge and human power are synonymous.

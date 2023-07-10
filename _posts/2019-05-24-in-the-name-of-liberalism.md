@@ -4,7 +4,7 @@ layout: post
 categories:
     - collectivization
     - socialism
-tag: 'Ronald Reagan'
+tags: 'Ronald Reagan'
 ---
 
 Now back in 1927 an American socialist, Norman Thomas, six times candidate for president on the Socialist Party ticket, said the American people would never vote for socialism. But he said under the name of liberalism the American people would adopt every fragment of the socialist program.

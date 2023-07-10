@@ -3,7 +3,7 @@ title: 'Clear as mud'
 layout: post
 categories:
     - 'foreign policy'
-tag: 'Aubrey Bailey'
+tags: 'Aubrey Bailey'
 ---
 
 Are you confused by what is going on in the Middle East? Let me explain.  

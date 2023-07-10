@@ -6,7 +6,7 @@ categories:
     - 'Second Amendment'
     - speech
     - voting
-tag: 'Ed Howdershelt'
+tags: 'Ed Howdershelt'
 ---
 
 There are four boxes to be used in defense of liberty: Soap, ballot, jury, and ammo. Please use in that order.

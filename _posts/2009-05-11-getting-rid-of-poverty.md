@@ -4,7 +4,7 @@ layout: post
 categories:
     - economics
     - welfare
-tag: 'P. J. O’Rourke'
+tags: 'P. J. O’Rourke'
 ---
 
 You can’t get rid of poverty by giving people money.

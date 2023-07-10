@@ -5,7 +5,7 @@ categories:
     - economics
     - money
     - socialism
-tag: 'Ron Paul'
+tags: 'Ron Paul'
 ---
 
 You can’t save free markets by socialism, I don’t know where this idea ever came from. You save free markets by promoting free markets and sound money and balanced budgets.  

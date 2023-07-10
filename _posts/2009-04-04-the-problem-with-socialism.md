@@ -4,7 +4,7 @@ layout: post
 categories:
     - socialism
     - taxation
-tag: 'Margaret Thatcher'
+tags: 'Margaret Thatcher'
 ---
 
 The problem with socialism is that you eventually run out of other people’s money.

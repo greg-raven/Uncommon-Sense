@@ -3,7 +3,7 @@ title: 'Losses under totalitarianism'
 layout: post
 categories:
     - socialism
-tag: 'Eric Hoffer'
+tags: 'Eric Hoffer'
 ---
 
 Totalitarianism spells simplification: an enormous reduction in the variety of aims, motives, interests, human types, and, above all, in the categories and units of power.

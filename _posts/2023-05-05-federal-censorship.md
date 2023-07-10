@@ -3,7 +3,7 @@ title: 'Federal censorship'
 layout: post
 categories:
     - speech
-tag: 'John Sauer'
+tags: 'John Sauer'
 ---
 
 Federal censorship activities are not in retreat, they are expanding. Federal Executive officials are expanding the topics on which they seek censorship, it’s expanding to more and more agencies, and it’s expanding to any social media platform they can reach. So we are not in a situation where this is something that occurred in the past. We have overwhelming evidence that it’s growing and growing and growing, and there’s little indication that there will ever be any voluntary relinquishment of the power to dictate what ordinary Americans can say on social media, so it’s a problem that is growing. It’s a looming threat.

@@ -4,7 +4,7 @@ layout: post
 categories:
     - 'informed electorate'
     - knowledge
-tag: 'John Kenneth Galbraith'
+tags: 'John Kenneth Galbraith'
 ---
 
 The conventional view serves to protect us from the painful job of thinking.

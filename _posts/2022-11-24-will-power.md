@@ -4,7 +4,7 @@ layout: post
 categories:
     - money
     - taxation
-tag: 'Alexander Hamilton'
+tags: 'Alexander Hamilton'
 ---
 
 In the general course of human nature, a power over a man’s subsistence amounts to a power over his will.

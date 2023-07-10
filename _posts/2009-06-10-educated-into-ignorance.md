@@ -4,7 +4,7 @@ layout: post
 categories:
     - education
     - knowledge
-tag: 'Bertrand Russell'
+tags: 'Bertrand Russell'
 ---
 
 Men are born ignorant, not stupid. They are made stupid by education.

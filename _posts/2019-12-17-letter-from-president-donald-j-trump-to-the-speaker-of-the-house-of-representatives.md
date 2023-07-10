@@ -5,7 +5,7 @@ categories:
     - Constitution
     - demagogues
     - politics
-tag: 'Donald J. Trump'
+tags: 'Donald J. Trump'
 ---
 
 The Honorable Nancy Pelosi  

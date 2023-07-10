@@ -4,7 +4,7 @@ layout: post
 categories:
     - culture
     - morals
-tag: 'Ayn Rand'
+tags: 'Ayn Rand'
 ---
 
 There can be no compromise on basic principles.  

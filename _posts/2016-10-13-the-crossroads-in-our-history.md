@@ -4,7 +4,7 @@ layout: post
 categories:
     - corruption
     - patriotism
-tag: 'Donald J. Trump'
+tags: 'Donald J. Trump'
 ---
 
 Our movement is about replacing a failed and corrupt political establishment with a new government controlled by you, the American People. There is nothing the political establishment will not do, and no lie they will not tell, to hold on to their prestige and power at your expense.

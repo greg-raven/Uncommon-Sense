@@ -3,7 +3,7 @@ title: 'Americans need to be well armed'
 layout: post
 categories:
     - 'Second Amendment'
-tag: 'Michael F. Scheuer'
+tags: 'Michael F. Scheuer'
 ---
 
 \[T\]he need for the American citizenry to be well armed has never been greater …  

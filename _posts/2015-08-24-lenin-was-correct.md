@@ -3,7 +3,7 @@ title: 'Lenin was correct'
 layout: post
 categories:
     - money
-tag: 'John Maynard Keynes'
+tags: 'John Maynard Keynes'
 ---
 
 Lenin is said to have declared that the best way to destroy the Capitalist System was to debauch the currency. By a continuing process of inflation, governments can confiscate, secretly and unobserved, an important part of the wealth of their citizens.  

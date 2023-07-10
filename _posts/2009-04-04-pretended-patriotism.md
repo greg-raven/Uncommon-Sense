@@ -3,7 +3,7 @@ title: 'Pretended patriotism'
 layout: post
 categories:
     - patriotism
-tag: 'George Washington'
+tags: 'George Washington'
 ---
 
 Guard against the impostures of pretended patriotism.

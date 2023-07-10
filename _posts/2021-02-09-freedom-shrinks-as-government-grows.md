@@ -4,7 +4,7 @@ layout: post
 categories:
     - government
     - liberty
-tag: 'Dennis Prager'
+tags: 'Dennis Prager'
 ---
 
 The more powerful the national government grows, the less free Americans will become.

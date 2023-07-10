@@ -3,7 +3,7 @@ title: 'Defining ‘politics’'
 layout: post
 categories:
     - politics
-tag: 'Ambrose Bierce'
+tags: 'Ambrose Bierce'
 ---
 
 POLITICS, n. Strife of interests masquerading as a contest of principles.

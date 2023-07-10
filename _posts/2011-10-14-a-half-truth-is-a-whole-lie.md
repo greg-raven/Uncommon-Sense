@@ -3,7 +3,7 @@ title: 'Half truth'
 layout: post
 categories:
     - truth
-tag: anonymous
+tags: anonymous
 ---
 
 A half truth is a whole lie.

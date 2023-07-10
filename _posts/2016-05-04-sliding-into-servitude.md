@@ -3,7 +3,7 @@ title: 'Sliding into servitude'
 layout: post
 categories:
     - money
-tag: 'Peter Kershaw'
+tags: 'Peter Kershaw'
 ---
 
 The Founding Fathers of this great land had no difficulty whatsoever understanding the agenda of bankers, and they frequently referred to them and their kind as, quote, ‘friends of paper money.’  

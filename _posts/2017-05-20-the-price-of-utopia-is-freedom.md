@@ -4,7 +4,7 @@ layout: post
 categories:
     - collectivization
     - liberty
-tag: 'Rod Eccles'
+tags: 'Rod Eccles'
 ---
 
 \[T\]here is a problem with utopia. It doesn’t exist. It never has, and it never will, at least not by human standards and by human hands.  

@@ -5,7 +5,7 @@ categories:
     - citizenship
     - immigration
     - nationalism
-tag: 'Alexander Hamilton'
+tags: 'Alexander Hamilton'
 ---
 
 The safety of a republic depends essentially on the energy of a common national sentiment; on a uniformity of principles and habits; on the exemption of the citizens from foreign bias, and prejudice; and on that love of country which will almost invariably be found to be closely connected with birth, education, and family.  

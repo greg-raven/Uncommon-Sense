@@ -4,7 +4,7 @@ layout: post
 categories:
     - intolerance
     - socialism
-tag: 'Jim Goad'
+tags: 'Jim Goad'
 ---
 
 There is a peculiar sadism at the very root of the leftist mindset, one made all the more foul because it’s buried underneath a fraudulent veneer of compassion and tolerance.

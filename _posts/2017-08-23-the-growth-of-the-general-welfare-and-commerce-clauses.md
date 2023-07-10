@@ -3,7 +3,7 @@ title: 'The growth of the General Welfare and Commerce clauses'
 layout: post
 categories:
     - Constitution
-tag: 'Roger Pilon'
+tags: 'Roger Pilon'
 ---
 
 Under our Constitution, the federal government has delegated, enumerated and thus limited powers. Power is delegated by the founding generation or through subsequent amendment (that makes it legitimate); enumerated in the constitution (that makes it legal); and limited by that enumeration. As the 10th Amendment says, if a power hasn’t been delegated, the federal government doesn’t have it.  
