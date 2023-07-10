@@ -6,4 +6,4 @@ categories:
 tag: 'Tony Heller'
 ---
 
-Lower CO~2~ levels do not produce a good climate. History shows that unequivocally.
+Lower CO<sub>2</sub> levels do not produce a good climate. History shows that unequivocally.
