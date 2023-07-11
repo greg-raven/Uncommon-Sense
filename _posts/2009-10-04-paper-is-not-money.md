@@ -6,7 +6,7 @@ categories:
 tag: 'Thomas Paine'
 ---
 
-I remember a German farmer expressing as much in a few words as the whole subject requires; ‘money is money, and paper is paper.’
+I remember a German farmer expressing as much in a few words as the whole subject requires; “money is money, and paper is paper.”
 
 All the invention of man cannot make them otherwise. The alchemist may cease his labors, and the hunter after the philosopher’s stone go to rest, if paper can be metamorphosed into gold and silver, or made to answer the same purpose in all cases.
 
