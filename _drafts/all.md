@@ -6,10 +6,6 @@ categories:
 tag: ''
 ---
 
-It is the duty of the officials to prevent or suppress the threatened disorder with a firm hand instead of timidly yielding to threats? Surely a speaker ought not to be suppressed because his opponents propose to use violence. It is they who should suffer from their lawlessness, not he. American Bar Association
-
-In America nobody says you have to keep the circumstances you were born with. Amy Tan
-
 You see what power is — holding someone else’s fear in your hand and showing it to them! Amy Tan
 
 It is clear in our criminal justice system that the jury has the power to nullify — that is, the power to acquit or to convict on reduced charges despite overwhelming evidence against the defendant. … In a criminal trial, the court cannot direct a verdict of guilty, no matter how strong the evidence. In addition, if the jury acquits, double jeopardy bars the prosecution from appealing the verdict or seeking retrial. Similarly, if the jury convicts the defendant of a less serious offense than the one charged, the prosecution cannot again try the defendant on the more serious charge. This result occurs regardless of whether the jury consciously rejects the law, embraces a merciful attitude, or is simply confused concerning the law or facts. Thus, nullification — with or without authority, intended or not — is part of our system. Anne Bowen Poulin
