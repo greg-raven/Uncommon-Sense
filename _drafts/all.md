@@ -1439,3 +1439,28 @@ woman scorn’d. “
 - William Congreve (1670-1729)
 
 A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.“ - Sir Winston Churchill (1874-1965)
+
+
+To act without clear understanding, to form habits without investigation, to follow a path all one’s life without knowing where it really leads — such is the behavior of the multitude. Mencius
+
+I will not surrender responsibility for my life and my actions. John Enoch Powell
+
+Unrestrained political authority, though it be confided to masses, cannot be trusted without positive limitations, men in bodies being but an aggregation of the passions, weaknesses and interests of men as individuals. James Fenimore Cooper
+
+If there is any fixed star in our constitutional constellation, it is that no official, high or petty, can prescribe what shall be orthodox in politics, nationalism, religion, or other matters of opinion or force citizens to confess by word or act their faith therein. Justice Robert H. Jackson
+
+Government power must be dispersed. If government is to exercise power, better in the county than in the state, better in the state than in Washington. If I do not like what my local community does, be it in sewage disposal, or zoning, or schools, I can move to another local community, and though few may take this step, the mere possibility acts as a check. If I do not like what Washington imposes, I have few alternatives in this world of jealous nations. Milton Friedman
+
+The attributes of sovereignty are now enjoyed by every state in the Union. Alexander Hamilton
+
+Liberty is the hardest test that one can inflict on a people. To know how to be free is not given equally to all men and all nations. Paul Valéry
+
+Real knowledge is to know the extent of one’s ignorance. Confucius
+
+I have sworn upon the altar of God eternal hostility against every form of tyranny over the mind of man. Thomas Jefferson
+
+The uniform, constant, and uninterrupted effort of every man to better his condition … is frequently powerful enough to maintain the natural progress of things toward improvement, in spite of the extravagance of government, and of the greatest errors of administration. Adam Smith
+
+If the States were not left to leave the Union when their rights were interfered with, the government would have been National, but the Convention refused to baptize it by that name. Daniel Webster
+
+If for no other reason, personal pride should prompt every governor and state legislator to take a secessionist attitude they were not elected to be lackeys of the federal bureaucracy. Frank Chodorov
