@@ -6,34 +6,6 @@ categories:
 tag: ''
 ---
 
-You see what power is — holding someone else’s fear in your hand and showing it to them! Amy Tan
-
-It is clear in our criminal justice system that the jury has the power to nullify — that is, the power to acquit or to convict on reduced charges despite overwhelming evidence against the defendant. … In a criminal trial, the court cannot direct a verdict of guilty, no matter how strong the evidence. In addition, if the jury acquits, double jeopardy bars the prosecution from appealing the verdict or seeking retrial. Similarly, if the jury convicts the defendant of a less serious offense than the one charged, the prosecution cannot again try the defendant on the more serious charge. This result occurs regardless of whether the jury consciously rejects the law, embraces a merciful attitude, or is simply confused concerning the law or facts. Thus, nullification — with or without authority, intended or not — is part of our system. Anne Bowen Poulin
-
-The power of nullification plays an important role in the criminal justice system. … Because an accused criminal is restricted in the defenses he or she can raise, the law recognizes only certain defenses and justification, and correspondingly, limited evidence. The jury’s power to nullify provides an accommodation between the rigidity of the law and the need to hear and respond to positions that do not fit legal pigeonholes, such as claims of spousal abuse before the battered-spouse syndrome received acceptance. Jury nullification permits the jury to respond to a position that does not have the status of a legally recognized defense. The power to nullify guarantees that the jury is free to speak as the conscience of the community. Anne Bowen Poulin
-
-Standing armies consist of professional soldiers who owe their livelihood and income to the government. Unlike civilians who render periodic service in local militia, professional soldiers do not own property and therefore do not have any source of income other than the government’s military paymaster. Thus, they are more likely to serve the government’s interests, regardless of whether its leaders are dishonest and corrupt or not. In fact, standing armies may even promote rapacious foreign or domestic policies if such policies enrich the army. In contrast, arms bearing, property owning citizen militiamen have a stake in the health of the republic as a whole and can be trusted to act in the republic’s best interests, whether those interests call for action in support of or against the political leadership of the nation. Anthony J. Dennis
-
-Communism is not a creation of the masses to overthrow the Banking establishment, but rather a creation of the Banking establishment to overthrow and enslave the people. Anthony J. Hilder
-
-[M]y work, which I’ve done for a long time, was not pursued in order to gain the praise I now enjoy, but chiefly from a craving after knowledge, which I notice resides in me more than in most other men. And therewithal, whenever I found out anything remarkable, I have thought it my duty to put down my discovery on paper, so that all ingenious people might be informed thereof. Antonie van Leeuwenhoek
-
-There are those who will say that the liberation of humanity, the freedom of man and mind, is nothing but a dream. They are right. It is the American Dream. Archibald MacLeish
-
-Freedom is the right to choose: the right to create for oneself the alternatives of choice. Without the possibility of choice and the exercise of choice, a man is not a man but a member, an instrument, a thing. Archibald MacLeish
-
-The dissenter is every human being at those times of his life when he resigns momentarily from the herd and thinks for himself. Archibald Macleish
-
-Just as there is a very short distance between the U.S. and Cuba, there is a very short distance between a democracy and a dictatorship where the government gets to decide what to do, how to think, and how to live. And sometimes your freedom is not taken away at gunpoint, but instead it is done one piece of paper at a time, one seemingly meaningless rule at a time, one small silencing at a time. Never allow the government — or anyone else — to tell you what you can or cannot believe or what you can and cannot say or what your conscience tells you to have to do or not do. Armando Valladares
-
-As long as man remains an inquiring animal, there can never be a complete unanimity in our fundamental beliefs. The more diverse our paths, the greater is likely to be the divergence of beliefs. Arthur Keith
-
-As long as man remains an inquiring animal, there can never be a complete unanimity in our fundamental beliefs. The more diverse our paths, the greater is likely to be the divergence of beliefs. Arthur Keith
-
-Those who formally rule take their signals and commands not from the electorate as a body, but from a small group of men. This group will be called the Establishment. It exists even though that existence is stoutly denied. It is one of the secrets of the American social order … A second secret is the fact that the existence of the Establishment — the ruling class — is not supposed to be discussed. Arthur S. Miller
-
-Social positivism only accepts duties, for all and towards all. Its constant social viewpoint cannot include any notion of rights, for such notion always rests on individuality. We are born under a load of obligations of every kind, to our predecessors, to our successors, to our contemporaries. These obligations then increase or accumulate, for it is some time before we can return any service. … Any human right is therefore as absurd as immoral. Since there are no divine rights anymore, this concept must therefore disappear completely as related only to the preliminary regime and totally inconsistent with the final state where there are only duties based on functions. Auguste Comte
-
 Professionalism implies knowledge based in evidence, not in authority. Such lines are blurred in the era of identity politics and the normalization of pseudo-disciplines such as Gender Studies, Black Studies, Queer Studies, Fat Studies, Disability Studies, Chicano Studies and White Studies and Indigenous Studies, all of which are taught based on the “authority” of Marxism, and all of whose primary purpose is to demonize “oppressors” – the “patriarchy,” white “colonialists” and the U.S. in general – and to recruit activists for organized perpetuation of the identity grievance industry. Barbara Kay
 
 Laws directed against opinions affect the generous-minded rather than the wicked, and are adapted less for coercing criminals than for irritating the upright. Baruch Spinoza
@@ -90,7 +62,7 @@ Our lack of constant awareness has also permitted us to accept definitions of fr
 
 No one is fit to be trusted with power. … No one. … Any man who has lived at all knows the follies and wickedness he’s capable of. … And if he does know it, he knows also that neither he nor any man ought to be allowed to decide a single human fate. C. P. Snow
 
-‘Useful,’ and ‘necessity’ was always ‘the tyrant’s plea’. C. S. Lewis
+“Useful,” and “necessity” was always “the tyrant’s plea”. C. S. Lewis
 
 A man may have to die for our country: but no man must, in any exclusive sense, live for his country. He who surrenders himself without reservation to the temporal claims of a nation, or a party, or a class is rendering to Caesar that which, of all things, most emphatically belongs to God: himself. C. S. Lewis
 
@@ -164,7 +136,7 @@ The lust for power, for dominating others, inflames the heart more than any othe
 
 The more corrupt the state, the more numerous the laws. Cornelius Tacitus
 
-… [I]t was the calculated ‘shearing’ of the public by the World-Money powers triggered by the planned sudden shortage of call money in the New York Market. Curtis Dall
+… [I]t was the calculated “shearing” of the public by the World-Money powers triggered by the planned sudden shortage of call money in the New York Market. Curtis Dall
 
 Most of his thoughts, his political ‘ammunition,’ … were carefully manufactured for him in advance by the CFR-One World Money group. Brilliantly … he exploded that prepared ‘ammunition’ in the middle of an unsuspecting target, the American people — and thus paid off and retained his internationalist political support. Curtis Dall
 
@@ -1314,36 +1286,27 @@ The prohibition is general. No clause in the Constitution could by any rule of c
 
 Criminal justice was originally intended to protect society from the lawbreaker. By the time the Warren Court had finished with it, its chief function was to protect the lawbreaker from society. Needless to say, the Court’s exaggerated magnification of criminal rights worked directly to the advantage of minorities that shelter criminal castes within their ranks. Wilmot Robertson
 
-We have what is known as the Federal Reserve Bank System. That system is not owned by the Government. Many people think that it is because it says ‘Federal Reserve.’ It belongs to private banks, private corporations. So we have farmed out to the Federal Reserve Banking System that which is owned exclusively, wholly, one hundred percent to the private banks — we have farmed out to them the privilege of issuing the Government’s money! Wright Patman
+We have what is known as the Federal Reserve Bank System. That system is not owned by the Government. Many people think that it is because it says “Federal Reserve.” It belongs to private banks, private corporations. So we have farmed out to the Federal Reserve Banking System that which is owned exclusively, wholly, one hundred percent to the private banks — we have farmed out to them the privilege of issuing the Government’s money! Wright Patman
 
 The dollar represents a one dollar debt to the Federal Reserve System.  The Federal Reserve Banks create money out of thin air to buy Government Bonds from the U.S. Treasury … and has created out of nothing a … debt which the American people are obliged to pay with interest. Wright Patman
 
-Glory is fleeting, but obscurity is forever. “
-- Napoleon Bonaparte (1769-1821)
+Glory is fleeting, but obscurity is forever. Napoleon Bonaparte
 
-Don’t be so humble -- you are not that great. “
-- Golda Meir (1898-1978) to a visiting diplomat
+Don’t be so humble -- you are not that great. Golda Meir
 
-His ignorance is encyclopedic”
-- Abba Eban (1915-)
+His ignorance is encyclopedic. Abba Eban
 
-If a man does his best, what else is there?”
-- General George S. Patton (1885-1945)
+If a man does his best, what else is there? George S. Patton
 
-Not everything that can be counted counts, and not everything that counts can be counted. “
-- Albert Einstein (1879-1955)
+Not everything that can be counted counts, and not everything that counts can be counted.  Albert Einstein
 
-Only two things are infinite, the universe and human stupidity, and I’m not sure about the former. “
-- Albert Einstein (1879-1955)
+Only two things are infinite, the universe and human stupidity, and I’m not sure about the former. Albert Einstein (1879-1955)
 
-A lie gets halfway around the world before the truth has a chance to get its pants on. “
-- Sir Winston Churchill (1874-1965)
+A lie gets halfway around the world before the truth has a chance to get its pants on. Sir Winston Churchill (1874-1965)
 
-I find that the harder I work, the more luck I seem to have. “
-- Thomas Jefferson (1743-1826)
+I find that the harder I work, the more luck I seem to have. Thomas Jefferson (1743-1826)
 
-Each problem that I solved became a rule which served afterwards to solve other problems. “
-- Rene Descartes (1596-1650), “Discours de la Methode”
+Each problem that I solved became a rule which served afterwards to solve other problems. Rene Descartes (1596-1650), “Discours de la Methode”
 
 Moral indignation is jealousy with a halo.”
 - H. G. Wells (1866-1946)
@@ -1352,93 +1315,63 @@ Obstacles are those frightful things you see when you take your eyes off your go
 - Henry Ford (1863-1947)
 
 My advice to you is get married: if you find a good wife you’ll be
-happy; if not, you’ll become a philosopher. “
-- Socrates (470-399 B.C.)
+happy; if not, you’ll become a philosopher. Socrates (470-399 B.C.)
 
-Egotist: a person more interested in himself than in me. “
-- Ambrose Bierce (1842-1914)
+Egotist: a person more interested in himself than in me. Ambrose Bierce (1842-1914)
 
-It has become appallingly obvious that our technology has exceeded our
-humanity. “
-- Albert Einstein (1879-1955)
+It has become appallingly obvious that our technology has exceeded our humanity. Albert Einstein (1879-1955)
 
-Any man who is under 30, and is not a liberal, has no heart; and any man who is over 30, and is not a conservative, has no brains.”
-- Sir Winston Churchill (1874-1965)
+Any man who is under 30, and is not a liberal, has no heart; and any man who is over 30, and is not a conservative, has no brains. Winston Churchill
 
-I would have made a good Pope. “
-- Richard M. Nixon (1913-1994)
+I would have made a good Pope. Richard M. Nixon (1913-1994)
 
-Make everything as simple as possible, but not simpler. “
-- Albert Einstein (1879-1955)
+Make everything as simple as possible, but not simpler. Albert Einstein (1879-1955)
 
-It is dangerous to be sincere unless you are also stupid. “
-- George Bernard Shaw (1856-1950)
+It is dangerous to be sincere unless you are also stupid. George Bernard Shaw (1856-1950)
 
-A man can’t be too careful in the choice of his enemies. “
-- Oscar Wilde (1854-1900)
+A man can’t be too careful in the choice of his enemies. Oscar Wilde (1854-1900)
 
-Forgive your enemies, but never forget their names. “
-- John F. Kennedy (1917-1963)
+Forgive your enemies, but never forget their names. John F. Kennedy (1917-1963)
 
-Well-timed silence hath more eloquence than speech. “
-- Martin Fraquhar Tupper
+Well-timed silence hath more eloquence than speech. Martin Fraquhar Tupper
 
-From the moment I picked your book up until I laid it down I was convulsed with laughter. Some day I intend reading it. “
-- Groucho Marx (1895-1977)
+From the moment I picked your book up until I laid it down I was convulsed with laughter. Some day I intend reading it. Groucho Marx (1895-1977)
 
-It is better to have a permanent income than to be fascinating. “
-- Oscar Wilde (1854-1900)
+It is better to have a permanent income than to be fascinating. Oscar Wilde (1854-1900)
 
-The graveyards are full of indispensable men. “
-- Charles de Gaulle (1890-1970)
+The graveyards are full of indispensable men. Charles de Gaulle (1890-1970)
 
-You can pretend to be serious; you can’t pretend to be witty. “
-- Sacha Guitry (1885-1957)
+You can pretend to be serious; you can’t pretend to be witty. Sacha Guitry (1885-1957)
 
-Behind every great fortune there is a crime. “
-- Honore de Balzac (1799-1850)
+Behind every great fortune there is a crime. Honore de Balzac (1799-1850)
 
-I am not young enough to know everything. “
-- Oscar Wilde (1854-1900)
+I am not young enough to know everything. Oscar Wilde (1854-1900)
 
-The object of war is not to die for your country but to make the other
-bastard die for his. “
-- General George Patton (1885-1945)
+The object of war is not to die for your country but to make the other bastard die for his. George Patton
 
-Too many pieces of music finish too long after the end. “
-- Igor Stravinsky (1882-1971)
+Too many pieces of music finish too long after the end. Igor Stravinsky
 
-Happiness is good health and a bad memory. “
-- Ingrid Bergman (1917-1982)
+Happiness is good health and a bad memory. Ingrid Bergman
 
-Friends may come and go, but enemies accumulate. “
-- Thomas Jones
+Friends may come and go, but enemies accumulate. Thomas Jones
 
-You can get more with a kind word and a gun than you can with a kind
-word alone. “
-- Al Capone (1899-1947)
+You can get more with a kind word and a gun than you can with a kind word alone. Al Capone
 
-The cynics are right nine times out of ten. “
-- Henry Louis Mencken (1880-1956)
+The cynics are right nine times out of ten. Henry Louis Mencken
 
-Attention to health is life’s greatest hindrance. “
-- Plato (427-347 B.C.)
+Attention to health is life’s greatest hindrance. Plato
 
-Not only is there no God, but try finding a plumber on Sunday. “
-- Woody Allen (1935-)
+Not only is there no God, but try finding a plumber on Sunday. Woody Allen
 
-I have never let my schooling interfere with my education. “
-- Mark Twain (1835-1910)
+I have never let my schooling interfere with my education. Mark Twain
 
 I don’t want to achieve immortality through my work; I want to achieve
-immortality through not dying. “
-- Woody Allen (1935-)
+immortality through not dying. Woody Allen
 
 Heav’n hath no rage like love to hatred turn’d, Nor Hell a fury, like a
-woman scorn’d. “
-- William Congreve (1670-1729)
+woman scorn’d. William Congreve
 
-A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty.“ - Sir Winston Churchill (1874-1965)
+A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty. Winston Churchill
 
 
 To act without clear understanding, to form habits without investigation, to follow a path all one’s life without knowing where it really leads — such is the behavior of the multitude. Mencius
@@ -1463,4 +1396,8 @@ The uniform, constant, and uninterrupted effort of every man to better his condi
 
 If the States were not left to leave the Union when their rights were interfered with, the government would have been National, but the Convention refused to baptize it by that name. Daniel Webster
 
-If for no other reason, personal pride should prompt every governor and state legislator to take a secessionist attitude they were not elected to be lackeys of the federal bureaucracy. Frank Chodorov
+The power of nullification plays an important role in the criminal justice system. … Because an accused criminal is restricted in the defenses he or she can raise, the law recognizes only certain defenses and justification, and correspondingly, limited evidence. The jury’s power to nullify provides an accommodation between the rigidity of the law and the need to hear and respond to positions that do not fit legal pigeonholes, such as claims of spousal abuse before the battered-spouse syndrome received acceptance. Jury nullification permits the jury to respond to a position that does not have the status of a legally recognized defense. The power to nullify guarantees that the jury is free to speak as the conscience of the community. Anne Bowen Poulin
+
+The dissenter is every human being at those times of his life when he resigns momentarily from the herd and thinks for himself. Archibald Macleish
+
+As long as man remains an inquiring animal, there can never be a complete unanimity in our fundamental beliefs. The more diverse our paths, the greater is likely to be the divergence of beliefs. Arthur Keith

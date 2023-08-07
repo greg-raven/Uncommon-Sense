@@ -6,8 +6,6 @@ categories:
 tag: 'James Madison'
 ---
 
-As there is a degree of depravity in mankind which requires a certain degree of circumspection and distrust: So there are other qualities in human nature, which justify a certain portion of esteem and confidence. Republican government presupposes the existence of these qualities in a higher degree than any other form. Were the pictures which have been drawn by the political jealousy of some among us, faithful likenesses of the human character, the inference would be that there is not sufficient virtue among men for self-government; and that nothing less than the chains of despotism can restrain them from destroying and devouring one another.
-
 I own myself the friend to a very free system of commerce, and hold it as a truth, that commercial shackles are generally unjust, oppressive and impolitic — it is also a truth, that if industry and labour are left to take their own course, they will generally be directed to those objects which are the most productive, and this in a more certain and direct manner than the wisdom of the most enlightened legislature could point out.
 
 It is sufficiently obvious, that persons and property are the two great subjects on which Governments are to act; and that the rights of persons, and the rights of property, are the objects, for the protection of which Government was instituted. These rights cannot well be separated.

@@ -6,8 +6,6 @@ categories:
 tag: 'Thomas Jefferson'
 ---
 
-Cultivators of the earth are the most valuable citizens.
-
 I am not fully informed of the practices at Harvard, but there is one from which we shall certainly vary, although it has been copied, I believe, by nearly every college and academy in the United States. That is, the holding the students all to one prescribed course of reading, and disallowing exclusive application to those branches only which are to qualify them for the particular vocations to which they are destined. We shall, on the contrary, allow them uncontrolled choice in the lectures they shall choose to attend, and require elementary qualification only, and sufficient age.
 
 I believe that banking institutions are more dangerous to our liberties than standing armies. If the American people ever allow private banks to control the issue of their currency, first by inflation, then by deflation, the banks and corporations that will grow up around the banks will deprive the people of all property until their children wake-up homeless on the continent their fathers conquered.

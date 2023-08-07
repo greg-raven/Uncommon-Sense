@@ -6,8 +6,6 @@ categories:
 tag: 'Thomas Paine'
 ---
 
-The trade of governing has always been monopolized by the most ignorant and the most rascally individuals of mankind.
-
 Those who expect to reap the blessings of freedom must, like men, undergo the fatigue of supporting it.
 
 Though the flame of liberty may sometimes cease to shine, the coal can never expire.

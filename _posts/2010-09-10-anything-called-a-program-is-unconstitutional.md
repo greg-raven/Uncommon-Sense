@@ -263,7 +263,7 @@ It’s a sign of the times that the stag film has become an obsolete art form.
 
 It’s better to fail at refinement than to succeed at vulgarity.
 
-It’s easier to amend the Constitution than to abolish Social Security, which is something to ponder, inasmuch as there’s no constitutional authorization for Social Security. It’s not just that the tail ‘wags the dog, but that it isn’t really the dog’s own tail.
+It’s easier to amend the Constitution than to abolish Social Security, which is something to ponder, inasmuch as there’s no constitutional authorization for Social Security. It’s not just that the tail wags the dog, but that it isn’t really the dog’s own tail.
 
 It’s nauseating the way politicians always pretend that the right thing, the advantageous thing, and the immediately tempting thing are the same thing.
 

@@ -6,7 +6,7 @@ categories:
 tag: 'Thomas Sowell'
 ---
 
-No matter how disastrously some policy has turned out, anyone who criticizes it can expect to hear: “But what would you replace it with?” When you put out a fire, what do you replace it with?
+No matter how disastrously some policy has turned out, anyone who criticizes it can expect to hear: ‘But what would you replace it with?’ When you put out a fire, what do you replace it with?
 
 Ours may become the first civilization destroyed, not by the power of our enemies, but by the ignorance of our teachers and the dangerous nonsense they are teaching our children. In an age of artificial intelligence, they are creating artificial stupidity.
 
