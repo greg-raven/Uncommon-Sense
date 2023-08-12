@@ -1,5 +1,5 @@
 ---
-title: '‘Rivers of Blood’'
+title: "‘Rivers of Blood’"
 layout: post
 categories:
 - culture

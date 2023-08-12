@@ -22,19 +22,19 @@ layout: base
       <h2 class="post-list-heading">{{ page.list_title }}</h2>
     {%- endif -%}
     <ul class="post-list">
-      {%- for post in posts -%}
-      <li>
-        <span class="post-meta">{{ post.tags }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
+		{%- for post in posts -%}
+		<li>
+			<span class="post-meta">{{ post.tags }}</span>
+			<h3>
+				<a class="post-link" href="{{ post.url | relative_url }}">
+				{{ post.title | smartify }}
+				</a>
+			</h3>
+			{%- if site.show_excerpts -%}
+				{{ post.excerpt }}
+			{%- endif -%}
+		</li>
+		{%- endfor -%}
     </ul>
 
     {% if site.paginate %}
