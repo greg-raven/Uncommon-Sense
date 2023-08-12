@@ -28,4 +28,4 @@ The proper lesson to have learned should have been the realization that governme
 
 Source: Excerpts from “The Robber Barons,” by Ayn Rand. H/T [LibertyPen on YouTube](https://youtu.be/hK18v2Vn8Ug)
 
-<figure class="wp-block-embed-youtube wp-block-embed is-type-video is-provider-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="473" loading="lazy" src="https://www.youtube.com/embed/hK18v2Vn8Ug?feature=oembed" title="Ayn Rand - Don't Confuse the Two Kinds of Capitalism" width="840"></iframe></div></figure>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hK18v2Vn8Ug" title="Don’t conflate capitalism and corporatism"></iframe>

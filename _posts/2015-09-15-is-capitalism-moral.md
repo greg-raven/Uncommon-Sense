@@ -7,4 +7,4 @@ categories:
 tag: 'Walter E. Williams'
 ---
 
-<iframe allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="473" loading="lazy" src="https://www.youtube.com/embed/fJr2RO7g7jI?feature=oembed" title="Is Capitalism Moral?" width="840"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/fJr2RO7g7jI" title="Is Capitalism Moral?"></iframe>
