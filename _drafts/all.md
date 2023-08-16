@@ -1,18 +1,5 @@
----
-title: ''
-layout: post
-categories:
--
-tag: ''
----
-
-Professionalism implies knowledge based in evidence, not in authority. Such lines are blurred in the era of identity politics and the normalization of pseudo-disciplines such as Gender Studies, Black Studies, Queer Studies, Fat Studies, Disability Studies, Chicano Studies and White Studies and Indigenous Studies, all of which are taught based on the “authority” of Marxism, and all of whose primary purpose is to demonize “oppressors” – the “patriarchy,” white “colonialists” and the U.S. in general – and to recruit activists for organized perpetuation of the identity grievance industry. Barbara Kay
-
-Laws directed against opinions affect the generous-minded rather than the wicked, and are adapted less for coercing criminals than for irritating the upright. Baruch Spinoza
-
 Laws which prescribe what everyone must believe, and forbid men to say or write anything against this or that opinion, are often passed to gratify, or rather to appease the anger of those who cannot abide independent minds. Baruch Spinoza
 
-Egotism is the anesthetic given by a kindly nature to relieve the pain of being a damned fool. Bellamy Brooks
 
 Give me control over a man’s economic actions, and hence over his means of survival, and except for a few occasional heroes, I’ll promise to deliver to you men who think and write and behave as I want them to. Benjamin A. Rooge
 
@@ -1039,8 +1026,6 @@ The problem of power is how to achieve its responsible use rather than its irres
 At the heart of western freedom and democracy is the belief that the individual man … is the touchstone of value, and all society, groups, the state, exist for his benefit. Therefore the enlargement of liberty for individual human beings must be the supreme goal and abiding practice of any western society. Robert F. Kennedy
 
 It is not the function of the government to keep the citizen from falling into error; it is the function of the citizen to keep the government from falling into error. Robert H. Jackson
-
-The priceless heritage of our society is the unrestricted constitutional right of each member to think as he will. Thought control is a copyright of totalitarianism, and we have no claim to it. Robert H. Jackson
 
 The very purpose of a Bill of Rights was to withdraw certain subjects from the vicissitudes of political controversy, to place them beyond the reach of majorities and officials and to establish them as legal principles to be applied by the courts. One's right to life, liberty, and property, to free speech, a free press, freedom of worship and assembly, and other fundamental rights may not be submitted to vote; they depend on the outcome of no elections. Justice Robert H. Jackson
 
