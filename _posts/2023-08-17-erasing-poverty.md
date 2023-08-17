@@ -2,7 +2,7 @@
 title: "Trying to erase poverty"
 layout: post
 categories:
--
+- prosperity
 tag: "J. C. Watts Jr."
 ---
 
