@@ -2,7 +2,7 @@
 title: "Intellects or imbeciles"
 layout: post
 categories:
--
+- government
 tag: "Mark Twain"
 ---
 
