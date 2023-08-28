@@ -5,7 +5,6 @@ Give me control over a man’s economic actions, and hence over his means of sur
 
 No duty, however, binds us to these so-called laws, whose corrupting influence menaces what is noblest in our being … Benjamin Constant
 
-Truth travels slowly, but it will reach even you in time. Benjamin Disraeli
 
 As to Jesus of Nazareth, my opinion of whom you particularly desire, I think the system of Morals and his Religion, as he left them to us, the best the World ever saw or is likely to see; but I apprehend it has received various corrupting Changes; and I have, with most of the present Dissenters in England, some doubts as to his divinity. Benjamin Franklin
 
@@ -17,15 +16,10 @@ Advances are made by answering questions. Discoveries are made by questioning an
 
 Do not fear to be eccentric in opinion, for every opinion now accepted was once eccentric. Bertrand Russell
 
-These men — the politicians — use their position, their knowledge, and their power of disseminating misinformation to arouse and stimulate the latent instinct for bloodshed. When they have succeeded, they say they are reluctantly forced to war by the pressure of public opinion. Bertrand Russell
 
-There’s just no such thing as truth when it comes to him. He just says whatever sounds good and worries about it after the election. Bill Clinton
-
-We can’t be so fixated on our desire to preserve the rights of ordinary Americans … Bill Clinton
 
 Militia: The body of citizens in a state, enrolled for discipline as a military force, but not engaged in actual service except in emergencies, as distinguished from regular troops or a standing army. Black’s Law Dictionary, 3rd Edition
 
-Justice without force is impotent, force without justice is tyranny. Unable to make what is just strong, we have made what is strong just. Blaise Pascal
 
 The strength of a man’s virtue should not be measured by his special exertions, but by his habitual acts. Blaise Pascal
 
@@ -1375,7 +1369,6 @@ Liberty is the hardest test that one can inflict on a people. To know how to be 
 
 Real knowledge is to know the extent of one’s ignorance. Confucius
 
-I have sworn upon the altar of God eternal hostility against every form of tyranny over the mind of man. Thomas Jefferson
 
 The uniform, constant, and uninterrupted effort of every man to better his condition … is frequently powerful enough to maintain the natural progress of things toward improvement, in spite of the extravagance of government, and of the greatest errors of administration. Adam Smith
 
@@ -1384,5 +1377,3 @@ If the States were not left to leave the Union when their rights were interfered
 The power of nullification plays an important role in the criminal justice system. … Because an accused criminal is restricted in the defenses he or she can raise, the law recognizes only certain defenses and justification, and correspondingly, limited evidence. The jury’s power to nullify provides an accommodation between the rigidity of the law and the need to hear and respond to positions that do not fit legal pigeonholes, such as claims of spousal abuse before the battered-spouse syndrome received acceptance. Jury nullification permits the jury to respond to a position that does not have the status of a legally recognized defense. The power to nullify guarantees that the jury is free to speak as the conscience of the community. Anne Bowen Poulin
 
 The dissenter is every human being at those times of his life when he resigns momentarily from the herd and thinks for himself. Archibald Macleish
-
-As long as man remains an inquiring animal, there can never be a complete unanimity in our fundamental beliefs. The more diverse our paths, the greater is likely to be the divergence of beliefs. Arthur Keith

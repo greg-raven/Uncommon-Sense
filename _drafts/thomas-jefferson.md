@@ -12,6 +12,8 @@ I consider the foundation of the Constitution as laid on this ground: That ‘al
 
 I have often thought that nothing would do more extensive good at small expense than the establishment of a small circulating library in every county, to consist of a few well-chosen books, to be lent to the people of the country under regulations as would secure their safe return in due time.
 
+I have sworn upon the altar of God eternal hostility against every form of tyranny over the mind of man.
+
 I predict future happiness for Americans if they can prevent the government from wasting the labors of the people under the pretense of taking care of them.
 
 It is error alone which needs the support of government. Truth can stand by itself.

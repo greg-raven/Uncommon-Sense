@@ -1,8 +1,9 @@
 ---
-title: ""
+title: "Governing by force and fraud"
 layout: post
 categories:
--
+- corruption
+- politics
 tag: "Thomas Paine"
 ---
 
