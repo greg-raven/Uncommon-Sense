@@ -711,7 +711,7 @@ Repeal the entire Banking Act of 1933, and Austrian School economists will cheer
 
 Even though they are a relatively recent policy development, civil rights laws are considered necessary to insure rights for blacks. But they are, in fact, among the most draconian forms of intervention into the free market. They attack the essence of private property, the ability to exercise control over it. Such laws have resulted in lessened economic freedom, lowered prosperity, heightened social tension, and more trouble for the groups the laws are supposed to help. ... A Korean grocer may want to employ only Korean clerks, a magazine for black professionals only black editors and writers, and a German restaurant only German cooks and waiters. An employer may think that Iraqi-Americans have been unfairly treated and want to favor them. A women's health club may want only women customer's and a men's bar may want only men. There is nothing wrong with any of these behaviors, although civil rights laws seek to end them. In addition to violating the free labor contract, civil rights laws guarantee everyone the right of 'access' to 'public accommodations' like restaurants, movie theaters, and shops. In fact, what the civil rights laws call public is really private. These businesses are established by private entrepreneurs with private money. The owners should no more be required to serve everyone who comes into their place than they are required to invite everyone to their home for dinner. A large downtown restaurant is as private as a small house in the country. The real difference between private and public is one of ownership, not function or location. Lew Rockwell
 
-What is needed here is a return to the Constitution of the United States. We need to have a complete divorce of Bank and State. The old struggle that was fought out here in Jackson's day must be fought over again ...  The Federal Reserve Act should be repealed and the Federal Reserve Banks, having violated their charters, should be liquidated immediately. Faithless Government officers who have violated their oaths of office should be impeached and brought to trial. Louis McFadden
+What is needed here is a return to the Constitution of the United States. We need to have a complete divorce of Bank and State. The old struggle that was fought out here in Jackson's day must be fought over again ... The Federal Reserve Act should be repealed and the Federal Reserve Banks, having violated their charters, should be liquidated immediately. Faithless Government officers who have violated their oaths of office should be impeached and brought to trial. Louis McFadden
 
 And remember, where you have a concentration of power in a few hands, all too frequently men with the mentality of gangstersget control. History has proven that. All power corrupts; absolute power corrupts absolutely. Lord Acton [John Emerich Edward Dalberg Acton]
 
@@ -1267,7 +1267,7 @@ Criminal justice was originally intended to protect society from the lawbreaker.
 
 We have what is known as the Federal Reserve Bank System. That system is not owned by the Government. Many people think that it is because it says 'Federal Reserve.' It belongs to private banks, private corporations. So we have farmed out to the Federal Reserve Banking System that which is owned exclusively, wholly, one hundred percent to the private banks --- we have farmed out to them the privilege of issuing the Government's money! Wright Patman
 
-The dollar represents a one dollar debt to the Federal Reserve System.  The Federal Reserve Banks create money out of thin air to buy Government Bonds from the U.S. Treasury ... and has created out of nothing a ... debt which the American people are obliged to pay with interest. Wright Patman
+The dollar represents a one dollar debt to the Federal Reserve System. The Federal Reserve Banks create money out of thin air to buy Government Bonds from the U.S. Treasury ... and has created out of nothing a ... debt which the American people are obliged to pay with interest. Wright Patman
 
 Glory is fleeting, but obscurity is forever. Napoleon Bonaparte
 
@@ -1277,7 +1277,7 @@ His ignorance is encyclopedic. Abba Eban
 
 If a man does his best, what else is there? George S. Patton
 
-Not everything that can be counted counts, and not everything that counts can be counted.  Albert Einstein
+Not everything that can be counted counts, and not everything that counts can be counted. Albert Einstein
 
 Only two things are infinite, the universe and human stupidity, and I'm not sure about the former. Albert Einstein
 
