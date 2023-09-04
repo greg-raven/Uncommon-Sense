@@ -6,4 +6,4 @@ categories:
 tag: 'Alexander Hamilton'
 ---
 
-The present Constitution is the standard to which we are to cling. Under its banners, bona fide must we combat our political foes — rejecting all changes but through the channel itself provides for amendments.
+The present Constitution is the standard to which we are to cling. Under its banners, bona fide must we combat our political foes --- rejecting all changes but through the channel itself provides for amendments.

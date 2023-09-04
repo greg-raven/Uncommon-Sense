@@ -7,4 +7,4 @@ categories:
 tag: 'James Madison'
 ---
 
-Equal laws protecting equal rights — the best guarantee of loyalty and love of country.
+Equal laws protecting equal rights --- the best guarantee of loyalty and love of country.

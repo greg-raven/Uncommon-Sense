@@ -6,4 +6,4 @@ categories:
 tag: 'Ayn Rand'
 ---
 
-Independence is the recognition of the fact that yours is the responsibility of judgment and nothing can help you escape it — that no substitute can do your thinking, as no pinch-hitter can live your life.
+Independence is the recognition of the fact that yours is the responsibility of judgment and nothing can help you escape it --- that no substitute can do your thinking, as no pinch-hitter can live your life.

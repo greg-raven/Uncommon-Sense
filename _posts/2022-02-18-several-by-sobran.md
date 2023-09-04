@@ -13,9 +13,9 @@ tag: 'Joe Sobran'
 
 Today’s Washington is about as attentive to the Tenth Amendment as the Unitarian Church is to the Book of Revelation.
 
-A belief in moral absolutes should always make us more, not less, critical of both sides in any conflict. This doesn’t mean that both sides are equally wrong; it means that since we all fall short of moral perfection, even the side whose cause is truly righteous may commit terrible acts of violence in defense of that cause — and, worse, may feel quite justified in committing them. That is the difference between being righteous and being self-righteous. Moral standards are absolute; but human fidelity to them is always relative.
+A belief in moral absolutes should always make us more, not less, critical of both sides in any conflict. This doesn’t mean that both sides are equally wrong; it means that since we all fall short of moral perfection, even the side whose cause is truly righteous may commit terrible acts of violence in defense of that cause --- and, worse, may feel quite justified in committing them. That is the difference between being righteous and being self-righteous. Moral standards are absolute; but human fidelity to them is always relative.
 
-A Christian can believe that God “ordained” the “powers that be” — including political rulers and slaveholders — for purposes too deep for us to understand fully, and that while they last we must provisionally accept them; but that they were not meant to last forever.
+A Christian can believe that God “ordained” the “powers that be” --- including political rulers and slaveholders --- for purposes too deep for us to understand fully, and that while they last we must provisionally accept them; but that they were not meant to last forever.
 
 All in all, the framers would probably agree that it’s better to impeach too often than too seldom. If presidents can’t be virtuous, they should at least be nervous.
 
@@ -41,15 +41,15 @@ If one person in America had starved over the last 20 years, you, reader, would 
 
 If we need women in our defense forces, we must not need much defense.
 
-In a few more days we will celebrate Xmas, the day we commemorate the birth of you-know-who … It seems the modern consensus of enlightened people that his name should be used in polite society only when cursing … \[P\]oliticians are often eager to associate themselves personally with you-know-who, even — and especially — when they rather flagrantly ignore his injunctions … He was out of step then, and he is out of step now. He is eternally out of step, and eternally more powerful than those who keep in step. You know who I mean.
+In a few more days we will celebrate Xmas, the day we commemorate the birth of you-know-who ... It seems the modern consensus of enlightened people that his name should be used in polite society only when cursing ... \[P\]oliticians are often eager to associate themselves personally with you-know-who, even --- and especially --- when they rather flagrantly ignore his injunctions ... He was out of step then, and he is out of step now. He is eternally out of step, and eternally more powerful than those who keep in step. You know who I mean.
 
 In the current political vocabulary, “need” means wanting to get someone else’s money. “Greed,” which used to mean what “need” now means, has come to mean wanting to keep your own. “Compassion” means the politician’s willingness to arrange the transfer.
 
 It would be a healthy exercise for every politician to look in the mirror every morning and remind himself that he holds office only because, in a two-man race against another mediocrity, a modest majority of those half-informed people who imagined that their votes mattered reckoned that he was the lesser evil. And they weren’t too sure about that.
 
-It’s a curious fact about Americans that in their most fiercely patriotic moods they are willing to set aside their Constitution, the guarantor of their freedom, in order to prosecute war — yet they insist that the war is for “freedom.”
+It’s a curious fact about Americans that in their most fiercely patriotic moods they are willing to set aside their Constitution, the guarantor of their freedom, in order to prosecute war --- yet they insist that the war is for “freedom.”
 
-It’s a real enigma why people are so averse to real free market capitalism even now. Here we are, in the century that has seen Lenin, Stalin, Mao, Hitler, Castro, Pol Pot — and we’re still being warned against the “robber barons” of the 19th century. I don’t know that Jay Gould or John D. Rockefeller ever killed anyone. The State has killed countless people, and yet we’re always supposed to remain on guard against these “greedy villains” of yesteryear.
+It’s a real enigma why people are so averse to real free market capitalism even now. Here we are, in the century that has seen Lenin, Stalin, Mao, Hitler, Castro, Pol Pot --- and we’re still being warned against the “robber barons” of the 19th century. I don’t know that Jay Gould or John D. Rockefeller ever killed anyone. The State has killed countless people, and yet we’re always supposed to remain on guard against these “greedy villains” of yesteryear.
 
 It’s in politics that men are always aggravating the hopeless tangle of their laws, obscuring the simplest principles and making a mockery of liberty.
 
@@ -57,7 +57,7 @@ Legalizing abortion to get government out of the bedroom is like legalizing cann
 
 Liberalism is really piecemeal socialism, and socialism always attacks three basic social institutions: religion, the family, and private property. Religion, because it offers a rival authority to the state; the family, because it means a rival loyalty to the state; and property, because it means material independence of the state.
 
-Liberalism’s fatal flaw … is that it has no permanent norms, only a succession of enthusiasms espoused by minor prophets. Each of these seems like a hot new idea to liberals, but soon goes to irksome and destructive extremes.
+Liberalism’s fatal flaw ... is that it has no permanent norms, only a succession of enthusiasms espoused by minor prophets. Each of these seems like a hot new idea to liberals, but soon goes to irksome and destructive extremes.
 
 Liberals have a new wish every time their latest wish is granted. Conservatives should make them spell out their principles and ideals. Instead of doing this, conservatives allow liberals to pursue incremental goals without revealing their ultimate destination. So, thanks to the negligence of their opponents, liberals control the terms of every debate by always demanding “more” while never defining “enough.” The predictable result is that they always get more, and it’s never enough.
 
@@ -93,7 +93,7 @@ The chances of your being harmed by terrorists are mathematically minute. The ch
 
 The hypocrite recognizes the honest man as his deadly enemy.
 
-The liberal understanding of “the separation of church and state” means that as the area of politics expands, the area of private freedom — religious and otherwise — shrinks.
+The liberal understanding of “the separation of church and state” means that as the area of politics expands, the area of private freedom --- religious and otherwise --- shrinks.
 
 The measure of the state’s success is that the word anarchy frightens people, while the word state does not.
 
@@ -111,9 +111,9 @@ The Second Amendment, like the rest of the Bill of Rights, was meant to inhibit 
 
 The U.S. Constitution serves the same function as the British royal family: it offers a comforting symbol of tradition and continuity, thereby masking a radical change in the actual system of power.
 
-The welfare state is institutionalized crime — “organized plunder,” as the French economist Frederic Bastiat called it. It systematizes what is intrinsically wrong: forcing some people to support others. The Democrats favor the indefinite expansion of the welfare state, perpetually increasing the ratio of force to freedom in society.
+The welfare state is institutionalized crime --- “organized plunder,” as the French economist Frederic Bastiat called it. It systematizes what is intrinsically wrong: forcing some people to support others. The Democrats favor the indefinite expansion of the welfare state, perpetually increasing the ratio of force to freedom in society.
 
-The words of Jesus, including those Jefferson and the Jesus Seminar have blue-pencilled, have a unique permanence. They don’t merely survive as aphoristic wisdom; they have an authority in our hearts, even when we try to deny them. They command. We can obey or rebel. That is why Jesus is still not only loved but hated — and why those who hate him feel they have to profess to love him.
+The words of Jesus, including those Jefferson and the Jesus Seminar have blue-pencilled, have a unique permanence. They don’t merely survive as aphoristic wisdom; they have an authority in our hearts, even when we try to deny them. They command. We can obey or rebel. That is why Jesus is still not only loved but hated --- and why those who hate him feel they have to profess to love him.
 
 There has never been a humane communist regime. Marxism is inherently totalitarian. It recognizes no moral limits on the state. It’s the most convenient ideology for aspiring tyrants; it also retains its appeal for intellectuals, who have proved equally skillful at rationalizing abuses of power and at exculpating themselves.
 

@@ -17,7 +17,7 @@ tag: 'Joe Sobran'
 
 “Outing” is accepted as a normal and legitimate political tactic. In other words, it’s perfectly all right to blackmail a homosexual, as long as it’s done for the sake of homosexual causes.
 
-“Those of us who care deeply about the arts” — what a priggish self-description. As if you must be indifferent to Titian if you don’t want Washington bankrolling “the arts.”
+“Those of us who care deeply about the arts” --- what a priggish self-description. As if you must be indifferent to Titian if you don’t want Washington bankrolling “the arts.”
 
 A chameleon has no true colors.
 
@@ -55,7 +55,7 @@ An opinion poll may be defined, with only slight exaggeration, as a lie carried 
 
 And don’t forget: the tigress gives milk. Millions of people live off the modern state.
 
-Another corporation has been found guilty of bigotry — that is, practicing anthropology without a license.
+Another corporation has been found guilty of bigotry --- that is, practicing anthropology without a license.
 
 Anyone can be an underdog; the trick is to be a registered, pedigreed underdog.
 
@@ -111,7 +111,7 @@ Courage is never more bitterly hated than by the timid.
 
 Cultural minorities, unless they are willing to assimilate totally (thereby surrendering their own identity), are apt to be more or less subversive of the majority’s culture, whether or not they intend to be.
 
-Democratic politics is especially hospitable to corruption — and may be inseparable from it.
+Democratic politics is especially hospitable to corruption --- and may be inseparable from it.
 
 Democrats know the fight isn’t won at the weigh-in. They understand that though height, weight, and reach can be advantages, a thumb in the eye can also be useful at times.
 
@@ -127,11 +127,11 @@ Every war becomes humane in retrospect.
 
 Expecting today’s white to feel guilty about slavery is like expecting today’s Briton to feel guilty about the Stamp Tax.
 
-For everyone who feels protected by the federal government, there are dozens who are afraid of the power it wields over them — chiefly the taxing power itself, with all its vast apparatus of surveillance, harassment, confiscation, and prosecution.
+For everyone who feels protected by the federal government, there are dozens who are afraid of the power it wields over them --- chiefly the taxing power itself, with all its vast apparatus of surveillance, harassment, confiscation, and prosecution.
 
 For some reason, the higher ratio of “wanted” children made possible by legal abortion has been accompanied by more, not less, child abuse.
 
-For some reason, we always seem to learn about these pacts — NAFTA, NATO expansion, et cetera — long after their conception and shortly before their consummation. The very people who are quick to ridicule “conspiracy theories” are also the people whose conduct invites them.
+For some reason, we always seem to learn about these pacts --- NAFTA, NATO expansion, et cetera --- long after their conception and shortly before their consummation. The very people who are quick to ridicule “conspiracy theories” are also the people whose conduct invites them.
 
 For the ACLU, there was no contradiction between fighting for American “liberties” and working for Joe Stalin.
 
@@ -147,7 +147,7 @@ Given its record of slaughter, asking the modern state to better the human condi
 
 Governments are made to be bribed.
 
-Here’s the latest update on liberal orthodoxy: Same-sex schools — bad. Same-sex marriage — good.
+Here’s the latest update on liberal orthodoxy: Same-sex schools --- bad. Same-sex marriage --- good.
 
 Historian Paul Johnson feels that the Catholic Church is a good, even a very good, thing, for all its faults. “I love it, despite its faults.” Big of you, Johnson. But another man might say it a little differently: “I love her, despite my faults.”
 
@@ -179,7 +179,7 @@ I don’t mean to suggest blanket contempt for certain authors; what I object to
 
 I hadn’t known that the Southern states had separate schools for the two races. People down there were prejudiced, I was taught. I didn’t stop to think how odd it was that when Northerners making that observation said “people,” they meant white people.
 
-I have the distinction of being the target of silencing efforts not by benighted advocates of censorship, but by passionate apostles of free speech — who, though they disagree with every word I write, would fight to the death for my right to say it, provided I were stranded, incommunicado, on a desert island.
+I have the distinction of being the target of silencing efforts not by benighted advocates of censorship, but by passionate apostles of free speech --- who, though they disagree with every word I write, would fight to the death for my right to say it, provided I were stranded, incommunicado, on a desert island.
 
 I suspect that even the foxy New Male sometimes wishes he could get in touch with his inner lion.
 
@@ -197,7 +197,7 @@ If a group can’t define its own purposes, standards, and criteria for membersh
 
 If Clinton’s relations with Monica weren’t “sexual,” how can Kenneth Starr’s account of them be pornographic?
 
-If nontaxpayers are allowed to vote, then those who choose not to vote should be relieved of the obligation to pay taxes. If we are going to have class war at the ballot box — as we already do — then we should make a provision for conscientious objectors.
+If nontaxpayers are allowed to vote, then those who choose not to vote should be relieved of the obligation to pay taxes. If we are going to have class war at the ballot box --- as we already do --- then we should make a provision for conscientious objectors.
 
 If real compassion propelled people to the top, Mother Teresa would rule the world. It doesn’t quite work that way.
 
@@ -319,7 +319,7 @@ Modern government is a conspiracy against every productive human being who would
 
 Modern man’s faith in the state far exceeds medieval man’s faith in the Church.
 
-Most Americans feel that third parties aren’t worth voting for. It’s interesting to note that most corporations, foreign and domestic, likewise feel that Americas third parties aren’t worth cultivating — or bribing.
+Most Americans feel that third parties aren’t worth voting for. It’s interesting to note that most corporations, foreign and domestic, likewise feel that Americas third parties aren’t worth cultivating --- or bribing.
 
 Most Americans have seen the federal government as a mean dog, necessary for protection, and tolerable only for that purpose, but definitely not a family pet. Now that the dog isn’t needed for protection anymore, and keeps biting its alleged masters, they’d just as soon shoot the damn thing. It’s a healthy impulse.
 
@@ -369,7 +369,7 @@ Powerful men who want abortion to be kept legal push their cause in the name of 
 
 President Clinton escalated the abortion battle by nominating an experienced abortionist to be his surgeon general. This was like nominating a pornographer to the cabinet on grounds that the Supreme Court has struck down most obscenity laws.
 
-President Clinton even accuses the Republicans of wanting to “make war on kids” — quite a charge, coming from a man who regards aborting kids as something the government should not only permit but subsidize.
+President Clinton even accuses the Republicans of wanting to “make war on kids” --- quite a charge, coming from a man who regards aborting kids as something the government should not only permit but subsidize.
 
 Public opinion is what everyone thinks everyone else thinks.
 
@@ -399,7 +399,7 @@ Someone has said that you always hate what you’ve wronged. So it’s natural t
 
 Substitute tendency for conspiracy, and the Birch view of things acquires a surprising cogency.
 
-Taxpayers aren’t getting — and can’t possibly get — their money’s worth. How can you get your money’s worth from an extortionist?
+Taxpayers aren’t getting --- and can’t possibly get --- their money’s worth. How can you get your money’s worth from an extortionist?
 
 The “bias” of the media doesn’t consist in mere partisan slanting of details; it lies in a whole way of looking at the world.
 
@@ -455,7 +455,7 @@ The Historical Jesus is based on several modern dogmas: it presupposes that Jesu
 
 The idea that genuine anti-Christian prejudice is a major force in America doesn’t seem absurd at all to Christians who have seen their country taken from them over the last forty years, and who remember what a small minority of non-Christians did to Christians in Russia and Eastern Europe earlier in this century. It can happen here. It is happening here.
 
-The illusion that we enjoy free speech has been fostered by the breaking of Christian taboos, which has become not only safe but profitable. To violate minority taboos is “offensive” and “insensitive”; to violate Christian taboos — many of them shared by religious Jews — is to be “daring” and “irreverent.” (“Irreverence,” of course, has become good.)
+The illusion that we enjoy free speech has been fostered by the breaking of Christian taboos, which has become not only safe but profitable. To violate minority taboos is “offensive” and “insensitive”; to violate Christian taboos --- many of them shared by religious Jews --- is to be “daring” and “irreverent.” (“Irreverence,” of course, has become good.)
 
 The implied meaning of rogue nation: one that resists American domination.
 
@@ -475,7 +475,7 @@ The modern state congratulates itself on having eschewed crude methods like tort
 
 The modern state stands ready to release you from all your duties to your own family, while constantly increasing your political obligations. You can divorce your spouse, neglect your parents, abandon or abort your children. But you’d better pay your taxes, most of which will be spent for the benefit of people you’ve never met and have never agreed to support.
 
-The most American Americans — “angry white males” — now regard their own government as their enemy. And for good reason. Their own government regards them as its enemy.
+The most American Americans --- “angry white males” --- now regard their own government as their enemy. And for good reason. Their own government regards them as its enemy.
 
 The most dangerous people in the country are the people who are already running it.
 
@@ -527,7 +527,7 @@ The telltale sign of an accusatory term’s lack of definition is that there is 
 
 The Tenth Amendment is a sort of antitrust act for government.
 
-The truth is that the only “enemy” the government has to keep secrets from is the American public. Its refusal to come clean is our warrant that its relations with American citizens are essentially hostile — as the Waco siege itself should have told us. The government’s interest and the public interest are two different things.
+The truth is that the only “enemy” the government has to keep secrets from is the American public. Its refusal to come clean is our warrant that its relations with American citizens are essentially hostile --- as the Waco siege itself should have told us. The government’s interest and the public interest are two different things.
 
 The two parties in Washington are like an unhappy family that is always bickering about little things while implicitly agreeing on the fundamental things that keep them together. If you listen only to the bickering, you won’t understand how the political system actually coheres. You have to be aware of all the things the two parties don’t argue about.
 
@@ -581,13 +581,13 @@ When a politician talks of civil rights, peace, defense, abortion, or anything e
 
 When black “leaders” and their white allies say in effect that blacks can’t meet racially neutral standards, the Klan’s services seem to be superfluous.
 
-When church and state clash, anyone who loves freedom — even a nonbeliever — should instinctively side with the church. The whole purpose of separating church and state is to limit the state.
+When church and state clash, anyone who loves freedom --- even a nonbeliever --- should instinctively side with the church. The whole purpose of separating church and state is to limit the state.
 
 When the Lewinsky scandal broke, Mrs. Albright led the cabinet in declaring their belief in Clinton’s denials. Now we’re supposed to trust their judgment and honesty when they tell us that the retaliatory airstrikes were based on solid intelligence that a Sudanese pharmaceutical factory was producing a component of nerve gas. This isn’t just a chain of command; it’s a chain of faith. We are expected to put our faith in people who put their faith in Clinton.
 
 When we watch the old film noirs these days, we aren’t seeing an underworld. We’re seeing something more like a utopia.
 
-When you seduce a child, you can expect that to upstage your good deeds — and for that matter, most of your bad deeds.
+When you seduce a child, you can expect that to upstage your good deeds --- and for that matter, most of your bad deeds.
 
 Whenever a taxpayer lives a nightmare, someone else’s dream is coming true.
 

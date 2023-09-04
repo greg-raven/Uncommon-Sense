@@ -18,7 +18,7 @@ The answer is simple: critical theory has spread like cancer from our academic i
 
 What is critical theory?
 
-According to Stanford: “Critical Theory” stems from Western European Marxist tradition known as the Frankfurt School. According to these theorists, “critical” theory may be distinguished from a “traditional” theory according to a specific practical purpose: a theory is critical to the extent that it seeks human “emancipation from slavery,” acts as a “liberating … influence,” and works “to create a world which satisfies the needs and powers” of human beings (Horkheimer 1972, 246).
+According to Stanford: “Critical Theory” stems from Western European Marxist tradition known as the Frankfurt School. According to these theorists, “critical” theory may be distinguished from a “traditional” theory according to a specific practical purpose: a theory is critical to the extent that it seeks human “emancipation from slavery,” acts as a “liberating ... influence,” and works “to create a world which satisfies the needs and powers” of human beings (Horkheimer 1972, 246).
 
 The world, according to critical theorists, is binary. There are oppressors and there are the oppressed. The oppressors are straight, white, Christian males. If you grew up poor and worked your entire life to provide a decent home for your family you are a “privileged oppressor” simply because of your skin color, sexual orientation, political opinions, and religious beliefs. Everyone else is “oppressed.” Critical Theory is a thought system of destruction and pure bigotry. This is by design. You’re not safe if you happen to be a member of the oppressed class either. You still have “privilege” and must do your part to destroy your own form of oppression on those with less “privilege.”
 

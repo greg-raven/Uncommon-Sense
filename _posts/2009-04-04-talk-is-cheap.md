@@ -6,4 +6,4 @@ categories:
 tag: 'Cullen Hightower'
 ---
 
-Talk is cheap … except when Congress does it.
+Talk is cheap ... except when Congress does it.

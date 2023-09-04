@@ -8,13 +8,13 @@ tag: 'William P. Barr'
 
 Today, I would like to share some thoughts with you about religious liberty in America. It’s an important priority in this Administration and for this Department of Justice.
 
-\[…\]
+\[...\]
 
 From the Founding Era onward, there was strong consensus about the centrality of religious liberty in the United States.
 
 The imperative of protecting religious freedom was not just a nod in the direction of piety. It reflects the Framers’ belief that religion was indispensable to sustaining our free system of government.
 
-In his renowned 1785 pamphlet, “Memorial and Remonstrance Against Religious Assessments,” James Madison described religious liberty as “a right towards men” but “a duty towards the Creator,” and a “duty … precedent both in order of time and degree of obligation, to the claims of Civil Society.”
+In his renowned 1785 pamphlet, “Memorial and Remonstrance Against Religious Assessments,” James Madison described religious liberty as “a right towards men” but “a duty towards the Creator,” and a “duty ... precedent both in order of time and degree of obligation, to the claims of Civil Society.”
 
 It has been over 230 years since that small group of colonial lawyers led a Revolution and launched what they viewed as a great experiment, establishing a society fundamentally different than those that had gone before.
 
@@ -48,13 +48,13 @@ On the other hand, unless you have some effective restraint, you end up with som
 
 Edmund Burke summed up this point in his typically colorful language:
 
-> “Men are qualified for civil liberty, in exact proportion to their disposition to put chains upon their appetites … Society cannot exist unless a controlling power be placed somewhere; and the less of it there is within, the more there must be without. It is ordained in the eternal constitution of things that men of intemperate minds cannot be free. Their passions forge their fetters.”
+> “Men are qualified for civil liberty, in exact proportion to their disposition to put chains upon their appetites ... Society cannot exist unless a controlling power be placed somewhere; and the less of it there is within, the more there must be without. It is ordained in the eternal constitution of things that men of intemperate minds cannot be free. Their passions forge their fetters.”
 
 So the Founders decided to take a gamble. They called it a great experiment.
 
 They would leave “the People” broad liberty, limit the coercive power of the government, and place their trust in self-discipline and virtue of the American people.
 
-In the words of Madison, “We have staked our future on the ability of each of us to govern ourselves …”
+In the words of Madison, “We have staked our future on the ability of each of us to govern ourselves ...”
 
 This is really what was meant by “self-government.” It did not mean primarily the mechanics by which we select a representative legislative body. It referred to the capacity of each individual to restrain and govern themselves.
 
@@ -184,7 +184,7 @@ The problem is not that religion is being forced on others. The problem is that 
 
 This reminds me of how some Roman emperors could not leave their loyal Christian subjects in peace but would mandate that they violate their conscience by offering religious sacrifice to the Emperor as a God.
 
-Similarly, militant secularists today do not have a live and let live spirit — they are not content to leave religious people alone to practice their faith. Instead, they seem to take a delight in compelling people to violate their conscience.
+Similarly, militant secularists today do not have a live and let live spirit --- they are not content to leave religious people alone to practice their faith. Instead, they seem to take a delight in compelling people to violate their conscience.
 
 For example, the last Administration sought to force religious employers, including Catholic religious orders, to violate their sincerely held religious views by funding contraceptive and abortifacient coverage in their health plans. Similarly, California has sought to require pro-life pregnancy centers to provide notices of abortion rights.
 
@@ -252,8 +252,8 @@ We cannot have a moral renaissance unless we succeed in passing to the next gene
 
 The times are hostile to this. Public agencies – including public schools – are becoming secularized and increasingly are actively promoting moral relativism.
 
-\[…\]
+\[...\]
 
 We must be vigilant to resist efforts by the forces of secularization to drive religious viewpoints from the public square and to impinge upon the free exercise of our faith.
 
-\[…\]
+\[...\]

@@ -14,4 +14,4 @@ We live in a culture where despite every major corporation openly promoting, end
 
 We live in a culture where Netflix openly promotes pedophilia and the top show is “Lucifer,” but millions keep on paying the monthly subscription and watching.
 
-We live in a culture where about 5 companies in Silicon Valley openly censor the President of the United States and his supporters for 5 years now — and according to studies 90% of people are aware of this, yet keep using those services anyway!
+We live in a culture where about 5 companies in Silicon Valley openly censor the President of the United States and his supporters for 5 years now --- and according to studies 90% of people are aware of this, yet keep using those services anyway!

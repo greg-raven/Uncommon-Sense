@@ -6,4 +6,4 @@ categories:
 tag: 'Mark Twain'
 ---
 
-The government of my country snubs honest simplicity but fondles artistic villainy …
+The government of my country snubs honest simplicity but fondles artistic villainy ...

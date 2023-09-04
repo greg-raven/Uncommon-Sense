@@ -12,7 +12,7 @@ tag: 'Patrice Lewis'
 
 As the presidential run for the 2020 election starts to heat up, people are watching the Democratic candidates fight to outdo each other in promising more and more government programs. In fact, it’s becoming known as the Free Stuff Primary.
 
-A partial list of all the things the Democrats want to hand out as ‘free’: child care, college, universal income, health care for illegals, reparations, mortgage assistance, Medicare for All … have I missed anything? I’m sure I have.
+A partial list of all the things the Democrats want to hand out as ‘free’: child care, college, universal income, health care for illegals, reparations, mortgage assistance, Medicare for All ... have I missed anything? I’m sure I have.
 
 With all the freebies the Democrat want to offer, the one thing universally missing is a lesson in basic economics, namely: There’s no such thing s as free lunch. Free stuff sounds terrific until the issue of how it’s paid for arises. (This leads to a joke I saw recently. Bernie Sanders walks into a bar and yells, ‘Free drinks for everyone!’ Then he looks around and says, ‘Who’s buying?’)
 
@@ -25,7 +25,7 @@ So for all our faithful progressive readers, I would like to offer a primer of b
 - Along those lines, no one owes you a living. No one owes you a job or a ‘living wage.’ If you’re not willing to work hard, sacrifice, take risks and invest your own capital, then you don’t deserve an income on par with a CEOs.
 - The more government regulates business, the less efficient business becomes. Government regulations mean a business can’t hire as many people, or pay its employees as well, or expand as the market would allow, because it is forced to spend its resources fulfilling all the insane nitpicky rules and bureaucratic paperwork the government requires.
 - Businesses are not in business to employ you. Businesses are in business to make a profit. If employing you will bring them a profit, they will employ you. If employing you means they will lose money, they will fire you (or not hire you in the first place).
-- Loans are not gifts. If you borrow money, you are obliged to pay it back … so don’t borrow money you can’t repay. That includes borrowing massive amounts of money to attend elite universities and not studying anything of value in a free market.
+- Loans are not gifts. If you borrow money, you are obliged to pay it back ... so don’t borrow money you can’t repay. That includes borrowing massive amounts of money to attend elite universities and not studying anything of value in a free market.
 - Along these lines, you are not entitled to anything you can’t afford. No one is entitled to a $50,000/year college education. No one is entitled to a $350,000 house. No one.
 - The borrower is slave to the lender. Whether it’s on a national scale or a personal level, debt is very, very bad news. And here’s the thing: Most personal debt is acquired on a voluntary basis. Oh sure, you can protest that you didn’t read the fine print, but it was your responsibility to read that fine print to see what you were getting yourself into. Your signature is (or should be) your sacred word. Remember, loans are not gifts.
 - Competition is good, not bad. Competition weeds out inferior products and services and expands superior products and services. Government-forced monopolies produce crap. If you doubt this, take a look at the computer industry on one hand and at America’s public schools on the other.

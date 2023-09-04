@@ -6,6 +6,6 @@ categories:
 tag: 'Harry Browne'
 ---
 
-A little government involvement is just as dangerous as a lot — because the first leads inevitably to the second.
+A little government involvement is just as dangerous as a lot --- because the first leads inevitably to the second.
 
 <div class="grammarly-disable-indicator"></div>

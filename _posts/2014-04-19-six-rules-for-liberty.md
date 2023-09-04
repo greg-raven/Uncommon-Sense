@@ -24,7 +24,7 @@ The government can’t mandate compassion, they can’t outsource charity, and t
 
 **4. Work for It**
 
-Liberty is a weight. If you have ever tried to start a new business, you know exactly what I’m talking about. The same is true for people who step up to solve a community problem or serve others in a time of need. Entrepreneurship — taking risks in an attempt to serve a need or disrupt the status quo — is a lonely venture, with failures along the way. But the infinite potential sitting around the next corner is so awesome.
+Liberty is a weight. If you have ever tried to start a new business, you know exactly what I’m talking about. The same is true for people who step up to solve a community problem or serve others in a time of need. Entrepreneurship --- taking risks in an attempt to serve a need or disrupt the status quo --- is a lonely venture, with failures along the way. But the infinite potential sitting around the next corner is so awesome.
 
 **5. Mind Your Own Business**
 

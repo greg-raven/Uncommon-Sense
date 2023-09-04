@@ -1,12 +1,12 @@
 ---
-title: 'We believe …'
+title: 'We believe ...'
 layout: post
 categories:
 - conservatism
 tag: 'Dave Brat'
 ---
 
-We Believe …
+We Believe ...
 
 - That the free enterprise system is the most productive supplier of human needs and economic justice,
 - That all individuals are entitled to equal rights, justice, and opportunities and should assume their responsibilities as citizens in a free society,

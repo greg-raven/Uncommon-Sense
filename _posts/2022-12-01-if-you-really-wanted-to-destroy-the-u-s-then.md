@@ -1,5 +1,5 @@
 ---
-title: 'If you really wanted to destroy the U.S., then …'
+title: 'If you really wanted to destroy the U.S., then ...'
 layout: post
 categories:
 - socialism
@@ -22,7 +22,7 @@ Second, print trillions of dollars in new currency as the lockdowns end, demand 
 
 “Spread the wealth” by sending money to those who already have enough, while making it less valuable for those deemed to have too much. Ensure runaway high prices to wean the middle class off its consumerism and supposedly to inspire them to buy less junk they don’t need. Damn the rich in the open and in the abstract, court them in the concrete and secret of darkness.
 
-Third, end America’s physical boundaries. Render it an amorphous people and anywhere space. End any vestigial difference between a citizen and resident. Up the current nearly 50 million who were not born in the United States — 27 percent of California’s population — to 100 million and more by allowing 3 million illegal aliens to enter per year.
+Third, end America’s physical boundaries. Render it an amorphous people and anywhere space. End any vestigial difference between a citizen and resident. Up the current nearly 50 million who were not born in the United States --- 27 percent of California’s population --- to 100 million and more by allowing 3 million illegal aliens to enter per year.
 
 Fourth, destroy the public trust in its elections. Render Election Day irrelevant. Make proper auditing of 110 million mail-in/early ballots impossible. Normalize ballot harvesting and curing.
 
@@ -42,7 +42,7 @@ Greenlight statue toppling, name changing, boycotting, cancel culturing, ostraci
 
 Seven, render the United States just one of many nations abroad. Abandon Afghanistan in shame. Leave behind thousands of loyal Afghan allies, billions of dollars in equipment, a billion-dollar embassy, and the largest air base in central Asia. Appease the theocracy to reenter the Iran nuclear deal.
 
-Beg enemies like Venezuela, Russia, and Iran to pump more oil when it is politically expedient for us to have abundant supplies — oil that we have in abundance but won’t produce. Discourage friends like Guinea from producing more energy and cancel allies’ energy projects like the EastMed pipeline.
+Beg enemies like Venezuela, Russia, and Iran to pump more oil when it is politically expedient for us to have abundant supplies --- oil that we have in abundance but won’t produce. Discourage friends like Guinea from producing more energy and cancel allies’ energy projects like the EastMed pipeline.
 
 Trash but then beg Saudi Arabia to pump more oil right before the midterms for domestic political advantage.
 

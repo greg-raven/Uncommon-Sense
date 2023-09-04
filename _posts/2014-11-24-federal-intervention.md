@@ -9,7 +9,7 @@ categories:
 tag: 'Robert W. Lee'
 ---
 
-It is becoming increasingly apparent that many — arguably most — of the problems that plague our nation have been aggravated rather than alleviated by federal intervention.  
+It is becoming increasingly apparent that many --- arguably most --- of the problems that plague our nation have been aggravated rather than alleviated by federal intervention.  
   
 In one area after another, massive infusions of tax dollars have been squandered on false solutions which, when they fail to achieve their stated objectives, are cited to justify even more spending on other futile schemes that result in bigger government.
 

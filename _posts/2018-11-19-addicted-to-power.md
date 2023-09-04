@@ -6,4 +6,4 @@ categories:
 tag: 'Edmund Burke'
 ---
 
-Those who have been intoxicated with power … can never willingly abandon it.
+Those who have been intoxicated with power ... can never willingly abandon it.

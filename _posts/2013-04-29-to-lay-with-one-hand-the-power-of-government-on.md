@@ -6,4 +6,4 @@ categories:
 tag: 'U. S. Supreme Court'
 ---
 
-To lay with one hand the power of government on the property of the citizen, and with the other to bestow it on favored individuals … is none the less robbery because it is … called taxation.
+To lay with one hand the power of government on the property of the citizen, and with the other to bestow it on favored individuals ... is none the less robbery because it is ... called taxation.

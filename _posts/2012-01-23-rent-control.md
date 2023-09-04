@@ -6,4 +6,4 @@ categories:
 tag: 'Trevor Burrus'
 ---
 
-If you wanted to destroy a city’s housing — short of bombing — the best way to do it is rent control.
+If you wanted to destroy a city’s housing --- short of bombing --- the best way to do it is rent control.

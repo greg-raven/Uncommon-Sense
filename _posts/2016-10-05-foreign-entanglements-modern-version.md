@@ -1,5 +1,5 @@
 ---
-title: 'Foreign entanglements … modern version'
+title: 'Foreign entanglements ... modern version'
 layout: post
 categories:
 - immigration

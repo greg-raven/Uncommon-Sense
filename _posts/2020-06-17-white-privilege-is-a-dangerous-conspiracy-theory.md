@@ -6,7 +6,7 @@ categories:
 tag: 'Jared Taylor'
 ---
 
-We’re supposed to believe that because blacks and Hispanics and everybody else are here, we suddenly became privileged. \[…\]
+We’re supposed to believe that because blacks and Hispanics and everybody else are here, we suddenly became privileged. \[...\]
 
 In fact, the country is a lot poorer because of high rates of black and Hispanic poverty, criminality, legitimacy, \[and\] disease, but their being here is supposed to mean privilege for us? Who can believe this rubbish?
 

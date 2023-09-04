@@ -6,4 +6,4 @@ categories:
 tag: 'Ron Paul'
 ---
 
-Don’t steal — the government hates competition!
+Don’t steal --- the government hates competition!

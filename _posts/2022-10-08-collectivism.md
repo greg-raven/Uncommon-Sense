@@ -6,4 +6,4 @@ categories:
 tag: 'Ayn Rand'
 ---
 
-Fascism, nazism, communism, and socialism are only superficial variations of the same monstrous theme — collectivism.
+Fascism, nazism, communism, and socialism are only superficial variations of the same monstrous theme --- collectivism.

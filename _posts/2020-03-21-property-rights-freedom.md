@@ -6,4 +6,4 @@ categories:
 tag: 'Ayn Rand'
 ---
 
-The essential characteristic of socialism is the denial of individual property rights …
+The essential characteristic of socialism is the denial of individual property rights ...

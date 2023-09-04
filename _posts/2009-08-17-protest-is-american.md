@@ -6,4 +6,4 @@ categories:
 tag: 'Nancy Pelosi'
 ---
 
-I thank all of you who have spoken out for your courage, your point of view — all of it — your advocacy is very American and very important.
+I thank all of you who have spoken out for your courage, your point of view --- all of it --- your advocacy is very American and very important.

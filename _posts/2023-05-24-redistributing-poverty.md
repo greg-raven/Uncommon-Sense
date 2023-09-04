@@ -7,4 +7,4 @@ categories:
 tag: 'Thomas Sowell'
 ---
 
-Many attempts at redistributing wealth … have ended up redistributing poverty.
+Many attempts at redistributing wealth ... have ended up redistributing poverty.

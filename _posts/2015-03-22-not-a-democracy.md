@@ -6,4 +6,4 @@ categories:
 tag: 'U. S. Constitution'
 ---
 
-Article IV, Section 4: The United States shall guarantee to every state in this union a republican form of government …
+Article IV, Section 4: The United States shall guarantee to every state in this union a republican form of government ...

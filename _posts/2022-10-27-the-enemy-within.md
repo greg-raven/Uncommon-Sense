@@ -6,4 +6,4 @@ categories:
 tag: 'Sun Tzu'
 ---
 
-An evil enemy, will burn his own nation to the ground … to rule over the ashes.
+An evil enemy, will burn his own nation to the ground ... to rule over the ashes.

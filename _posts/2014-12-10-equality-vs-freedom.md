@@ -7,4 +7,4 @@ categories:
 tag: 'Milton Friedman'
 ---
 
-A society that puts equality … ahead of freedom will end up with neither equality nor freedom.
+A society that puts equality ... ahead of freedom will end up with neither equality nor freedom.

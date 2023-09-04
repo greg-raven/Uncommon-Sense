@@ -11,7 +11,7 @@ tag: 'Rod Eccles'
   
 You see, utopia comes at a terrible price. It comes at the price of freedom. It comes at the price of individual choice. It comes at a price of many human lives. It comes at an unbelievably terrible and heavy price.
 
-\[…\]
+\[...\]
 
 Why is this important to know? Because we have a political and social class that believes we can reach utopia. They believe we can have a utopian society. If only we let them run everything. If only we put them all in charge. If only we would fully and totally trust them.
 

@@ -6,4 +6,4 @@ categories:
 tag: Voltaire
 ---
 
-Paper money eventually returns to its intrinsic value — zero.
+Paper money eventually returns to its intrinsic value --- zero.
