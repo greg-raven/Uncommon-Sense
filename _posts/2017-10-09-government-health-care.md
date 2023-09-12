@@ -6,4 +6,4 @@ categories:
 tag: 'Kurt Schlichter'
 ---
 
-The purpose of government healthcare is not to provide healthcare; it’s to provide jobs for unionized government workers.
+The purpose of government healthcare is not to provide healthcare; it's to provide jobs for unionized government workers.

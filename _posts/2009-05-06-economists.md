@@ -6,4 +6,4 @@ categories:
 tag: 'George Bernard Shaw'
 ---
 
-If all the economists were laid end to end, they’d never reach a conclusion.
+If all the economists were laid end to end, they'd never reach a conclusion.

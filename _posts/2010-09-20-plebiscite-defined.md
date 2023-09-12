@@ -1,5 +1,5 @@
 ---
-title: 'Defining ‘plebiscite’'
+title: 'Defining 'plebiscite''
 layout: post
 categories:
 - voting

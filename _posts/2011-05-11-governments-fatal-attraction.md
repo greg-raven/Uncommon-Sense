@@ -1,5 +1,5 @@
 ---
-title: 'Government’s fatal attraction'
+title: 'Government's fatal attraction'
 layout: post
 categories:
 - government

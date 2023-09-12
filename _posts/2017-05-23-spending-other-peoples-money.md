@@ -1,5 +1,5 @@
 ---
-title: 'Spending other people’s money'
+title: 'Spending other people's money'
 layout: post
 categories:
 - collectivization
@@ -8,4 +8,4 @@ categories:
 tag: 'Calvin Coolidge'
 ---
 
-Nothing is easier than the expenditure of public money. It doesn’t appear to belong to anyone. The temptation is overwhelming to bestow it on somebody.
+Nothing is easier than the expenditure of public money. It doesn't appear to belong to anyone. The temptation is overwhelming to bestow it on somebody.

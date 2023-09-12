@@ -1,5 +1,5 @@
 ---
-title: 'Watch your ‘leaders’'
+title: 'Watch your 'leaders''
 layout: post
 categories:
 - demagogues

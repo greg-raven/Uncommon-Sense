@@ -6,4 +6,4 @@ categories:
 tag: 'George Washington'
 ---
 
-Firearms are second only to the Constitution in importance; they are the peoples’ liberty’s teeth.
+Firearms are second only to the Constitution in importance; they are the peoples' liberty's teeth.

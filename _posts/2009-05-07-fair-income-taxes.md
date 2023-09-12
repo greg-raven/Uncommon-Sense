@@ -6,4 +6,4 @@ categories:
 tag: 'William F. Buckley'
 ---
 
-I would like to electrocute everyone who uses the word “fair” in connection with income tax policies.
+I would like to electrocute everyone who uses the word "fair" in connection with income tax policies.

@@ -6,4 +6,4 @@ categories:
 tag: 'Eric Schaub'
 ---
 
-The ‘strength’ of the People becomes weak when we don’t ‘exercise’ our rights.
+The 'strength' of the People becomes weak when we don't 'exercise' our rights.

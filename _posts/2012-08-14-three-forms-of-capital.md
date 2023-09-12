@@ -6,4 +6,4 @@ categories:
 tag: 'Walter Wriston'
 ---
 
-Capital will always go where it’s welcome and stay where it’s well treated. Capital is not just money. It’s also talent and ideas. They, too, will go where they’re welcome and stay where they are well treated.
+Capital will always go where it's welcome and stay where it's well treated. Capital is not just money. It's also talent and ideas. They, too, will go where they're welcome and stay where they are well treated.

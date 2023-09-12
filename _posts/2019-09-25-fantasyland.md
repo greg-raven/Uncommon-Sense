@@ -6,4 +6,4 @@ categories:
 tag: 'Thomas Sowell'
 ---
 
-Too much of what is called “education” is little more than an expensive isolation from reality.
+Too much of what is called "education" is little more than an expensive isolation from reality.

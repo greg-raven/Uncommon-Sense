@@ -6,4 +6,4 @@ categories:
 tag: 'Mark Dice'
 ---
 
-Never apologize when you’ve done nothing wrong.
+Never apologize when you've done nothing wrong.

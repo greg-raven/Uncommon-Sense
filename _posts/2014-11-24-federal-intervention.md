@@ -18,6 +18,6 @@ Examples include
 - programs and laws supposedly intended to reduce racial animosity which have instead heightened race-related tensions;
 - welfare schemes that, rather than reducing poverty, have enticed millions of Americans to become dependent on Washington for their daily bread;
 - federal funding (and control) of education, which has spawned a monumental education crisis;
-- a ‘war’ on drugs which has done little to curb drug traffic, but which has eroded many personal liberties;
+- a 'war' on drugs which has done little to curb drug traffic, but which has eroded many personal liberties;
 - a health-care finance system that has deteriorated as government meddling and regulation have increased;
-- and a masochistic immigration policy larded with false “solutions” that, while failing to stop the inflow of illegal aliens, have paved the way for further government intrusion into the lives of nearly all Americans.
+- and a masochistic immigration policy larded with false "solutions" that, while failing to stop the inflow of illegal aliens, have paved the way for further government intrusion into the lives of nearly all Americans.

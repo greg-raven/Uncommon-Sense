@@ -6,4 +6,4 @@ categories:
 tag: 'David Mon'
 ---
 
-We proved we weren’t a nation of racists in 2008, but failed to prove we weren’t a nation of idiots in 2012.
+We proved we weren't a nation of racists in 2008, but failed to prove we weren't a nation of idiots in 2012.

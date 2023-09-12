@@ -1,5 +1,5 @@
 ---
-title: 'Re-defining ‘marriage’'
+title: 'Re-defining 'marriage''
 layout: post
 categories:
 - culture

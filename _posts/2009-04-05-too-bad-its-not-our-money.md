@@ -1,5 +1,5 @@
 ---
-title: 'Too bad it’s not our money'
+title: 'Too bad it's not our money'
 layout: post
 categories:
 - corruption

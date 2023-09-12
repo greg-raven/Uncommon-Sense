@@ -6,4 +6,4 @@ categories:
 tag: 'Frederic Bastiat'
 ---
 
-By virtue of exchange, one man’s prosperity is beneficial to all others.
+By virtue of exchange, one man's prosperity is beneficial to all others.

@@ -6,4 +6,4 @@ categories:
 tag: 'Greg Raven'
 ---
 
-There is nothing that ‘progressives’ hate more than actual progress.
+There is nothing that 'progressives' hate more than actual progress.

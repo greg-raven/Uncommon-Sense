@@ -6,4 +6,4 @@ categories:
 tag: 'Adolf Hitler'
 ---
 
-How fortunate for governments that the people they administer don’t think.
+How fortunate for governments that the people they administer don't think.

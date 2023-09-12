@@ -6,4 +6,4 @@ categories:
 tag: 'Adlai E. Stevenson'
 ---
 
-In America, anybody can be president. That’s one of the risks you take.
+In America, anybody can be president. That's one of the risks you take.

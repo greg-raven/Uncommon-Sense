@@ -1,5 +1,5 @@
 ---
-title: 'Government’s obligation'
+title: 'Government's obligation'
 layout: post
 categories:
 - government

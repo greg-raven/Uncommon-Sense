@@ -1,9 +1,9 @@
 ---
-title: 'Boiling down ‘multiculturalism’'
+title: 'Boiling down 'multiculturalism''
 layout: post
 categories:
 - culture
 tag: 'Thomas Sowell'
 ---
 
-What “multiculturalism” boils down to is that you can praise any culture in the world except Western culture --- and you cannot blame any culture in the world except Western culture.
+What "multiculturalism" boils down to is that you can praise any culture in the world except Western culture --- and you cannot blame any culture in the world except Western culture.

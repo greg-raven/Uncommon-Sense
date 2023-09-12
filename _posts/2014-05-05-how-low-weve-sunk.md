@@ -1,5 +1,5 @@
 ---
-title: 'How low we’ve sunk'
+title: 'How low we've sunk'
 layout: post
 categories:
 - culture

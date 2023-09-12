@@ -1,5 +1,5 @@
 ---
-title: 'Instant democracy doesn’t work'
+title: 'Instant democracy doesn't work'
 layout: post
 categories:
 - democracy

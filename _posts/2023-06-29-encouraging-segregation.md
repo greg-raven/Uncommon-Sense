@@ -8,4 +8,4 @@ categories:
 tag: 'Clarence Thomas'
 ---
 
-Sorting by race ... increasingly encourages our Nation’s youth to view racial differences as important and segregation as routine.
+Sorting by race ... increasingly encourages our Nation's youth to view racial differences as important and segregation as routine.

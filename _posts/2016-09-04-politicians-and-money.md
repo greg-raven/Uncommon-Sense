@@ -6,4 +6,4 @@ categories:
 tag: 'Harry S. Truman'
 ---
 
-You can’t get rich in politics unless you’re a crook.
+You can't get rich in politics unless you're a crook.

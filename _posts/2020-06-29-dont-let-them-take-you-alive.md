@@ -1,5 +1,5 @@
 ---
-title: 'Don’t let them take you alive'
+title: 'Don't let them take you alive'
 layout: post
 categories:
 - 'external authority'

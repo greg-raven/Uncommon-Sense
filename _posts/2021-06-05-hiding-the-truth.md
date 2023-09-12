@@ -6,4 +6,4 @@ categories:
 tag: 'Barack Hussein Obama'
 ---
 
-The only people who don’t want to disclose the truth are people with something to hide.
+The only people who don't want to disclose the truth are people with something to hide.

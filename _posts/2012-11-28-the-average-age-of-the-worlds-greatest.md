@@ -6,7 +6,7 @@ categories:
 tag: 'Alex Fraser Tytler'
 ---
 
-The average age of the world’s greatest civilizations has been two hundred years. These nations have progressed through this sequence:
+The average age of the world's greatest civilizations has been two hundred years. These nations have progressed through this sequence:
 
 - From bondage to spiritual faith;
 - from spiritual faith to great courage;

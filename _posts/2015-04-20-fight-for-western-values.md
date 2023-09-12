@@ -10,4 +10,4 @@ On every hand, the West is retrenching, retreating, collapsing, and imploding. W
    
 These Western values came at a heavy price. We are letting them go for nothing.
 
-Yet today’s assaults on the West are not so much external as internal. Subversion from within is now more of a menace to our way of life than aggression from without.
+Yet today's assaults on the West are not so much external as internal. Subversion from within is now more of a menace to our way of life than aggression from without.

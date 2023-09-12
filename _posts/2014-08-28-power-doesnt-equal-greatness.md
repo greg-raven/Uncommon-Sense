@@ -1,5 +1,5 @@
 ---
-title: 'Power doesn’t equal greatness'
+title: 'Power doesn't equal greatness'
 layout: post
 categories:
 - strength

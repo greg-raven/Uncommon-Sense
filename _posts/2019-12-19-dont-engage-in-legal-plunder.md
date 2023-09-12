@@ -1,5 +1,5 @@
 ---
-title: 'Don’t engage in ‘legal’ plunder'
+title: 'Don't engage in 'legal' plunder'
 layout: post
 categories:
 - taxation

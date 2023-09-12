@@ -7,4 +7,4 @@ categories:
 tag: 'Margaret Thatcher'
 ---
 
-The problem with socialism is that you eventually run out of other people’s money.
+The problem with socialism is that you eventually run out of other people's money.

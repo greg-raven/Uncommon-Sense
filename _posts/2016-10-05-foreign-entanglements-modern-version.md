@@ -6,4 +6,4 @@ categories:
 tag: 'Ann Coulter'
 ---
 
-If your elected representative is talking to you about ISIS, he’s planning to outsource your job and move Syrian refugees into your neighborhood.
+If your elected representative is talking to you about ISIS, he's planning to outsource your job and move Syrian refugees into your neighborhood.

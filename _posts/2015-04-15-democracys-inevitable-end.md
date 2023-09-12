@@ -1,5 +1,5 @@
 ---
-title: 'Democracy’s inevitable end'
+title: 'Democracy's inevitable end'
 layout: post
 categories:
 - democracy

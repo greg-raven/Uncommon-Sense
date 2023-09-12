@@ -6,4 +6,4 @@ categories:
 tag: 'Greg Raven'
 ---
 
-We’ve reached the point where Americans more likely to give up their guns than their masks.
+We've reached the point where Americans more likely to give up their guns than their masks.

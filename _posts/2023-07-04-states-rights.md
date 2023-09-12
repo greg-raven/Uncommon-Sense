@@ -1,5 +1,5 @@
 ---
-title: 'States’ rights'
+title: 'States' rights'
 layout: post
 categories:
 - Constitution

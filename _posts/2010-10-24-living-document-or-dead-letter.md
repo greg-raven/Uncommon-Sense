@@ -6,4 +6,4 @@ categories:
 tag: 'Joe Sobran'
 ---
 
-This is the familiar idea that the Constitution is a “living document,” which is to say, a dead letter.
+This is the familiar idea that the Constitution is a "living document," which is to say, a dead letter.

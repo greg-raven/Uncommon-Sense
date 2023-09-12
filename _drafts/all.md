@@ -1363,16 +1363,8 @@ The attributes of sovereignty are now enjoyed by every state in the Union. Alexa
 
 Liberty is the hardest test that one can inflict on a people. To know how to be free is not given equally to all men and all nations. Paul Valéry
 
+
 Real knowledge is to know the extent of one's ignorance. Confucius
 
 
 The uniform, constant, and uninterrupted effort of every man to better his condition ... is frequently powerful enough to maintain the natural progress of things toward improvement, in spite of the extravagance of government, and of the greatest errors of administration. Adam Smith
-
-If the States were not left to leave the Union when their rights were interfered with, the government would have been National, but the Convention refused to baptize it by that name. Daniel Webster
-
-The power of nullification plays an important role in the criminal justice system. ... Because an accused criminal is restricted in the defenses he or she can raise, the law recognizes only certain defenses and justification, and correspondingly, limited evidence. The jury's power to nullify provides an accommodation between the rigidity of the law and the need to hear and respond to positions that do not fit legal pigeonholes, such as claims of spousal abuse before the battered-spouse syndrome received acceptance. Jury nullification permits the jury to respond to a position that does not have the status of a legally recognized defense. The power to nullify guarantees that the jury is free to speak as the conscience of the community. Anne Bowen Poulin
-
-The dissenter is every human being at those times of his life when he resigns momentarily from the herd and thinks for himself. Archibald Macleish
-
-
-Money is a new form of slavery, and distinguishable from the old simply by the fact that it is impersonal --- that there is no human relation between master and slave. Leo Nikolaevich Tolstoi

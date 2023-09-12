@@ -6,4 +6,4 @@ categories:
 tag: 'Ron Paul'
 ---
 
-Our country’s founders cherished liberty, not democracy.
+Our country's founders cherished liberty, not democracy.

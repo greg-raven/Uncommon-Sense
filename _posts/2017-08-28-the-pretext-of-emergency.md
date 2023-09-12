@@ -1,5 +1,5 @@
 ---
-title: 'The pretext of ‘emergency’'
+title: 'The pretext of 'emergency''
 layout: post
 categories:
 - government

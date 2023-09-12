@@ -6,4 +6,4 @@ categories:
 tag: 'Benjamin Franklin'
 ---
 
-No man’s life, liberty, or fortune is safe while our legislature is in session.
+No man's life, liberty, or fortune is safe while our legislature is in session.

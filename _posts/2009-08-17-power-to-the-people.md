@@ -6,4 +6,4 @@ categories:
 tag: 'Nancy Pelosi'
 ---
 
-I’m a fan of disrupters; people who make change.
+I'm a fan of disrupters; people who make change.

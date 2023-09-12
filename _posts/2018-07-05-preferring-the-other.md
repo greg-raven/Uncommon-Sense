@@ -1,5 +1,5 @@
 ---
-title: 'Preferring the ‘other’'
+title: 'Preferring the 'other''
 layout: post
 categories:
 - nationalism

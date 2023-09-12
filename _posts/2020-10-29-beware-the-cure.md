@@ -6,4 +6,4 @@ categories:
 tag: 'Thomas Sowell'
 ---
 
-Most of the problems of this country are not nearly as bad as the “solutions” --- especially the solutions that politicians come up with during election years.
+Most of the problems of this country are not nearly as bad as the "solutions" --- especially the solutions that politicians come up with during election years.

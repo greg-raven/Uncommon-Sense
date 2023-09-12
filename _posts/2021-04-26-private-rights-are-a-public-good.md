@@ -8,4 +8,4 @@ categories:
 tag: 'William Blackstone'
 ---
 
-The public good is in nothing more essentially interested, than in the protection of every individual’s private rights.
+The public good is in nothing more essentially interested, than in the protection of every individual's private rights.

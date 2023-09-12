@@ -6,4 +6,4 @@ categories:
 tag: 'Ann Coulter'
 ---
 
-Guns are our friends because in a country without guns, I’m what’s known as “prey.” All females are.
+Guns are our friends because in a country without guns, I'm what's known as "prey." All females are.

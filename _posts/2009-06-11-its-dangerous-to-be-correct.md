@@ -1,5 +1,5 @@
 ---
-title: 'It’s dangerous to be correct'
+title: 'It's dangerous to be correct'
 layout: post
 categories:
 - truth

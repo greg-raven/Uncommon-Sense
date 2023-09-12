@@ -1,5 +1,5 @@
 ---
-title: 'Let’s secure OUR borders'
+title: 'Let's secure OUR borders'
 layout: post
 categories:
 - immigration

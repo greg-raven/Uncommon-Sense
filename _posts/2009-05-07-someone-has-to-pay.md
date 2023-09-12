@@ -6,4 +6,4 @@ categories:
 tag: 'Milton Friedman'
 ---
 
-There’s no such thing as a free lunch.
+There's no such thing as a free lunch.

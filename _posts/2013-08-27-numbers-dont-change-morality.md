@@ -1,5 +1,5 @@
 ---
-title: 'Numbers don’t change morality'
+title: 'Numbers don't change morality'
 layout: post
 categories:
 - democracy

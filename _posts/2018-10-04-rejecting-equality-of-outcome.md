@@ -1,5 +1,5 @@
 ---
-title: 'Rejecting ‘equality of outcome’'
+title: 'Rejecting 'equality of outcome''
 layout: post
 categories:
 - equality

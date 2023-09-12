@@ -1,5 +1,5 @@
 ---
-title: 'Don’t trust SJWs'
+title: 'Don't trust SJWs'
 layout: post
 categories:
 - culture

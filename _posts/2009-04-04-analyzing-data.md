@@ -6,4 +6,4 @@ categories:
 tag: anonymous
 ---
 
-The plural of “anecdote” is not “data.”
+The plural of "anecdote" is not "data."

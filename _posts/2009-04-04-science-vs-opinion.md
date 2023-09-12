@@ -6,4 +6,4 @@ categories:
 tag: 'Robert A. Heinlein'
 ---
 
-If it can’t be expressed in figures, it is not science; it is opinion.
+If it can't be expressed in figures, it is not science; it is opinion.

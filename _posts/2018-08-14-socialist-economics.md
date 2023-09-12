@@ -1,5 +1,5 @@
 ---
-title: 'Socialist ‘economics’'
+title: 'Socialist 'economics''
 layout: post
 categories:
 - economics
@@ -7,4 +7,4 @@ categories:
 tag: 'Friedrich August von Hayek'
 ---
 
-If socialists understood economics they wouldn’t be socialists.
+If socialists understood economics they wouldn't be socialists.

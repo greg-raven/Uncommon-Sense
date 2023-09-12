@@ -6,4 +6,4 @@ categories:
 tag: 'George Orwell'
 ---
 
-To see what is in front of one’s nose requires a constant struggle.
+To see what is in front of one's nose requires a constant struggle.

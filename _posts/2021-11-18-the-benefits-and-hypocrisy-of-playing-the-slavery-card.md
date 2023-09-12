@@ -6,7 +6,7 @@ categories:
 tag: 'Thomas Sowell'
 ---
 
-One of the many sad signs of our times is that people are not only playing the race card, they are playing the slavery card, which is supposedly the biggest trump of all. At the so-called “million man march” in Washington, poet Maya Angelou rang all the changes on slavery, at a rally billed as forward-looking and as being about black independence rather than white guilt. Meanwhile, best-selling author Dinesh D’Souza was being denounced in the media for having said that slavery was not a racist institution.
+One of the many sad signs of our times is that people are not only playing the race card, they are playing the slavery card, which is supposedly the biggest trump of all. At the so-called "million man march" in Washington, poet Maya Angelou rang all the changes on slavery, at a rally billed as forward-looking and as being about black independence rather than white guilt. Meanwhile, best-selling author Dinesh D'Souza was being denounced in the media for having said that slavery was not a racist institution.
 
 First of all, anyone familiar with the history of slavery around the world knows that its origins go back thousands of years and that slaves and slave owners were very often of the same race. Those who are ignorant of all this, or who think of slavery in the United States as if it were the only slavery, go ballistic when anyone tells them that this institution was not based on race.
 
@@ -14,7 +14,7 @@ Blacks were not enslaved because they were black, but because they were availabl
 
 Only late in history were human beings even capable of crossing an ocean to get millions of other human beings of a different race. In the thousands of years before that, not only did Europeans enslave other Europeans, Asians enslaved other Asians, Africans enslaved other Africans, and the native peoples of the Western Hemisphere enslaved other native peoples of the Western Hemisphere.
 
-D’Souza was right. Slavery was not about race. The fact that his critics are ignorant of history is their problem.
+D'Souza was right. Slavery was not about race. The fact that his critics are ignorant of history is their problem.
 
 What was peculiar about the American situation was not just that slaves and slave owners were of different races, but that slavery contradicted the whole philosophy of freedom on which the society was founded. If all men were created equal, as the Declaration of Independence said, then blacks had to be depicted as less than men.
 
@@ -28,7 +28,7 @@ Those who talk about slavery as if it were just the enslavement of blacks by whi
 
 While slavery was destroyed in the West during the 19th century, the struggle to end slavery elsewhere continued well into the 20th century. In Mauritania, it was officially abolished just 15 years ago, though even its own officials admitted that it still continued, as it does to this day.
 
-There are 30,000 Africans enslaved in Mauritania under terrible conditions at this moment, but there is scarcely a peep about it from black “leaders” in America who thunder about slavery in the past.
+There are 30,000 Africans enslaved in Mauritania under terrible conditions at this moment, but there is scarcely a peep about it from black "leaders" in America who thunder about slavery in the past.
 
 If slavery were the real issue, then slavery among flesh-and-blood human beings alive today would arouse far more outcry than past slavery among people who are long dead. The difference is that past slavery can be cashed in for political benefits today, while slavery in North Africa only distracts from these political goals. Worse yet, talking about slavery in Africa would undermine the picture of unique white guilt requiring unending reparations.
 

@@ -6,4 +6,4 @@ categories:
 tag: 'Charles Osgood'
 ---
 
-Being Politically Correct means always having to say you’re sorry.
+Being Politically Correct means always having to say you're sorry.

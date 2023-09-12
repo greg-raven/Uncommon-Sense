@@ -1,5 +1,5 @@
 ---
-title: 'If you don’t work, neither should you eat'
+title: 'If you don't work, neither should you eat'
 layout: post
 categories:
 - individualism

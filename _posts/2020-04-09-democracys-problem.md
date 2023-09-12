@@ -1,5 +1,5 @@
 ---
-title: 'Democracy’s problem'
+title: 'Democracy's problem'
 layout: post
 categories:
 - democracy

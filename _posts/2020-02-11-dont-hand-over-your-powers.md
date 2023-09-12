@@ -1,5 +1,5 @@
 ---
-title: 'Don’t hand over your powers'
+title: 'Don't hand over your powers'
 layout: post
 categories:
 - collectivization

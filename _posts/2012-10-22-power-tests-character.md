@@ -6,4 +6,4 @@ categories:
 tag: 'Abraham Lincoln'
 ---
 
-Nearly all men can withstand adversity; if you want to test a man’s character, give him power.
+Nearly all men can withstand adversity; if you want to test a man's character, give him power.

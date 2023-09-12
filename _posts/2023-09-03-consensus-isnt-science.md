@@ -1,5 +1,5 @@
 ---
-title: "Consensus isn’t science"
+title: "Consensus isn't science"
 layout: post
 categories:
 - "external authority"

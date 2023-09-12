@@ -1,5 +1,5 @@
 ---
-title: 'Political ‘compassion’'
+title: 'Political 'compassion''
 layout: post
 categories:
 - politics
@@ -8,4 +8,4 @@ categories:
 tag: 'Paul Craig Roberts'
 ---
 
-In U.S. politics, ‘compassion’ means giving money and privileges to well organized interest groups at everyone else’s expense.
+In U.S. politics, 'compassion' means giving money and privileges to well organized interest groups at everyone else's expense.

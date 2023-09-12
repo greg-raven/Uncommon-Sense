@@ -6,4 +6,4 @@ categories:
 tag: 'Stephen Cox'
 ---
 
-The more profound problem, however, is the degree to which many academic intellectuals, especially in the humanities, have lost their ability to distinguish the ‘state’ from ‘society.’
+The more profound problem, however, is the degree to which many academic intellectuals, especially in the humanities, have lost their ability to distinguish the 'state' from 'society.'

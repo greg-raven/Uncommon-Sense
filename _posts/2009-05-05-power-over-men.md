@@ -6,4 +6,4 @@ categories:
 tag: 'Alexander Hamilton'
 ---
 
-Power over a man’s subsistence is power over his will.
+Power over a man's subsistence is power over his will.
