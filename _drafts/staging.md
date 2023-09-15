@@ -1318,9 +1318,6 @@ The graveyards are full of indispensable men. Charles de Gaulle
 
 You can pretend to be serious; you can't pretend to be witty. Sacha Guitry
 
-Behind every great fortune there is a crime. Honore de Balzac
-
-I am not young enough to know everything. Oscar Wilde
 
 The object of war is not to die for your country but to make the other bastard die for his. George Patton
 
@@ -1336,15 +1333,11 @@ The cynics are right nine times out of ten. Henry Louis Mencken
 
 Attention to health is life's greatest hindrance. Plato
 
-Not only is there no God, but try finding a plumber on Sunday. Woody Allen
-
 I have never let my schooling interfere with my education. Mark Twain
 
-I don't want to achieve immortality through my work; I want to achieve
-immortality through not dying. Woody Allen
+I don't want to achieve immortality through my work; I want to achieve immortality through not dying. Woody Allen
 
-Heav'n hath no rage like love to hatred turn'd, Nor Hell a fury, like a
-woman scorn'd. William Congreve
+Heav'n hath no rage like love to hatred turn'd, Nor Hell a fury, like a woman scorn'd. William Congreve
 
 A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty. Winston Churchill
 
@@ -1363,8 +1356,6 @@ The attributes of sovereignty are now enjoyed by every state in the Union. Alexa
 
 Liberty is the hardest test that one can inflict on a people. To know how to be free is not given equally to all men and all nations. Paul Valéry
 
-
-Real knowledge is to know the extent of one's ignorance. Confucius
 
 
 The uniform, constant, and uninterrupted effort of every man to better his condition ... is frequently powerful enough to maintain the natural progress of things toward improvement, in spite of the extravagance of government, and of the greatest errors of administration. Adam Smith
