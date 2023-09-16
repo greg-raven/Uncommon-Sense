@@ -3,7 +3,8 @@ title: 'The problem with politics'
 layout: post
 categories:
 - politics
-tag: 'Napoleon Bonaparte'
+tags:
+- Napoleon Bonaparte
 ---
 
 In politics stupidity is not a handicap.

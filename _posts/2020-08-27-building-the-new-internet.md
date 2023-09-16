@@ -3,7 +3,8 @@ title: 'Building the new Internet'
 layout: post
 categories:
 - speech
-tag: 'Andrew Torba'
+tags:
+- Andrew Torba
 ---
 
 We live in a country where 60m+ people are going to vote for a dementia patient to be leader of the free world.

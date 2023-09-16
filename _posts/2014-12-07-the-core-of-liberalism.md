@@ -3,7 +3,8 @@ title: 'The core of liberalism'
 layout: post
 categories:
 - liberalism
-tag: 'P. J. O'Rourke'
+tags:
+- P. J. ORourke'
 ---
 
 At the core of liberalism is the spoiled child --- miserable, as all spoiled children are, unsatisfied, demanding, ill-disciplined, despotic, and useless. Liberalism is a philosophy of sniveling brats.

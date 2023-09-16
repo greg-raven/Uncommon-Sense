@@ -3,7 +3,8 @@ title: 'Constitutional communism'
 layout: post
 categories:
 - socialism
-tag: 'G. Edward Griffin'
+tags:
+- G. Edward Griffin
 ---
 
 How can they bring it off, especially when there are so few of them? How can they manipulate the vast majority into accepting socialism when they really don't want it? The pressure from below, then, involves using their influence over the various mass membership organizations of the country to create the appearance of great popular support for these recommendations. Of course, the members of those organizations must never suspect that they're being used to promote the Communist program.

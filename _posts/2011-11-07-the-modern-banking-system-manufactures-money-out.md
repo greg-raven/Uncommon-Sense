@@ -3,7 +3,8 @@ title: 'Money from thin air'
 layout: post
 categories:
 - money
-tag: 'L. L. B. Angus'
+tags:
+- L. L. B. Angus
 ---
 
 The modern banking system manufactures money out of nothing. The process is perhaps the most astounding piece of sleight of hand that was ever invented. Banks can, in fact, inflate, mint, and unmint the modern ledger-entry currency.

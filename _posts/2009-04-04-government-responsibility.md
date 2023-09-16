@@ -4,7 +4,8 @@ layout: post
 categories:
 - economics
 - government
-tag: 'P. J. O'Rourke'
+tags:
+- P. J. ORourke'
 ---
 
 Giving money and power to government is like giving whiskey and car keys to teenage boys.

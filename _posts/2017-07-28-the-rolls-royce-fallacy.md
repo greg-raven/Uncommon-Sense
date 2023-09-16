@@ -3,7 +3,8 @@ title: 'The Rolls Royce fallacy'
 layout: post
 categories:
 - economics
-tag: 'Thomas Sowell'
+tags:
+- Thomas Sowell
 ---
 
 Many of the cant words of politics are simply evasions of reality. A prime example is the notion of making housing, college, health insurance, or other things 'affordable.'

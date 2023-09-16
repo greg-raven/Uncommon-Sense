@@ -3,7 +3,8 @@ title: 'Liberty vs. democracy'
 layout: post
 categories:
 - democracy
-tag: 'Ron Paul'
+tags:
+- Ron Paul
 ---
 
 Our country's founders cherished liberty, not democracy.

@@ -3,7 +3,8 @@ title: 'Progressives and progress'
 layout: post
 categories:
 - liberalism
-tag: 'Greg Raven'
+tags:
+- Greg Raven
 ---
 
 There is nothing that 'progressives' hate more than actual progress.

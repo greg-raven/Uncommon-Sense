@@ -3,7 +3,8 @@ title: 'Institutionalized tyranny'
 layout: post
 categories:
 - laws
-tag: 'Charles de Montesquieu'
+tags:
+- Charles de Montesquieu
 ---
 
 There is no crueler tyranny than that which is perpetrated under the shield of law and in the name of justice.

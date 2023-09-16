@@ -3,7 +3,8 @@ title: 'Temporary government programs'
 layout: post
 categories:
 - government
-tag: 'Milton Friedman'
+tags:
+- Milton Friedman
 ---
 
 Nothing is so permanent as a temporary government program.

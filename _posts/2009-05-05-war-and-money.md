@@ -4,7 +4,8 @@ layout: post
 categories:
 - money
 - war
-tag: 'Marcus Tullius Cicero'
+tags:
+- Marcus Tullius Cicero
 ---
 
 The sinews of war, a limitless supply of money.

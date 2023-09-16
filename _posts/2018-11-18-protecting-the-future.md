@@ -3,7 +3,8 @@ title: 'Protecting the future'
 layout: post
 categories:
 - culture
-tag: 'Vladimir Putin'
+tags:
+- Vladimir Putin
 ---
 
 A society that cannot protect its children has no tomorrow.

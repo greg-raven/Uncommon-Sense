@@ -4,7 +4,8 @@ layout: post
 categories:
 - government
 - politics
-tag: 'P. J. O'Rourke'
+tags:
+- P. J. ORourke'
 ---
 
 Every government is a parliament of whores. The trouble is, in a democracy, the whores are us.

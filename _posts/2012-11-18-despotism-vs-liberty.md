@@ -3,7 +3,8 @@ title: 'Despotism vs. liberty'
 layout: post
 categories:
 - liberty
-tag: 'Thomas Jefferson'
+tags:
+- Thomas Jefferson
 ---
 
 Timid men prefer the calm of despotism to the tempestuous sea of liberty.

@@ -4,7 +4,8 @@ layout: post
 categories:
 - knowledge
 - reason
-tag: 'George Orwell'
+tags:
+- George Orwell
 ---
 
 Some ideas are so stupid that only intellectuals believe them.

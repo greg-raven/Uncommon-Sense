@@ -4,7 +4,8 @@ layout: post
 categories:
 - liberty
 - truth
-tag: 'Thomas Paine'
+tags:
+- Thomas Paine
 ---
 
 Freedom had been hunted round the globe; reason was considered as rebellion; and the slavery of fear had made men afraid to think.

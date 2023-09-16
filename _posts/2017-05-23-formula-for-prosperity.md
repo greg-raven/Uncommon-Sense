@@ -3,7 +3,8 @@ title: 'Formula for prosperity'
 layout: post
 categories:
 - prosperity
-tag: 'Thomas E. Woods Jr.'
+tags:
+- Thomas E. Woods Jr.
 ---
 
 \[P\]rosperity follows from the rule of law, respect for private property, and the other institutional mechanisms on which the market order rests.

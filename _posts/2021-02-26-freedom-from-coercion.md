@@ -5,7 +5,8 @@ categories:
 - demagogues
 - government
 - liberty
-tag: 'Ron Paul'
+tags:
+- Ron Paul
 ---
 
 Freedom is living without government coercion. So when a politician talks about freedom for this group or that, ask yourself whether he is advocating more government action or less.

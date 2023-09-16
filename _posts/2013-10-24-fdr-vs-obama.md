@@ -3,7 +3,8 @@ title: 'FDR vs. Obama'
 layout: post
 categories:
 - Obamacare
-tag: 'Patrick J. Buchanan'
+tags:
+- Patrick J. Buchanan
 ---
 
 In World War II, FDR brought together the men who made things in America, industrialists who took charge and met his demand for 50,000 planes and 1,600 ships.  

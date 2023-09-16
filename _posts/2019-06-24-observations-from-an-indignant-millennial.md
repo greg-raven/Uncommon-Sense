@@ -3,7 +3,8 @@ title: 'Observations from an indignant millennial'
 layout: post
 categories:
 - collectivization
-tag: 'Alyssa Ahlgren'
+tags:
+- Alyssa Ahlgren
 ---
 
 I'm sitting in a small coffee shop near Nokomis trying to think of what to write about. I scroll through my newsfeed on my phone looking at the latest headlines of Democratic candidates calling for policies to "fix" the so-called injustices of capitalism. I put my phone down and continue to look around. I see people talking freely, working on their MacBooks, ordering food they get in an instant, seeing cars go by outside, and it dawned on me.

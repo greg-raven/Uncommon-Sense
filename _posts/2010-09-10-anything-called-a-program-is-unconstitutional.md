@@ -8,7 +8,8 @@ categories:
 - politics
 - religion
 - taxation
-tag: 'Joe Sobran'
+tags:
+- Joe Sobran
 ---
 
 - Confessions of a reactionary utopian

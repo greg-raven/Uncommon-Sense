@@ -5,7 +5,8 @@ categories:
 - collectivization
 - Obamacare
 - socialism
-tag: 'Charles Koch'
+tags:
+- Charles Koch
 ---
 
 The more government tries to control, the greater the disaster, as shown by the current health-care debacle. Collectivists (those who stand for government control of the means of production and how people live their lives) promise heaven but deliver hell. For them, the promised end justifies the means.

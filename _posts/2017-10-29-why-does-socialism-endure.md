@@ -4,7 +4,8 @@ layout: post
 categories:
 - press
 - socialism
-tag: 'Taki Theodoracopulos'
+tags:
+- Taki Theodoracopulos
 ---
 
 The only thing that surprises me is the mystery of socialism's enduring appeal.  

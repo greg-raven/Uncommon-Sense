@@ -3,7 +3,8 @@ title: 'The thirteen States'
 layout: post
 categories:
 - Constitution
-tag: 'James Wilson'
+tags:
+- James Wilson
 ---
 
 The thirteen States are thirteen Sovereignties.

@@ -4,7 +4,8 @@ layout: post
 categories:
 - liberty
 - prosperity
-tag: 'Jarret B. Wollstein'
+tags:
+- Jarret B. Wollstein
 ---
 
 Prosperity requires liberty: to be productive we must be free.

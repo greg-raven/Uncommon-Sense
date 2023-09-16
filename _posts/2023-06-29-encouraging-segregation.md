@@ -5,7 +5,8 @@ categories:
 - equality
 - laws
 - race
-tag: 'Clarence Thomas'
+tags:
+- Clarence Thomas
 ---
 
 Sorting by race ... increasingly encourages our Nation's youth to view racial differences as important and segregation as routine.

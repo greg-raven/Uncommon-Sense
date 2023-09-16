@@ -3,7 +3,8 @@ title: 'When they're out of power they're just funny'
 layout: post
 categories:
 - demagogues
-tag: 'Pistol Pete'
+tags:
+- Pistol Pete
 ---
 
 Being a Democrat means you don't need a conscience or a moral compass. You cater to the ignorant, the lazy, and the morally reprehensible. You blatantly lie to them. Most of them know it and they don't care. They are motivated by greed, ignorance, and hate. You stand for nothing except enriching yourself at the expense of the law-abiding people of this country who work and pay the taxes you buy votes with.  

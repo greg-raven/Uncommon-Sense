@@ -5,7 +5,8 @@ categories:
 - diversity
 - education
 - equality
-tag: 'C. S. Lewis'
+tags:
+- C. S. Lewis
 ---
 
 What I want to fix your attention on is the vast overall movement towards the discrediting, and finally the elimination, of every kind of human excellence --- moral, cultural, social or intellectual. And is it not pretty to notice how 'democracy' (in the incantatory sense) is now doing for us the work that was once done by the most ancient dictatorships, and by the same methods?  

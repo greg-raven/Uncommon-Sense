@@ -6,7 +6,8 @@ categories:
 - equality
 - laws
 - race
-tag: 'Clarence Thomas'
+tags:
+- Clarence Thomas
 ---
 
 The Constitution continues to embody a simple truth: Two discriminatory wrongs cannot make a right.

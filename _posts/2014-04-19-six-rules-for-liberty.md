@@ -3,7 +3,8 @@ title: 'Six rules for liberty'
 layout: post
 categories:
 - liberty
-tag: 'Matt Kibbe'
+tags:
+- Matt Kibbe
 ---
 
 Don't hurt people, and don't take their stuff. That's it, in a nutshell. Everyone should be free to live their lives as they think best, so long as they don't hurt other people and don't take other people's stuff.  

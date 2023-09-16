@@ -8,7 +8,8 @@ categories:
 - politics
 - truth
 - war
-tag: 'Joe Sobran'
+tags:
+- Joe Sobran
 ---
 
 Today's Washington is about as attentive to the Tenth Amendment as the Unitarian Church is to the Book of Revelation.

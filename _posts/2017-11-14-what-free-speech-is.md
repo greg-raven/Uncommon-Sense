@@ -3,7 +3,8 @@ title: 'What free speech is'
 layout: post
 categories:
 - speech
-tag: 'Hugo L. Black'
+tags:
+- Hugo L. Black
 ---
 
 Without deviation, without exception, without any ifs, buts, or whereases, freedom of speech means that you shall not do something to people either for the views they have, or the views they express, or the words they speak or write.

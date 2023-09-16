@@ -3,7 +3,8 @@ title: 'I want liberty'
 layout: post
 categories:
 - liberty
-tag: 'Benjamin Franklin'
+tags:
+- Benjamin Franklin
 ---
 
 Where liberty is, there is my country.

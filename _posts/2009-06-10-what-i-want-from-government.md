@@ -3,7 +3,8 @@ title: 'What I want from government'
 layout: post
 categories:
 - money
-tag: 'Robert Welch'
+tags:
+- Robert Welch
 ---
 
 I want for our country enough laws to restrain me from injuring others, so that these laws will also restrain others from injuring me.  

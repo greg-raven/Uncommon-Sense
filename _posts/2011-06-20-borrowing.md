@@ -3,7 +3,8 @@ title: Borrowing
 layout: post
 categories:
 - debt
-tag: 'Benjamin Franklin'
+tags:
+- Benjamin Franklin
 ---
 
 He that goes a borrowing goes a sorrowing.

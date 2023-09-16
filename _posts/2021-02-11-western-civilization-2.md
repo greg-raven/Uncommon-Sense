@@ -3,7 +3,8 @@ title: 'Western civilization'
 layout: post
 categories:
 - culture
-tag: 'Jared Taylor'
+tags:
+- Jared Taylor
 ---
 
 We were a great people when we believed in ourselves, when we knew that we could reach heights no other people could attain.

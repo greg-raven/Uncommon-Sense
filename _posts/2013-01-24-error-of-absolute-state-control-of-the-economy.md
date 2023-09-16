@@ -3,7 +3,8 @@ title: 'The error of absolute state control of the economy'
 layout: post
 categories:
 - socialism
-tag: 'Vladimir Putin'
+tags:
+- Vladimir Putin
 ---
 
 During the time of the Soviet Union the role of the state in economy was made absolute, which eventually lead to the total non-competitiveness of the economy. That lesson cost us very dearly. I am sure nobody would want history to repeat itself.  

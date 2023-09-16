@@ -3,7 +3,8 @@ title: 'Greed vs. virtue'
 layout: post
 categories:
 - capitalism
-tag: 'Milton Friedman'
+tags:
+- Milton Friedman
 ---
 
 Phil Donohue: When you see around the globe the maldistribution of wealth, the desperate plight of millions of people in underdeveloped countries, when you see so few haves and so many have-nots, when you see the greed and the concentration of power, did you ever have a moment of doubt about capitalism? And whether greed is a good idea to run on?

@@ -4,7 +4,8 @@ layout: post
 categories:
 - democracy
 - socialism
-tag: 'Brad Shurett'
+tags:
+- Brad Shurett
 ---
 
 The problems we face today exist because the people who work for a living are outnumbered by those who vote for a living.

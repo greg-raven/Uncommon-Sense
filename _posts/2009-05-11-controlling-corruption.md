@@ -4,7 +4,8 @@ layout: post
 categories:
 - decentralization
 - politics
-tag: 'P. J. O'Rourke'
+tags:
+- P. J. ORourke'
 ---
 
 When buying and selling are controlled by legislation, the first things to be bought and sold are legislators.

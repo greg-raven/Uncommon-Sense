@@ -3,7 +3,8 @@ title: 'Collective wisdom'
 layout: post
 categories:
 - democracy
-tag: 'H. L. Mencken'
+tags:
+- H. L. Mencken
 ---
 
 Democracy is a pathetic belief in the collective wisdom of individual ignorance.

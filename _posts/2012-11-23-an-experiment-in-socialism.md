@@ -3,7 +3,8 @@ title: 'An experiment in socialism'
 layout: post
 categories:
 - socialism
-tag: 'William Bradford'
+tags:
+- William Bradford
 ---
 
 \[T\]he experience that was had in this common course and condition, tried sundry years and that amongst godly and sober men, may well evince the vanity of that conceit of Plato's and other ancients applauded by some of later times; and that the taking away of property and bringing in community into a commonwealth would make them happy and flourishing; as if they were wiser than God.  

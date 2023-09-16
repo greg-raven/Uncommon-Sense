@@ -3,7 +3,8 @@ title: 'Deficit spending'
 layout: post
 categories:
 - economics
-tag: 'Alan Greenspan'
+tags:
+- Alan Greenspan
 ---
 
 Deficit spending is simply a scheme for the hidden confiscation of wealth.

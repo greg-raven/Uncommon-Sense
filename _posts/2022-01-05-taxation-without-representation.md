@@ -5,7 +5,8 @@ categories:
 - economics
 - money
 - taxation
-tag: 'Milton Friedman'
+tags:
+- Milton Friedman
 ---
 
 Inflation is taxation without representation.

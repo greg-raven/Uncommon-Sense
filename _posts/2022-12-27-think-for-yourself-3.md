@@ -4,7 +4,8 @@ layout: post
 categories:
 - 'external authority'
 - knowledge
-tag: 'Albert Einstein'
+tags:
+- Albert Einstein
 ---
 
 Unthinking respect for authority is the greatest enemy of truth.

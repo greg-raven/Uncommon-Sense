@@ -3,7 +3,8 @@ title: 'Here's how to handle the situation in Seattle'
 layout: post
 categories:
 - 'foreign policy'
-tag: 'Greg Raven'
+tags:
+- Greg Raven
 ---
 
 1. Revoke the CITIZENSHIP of anyone living in the so-called autonomous zone.

@@ -5,7 +5,8 @@ categories:
 - equality
 - individualism
 - nationalism
-tag: 'John Quincy Adams'
+tags:
+- John Quincy Adams
 ---
 
 To one thing immigrants must make up their minds, or, they will be disappointed in every expectation of happiness as Americans. They must cast off the European skin, never to resume it.

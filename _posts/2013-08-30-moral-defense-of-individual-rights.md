@@ -3,7 +3,8 @@ title: 'Moral defense of individual rights'
 layout: post
 categories:
 - liberty
-tag: 'Robert Bidinotto'
+tags:
+- Robert Bidinotto
 ---
 
 Republicans don't know how to defend morally an individual's right to achieve wealth and to keep it, and that is why they fail ... It's part and parcel with their ambivalence over the individualist heritage of the nation....  

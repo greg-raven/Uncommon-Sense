@@ -3,7 +3,8 @@ title: 'Liberties guaranteed to citizens'
 layout: post
 categories:
 - liberty
-tag: 'William O. Douglas'
+tags:
+- William O. Douglas
 ---
 
 Among the liberties of citizens that are guaranteed are ...

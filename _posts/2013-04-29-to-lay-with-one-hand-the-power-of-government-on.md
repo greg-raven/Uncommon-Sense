@@ -3,7 +3,8 @@ title: 'Redistribution is robbery'
 layout: post
 categories:
 - taxation
-tag: 'U. S. Supreme Court'
+tags:
+- U. S. Supreme Court
 ---
 
 To lay with one hand the power of government on the property of the citizen, and with the other to bestow it on favored individuals ... is none the less robbery because it is ... called taxation.

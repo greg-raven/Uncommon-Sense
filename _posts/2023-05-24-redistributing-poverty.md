@@ -4,7 +4,8 @@ layout: post
 categories:
 - socialism
 - welfare
-tag: 'Thomas Sowell'
+tags:
+- Thomas Sowell
 ---
 
 Many attempts at redistributing wealth ... have ended up redistributing poverty.

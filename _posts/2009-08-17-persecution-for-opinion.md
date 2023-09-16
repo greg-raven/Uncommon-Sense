@@ -3,7 +3,8 @@ title: 'Persecution for opinion'
 layout: post
 categories:
 - speech
-tag: 'Francis Wright'
+tags:
+- Francis Wright
 ---
 
 Persecution for opinion is the master vice of society.

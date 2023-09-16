@@ -3,7 +3,8 @@ title: 'Who to blame'
 layout: post
 categories:
 - government
-tag: 'Charley Reese'
+tags:
+- Charley Reese
 ---
 
 Politicians, as I have often said, are the only people in the world who create problems and then campaign against them.
