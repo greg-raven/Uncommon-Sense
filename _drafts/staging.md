@@ -1359,3 +1359,77 @@ Liberty is the hardest test that one can inflict on a people. To know how to be 
 
 
 The uniform, constant, and uninterrupted effort of every man to better his condition ... is frequently powerful enough to maintain the natural progress of things toward improvement, in spite of the extravagance of government, and of the greatest errors of administration. Adam Smith
+
+
+
+The fact that so many successful politicians are such shameless liars is not only a reflection on them, it is also a reflection on us. When the people want the impossible, only liars can satisfy them, and only in the short run. Thomas Sowell
+
+
+
+Oppressors can tyrannize only when they achieve a standing army, an enslaved press, and a disarmed populace. James Madison
+
+
+
+It is amazing how much panic one honest man can spread among a multitude of hypocrites. Thomas Sowell
+
+
+
+When you see that trading is done, not by consent, but by compulsion --- when you see that in order to produce, you need to obtain permission from men who produce nothing --- when you see that money is flowing to those who deal, not in goods, but in favors --- when you see that men get richer by graft and by pull than by work, and your laws don't protect you against them, but protect them against you --- when you see corruption being rewarded and honesty becoming a self-sacrifice --- you may know that your society is doomed. Elon Musk
+
+
+
+We are fast approaching the stage of ultimate inversion: The stage where government is free to do as it pleases, while the citizens may act only by permission. Ayn Rand
+
+
+
+When people nobody voted for run everything, you are not living in a free country. Tucker Carlson
+
+
+
+There must be no barriers to freedom of inquiry ... There is no place for dogma in science. The scientist is free, and must be free to ask any question, to doubt any assertion, to seek for any evidence, to correct any errors. Our political life is also predicated on openness. We know that the only way to avoid error is to detect it and that the only way to detect it is to be free to inquire. And we know that as long as men are free to ask what they must, free to say what they think, free to think what they will, freedom can never be lost, and science can never regress. J. Robert Oppenheimer
+
+
+
+Socialism produces bad music, bad art, social stagnation, and really unhappy people. Frank Zappa
+
+
+
+If you think that the Bill of Rights is what sets us apart, you're crazy. Every Banana
+Republic in the world has a Bill of Rights. Antonin Scalia
+
+
+
+The most effective way to destroy people is to deny and obliterate their own understanding of their history. George Orwell
+
+
+
+The whole aim of practical politics is to keep the populace alarmed (and hence clamorous to be led to safety) by an endless series of hobgoblins, most of them imaginary. H. L. Mencken
+
+
+
+The CIA owns everyone of any significance in the major media. William Colby
+
+
+
+We'll know our disinformation program is complete when everything the American public believes is false. William Casey
+
+
+
+Deception is a state of mind and the mind of the State. James Angleton
+
+
+
+You must understand, the leading Bolsheviks who took over Russia were not Russians. They hated Russians. They hated Christians. Driven by ethnic hatred they tortured and slaughtered millions of Russians without a shred of human remorse. It cannot be overstated. Bolshevism committed the greatest human slaughter of all time. The fact that most of the world is ignorant and uncaring about this enormous crime is proof that the global media is in the hands of the perpetrators. Alexandr Solzhenitsyn
+
+
+
+The Founders never intended for Americans to trust their government. Our entire Constitution was predicated on the notion that government was a necessary evil, to be restrained and minimized as much as possible. Rand Paul
+
+
+
+When people get used to preferential treatment, equal treatment seems like discrimination. Thomas Sowell
+
+
+
+Children have a tendency toward self-involvement which makes them give too much weight to trivia, too little weight to significant things. John D. MacDonald
+
