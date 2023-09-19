@@ -3,7 +3,8 @@ title: ""
 layout: post
 categories:
 -
-tag: "Thomas Jefferson"
+tags:
+- Thomas Jefferson
 ---
 
 I cannot live without books.
@@ -54,4 +55,3 @@ We hold these truths to be self-evident, that all men are created equal, that th
 
 When all government, in little as in great things, shall be drawn to Washington as the Center of all Power, it will render powerless the checks provided of one government on another and will become as venal and oppressive as the government from which we separated.
 
-When we get piled upon one another in large cities, as in Europe, we shall become as corrupt as Europe.
