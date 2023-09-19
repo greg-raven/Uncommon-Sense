@@ -1,5 +1,5 @@
 ---
-title: 'Nuclear war cannot be won'
+title: "Nuclear war cannot be won"
 layout: post
 categories:
 - war
