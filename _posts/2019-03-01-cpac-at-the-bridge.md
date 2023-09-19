@@ -62,7 +62,7 @@ Nice is not enough. Logic and facts and appeals to decency and fairness are not 
 > The captain of the Gate.
 > To every man upon this earth
 > Death cometh soon or late.
->  And how can man die better
+> And how can man die better
 > Than facing fearful odds,
 > For the ashes of his fathers
 > And the temples of his Gods?

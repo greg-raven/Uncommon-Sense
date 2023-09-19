@@ -7,8 +7,8 @@ tags:
 - Kevin Jackson
 ---
 
-I'm amazed at how openly racist black Liberals have become, and how few non-blacks are willing to call them out on it.  
-  
+I'm amazed at how openly racist black Liberals have become, and how few non-blacks are willing to call them out on it.
+
 \[...\]
 
 "Colorization" seems to be the answer to all things for Liberals, and is most important to black Liberals. More black is supposed to be better. It never is!

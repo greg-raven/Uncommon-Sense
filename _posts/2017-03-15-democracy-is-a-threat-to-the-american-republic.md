@@ -8,8 +8,8 @@ tags:
 - Paul Pauker
 ---
 
-The media's daily outbursts about the danger to democracy posed by the current administration, while highly amusing, omit a key piece of information. The United States is not a democracy; the United States is a republic.  
-  
+The media's daily outbursts about the danger to democracy posed by the current administration, while highly amusing, omit a key piece of information. The United States is not a democracy; the United States is a republic.
+
 However, a common argument today claims that democracy as defined in modern times is not significantly different from republicanism as defined in the founding era. For example, the historian Ralph Ketcham argued, <q>The founders would not have been opposed to the modern connotations of the word <q>democracy,</q> nor would they have used the word <q>republic</q> to mark out a distinction from those connotations.</q> But this is demonstrably incorrect. Moreover, the widespread acceptance of the word <q>democracy</q> to describe America is not a trivial matter.
 
 For the most part, the founding fathers were strongly opposed to both monarchy and democracy. A monarchy was defined as rule by a king while a democracy was defined as rule by the people, and the powers of a king or the people could either be limited or unlimited. Nevertheless, the interest of the majority, like the interest of a king, is not a legitimate standard for determining whether something is right or wrong. Rather, the legitimate standards for a government are the principles set forth in the Declaration of Independence; in particular, the principle that governments are instituted to secure the unalienable rights of individuals.

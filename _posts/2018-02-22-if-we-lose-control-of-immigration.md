@@ -7,8 +7,8 @@ tags:
 - Ann Coulter
 ---
 
-The problems stemming from unchecked immigration are all over the news. You'll just never be told they are problems of immigration --- children living in poverty, childhood obesity, teen pregnancy, out-of-wedlock births, abysmal high school dropout rates, income inequality, 'homegrown' terrorists, massive Medicare frauds, Internet crime, identity theft, prison overcrowding, the vast number of uninsured used to justify Obamacare, sex trafficking, the epidemic of child rape, the destruction of our national parks, drunk driving casualties, drug-resistant tuberculosis, measles and other viral outbreaks, bankrupt government pensions, lower reading and math scores, and shorter 'Americans.'  
-  
+The problems stemming from unchecked immigration are all over the news. You'll just never be told they are problems of immigration --- children living in poverty, childhood obesity, teen pregnancy, out-of-wedlock births, abysmal high school dropout rates, income inequality, 'homegrown' terrorists, massive Medicare frauds, Internet crime, identity theft, prison overcrowding, the vast number of uninsured used to justify Obamacare, sex trafficking, the epidemic of child rape, the destruction of our national parks, drunk driving casualties, drug-resistant tuberculosis, measles and other viral outbreaks, bankrupt government pensions, lower reading and math scores, and shorter 'Americans.'
+
 \[...\]
 
 There's no sense arguing about any other political issue. If we lose immigration, we lose everything.

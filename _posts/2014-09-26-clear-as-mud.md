@@ -7,8 +7,8 @@ tags:
 - Aubrey Bailey
 ---
 
-Are you confused by what is going on in the Middle East? Let me explain.  
-  
+Are you confused by what is going on in the Middle East? Let me explain.
+
 We support the Iraqi government in the fight against Islamic state (I.S.). We don't like I.S., but I.S. is supported by Saudia Arabia, whom we do like.
 
 We don't like President Assad in Syria. We support the fight against him, but not I.S., which is also fighting against him.

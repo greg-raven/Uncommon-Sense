@@ -8,8 +8,8 @@ tags:
 - Victor Davis Hanson
 ---
 
-\[T\]he Left continues to cherish the vision of a borderless world as morally superior, a triumph over artificially imposed difference. The truth is that formal borders do not create difference --- they reflect it. Elites' continued attempts to erase borders are both futile and destructive.  
-  
+\[T\]he Left continues to cherish the vision of a borderless world as morally superior, a triumph over artificially imposed difference. The truth is that formal borders do not create difference --- they reflect it. Elites' continued attempts to erase borders are both futile and destructive.
+
 \[...\]
 
 More broadly, those who deride borders are unwilling to address why tens of millions of people choose to cross them in the first place, leaving their language fluency and native soil --- at great personal risk. The answer is obvious: migration, as it was in the 1960s between mainland China and Hong Kong, as it is now between North and South Korea, is usually a one-way street, from the non-West to the West or its Westernized manifestations. People walk, climb, swim, and fly across borders, secure in the knowledge that boundaries mark different approaches to human experience, with one side perceived as more successful or inviting than the other.

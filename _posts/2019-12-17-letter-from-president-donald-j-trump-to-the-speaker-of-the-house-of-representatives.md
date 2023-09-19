@@ -9,8 +9,8 @@ tags:
 - Donald J. Trump
 ---
 
-The Honorable Nancy Pelosi  
- Speaker of the House of Representatives  
+The Honorable Nancy Pelosi
+ Speaker of the House of Representatives
  Washington, D.C. 20515
 
 Dear Madam Speaker:
@@ -71,8 +71,8 @@ One hundred years from now, when people look back at this affair, I want them to
 
 Sincerely yours,
 
-DONALD J. TRUMP  
+DONALD J. TRUMP
 President of the United States of America
 
-cc: United States Senate  
+cc: United States Senate
 United States House of Representatives

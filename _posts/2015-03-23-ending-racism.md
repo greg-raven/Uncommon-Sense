@@ -7,8 +7,8 @@ tags:
 - Jesse Lee Peterson
 ---
 
-The sad reality is, most black Americans are not interested in coming together to heal ongoing race issues. They would rather hate and take from 'the oppressor' (white folks).  
-   
+The sad reality is, most black Americans are not interested in coming together to heal ongoing race issues. They would rather hate and take from 'the oppressor' (white folks).
+ 
 When black liberals say they want to have a 'conversation' about race, what they really mean is they want to continue blaming whitey for past racism and perceived 'white privilege.'
 
 Attorney General Eric Holder insulted Americans, calling us 'a nation of cowards' when it comes to race. He was trying to goad us into a 'conversation.' Obama and other leftists are always talking about 'conversations' and 'teachable moments,' but their idea of a conversation is a lecture. They want a 'conversation' that ends with them getting their way and their 'enemies' frustrated.

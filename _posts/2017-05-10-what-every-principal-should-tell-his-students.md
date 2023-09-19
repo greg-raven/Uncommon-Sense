@@ -9,8 +9,8 @@ tags:
 
 To the students and faculty of our high school:
 
-I am your new principal, and honored to be so. There is no greater calling than to teach young people.  
-  
+I am your new principal, and honored to be so. There is no greater calling than to teach young people.
+
 I would like to apprise you of some important changes coming to our school. I am making these changes because I am convinced that most of the ideas that have dominated public education in America have worked against you, against your teachers and against our country.
 
 First, this school will no longer honor race or ethnicity. I could not care less if your racial makeup is black, brown, red, yellow or white. I could not care less if your origins are African, Latin American, Asian or European, or if your ancestors arrived here on the Mayflower or on slave ships.

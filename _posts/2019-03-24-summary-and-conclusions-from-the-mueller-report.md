@@ -37,13 +37,13 @@ Based on my discussions with the Special Counsel and my initial review, it is ap
 
 Given these restrictions, the schedule for processing the report depends in part on how quickly the Department can identify the 6(e) material that by law cannot be made public. I have requested the assistance of the Special Counsel in identifying all 6(e) information contained in the report as quickly as possible. Separately, I also must identify any information that could impact other ongoing matters, including those that the Special Counsel has referred to other offices. As soon as that process is complete, I will be in a position to move forward expeditiously in determining what can be released in light of applicable law, regulations, and Departmental policies.
 
-- - - - - -
+---
 
 As I observed in my initial notification, the Special Counsel regulations provide that "the Attorney General may determine that public release of" notifications to your respective Committees "would be in the public interest." 28 C.F.R. § 600.9(c). I have so determined, and I will disclose this letter to the public after delivering it to you.
 
 Sincerely,
 
-William P. Barr  
+William P. Barr
 Attorney General
 
 1. In assessing potential conspiracy charges, the Special Counsel also considered whether members of the Trump campaign "coordinated" with Russian election interference activities. The Special Counsel defined "coordination" as an "agreement --- tacit or express --- between the Trump Campaign and the Russian government on election interference."

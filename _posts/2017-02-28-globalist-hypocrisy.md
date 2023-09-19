@@ -8,8 +8,8 @@ tags:
 - Jim Goad
 ---
 
-As far as I can tell, globalism is a scheme concocted by the rich to destroy the working and middle classes through worldwide financial imperialism.  
-  
+As far as I can tell, globalism is a scheme concocted by the rich to destroy the working and middle classes through worldwide financial imperialism.
+
 I have a strong hunch that globalism is also a plot hatched to obliterate indigenous cultures and real human differences under the deceptive ruses of 'multiculturalism' and 'diversity.'
 
 This is why I'm confused whenever I hear someone say they hate 'the rich,' oppose 'imperialism,' and support 'the working class' while being an unquestioning cheerleader for open borders and global government.

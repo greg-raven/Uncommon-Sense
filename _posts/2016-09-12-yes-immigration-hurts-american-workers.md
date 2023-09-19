@@ -7,8 +7,8 @@ tags:
 - George Borjas
 ---
 
-... anyone who tells you that immigration doesn't have any negative effects doesn't understand how it really works. When the supply of workers goes up, the price that firms have to pay to hire workers goes down.  
-  
+... anyone who tells you that immigration doesn't have any negative effects doesn't understand how it really works. When the supply of workers goes up, the price that firms have to pay to hire workers goes down.
+
 \[...\]
 
 Somebody's lower wage is always somebody else's higher profit.

@@ -8,8 +8,8 @@ tags:
 - Rod Eccles
 ---
 
-\[T\]here is a problem with utopia. It doesn't exist. It never has, and it never will, at least not by human standards and by human hands.  
-  
+\[T\]here is a problem with utopia. It doesn't exist. It never has, and it never will, at least not by human standards and by human hands.
+
 You see, utopia comes at a terrible price. It comes at the price of freedom. It comes at the price of individual choice. It comes at a price of many human lives. It comes at an unbelievably terrible and heavy price.
 
 \[...\]

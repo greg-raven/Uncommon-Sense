@@ -7,8 +7,8 @@ tags:
 - Matt Kibbe
 ---
 
-Don't hurt people, and don't take their stuff. That's it, in a nutshell. Everyone should be free to live their lives as they think best, so long as they don't hurt other people and don't take other people's stuff.  
-  
+Don't hurt people, and don't take their stuff. That's it, in a nutshell. Everyone should be free to live their lives as they think best, so long as they don't hurt other people and don't take other people's stuff.
+
 I am not a moral philosopher, and I don't particularly aspire to be one. But the rules for liberty are simple and straightforward. They're blindly applied across the board, not doled out discriminately by meddling politicians and government bureaucrats. They define our actions at every level of society, from federal government to local communities, towards friends and enemies both foreign and domestic:
 
 **1. Don't Hurt People**

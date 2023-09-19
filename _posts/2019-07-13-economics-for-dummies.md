@@ -8,7 +8,7 @@ tags:
 ---
 
 > "You cannot legislate the poor into freedom by legislating the wealthy out of freedom. What one person receives without working for, another person must work for without receiving. The government cannot give to anybody anything that the government does not first take from somebody else. When half of the people get the idea that they do not have to work because the other half is going to take care of them, and when the other half gets the idea that it does no good to work because somebody else is going to get what they work for, that my dear friend, is about the end of any nation. You cannot multiply wealth by dividing it."
-> 
+>
 > <cite>Dr. Adrian Rogers, 1931-2005</cite>
 
 As the presidential run for the 2020 election starts to heat up, people are watching the Democratic candidates fight to outdo each other in promising more and more government programs. In fact, it's becoming known as the Free Stuff Primary.
