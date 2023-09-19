@@ -1,5 +1,5 @@
 ---
-title: 'The government is not the country'
+title: "The government is not the country"
 layout: post
 categories:
 - government

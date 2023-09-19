@@ -1,5 +1,5 @@
 ---
-title: 'Quiet lies'
+title: "Quiet lies"
 layout: post
 categories:
 - truth

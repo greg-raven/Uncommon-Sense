@@ -1,5 +1,5 @@
 ---
-title: 'The problem with socialism'
+title: "The problem with socialism"
 layout: post
 categories:
 - socialism

@@ -1,5 +1,5 @@
 ---
-title: 'Progressive fascism'
+title: "Progressive fascism"
 layout: post
 categories:
 - socialism

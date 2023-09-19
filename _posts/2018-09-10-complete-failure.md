@@ -1,5 +1,5 @@
 ---
-title: 'Complete failure'
+title: "Complete failure"
 layout: post
 categories:
 - socialism

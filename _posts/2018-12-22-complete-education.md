@@ -1,5 +1,5 @@
 ---
-title: 'Complete education'
+title: "Complete education"
 layout: post
 categories:
 - education

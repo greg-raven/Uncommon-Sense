@@ -1,5 +1,5 @@
 ---
-title: 'Super humans'
+title: "Super humans"
 layout: post
 categories:
 - economics

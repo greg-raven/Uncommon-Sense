@@ -1,5 +1,5 @@
 ---
-title: 'Government altruism'
+title: "Government altruism"
 layout: post
 categories:
 - socialism

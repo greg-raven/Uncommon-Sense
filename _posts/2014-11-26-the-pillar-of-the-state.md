@@ -1,5 +1,5 @@
 ---
-title: 'The pillar of the state'
+title: "The pillar of the state"
 layout: post
 categories:
 - demagogues

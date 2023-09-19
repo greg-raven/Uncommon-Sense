@@ -1,5 +1,5 @@
 ---
-title: 'Running the circus'
+title: "Running the circus"
 layout: post
 categories:
 - democracy

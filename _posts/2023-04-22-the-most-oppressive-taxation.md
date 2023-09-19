@@ -1,5 +1,5 @@
 ---
-title: 'The most oppressive taxation'
+title: "The most oppressive taxation"
 layout: post
 categories:
 - money

@@ -1,5 +1,5 @@
 ---
-title: 'The best and brightest'
+title: "The best and brightest"
 layout: post
 categories:
 - government

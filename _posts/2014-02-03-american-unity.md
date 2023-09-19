@@ -1,5 +1,5 @@
 ---
-title: 'American unity'
+title: "American unity"
 layout: post
 categories:
 - citizenship

@@ -1,5 +1,5 @@
 ---
-title: 'Fight limits on the individual'
+title: "Fight limits on the individual"
 layout: post
 categories:
 - individualism

@@ -1,5 +1,5 @@
 ---
-title: 'Spending other people's money'
+title: "Spending other people's money"
 layout: post
 categories:
 - collectivization

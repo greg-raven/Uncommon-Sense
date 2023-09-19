@@ -1,5 +1,5 @@
 ---
-title: 'Taxation and tyranny'
+title: "Taxation and tyranny"
 layout: post
 categories:
 - taxation

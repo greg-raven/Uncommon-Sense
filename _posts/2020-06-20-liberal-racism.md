@@ -1,5 +1,5 @@
 ---
-title: 'Liberal racism'
+title: "Liberal racism"
 layout: post
 categories:
 - race

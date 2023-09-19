@@ -1,8 +1,8 @@
 ---
-title: 'How to ensure your freedom'
+title: "How to ensure your freedom"
 layout: post
 categories:
-- 'Second Amendment'
+- Second Amendment
 tags:
 - Edmund Randolph
 ---

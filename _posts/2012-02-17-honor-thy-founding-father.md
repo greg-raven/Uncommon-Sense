@@ -1,5 +1,5 @@
 ---
-title: 'Honor thy Founding Father'
+title: "Honor thy Founding Father"
 layout: post
 categories:
 - Constitution

@@ -1,5 +1,5 @@
 ---
-title: 'Foolish endeavor'
+title: "Foolish endeavor"
 layout: post
 categories:
 - culture

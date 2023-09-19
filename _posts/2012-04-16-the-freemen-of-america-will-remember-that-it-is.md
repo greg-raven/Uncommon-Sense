@@ -1,5 +1,5 @@
 ---
-title: 'Freedom is easy to lose'
+title: "Freedom is easy to lose"
 layout: post
 categories:
 - liberty

@@ -1,5 +1,5 @@
 ---
-title: 'Federal censorship'
+title: "Federal censorship"
 layout: post
 categories:
 - speech

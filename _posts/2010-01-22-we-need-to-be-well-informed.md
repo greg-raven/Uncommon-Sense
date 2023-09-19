@@ -1,8 +1,8 @@
 ---
-title: 'The need to be well-informed'
+title: "The need to be well-informed"
 layout: post
 categories:
-- 'informed electorate'
+- informed electorate
 tags:
 - Thomas Jefferson
 ---

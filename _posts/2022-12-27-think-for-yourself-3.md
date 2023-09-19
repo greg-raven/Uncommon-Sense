@@ -1,8 +1,8 @@
 ---
-title: 'Think for yourself'
+title: "Think for yourself"
 layout: post
 categories:
-- 'external authority'
+- external authority
 - knowledge
 tags:
 - Albert Einstein

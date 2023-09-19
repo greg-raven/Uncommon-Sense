@@ -1,8 +1,8 @@
 ---
-title: 'Entangling alliances'
+title: "Entangling alliances"
 layout: post
 categories:
-- 'foreign policy'
+- foreign policy
 tags:
 - Patrick J. Buchanan
 ---

@@ -1,5 +1,5 @@
 ---
-title: 'Laissez-faire has not failed'
+title: "Laissez-faire has not failed"
 layout: post
 categories:
 - truth

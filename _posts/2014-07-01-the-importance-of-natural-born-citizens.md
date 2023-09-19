@@ -1,5 +1,5 @@
 ---
-title: 'The importance of natural born citizens'
+title: "The importance of natural born citizens"
 layout: post
 categories:
 - citizenship

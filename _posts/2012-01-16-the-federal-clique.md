@@ -1,5 +1,5 @@
 ---
-title: 'The Federal clique'
+title: "The Federal clique"
 layout: post
 categories:
 - government

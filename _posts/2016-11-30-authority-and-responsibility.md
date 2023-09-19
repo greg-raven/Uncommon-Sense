@@ -1,5 +1,5 @@
 ---
-title: 'Authority and responsibility'
+title: "Authority and responsibility"
 layout: post
 categories:
 - government

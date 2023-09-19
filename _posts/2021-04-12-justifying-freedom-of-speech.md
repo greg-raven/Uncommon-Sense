@@ -1,5 +1,5 @@
 ---
-title: 'Justifying freedom of speech'
+title: "Justifying freedom of speech"
 layout: post
 categories:
 - speech

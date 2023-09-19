@@ -1,5 +1,5 @@
 ---
-title: 'Control will and appetite'
+title: "Control will and appetite"
 layout: post
 categories:
 - regulations

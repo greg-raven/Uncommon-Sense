@@ -1,5 +1,5 @@
 ---
-title: 'U.S. cannot be the universal sanctuary'
+title: "U.S. cannot be the universal sanctuary"
 layout: post
 categories:
 - immigration

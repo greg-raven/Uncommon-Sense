@@ -1,5 +1,5 @@
 ---
-title: 'Politicians need self-restraint'
+title: "Politicians need self-restraint"
 layout: post
 categories:
 - rebellion

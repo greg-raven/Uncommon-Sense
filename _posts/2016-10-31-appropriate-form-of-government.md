@@ -1,5 +1,5 @@
 ---
-title: 'Appropriate form of government'
+title: "Appropriate form of government"
 layout: post
 categories:
 - government

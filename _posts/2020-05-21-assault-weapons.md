@@ -1,8 +1,8 @@
 ---
-title: 'Assault weapons'
+title: "Assault weapons"
 layout: post
 categories:
-- 'Second Amendment'
+- Second Amendment
 tags:
 - Greg Raven
 ---

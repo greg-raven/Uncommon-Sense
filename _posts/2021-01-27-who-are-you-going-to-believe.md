@@ -1,5 +1,5 @@
 ---
-title: 'Who are you going to believe?'
+title: "Who are you going to believe?"
 layout: post
 categories:
 - knowledge

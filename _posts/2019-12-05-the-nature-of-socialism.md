@@ -1,5 +1,5 @@
 ---
-title: 'The nature of socialism'
+title: "The nature of socialism"
 layout: post
 categories:
 - collectivization

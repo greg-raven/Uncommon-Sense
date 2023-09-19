@@ -1,5 +1,5 @@
 ---
-title: 'Thank you, Christian white men'
+title: "Thank you, Christian white men"
 layout: post
 categories:
 - culture

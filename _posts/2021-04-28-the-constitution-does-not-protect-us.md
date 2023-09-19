@@ -1,5 +1,5 @@
 ---
-title: 'The Constitution does not protect us'
+title: "The Constitution does not protect us"
 layout: post
 categories:
 - Constitution

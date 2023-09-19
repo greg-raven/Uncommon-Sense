@@ -1,5 +1,5 @@
 ---
-title: 'Where liberty dwells'
+title: "Where liberty dwells"
 layout: post
 categories:
 - liberty

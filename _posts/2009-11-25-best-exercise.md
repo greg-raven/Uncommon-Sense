@@ -1,8 +1,8 @@
 ---
-title: 'Best exercise'
+title: "Best exercise"
 layout: post
 categories:
-- 'Second Amendment'
+- Second Amendment
 tags:
 - Thomas Jefferson
 ---

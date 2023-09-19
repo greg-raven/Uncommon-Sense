@@ -1,5 +1,5 @@
 ---
-title: 'Big government'
+title: "Big government"
 layout: post
 categories:
 - government

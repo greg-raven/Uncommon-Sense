@@ -1,5 +1,5 @@
 ---
-title: 'Constant kind of warfare'
+title: "Constant kind of warfare"
 layout: post
 categories:
 - taxation

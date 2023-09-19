@@ -1,5 +1,5 @@
 ---
-title: 'Freedom rings'
+title: "Freedom rings"
 layout: post
 categories:
 - liberty

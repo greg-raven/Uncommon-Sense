@@ -1,5 +1,5 @@
 ---
-title: 'People must be incorruptible'
+title: "People must be incorruptible"
 layout: post
 categories:
 - morals

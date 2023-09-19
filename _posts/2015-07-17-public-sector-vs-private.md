@@ -1,10 +1,10 @@
 ---
-title: 'Public sector vs. private'
+title: "Public sector vs. private"
 layout: post
 categories:
 - collectivization
 - decentralization
-- 'external authority'
+- external authority
 - individualism
 tags:
 - John Hayward

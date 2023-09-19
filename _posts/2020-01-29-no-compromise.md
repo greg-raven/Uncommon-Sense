@@ -1,5 +1,5 @@
 ---
-title: 'There can be no compromise'
+title: "There can be no compromise"
 layout: post
 categories:
 - culture

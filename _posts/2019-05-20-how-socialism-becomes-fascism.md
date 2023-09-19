@@ -1,5 +1,5 @@
 ---
-title: 'How socialism becomes fascism'
+title: "How socialism becomes fascism"
 layout: post
 categories:
 - socialism

@@ -1,5 +1,5 @@
 ---
-title: 'Inflation and war'
+title: "Inflation and war"
 layout: post
 categories:
 - money

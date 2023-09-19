@@ -1,5 +1,5 @@
 ---
-title: 'Suicide, not a train wreck'
+title: "Suicide, not a train wreck"
 layout: post
 categories:
 - Obamacare

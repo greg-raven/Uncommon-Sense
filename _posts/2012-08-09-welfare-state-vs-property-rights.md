@@ -1,5 +1,5 @@
 ---
-title: 'Welfare state vs. property rights'
+title: "Welfare state vs. property rights"
 layout: post
 categories:
 - money

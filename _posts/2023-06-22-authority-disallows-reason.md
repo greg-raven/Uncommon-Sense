@@ -1,5 +1,5 @@
 ---
-title: 'Authority disallows reason'
+title: "Authority disallows reason"
 layout: post
 categories:
 - reason

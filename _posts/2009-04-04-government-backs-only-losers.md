@@ -1,5 +1,5 @@
 ---
-title: 'Government backs only losers'
+title: "Government backs only losers"
 layout: post
 categories:
 - waste

@@ -1,5 +1,5 @@
 ---
-title: 'Collective rights'
+title: "Collective rights"
 layout: post
 categories:
 - rights

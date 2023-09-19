@@ -1,5 +1,5 @@
 ---
-title: 'The sea of liberty'
+title: "The sea of liberty"
 layout: post
 categories:
 - liberty

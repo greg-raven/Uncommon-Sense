@@ -1,5 +1,5 @@
 ---
-title: 'Reliance on government for needs'
+title: "Reliance on government for needs"
 layout: post
 categories:
 - socialism

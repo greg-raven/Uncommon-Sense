@@ -1,5 +1,5 @@
 ---
-title: 'Discrimination is not helpful'
+title: "Discrimination is not helpful"
 layout: post
 categories:
 - equality

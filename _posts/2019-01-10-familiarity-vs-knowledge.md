@@ -1,5 +1,5 @@
 ---
-title: 'Familiarity vs. knowledge'
+title: "Familiarity vs. knowledge"
 layout: post
 categories:
 - education

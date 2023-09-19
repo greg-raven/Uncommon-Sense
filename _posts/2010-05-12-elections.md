@@ -1,5 +1,5 @@
 ---
-title: 'Elections cynically viewed'
+title: "Elections cynically viewed"
 layout: post
 categories:
 - voting

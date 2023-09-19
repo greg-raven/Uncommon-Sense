@@ -1,5 +1,5 @@
 ---
-title: 'Analyzing data'
+title: "Analyzing data"
 layout: post
 categories:
 - knowledge

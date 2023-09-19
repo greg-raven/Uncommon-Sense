@@ -1,8 +1,8 @@
 ---
-title: 'The profound tradition of firearm possession'
+title: "The profound tradition of firearm possession"
 layout: post
 categories:
-- 'Second Amendment'
+- Second Amendment
 tags:
 - John Steinbeck
 ---

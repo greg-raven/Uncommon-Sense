@@ -1,5 +1,5 @@
 ---
-title: 'Prosperity through amnesty'
+title: "Prosperity through amnesty"
 layout: post
 categories:
 - immigration

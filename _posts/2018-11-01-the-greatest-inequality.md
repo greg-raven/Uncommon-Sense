@@ -1,5 +1,5 @@
 ---
-title: 'The greatest inequality'
+title: "The greatest inequality"
 layout: post
 categories:
 - equality

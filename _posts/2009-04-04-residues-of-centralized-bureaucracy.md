@@ -1,5 +1,5 @@
 ---
-title: 'Residues of centralized bureaucracy'
+title: "Residues of centralized bureaucracy"
 layout: post
 categories:
 - taxation

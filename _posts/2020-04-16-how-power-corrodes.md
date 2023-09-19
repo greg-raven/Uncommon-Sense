@@ -1,5 +1,5 @@
 ---
-title: 'How power corrodes'
+title: "How power corrodes"
 layout: post
 categories:
 - corruption

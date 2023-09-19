@@ -1,5 +1,5 @@
 ---
-title: 'Deficits mean future taxes'
+title: "Deficits mean future taxes"
 layout: post
 categories:
 - taxation

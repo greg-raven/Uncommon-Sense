@@ -1,5 +1,5 @@
 ---
-title: 'Achieving opulence from barbarism'
+title: "Achieving opulence from barbarism"
 layout: post
 categories:
 - prosperity

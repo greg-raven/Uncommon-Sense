@@ -1,5 +1,5 @@
 ---
-title: 'The true object of propaganda'
+title: "The true object of propaganda"
 layout: post
 categories:
 - collectivism

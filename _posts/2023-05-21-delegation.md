@@ -1,5 +1,5 @@
 ---
-title: 'The delegation public views'
+title: "The delegation public views"
 layout: post
 categories:
 - government

@@ -1,5 +1,5 @@
 ---
-title: 'Global warming'
+title: "Global warming"
 layout: post
 categories:
 - climate

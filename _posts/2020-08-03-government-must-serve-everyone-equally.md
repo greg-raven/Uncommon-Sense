@@ -1,5 +1,5 @@
 ---
-title: 'Government must serve everyone equally'
+title: "Government must serve everyone equally"
 layout: post
 categories:
 - equality

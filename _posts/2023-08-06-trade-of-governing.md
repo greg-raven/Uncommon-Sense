@@ -1,5 +1,5 @@
 ---
-title: 'The trade of governing'
+title: "The trade of governing"
 layout: post
 categories:
 - politics

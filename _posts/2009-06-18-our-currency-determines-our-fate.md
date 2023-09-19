@@ -1,5 +1,5 @@
 ---
-title: 'Our currency determines our fate'
+title: "Our currency determines our fate"
 layout: post
 categories:
 - money

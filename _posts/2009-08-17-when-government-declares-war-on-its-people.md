@@ -1,5 +1,5 @@
 ---
-title: 'When government declares war on its people'
+title: "When government declares war on its people"
 layout: post
 categories:
 - government

@@ -1,5 +1,5 @@
 ---
-title: 'Freedom is a responsibility'
+title: "Freedom is a responsibility"
 layout: post
 categories:
 - liberty

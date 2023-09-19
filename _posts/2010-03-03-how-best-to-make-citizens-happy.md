@@ -1,5 +1,5 @@
 ---
-title: 'How best to make citizens happy'
+title: "How best to make citizens happy"
 layout: post
 categories:
 - democracy

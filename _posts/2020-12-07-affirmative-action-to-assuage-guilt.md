@@ -1,5 +1,5 @@
 ---
-title: 'Affirmative action to assuage guilt'
+title: "Affirmative action to assuage guilt"
 layout: post
 categories:
 - race

@@ -1,5 +1,5 @@
 ---
-title: 'Enumerated powers'
+title: "Enumerated powers"
 layout: post
 categories:
 - Constitution

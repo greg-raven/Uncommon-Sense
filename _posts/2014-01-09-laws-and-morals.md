@@ -1,5 +1,5 @@
 ---
-title: 'Laws and morals'
+title: "Laws and morals"
 layout: post
 categories:
 - morals

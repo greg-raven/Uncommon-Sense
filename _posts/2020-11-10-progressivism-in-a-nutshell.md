@@ -1,5 +1,5 @@
 ---
-title: 'Progressivism in a nutshell'
+title: "Progressivism in a nutshell"
 layout: post
 categories:
 - culture

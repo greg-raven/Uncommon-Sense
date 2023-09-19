@@ -1,5 +1,5 @@
 ---
-title: 'The American dream'
+title: "The American dream"
 layout: post
 categories:
 - liberty

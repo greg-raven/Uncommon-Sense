@@ -1,5 +1,5 @@
 ---
-title: 'You must have rights to have citizens'
+title: "You must have rights to have citizens"
 layout: post
 categories:
 - rights

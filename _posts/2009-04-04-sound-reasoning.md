@@ -1,5 +1,5 @@
 ---
-title: 'Sound reasoning'
+title: "Sound reasoning"
 layout: post
 categories:
 - reason

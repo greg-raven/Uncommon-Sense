@@ -1,5 +1,5 @@
 ---
-title: 'Socialism's worst victims'
+title: "Socialism's worst victims"
 layout: post
 categories:
 - socialism

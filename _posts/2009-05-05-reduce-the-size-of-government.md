@@ -1,5 +1,5 @@
 ---
-title: 'Reduce the size of government'
+title: "Reduce the size of government"
 layout: post
 categories:
 - government

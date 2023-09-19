@@ -1,5 +1,5 @@
 ---
-title: 'Measuring a man's virtue'
+title: "Measuring a man's virtue"
 layout: post
 categories:
 - virtue

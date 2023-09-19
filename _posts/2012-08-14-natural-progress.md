@@ -1,5 +1,5 @@
 ---
-title: 'Natural progress'
+title: "Natural progress"
 layout: post
 categories:
 - self-improvement

@@ -1,5 +1,5 @@
 ---
-title: 'The tree of liberty'
+title: "The tree of liberty"
 layout: post
 categories:
 - rebellion

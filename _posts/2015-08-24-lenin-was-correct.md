@@ -1,5 +1,5 @@
 ---
-title: 'Lenin was correct'
+title: "Lenin was correct"
 layout: post
 categories:
 - money

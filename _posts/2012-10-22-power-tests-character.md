@@ -1,5 +1,5 @@
 ---
-title: 'Power tests character'
+title: "Power tests character"
 layout: post
 categories:
 - virtue

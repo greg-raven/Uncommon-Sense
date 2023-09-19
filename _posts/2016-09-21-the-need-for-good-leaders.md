@@ -1,5 +1,5 @@
 ---
-title: 'The need for good leaders'
+title: "The need for good leaders"
 layout: post
 categories:
 - corruption

@@ -1,5 +1,5 @@
 ---
-title: ''Yes, immigration hurts American workers''
+title: "'Yes, immigration hurts American workers'"
 layout: post
 categories:
 - immigration

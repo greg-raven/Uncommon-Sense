@@ -1,5 +1,5 @@
 ---
-title: 'What is 'just''
+title: "What is 'just'"
 layout: post
 categories:
 - economics

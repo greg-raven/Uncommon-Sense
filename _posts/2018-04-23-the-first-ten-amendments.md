@@ -1,5 +1,5 @@
 ---
-title: 'The first ten Amendments'
+title: "The first ten Amendments"
 layout: post
 categories:
 - Constitution

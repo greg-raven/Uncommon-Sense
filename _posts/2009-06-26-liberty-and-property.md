@@ -1,5 +1,5 @@
 ---
-title: 'Liberty and property'
+title: "Liberty and property"
 layout: post
 categories:
 - property

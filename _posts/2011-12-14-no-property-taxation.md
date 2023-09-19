@@ -1,5 +1,5 @@
 ---
-title: 'No property taxation'
+title: "No property taxation"
 layout: post
 categories:
 - taxation

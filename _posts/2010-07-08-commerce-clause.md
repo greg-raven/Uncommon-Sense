@@ -1,5 +1,5 @@
 ---
-title: 'Commerce Clause'
+title: "Commerce Clause"
 layout: post
 categories:
 - taxation

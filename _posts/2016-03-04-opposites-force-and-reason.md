@@ -1,5 +1,5 @@
 ---
-title: 'Opposites: Force and reason'
+title: "Opposites: Force and reason"
 layout: post
 categories:
 - reason

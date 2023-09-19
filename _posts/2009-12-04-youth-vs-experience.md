@@ -1,5 +1,5 @@
 ---
-title: 'Youth vs. experience'
+title: "Youth vs. experience"
 layout: post
 categories:
 - adulthood

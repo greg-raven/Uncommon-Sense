@@ -1,5 +1,5 @@
 ---
-title: 'Gold is a currency'
+title: "Gold is a currency"
 layout: post
 categories:
 - money

@@ -1,5 +1,5 @@
 ---
-title: 'Delayed misery'
+title: "Delayed misery"
 layout: post
 categories:
 - government

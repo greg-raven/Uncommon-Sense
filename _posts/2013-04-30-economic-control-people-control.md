@@ -1,5 +1,5 @@
 ---
-title: 'Economic control = people control'
+title: "Economic control = people control"
 layout: post
 categories:
 - economics

@@ -1,5 +1,5 @@
 ---
-title: 'Government effectiveness'
+title: "Government effectiveness"
 layout: post
 categories:
 - government

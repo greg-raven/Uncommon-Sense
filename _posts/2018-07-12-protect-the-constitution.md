@@ -1,5 +1,5 @@
 ---
-title: 'Protect the Constitution'
+title: "Protect the Constitution"
 layout: post
 categories:
 - Constitution

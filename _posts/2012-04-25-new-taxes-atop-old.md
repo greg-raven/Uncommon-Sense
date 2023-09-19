@@ -1,5 +1,5 @@
 ---
-title: 'New taxes atop old'
+title: "New taxes atop old"
 layout: post
 categories:
 - taxation

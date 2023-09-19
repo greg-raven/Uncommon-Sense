@@ -1,5 +1,5 @@
 ---
-title: 'Truth vs. lies'
+title: "Truth vs. lies"
 layout: post
 categories:
 - truth

@@ -1,5 +1,5 @@
 ---
-title: 'Political correctness vs. Western civilization'
+title: "Political correctness vs. Western civilization"
 layout: post
 categories:
 - culture

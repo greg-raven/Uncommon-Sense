@@ -1,5 +1,5 @@
 ---
-title: 'Destroying our liberties'
+title: "Destroying our liberties"
 layout: post
 categories:
 - liberty

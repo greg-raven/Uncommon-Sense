@@ -1,5 +1,5 @@
 ---
-title: 'Consequences for Congress'
+title: "Consequences for Congress"
 layout: post
 categories:
 - Constitution

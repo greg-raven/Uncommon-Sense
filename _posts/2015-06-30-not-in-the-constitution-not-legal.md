@@ -1,5 +1,5 @@
 ---
-title: 'Not in the Constitution? Not legal.'
+title: "Not in the Constitution? Not legal."
 layout: post
 categories:
 - Constitution

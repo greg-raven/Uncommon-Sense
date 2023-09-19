@@ -1,5 +1,5 @@
 ---
-title: 'Culture in a tailspin'
+title: "Culture in a tailspin"
 layout: post
 categories:
 - culture

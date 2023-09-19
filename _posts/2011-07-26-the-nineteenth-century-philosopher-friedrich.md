@@ -1,5 +1,5 @@
 ---
-title: 'Embrace the fruit, reject the tree'
+title: "Embrace the fruit, reject the tree"
 layout: post
 categories:
 - religion

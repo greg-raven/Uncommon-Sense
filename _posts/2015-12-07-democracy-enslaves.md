@@ -1,5 +1,5 @@
 ---
-title: 'Democracy enslaves'
+title: "Democracy enslaves"
 layout: post
 categories:
 - democracy

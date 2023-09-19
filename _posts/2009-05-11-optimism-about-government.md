@@ -1,5 +1,5 @@
 ---
-title: 'Optimism about government'
+title: "Optimism about government"
 layout: post
 categories:
 - government

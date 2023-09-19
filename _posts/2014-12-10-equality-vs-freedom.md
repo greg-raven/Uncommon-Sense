@@ -1,5 +1,5 @@
 ---
-title: 'Equality vs. freedom'
+title: "Equality vs. freedom"
 layout: post
 categories:
 - equality

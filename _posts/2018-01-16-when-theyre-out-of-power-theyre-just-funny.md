@@ -1,5 +1,5 @@
 ---
-title: 'When they're out of power they're just funny'
+title: "When they're out of power they're just funny"
 layout: post
 categories:
 - demagogues

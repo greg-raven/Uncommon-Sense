@@ -1,5 +1,5 @@
 ---
-title: 'Argument against democracy'
+title: "Argument against democracy"
 layout: post
 categories:
 - democracy

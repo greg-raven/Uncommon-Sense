@@ -1,5 +1,5 @@
 ---
-title: 'From slavery to liberty to slavery in three generations'
+title: "From slavery to liberty to slavery in three generations"
 layout: post
 categories:
 - liberty

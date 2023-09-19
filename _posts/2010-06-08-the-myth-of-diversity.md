@@ -1,5 +1,5 @@
 ---
-title: 'The myth of diversity'
+title: "The myth of diversity"
 layout: post
 categories:
 - diversity

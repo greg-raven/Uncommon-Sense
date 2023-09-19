@@ -1,5 +1,5 @@
 ---
-title: 'The politics of envy'
+title: "The politics of envy"
 layout: post
 categories:
 - socialism

@@ -1,5 +1,5 @@
 ---
-title: 'New arrivals must support our Constitution'
+title: "New arrivals must support our Constitution"
 layout: post
 categories:
 - immigration

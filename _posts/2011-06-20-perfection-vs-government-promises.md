@@ -1,5 +1,5 @@
 ---
-title: 'Perfection vs. government promises'
+title: "Perfection vs. government promises"
 layout: post
 categories:
 - collectivization

@@ -1,5 +1,5 @@
 ---
-title: 'Several by Sobran'
+title: "Several by Sobran"
 layout: post
 categories:
 - Constitution

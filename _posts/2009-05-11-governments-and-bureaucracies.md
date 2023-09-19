@@ -1,5 +1,5 @@
 ---
-title: 'Governments and bureaucracies'
+title: "Governments and bureaucracies"
 layout: post
 categories:
 - government

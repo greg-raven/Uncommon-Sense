@@ -1,5 +1,5 @@
 ---
-title: 'Limit corruption by limiting government'
+title: "Limit corruption by limiting government"
 layout: post
 categories:
 - corruption

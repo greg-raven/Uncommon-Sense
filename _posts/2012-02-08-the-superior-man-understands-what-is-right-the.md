@@ -1,5 +1,5 @@
 ---
-title: 'Right vs. popular'
+title: "Right vs. popular"
 layout: post
 categories:
 - knowledge

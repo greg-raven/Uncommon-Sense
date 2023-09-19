@@ -1,5 +1,5 @@
 ---
-title: 'Professional soldiers'
+title: "Professional soldiers"
 layout: post
 categories:
 - liberty

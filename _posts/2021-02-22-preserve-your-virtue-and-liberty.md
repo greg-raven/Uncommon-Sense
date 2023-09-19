@@ -1,5 +1,5 @@
 ---
-title: 'Preserve your virtue and liberty'
+title: "Preserve your virtue and liberty"
 layout: post
 categories:
 - morals

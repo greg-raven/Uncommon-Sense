@@ -1,5 +1,5 @@
 ---
-title: 'War profits'
+title: "War profits"
 layout: post
 categories:
 - war

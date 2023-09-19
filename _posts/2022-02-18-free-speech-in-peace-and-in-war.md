@@ -1,5 +1,5 @@
 ---
-title: 'Free speech in peace and in war'
+title: "Free speech in peace and in war"
 layout: post
 categories:
 - speech

@@ -1,5 +1,5 @@
 ---
-title: 'The beginning of all freedom'
+title: "The beginning of all freedom"
 layout: post
 categories:
 - liberty

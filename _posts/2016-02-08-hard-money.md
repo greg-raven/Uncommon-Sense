@@ -1,5 +1,5 @@
 ---
-title: 'Hard money'
+title: "Hard money"
 layout: post
 categories:
 - money

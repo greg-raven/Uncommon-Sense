@@ -1,5 +1,5 @@
 ---
-title: 'The enemy is the State'
+title: "The enemy is the State"
 layout: post
 categories:
 - government

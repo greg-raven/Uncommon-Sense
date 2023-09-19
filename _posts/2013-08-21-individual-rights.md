@@ -1,5 +1,5 @@
 ---
-title: 'Individual rights'
+title: "Individual rights"
 layout: post
 categories:
 - rights

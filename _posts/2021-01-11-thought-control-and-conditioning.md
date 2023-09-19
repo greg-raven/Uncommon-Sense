@@ -1,5 +1,5 @@
 ---
-title: 'Thought control and conditioning'
+title: "Thought control and conditioning"
 layout: post
 categories:
 - collectivization

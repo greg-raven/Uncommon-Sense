@@ -1,5 +1,5 @@
 ---
-title: 'Difference between socialism and fascism'
+title: "Difference between socialism and fascism"
 layout: post
 categories:
 - socialism

@@ -1,9 +1,9 @@
 ---
-title: 'Hope versus reality'
+title: "Hope versus reality"
 layout: post
 categories:
 - hope
-- 'informed electorate'
+- informed electorate
 tags:
 - Patrick Henry
 ---

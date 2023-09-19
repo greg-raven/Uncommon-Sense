@@ -1,5 +1,5 @@
 ---
-title: 'Defining 'politics''
+title: "Defining 'politics'"
 layout: post
 categories:
 - politics

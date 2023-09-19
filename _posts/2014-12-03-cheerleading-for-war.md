@@ -1,5 +1,5 @@
 ---
-title: 'Cheerleading for war'
+title: "Cheerleading for war"
 layout: post
 categories:
 - war

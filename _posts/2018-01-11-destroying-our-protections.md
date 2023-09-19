@@ -1,5 +1,5 @@
 ---
-title: 'Destroying our protections'
+title: "Destroying our protections"
 layout: post
 categories:
 - Constitution

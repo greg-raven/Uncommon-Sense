@@ -1,5 +1,5 @@
 ---
-title: 'On the value of being irritating'
+title: "On the value of being irritating"
 layout: post
 categories:
 - speech

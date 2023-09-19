@@ -1,5 +1,5 @@
 ---
-title: 'Might does not make right'
+title: "Might does not make right"
 layout: post
 categories:
 - speech

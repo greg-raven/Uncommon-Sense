@@ -1,5 +1,5 @@
 ---
-title: 'Truth needs no law'
+title: "Truth needs no law"
 layout: post
 categories:
 - truth

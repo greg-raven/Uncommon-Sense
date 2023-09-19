@@ -1,5 +1,5 @@
 ---
-title: 'The fundamental theory of American law'
+title: "The fundamental theory of American law"
 layout: post
 categories:
 - politics

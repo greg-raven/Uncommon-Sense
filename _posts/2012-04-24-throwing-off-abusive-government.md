@@ -1,5 +1,5 @@
 ---
-title: 'Throwing off an abusive government'
+title: "Throwing off an abusive government"
 layout: post
 categories:
 - rights

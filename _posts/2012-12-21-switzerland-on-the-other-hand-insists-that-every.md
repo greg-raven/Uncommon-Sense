@@ -1,8 +1,8 @@
 ---
-title: 'More guns equal more safety'
+title: "More guns equal more safety"
 layout: post
 categories:
-- 'Second Amendment'
+- Second Amendment
 tags:
 - Donald S. McAlvaney
 ---

@@ -1,5 +1,5 @@
 ---
-title: 'Power corrupts'
+title: "Power corrupts"
 layout: post
 categories:
 - decentralization

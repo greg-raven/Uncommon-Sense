@@ -1,5 +1,5 @@
 ---
-title: 'Enemies of the people'
+title: "Enemies of the people"
 layout: post
 categories:
 - Constitution

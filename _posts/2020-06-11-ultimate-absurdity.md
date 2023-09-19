@@ -1,5 +1,5 @@
 ---
-title: 'Ultimate absurdity'
+title: "Ultimate absurdity"
 layout: post
 categories:
 - collectivization

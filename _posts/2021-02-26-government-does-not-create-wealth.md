@@ -1,5 +1,5 @@
 ---
-title: 'Government does not create wealth'
+title: "Government does not create wealth"
 layout: post
 categories:
 - money

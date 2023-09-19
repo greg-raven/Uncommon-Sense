@@ -1,5 +1,5 @@
 ---
-title: 'Systemic violence'
+title: "Systemic violence"
 layout: post
 categories:
 - culture

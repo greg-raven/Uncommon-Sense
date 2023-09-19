@@ -1,5 +1,5 @@
 ---
-title: 'The law vs fads'
+title: "The law vs fads"
 layout: post
 categories:
 - laws

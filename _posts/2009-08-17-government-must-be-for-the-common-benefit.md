@@ -1,5 +1,5 @@
 ---
-title: 'Government must be for the common benefit'
+title: "Government must be for the common benefit"
 layout: post
 categories:
 - government

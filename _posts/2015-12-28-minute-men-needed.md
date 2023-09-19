@@ -1,8 +1,8 @@
 ---
-title: 'Minute Men needed'
+title: "Minute Men needed"
 layout: post
 categories:
-- 'Second Amendment'
+- Second Amendment
 tags:
 - John F. Kennedy
 ---

@@ -1,5 +1,5 @@
 ---
-title: 'The cause of all mankind'
+title: "The cause of all mankind"
 layout: post
 categories:
 - liberty

@@ -1,5 +1,5 @@
 ---
-title: 'Socialism destroys the human spirit'
+title: "Socialism destroys the human spirit"
 layout: post
 categories:
 - socialism

@@ -1,5 +1,5 @@
 ---
-title: 'Nothing safe from an excess of power'
+title: "Nothing safe from an excess of power"
 layout: post
 categories:
 - property

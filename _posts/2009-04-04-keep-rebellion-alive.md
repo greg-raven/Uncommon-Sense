@@ -1,5 +1,5 @@
 ---
-title: 'Keep rebellion alive'
+title: "Keep rebellion alive"
 layout: post
 categories:
 - rebellion

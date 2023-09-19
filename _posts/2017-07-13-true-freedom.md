@@ -1,5 +1,5 @@
 ---
-title: 'True freedom'
+title: "True freedom"
 layout: post
 categories:
 - liberty

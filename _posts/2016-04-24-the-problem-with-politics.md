@@ -1,5 +1,5 @@
 ---
-title: 'The problem with politics'
+title: "The problem with politics"
 layout: post
 categories:
 - politics

@@ -1,5 +1,5 @@
 ---
-title: 'Munchausen by Proxy Syndrome'
+title: "Munchausen by Proxy Syndrome"
 layout: post
 categories:
 - liberalism

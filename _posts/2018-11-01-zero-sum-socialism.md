@@ -1,5 +1,5 @@
 ---
-title: 'Zero-sum socialism'
+title: "Zero-sum socialism"
 layout: post
 categories:
 - socialism

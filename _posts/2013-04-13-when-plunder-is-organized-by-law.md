@@ -1,5 +1,5 @@
 ---
-title: 'When plunder is organized by law'
+title: "When plunder is organized by law"
 layout: post
 categories:
 - taxation

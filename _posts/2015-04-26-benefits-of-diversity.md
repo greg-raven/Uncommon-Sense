@@ -1,5 +1,5 @@
 ---
-title: 'Benefits of diversity?'
+title: "Benefits of diversity?"
 layout: post
 categories:
 - diversity

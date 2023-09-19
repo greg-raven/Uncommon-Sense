@@ -1,5 +1,5 @@
 ---
-title: 'No legal plunder'
+title: "No legal plunder"
 layout: post
 categories:
 - rights

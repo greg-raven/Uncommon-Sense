@@ -1,5 +1,5 @@
 ---
-title: 'Vitality vs. decadance'
+title: "Vitality vs. decadance"
 layout: post
 categories:
 - morals

@@ -1,5 +1,5 @@
 ---
-title: 'Who's responsible?'
+title: "Who's responsible?"
 layout: post
 categories:
 - culture

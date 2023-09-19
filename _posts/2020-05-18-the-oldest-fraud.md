@@ -1,5 +1,5 @@
 ---
-title: 'The oldest fraud'
+title: "The oldest fraud"
 layout: post
 categories:
 - socialism

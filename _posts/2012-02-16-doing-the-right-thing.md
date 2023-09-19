@@ -1,5 +1,5 @@
 ---
-title: 'Doing the right thing'
+title: "Doing the right thing"
 layout: post
 categories:
 - politics

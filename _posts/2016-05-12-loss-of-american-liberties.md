@@ -1,5 +1,5 @@
 ---
-title: 'Loss of American liberties'
+title: "Loss of American liberties"
 layout: post
 categories:
 - liberty

@@ -1,5 +1,5 @@
 ---
-title: 'Avoiding barbarism'
+title: "Avoiding barbarism"
 layout: post
 categories:
 - socialism

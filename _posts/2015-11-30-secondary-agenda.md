@@ -1,5 +1,5 @@
 ---
-title: 'Secondary agenda'
+title: "Secondary agenda"
 layout: post
 categories:
 - demagogues

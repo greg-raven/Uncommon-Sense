@@ -1,5 +1,5 @@
 ---
-title: 'The error of absolute state control of the economy'
+title: "The error of absolute state control of the economy"
 layout: post
 categories:
 - socialism

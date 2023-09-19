@@ -1,5 +1,5 @@
 ---
-title: 'False prosperity'
+title: "False prosperity"
 layout: post
 categories:
 - war

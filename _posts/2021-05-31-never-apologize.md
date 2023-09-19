@@ -1,5 +1,5 @@
 ---
-title: 'Never apologize'
+title: "Never apologize"
 layout: post
 categories:
 - speech

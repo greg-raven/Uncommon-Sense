@@ -1,5 +1,5 @@
 ---
-title: 'Keep it simple'
+title: "Keep it simple"
 layout: post
 categories:
 - laws

@@ -1,5 +1,5 @@
 ---
-title: 'The tyranny of the masses'
+title: "The tyranny of the masses"
 layout: post
 categories:
 - democracy

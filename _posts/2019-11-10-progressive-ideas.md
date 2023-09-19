@@ -1,5 +1,5 @@
 ---
-title: 'Progressive ideas'
+title: "Progressive ideas"
 layout: post
 categories:
 - socialism

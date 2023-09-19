@@ -1,5 +1,5 @@
 ---
-title: 'Constitutional communism'
+title: "Constitutional communism"
 layout: post
 categories:
 - socialism

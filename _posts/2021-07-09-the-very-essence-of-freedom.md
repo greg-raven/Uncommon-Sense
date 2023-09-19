@@ -1,5 +1,5 @@
 ---
-title: 'The very essence of freedom'
+title: "The very essence of freedom"
 layout: post
 categories:
 - equality

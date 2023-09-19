@@ -1,5 +1,5 @@
 ---
-title: 'Defining science'
+title: "Defining science"
 layout: post
 categories:
 - knowledge

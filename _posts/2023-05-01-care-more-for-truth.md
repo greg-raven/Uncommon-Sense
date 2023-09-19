@@ -1,5 +1,5 @@
 ---
-title: 'Care more for truth'
+title: "Care more for truth"
 layout: post
 categories:
 - truth

@@ -1,5 +1,5 @@
 ---
-title: 'The simple life'
+title: "The simple life"
 layout: post
 categories:
 - prosperity

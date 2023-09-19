@@ -1,5 +1,5 @@
 ---
-title: 'Concentration of powers'
+title: "Concentration of powers"
 layout: post
 categories:
 - collectivization

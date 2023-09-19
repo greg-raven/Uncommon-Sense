@@ -1,5 +1,5 @@
 ---
-title: 'Politicians vs. free market capitalism'
+title: "Politicians vs. free market capitalism"
 layout: post
 categories:
 - capitalism

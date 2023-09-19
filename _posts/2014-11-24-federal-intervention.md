@@ -1,5 +1,5 @@
 ---
-title: 'Federal intervention'
+title: "Federal intervention"
 layout: post
 categories:
 - education

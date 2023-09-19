@@ -1,5 +1,5 @@
 ---
-title: 'Government expands at will'
+title: "Government expands at will"
 layout: post
 categories:
 - Constitution

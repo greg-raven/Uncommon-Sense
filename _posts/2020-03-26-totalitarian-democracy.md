@@ -1,5 +1,5 @@
 ---
-title: 'Totalitarian democracy'
+title: "Totalitarian democracy"
 layout: post
 categories:
 - collectivization

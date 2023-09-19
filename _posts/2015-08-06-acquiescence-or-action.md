@@ -1,5 +1,5 @@
 ---
-title: 'Acquiescence or action'
+title: "Acquiescence or action"
 layout: post
 categories:
 - government

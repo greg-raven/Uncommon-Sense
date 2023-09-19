@@ -1,5 +1,5 @@
 ---
-title: 'Idealists and fanatics'
+title: "Idealists and fanatics"
 layout: post
 categories:
 - intolerance

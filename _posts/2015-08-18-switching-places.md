@@ -1,5 +1,5 @@
 ---
-title: 'Switching places'
+title: "Switching places"
 layout: post
 categories:
 - politics

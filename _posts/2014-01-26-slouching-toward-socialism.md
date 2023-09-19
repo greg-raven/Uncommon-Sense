@@ -1,5 +1,5 @@
 ---
-title: 'Slouching toward socialism'
+title: "Slouching toward socialism"
 layout: post
 categories:
 - socialism

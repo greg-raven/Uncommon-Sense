@@ -1,8 +1,8 @@
 ---
-title: 'Master and servant'
+title: "Master and servant"
 layout: post
 categories:
-- 'Second Amendment'
+- Second Amendment
 tags:
 - Jeffrey R. Snyder
 ---

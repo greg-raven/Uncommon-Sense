@@ -1,5 +1,5 @@
 ---
-title: 'Murdering the American social contract'
+title: "Murdering the American social contract"
 layout: post
 categories:
 - rights

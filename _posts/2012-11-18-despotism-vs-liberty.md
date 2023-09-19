@@ -1,5 +1,5 @@
 ---
-title: 'Despotism vs. liberty'
+title: "Despotism vs. liberty"
 layout: post
 categories:
 - liberty

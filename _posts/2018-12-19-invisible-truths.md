@@ -1,5 +1,5 @@
 ---
-title: 'Invisible truths'
+title: "Invisible truths"
 layout: post
 categories:
 - truth

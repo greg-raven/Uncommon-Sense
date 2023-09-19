@@ -1,5 +1,5 @@
 ---
-title: 'White privilege'
+title: "White privilege"
 layout: post
 categories:
 - race

@@ -1,5 +1,5 @@
 ---
-title: 'Public debt'
+title: "Public debt"
 layout: post
 categories:
 - debt

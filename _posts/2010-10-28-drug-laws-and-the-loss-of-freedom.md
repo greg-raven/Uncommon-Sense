@@ -1,5 +1,5 @@
 ---
-title: 'Drug laws and the loss of freedom'
+title: "Drug laws and the loss of freedom"
 layout: post
 categories:
 - liberty

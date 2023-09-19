@@ -1,5 +1,5 @@
 ---
-title: 'Marxist breeding ground'
+title: "Marxist breeding ground"
 layout: post
 categories:
 - democracy

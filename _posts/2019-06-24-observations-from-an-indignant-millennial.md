@@ -1,5 +1,5 @@
 ---
-title: 'Observations from an indignant millennial'
+title: "Observations from an indignant millennial"
 layout: post
 categories:
 - collectivization

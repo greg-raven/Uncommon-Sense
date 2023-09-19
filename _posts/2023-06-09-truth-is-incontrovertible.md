@@ -1,5 +1,5 @@
 ---
-title: 'Truth is incontrovertible'
+title: "Truth is incontrovertible"
 layout: post
 categories:
 - truth

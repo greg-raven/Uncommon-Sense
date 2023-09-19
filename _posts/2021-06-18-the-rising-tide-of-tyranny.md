@@ -1,5 +1,5 @@
 ---
-title: 'The rising tide of tyranny'
+title: "The rising tide of tyranny"
 layout: post
 categories:
 - government

@@ -1,5 +1,5 @@
 ---
-title: 'Because not everyone likes prison'
+title: "Because not everyone likes prison"
 layout: post
 categories:
 - liberty

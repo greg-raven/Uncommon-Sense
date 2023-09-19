@@ -1,5 +1,5 @@
 ---
-title: 'Government intervention'
+title: "Government intervention"
 layout: post
 categories:
 - government

@@ -1,5 +1,5 @@
 ---
-title: 'Inflation equals theft'
+title: "Inflation equals theft"
 layout: post
 categories:
 - money

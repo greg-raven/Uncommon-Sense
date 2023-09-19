@@ -1,5 +1,5 @@
 ---
-title: 'The tragedy of the poor'
+title: "The tragedy of the poor"
 layout: post
 categories:
 - self-improvement

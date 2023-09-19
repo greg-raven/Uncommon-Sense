@@ -1,5 +1,5 @@
 ---
-title: 'Character'
+title: "Character"
 layout: post
 categories:
 - morals

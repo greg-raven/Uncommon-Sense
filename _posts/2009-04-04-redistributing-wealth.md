@@ -1,5 +1,5 @@
 ---
-title: 'Redistributing wealth'
+title: "Redistributing wealth"
 layout: post
 categories:
 - taxation

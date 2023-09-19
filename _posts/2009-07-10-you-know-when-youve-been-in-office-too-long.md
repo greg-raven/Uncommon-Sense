@@ -1,5 +1,5 @@
 ---
-title: 'You know when you've been in office too long'
+title: "You know when you've been in office too long"
 layout: post
 categories:
 - government

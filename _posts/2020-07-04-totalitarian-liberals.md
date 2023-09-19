@@ -1,5 +1,5 @@
 ---
-title: 'Totalitarian liberals'
+title: "Totalitarian liberals"
 layout: post
 categories:
 - education

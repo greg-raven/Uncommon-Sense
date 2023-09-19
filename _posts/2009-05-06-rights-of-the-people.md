@@ -1,5 +1,5 @@
 ---
-title: 'The rights of the people'
+title: "The rights of the people"
 layout: post
 categories:
 - liberty

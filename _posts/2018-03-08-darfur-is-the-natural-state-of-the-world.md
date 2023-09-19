@@ -1,5 +1,5 @@
 ---
-title: 'Darfur is the natural state of the world'
+title: "Darfur is the natural state of the world"
 layout: post
 categories:
 - culture

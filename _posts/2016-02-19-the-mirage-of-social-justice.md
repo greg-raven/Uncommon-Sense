@@ -1,5 +1,5 @@
 ---
-title: 'The mirage of social justice'
+title: "The mirage of social justice"
 layout: post
 categories:
 - equality

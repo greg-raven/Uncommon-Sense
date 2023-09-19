@@ -1,5 +1,5 @@
 ---
-title: 'Monetary prudence'
+title: "Monetary prudence"
 layout: post
 categories:
 - money

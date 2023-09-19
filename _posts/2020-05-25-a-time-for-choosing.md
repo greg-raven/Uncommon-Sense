@@ -1,5 +1,5 @@
 ---
-title: 'A time for choosing'
+title: "A time for choosing"
 layout: post
 categories:
 - liberty

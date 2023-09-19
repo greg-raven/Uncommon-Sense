@@ -1,5 +1,5 @@
 ---
-title: 'Legislative growth'
+title: "Legislative growth"
 layout: post
 categories:
 - government

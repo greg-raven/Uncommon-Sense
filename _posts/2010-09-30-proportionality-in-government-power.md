@@ -1,5 +1,5 @@
 ---
-title: 'Proportionality in government power'
+title: "Proportionality in government power"
 layout: post
 categories:
 - government

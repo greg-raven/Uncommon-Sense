@@ -1,5 +1,5 @@
 ---
-title: 'Artificial stupidity'
+title: "Artificial stupidity"
 layout: post
 categories:
 - education

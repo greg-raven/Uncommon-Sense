@@ -1,10 +1,10 @@
 ---
-title: 'Fanatical hatred'
+title: "Fanatical hatred"
 layout: post
 categories:
 - collectivization
 - conviction
-- 'external authority'
+- external authority
 tags:
 - Eric Hoffer
 ---

@@ -1,5 +1,5 @@
 ---
-title: 'Fluctuating policies'
+title: "Fluctuating policies"
 layout: post
 categories:
 - regulations

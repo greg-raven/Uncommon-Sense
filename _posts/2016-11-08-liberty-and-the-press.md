@@ -1,5 +1,5 @@
 ---
-title: 'Liberty and the press'
+title: "Liberty and the press"
 layout: post
 categories:
 - liberty

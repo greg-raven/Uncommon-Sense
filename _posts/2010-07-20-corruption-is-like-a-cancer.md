@@ -1,5 +1,5 @@
 ---
-title: 'Corruption is like a cancer'
+title: "Corruption is like a cancer"
 layout: post
 categories:
 - corruption

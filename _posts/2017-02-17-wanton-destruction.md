@@ -1,5 +1,5 @@
 ---
-title: 'Wanton destruction'
+title: "Wanton destruction"
 layout: post
 categories:
 - culture

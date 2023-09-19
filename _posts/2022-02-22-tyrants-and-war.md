@@ -1,5 +1,5 @@
 ---
-title: 'Tyrants and war'
+title: "Tyrants and war"
 layout: post
 categories:
 - war

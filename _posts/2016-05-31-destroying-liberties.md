@@ -1,5 +1,5 @@
 ---
-title: 'Destroying liberties'
+title: "Destroying liberties"
 layout: post
 categories:
 - socialism

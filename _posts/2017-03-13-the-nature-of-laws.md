@@ -1,5 +1,5 @@
 ---
-title: 'The nature of laws'
+title: "The nature of laws"
 layout: post
 categories:
 - laws

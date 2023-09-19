@@ -1,5 +1,5 @@
 ---
-title: 'Who supports whom'
+title: "Who supports whom"
 layout: post
 categories:
 - taxation

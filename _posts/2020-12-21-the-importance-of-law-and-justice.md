@@ -1,5 +1,5 @@
 ---
-title: 'The importance of law and justice'
+title: "The importance of law and justice"
 layout: post
 categories:
 - laws

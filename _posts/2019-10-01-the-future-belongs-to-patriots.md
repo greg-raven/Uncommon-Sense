@@ -1,5 +1,5 @@
 ---
-title: 'The future belongs to patriots'
+title: "The future belongs to patriots"
 layout: post
 categories:
 - patriotism

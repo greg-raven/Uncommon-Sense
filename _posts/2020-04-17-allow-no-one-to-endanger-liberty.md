@@ -1,5 +1,5 @@
 ---
-title: 'Allow no one to endanger liberty'
+title: "Allow no one to endanger liberty"
 layout: post
 categories:
 - liberty

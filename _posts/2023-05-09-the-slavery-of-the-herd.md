@@ -1,5 +1,5 @@
 ---
-title: 'The slavery of the herd'
+title: "The slavery of the herd"
 layout: post
 categories:
 - individualism

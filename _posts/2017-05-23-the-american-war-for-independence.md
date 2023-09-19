@@ -1,5 +1,5 @@
 ---
-title: 'The American War for Independence'
+title: "The American War for Independence"
 layout: post
 categories:
 - rebellion

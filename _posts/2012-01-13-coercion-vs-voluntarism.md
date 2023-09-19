@@ -1,5 +1,5 @@
 ---
-title: 'Coercion vs. voluntarism'
+title: "Coercion vs. voluntarism"
 layout: post
 categories:
 - individualism

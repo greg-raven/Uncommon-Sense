@@ -1,5 +1,5 @@
 ---
-title: 'A Bill of Rights'
+title: "A Bill of Rights"
 layout: post
 categories:
 - rights

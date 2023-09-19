@@ -1,5 +1,5 @@
 ---
-title: 'Legal plunder'
+title: "Legal plunder"
 layout: post
 categories:
 - socialism

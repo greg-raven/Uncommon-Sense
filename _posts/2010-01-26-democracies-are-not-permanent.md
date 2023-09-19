@@ -1,5 +1,5 @@
 ---
-title: 'Democracies are not permanent'
+title: "Democracies are not permanent"
 layout: post
 categories:
 - democracy

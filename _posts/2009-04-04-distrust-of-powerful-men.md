@@ -1,5 +1,5 @@
 ---
-title: 'Distrust of powerful men'
+title: "Distrust of powerful men"
 layout: post
 categories:
 - virtue

@@ -1,5 +1,5 @@
 ---
-title: 'The growth of centralized government'
+title: "The growth of centralized government"
 layout: post
 categories:
 - collectivization

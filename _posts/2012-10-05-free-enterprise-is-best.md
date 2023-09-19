@@ -1,5 +1,5 @@
 ---
-title: 'Free enterprise is best'
+title: "Free enterprise is best"
 layout: post
 categories:
 - socialism

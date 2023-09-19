@@ -1,5 +1,5 @@
 ---
-title: 'Two wrongs cannot make a right'
+title: "Two wrongs cannot make a right"
 layout: post
 categories:
 - Constitution

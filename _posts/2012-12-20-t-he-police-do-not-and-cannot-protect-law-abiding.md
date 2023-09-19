@@ -1,8 +1,8 @@
 ---
-title: 'Police protection'
+title: "Police protection"
 layout: post
 categories:
-- 'Second Amendment'
+- Second Amendment
 tags:
 - Nelson Lund
 ---

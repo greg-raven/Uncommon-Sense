@@ -1,5 +1,5 @@
 ---
-title: 'Corrupting the system'
+title: "Corrupting the system"
 layout: post
 categories:
 - corruption

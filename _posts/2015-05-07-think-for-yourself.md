@@ -1,5 +1,5 @@
 ---
-title: 'Think for yourself'
+title: "Think for yourself"
 layout: post
 categories:
 - individualism

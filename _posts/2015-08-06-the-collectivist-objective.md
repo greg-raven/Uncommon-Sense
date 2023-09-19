@@ -1,5 +1,5 @@
 ---
-title: 'The statist objective'
+title: "The statist objective"
 layout: post
 categories:
 - collectivization

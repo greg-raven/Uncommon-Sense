@@ -1,5 +1,5 @@
 ---
-title: 'Fair income taxes'
+title: "Fair income taxes"
 layout: post
 categories:
 - taxation

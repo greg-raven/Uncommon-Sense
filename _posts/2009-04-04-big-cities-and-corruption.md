@@ -1,5 +1,5 @@
 ---
-title: 'Big cities and corruption'
+title: "Big cities and corruption"
 layout: post
 categories:
 - corruption

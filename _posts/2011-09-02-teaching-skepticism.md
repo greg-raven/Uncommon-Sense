@@ -1,5 +1,5 @@
 ---
-title: 'Teaching skepticism'
+title: "Teaching skepticism"
 layout: post
 categories:
 - education

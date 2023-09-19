@@ -1,5 +1,5 @@
 ---
-title: 'Speak out against tyranny'
+title: "Speak out against tyranny"
 layout: post
 categories:
 - liberty

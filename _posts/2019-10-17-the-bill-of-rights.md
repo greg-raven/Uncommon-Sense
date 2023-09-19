@@ -1,5 +1,5 @@
 ---
-title: 'The Bill of Rights'
+title: "The Bill of Rights"
 layout: post
 categories:
 - Constitution

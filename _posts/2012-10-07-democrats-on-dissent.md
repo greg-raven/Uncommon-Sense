@@ -1,5 +1,5 @@
 ---
-title: 'Democrats on dissent'
+title: "Democrats on dissent"
 layout: post
 categories:
 - demagogues

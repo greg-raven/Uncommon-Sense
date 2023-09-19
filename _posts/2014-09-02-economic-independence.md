@@ -1,5 +1,5 @@
 ---
-title: 'Economic independence'
+title: "Economic independence"
 layout: post
 categories:
 - individualism

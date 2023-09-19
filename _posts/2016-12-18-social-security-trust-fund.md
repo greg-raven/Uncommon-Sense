@@ -1,5 +1,5 @@
 ---
-title: 'Social Security Trust Fund'
+title: "Social Security Trust Fund"
 layout: post
 categories:
 - corruption

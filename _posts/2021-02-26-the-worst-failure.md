@@ -1,5 +1,5 @@
 ---
-title: 'The worst failure'
+title: "The worst failure"
 layout: post
 categories:
 - government

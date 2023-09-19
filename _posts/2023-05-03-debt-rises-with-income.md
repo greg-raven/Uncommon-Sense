@@ -1,5 +1,5 @@
 ---
-title: 'Debt rises with income'
+title: "Debt rises with income"
 layout: post
 categories:
 - economics

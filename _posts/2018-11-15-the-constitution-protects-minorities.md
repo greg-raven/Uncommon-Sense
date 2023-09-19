@@ -1,5 +1,5 @@
 ---
-title: 'The Constitution protects minorities'
+title: "The Constitution protects minorities"
 layout: post
 categories:
 - individualism

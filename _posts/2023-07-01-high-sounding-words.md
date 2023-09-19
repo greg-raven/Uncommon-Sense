@@ -1,5 +1,5 @@
 ---
-title: 'Too many high-sounding words'
+title: "Too many high-sounding words"
 layout: post
 categories:
 - corruption

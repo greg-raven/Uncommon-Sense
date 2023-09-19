@@ -1,5 +1,5 @@
 ---
-title: 'Humility before wisdom'
+title: "Humility before wisdom"
 layout: post
 categories:
 - history

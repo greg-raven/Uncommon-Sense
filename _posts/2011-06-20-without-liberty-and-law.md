@@ -1,5 +1,5 @@
 ---
-title: 'Without liberty and law'
+title: "Without liberty and law"
 layout: post
 categories:
 - laws

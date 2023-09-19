@@ -1,5 +1,5 @@
 ---
-title: 'Political debate is patriotic'
+title: "Political debate is patriotic"
 layout: post
 categories:
 - speech

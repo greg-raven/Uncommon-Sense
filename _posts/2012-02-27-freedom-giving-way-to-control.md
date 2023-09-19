@@ -1,5 +1,5 @@
 ---
-title: 'Freedom giving way to control'
+title: "Freedom giving way to control"
 layout: post
 categories:
 - collectivization

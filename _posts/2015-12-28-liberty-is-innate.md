@@ -1,5 +1,5 @@
 ---
-title: 'Liberty is innate'
+title: "Liberty is innate"
 layout: post
 categories:
 - liberty

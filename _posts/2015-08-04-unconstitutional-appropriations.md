@@ -1,5 +1,5 @@
 ---
-title: 'Unconstitutional appropriations'
+title: "Unconstitutional appropriations"
 layout: post
 categories:
 - welfare

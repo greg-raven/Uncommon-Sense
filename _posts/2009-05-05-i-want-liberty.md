@@ -1,5 +1,5 @@
 ---
-title: 'I want liberty'
+title: "I want liberty"
 layout: post
 categories:
 - liberty

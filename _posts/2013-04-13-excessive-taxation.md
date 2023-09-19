@@ -1,5 +1,5 @@
 ---
-title: 'Excessive taxation'
+title: "Excessive taxation"
 layout: post
 categories:
 - taxation

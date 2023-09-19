@@ -1,5 +1,5 @@
 ---
-title: 'Better in every way'
+title: "Better in every way"
 layout: post
 categories:
 - liberalism

@@ -1,5 +1,5 @@
 ---
-title: 'Government must be small'
+title: "Government must be small"
 layout: post
 categories:
 - government

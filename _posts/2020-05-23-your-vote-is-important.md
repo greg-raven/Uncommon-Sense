@@ -1,5 +1,5 @@
 ---
-title: 'Your vote is important'
+title: "Your vote is important"
 layout: post
 categories:
 - voting

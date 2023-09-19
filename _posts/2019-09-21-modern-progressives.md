@@ -1,5 +1,5 @@
 ---
-title: 'Modern 'progressives''
+title: "Modern 'progressives'"
 layout: post
 categories:
 - culture

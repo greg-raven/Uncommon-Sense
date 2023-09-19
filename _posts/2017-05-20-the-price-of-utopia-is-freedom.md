@@ -1,5 +1,5 @@
 ---
-title: 'The price of utopia is freedom'
+title: "The price of utopia is freedom"
 layout: post
 categories:
 - collectivization

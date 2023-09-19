@@ -1,5 +1,5 @@
 ---
-title: 'Greed vs. virtue'
+title: "Greed vs. virtue"
 layout: post
 categories:
 - capitalism

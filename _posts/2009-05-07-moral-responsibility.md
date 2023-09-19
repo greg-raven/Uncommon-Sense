@@ -1,5 +1,5 @@
 ---
-title: 'Moral responsibility'
+title: "Moral responsibility"
 layout: post
 categories:
 - individualism

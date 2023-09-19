@@ -1,5 +1,5 @@
 ---
-title: 'When politicians pass laws'
+title: "When politicians pass laws"
 layout: post
 categories:
 - capitalism

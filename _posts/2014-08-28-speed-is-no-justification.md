@@ -1,5 +1,5 @@
 ---
-title: 'Speed is no justification'
+title: "Speed is no justification"
 layout: post
 categories:
 - evil

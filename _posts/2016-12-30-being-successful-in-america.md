@@ -1,5 +1,5 @@
 ---
-title: 'Being successful in America'
+title: "Being successful in America"
 layout: post
 categories:
 - prosperity

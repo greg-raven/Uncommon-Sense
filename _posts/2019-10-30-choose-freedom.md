@@ -1,5 +1,5 @@
 ---
-title: 'Choose freedom'
+title: "Choose freedom"
 layout: post
 categories:
 - government

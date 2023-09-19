@@ -1,5 +1,5 @@
 ---
-title: 'Liars and thieves'
+title: "Liars and thieves"
 layout: post
 categories:
 - truth

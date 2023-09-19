@@ -1,5 +1,5 @@
 ---
-title: 'Tax duration'
+title: "Tax duration"
 layout: post
 categories:
 - taxation

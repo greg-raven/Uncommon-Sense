@@ -1,5 +1,5 @@
 ---
-title: 'The misfortune of government'
+title: "The misfortune of government"
 layout: post
 categories:
 - government

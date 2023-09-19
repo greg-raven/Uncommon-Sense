@@ -1,5 +1,5 @@
 ---
-title: 'The big lie'
+title: "The big lie"
 layout: post
 categories:
 - truth

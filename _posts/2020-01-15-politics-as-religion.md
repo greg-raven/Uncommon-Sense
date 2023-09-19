@@ -1,5 +1,5 @@
 ---
-title: 'Politics as religion'
+title: "Politics as religion"
 layout: post
 categories:
 - collectivization

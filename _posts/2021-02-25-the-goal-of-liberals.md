@@ -1,5 +1,5 @@
 ---
-title: 'The goal of 'liberals''
+title: "The goal of 'liberals'"
 layout: post
 categories:
 - collectivization

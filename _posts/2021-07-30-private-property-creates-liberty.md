@@ -1,5 +1,5 @@
 ---
-title: 'Private property creates liberty'
+title: "Private property creates liberty"
 layout: post
 categories:
 - liberty

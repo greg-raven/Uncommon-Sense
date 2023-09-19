@@ -1,5 +1,5 @@
 ---
-title: 'False compassion'
+title: "False compassion"
 layout: post
 categories:
 - socialism

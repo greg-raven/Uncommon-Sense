@@ -1,5 +1,5 @@
 ---
-title: 'The fruits of democracy'
+title: "The fruits of democracy"
 layout: post
 categories:
 - democracy

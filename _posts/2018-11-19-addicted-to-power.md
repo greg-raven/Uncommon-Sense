@@ -1,5 +1,5 @@
 ---
-title: 'Addicted to power'
+title: "Addicted to power"
 layout: post
 categories:
 - demagogues

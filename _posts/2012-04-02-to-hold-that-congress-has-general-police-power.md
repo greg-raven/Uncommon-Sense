@@ -1,5 +1,5 @@
 ---
-title: 'The Tenth Amendment'
+title: "The Tenth Amendment"
 layout: post
 categories:
 - Constitution

@@ -1,5 +1,5 @@
 ---
-title: 'Freedom vs. power'
+title: "Freedom vs. power"
 layout: post
 categories:
 - liberty

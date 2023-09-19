@@ -1,5 +1,5 @@
 ---
-title: 'The case for sound currency'
+title: "The case for sound currency"
 layout: post
 categories:
 - money

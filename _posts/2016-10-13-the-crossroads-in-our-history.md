@@ -1,5 +1,5 @@
 ---
-title: 'The crossroads in our history'
+title: "The crossroads in our history"
 layout: post
 categories:
 - corruption

@@ -1,8 +1,8 @@
 ---
-title: 'Why weren't guns behaving violently 100 years ago?'
+title: "Why weren't guns behaving violently 100 years ago?"
 layout: post
 categories:
-- 'Second Amendment'
+- Second Amendment
 tags:
 - Walter E. Williams
 ---

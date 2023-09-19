@@ -1,5 +1,5 @@
 ---
-title: 'There is no 'we' without 'I''
+title: "There is no 'we' without 'I'"
 layout: post
 categories:
 - collectivization

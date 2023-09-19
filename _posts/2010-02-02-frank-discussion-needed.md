@@ -1,5 +1,5 @@
 ---
-title: 'Frank discussion needed'
+title: "Frank discussion needed"
 layout: post
 categories:
 - race

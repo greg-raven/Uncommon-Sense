@@ -1,5 +1,5 @@
 ---
-title: 'Healthy humility'
+title: "Healthy humility"
 layout: post
 categories:
 - politics

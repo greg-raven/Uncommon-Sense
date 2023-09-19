@@ -1,5 +1,5 @@
 ---
-title: 'Wise governance'
+title: "Wise governance"
 layout: post
 categories:
 - government

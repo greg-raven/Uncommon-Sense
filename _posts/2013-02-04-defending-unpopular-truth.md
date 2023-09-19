@@ -1,5 +1,5 @@
 ---
-title: 'Defending unpopular truth'
+title: "Defending unpopular truth"
 layout: post
 categories:
 - truth

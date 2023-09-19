@@ -1,5 +1,5 @@
 ---
-title: 'Jury nullification'
+title: "Jury nullification"
 layout: post
 categories:
 - juries

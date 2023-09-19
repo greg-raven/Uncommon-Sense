@@ -1,5 +1,5 @@
 ---
-title: 'Government impediments'
+title: "Government impediments"
 layout: post
 categories:
 - government

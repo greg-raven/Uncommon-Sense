@@ -1,5 +1,5 @@
 ---
-title: 'Dangerous servant and fearful master'
+title: "Dangerous servant and fearful master"
 layout: post
 categories:
 - government

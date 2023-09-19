@@ -1,5 +1,5 @@
 ---
-title: 'The Constitution is supreme'
+title: "The Constitution is supreme"
 layout: post
 categories:
 - Constitution

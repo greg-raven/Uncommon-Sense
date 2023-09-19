@@ -1,5 +1,5 @@
 ---
-title: ''White privilege' is a dangerous conspiracy theory'
+title: "'White privilege' is a dangerous conspiracy theory"
 layout: post
 categories:
 - race

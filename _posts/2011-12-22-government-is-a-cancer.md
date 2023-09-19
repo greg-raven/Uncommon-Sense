@@ -1,5 +1,5 @@
 ---
-title: 'Government is a cancer'
+title: "Government is a cancer"
 layout: post
 categories:
 - government

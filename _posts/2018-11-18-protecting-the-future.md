@@ -1,5 +1,5 @@
 ---
-title: 'Protecting the future'
+title: "Protecting the future"
 layout: post
 categories:
 - culture

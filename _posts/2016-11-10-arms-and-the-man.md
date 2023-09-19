@@ -1,8 +1,8 @@
 ---
-title: 'Arms and the man'
+title: "Arms and the man"
 layout: post
 categories:
-- 'Second Amendment'
+- Second Amendment
 tags:
 - Robert A. Heinlein
 ---

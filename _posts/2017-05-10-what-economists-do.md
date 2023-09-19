@@ -1,5 +1,5 @@
 ---
-title: 'What economists do'
+title: "What economists do"
 layout: post
 categories:
 - economics

@@ -1,5 +1,5 @@
 ---
-title: 'Taking action for liberty'
+title: "Taking action for liberty"
 layout: post
 categories:
 - liberty

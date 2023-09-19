@@ -1,5 +1,5 @@
 ---
-title: 'Value your freedoms'
+title: "Value your freedoms"
 layout: post
 categories:
 - liberty

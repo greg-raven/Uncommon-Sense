@@ -1,5 +1,5 @@
 ---
-title: 'The greatest dangers to liberty'
+title: "The greatest dangers to liberty"
 layout: post
 categories:
 - liberty

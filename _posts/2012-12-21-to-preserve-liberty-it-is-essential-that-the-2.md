@@ -1,8 +1,8 @@
 ---
-title: 'Preserving liberty through arms'
+title: "Preserving liberty through arms"
 layout: post
 categories:
-- 'Second Amendment'
+- Second Amendment
 tags:
 - Richard Henry Lee
 ---

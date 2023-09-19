@@ -1,5 +1,5 @@
 ---
-title: 'A republic, not a democracy'
+title: "A republic, not a democracy"
 layout: post
 categories:
 - democracy

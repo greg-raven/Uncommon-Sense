@@ -1,5 +1,5 @@
 ---
-title: 'What is this liberty?'
+title: "What is this liberty?"
 layout: post
 categories:
 - liberty

@@ -1,5 +1,5 @@
 ---
-title: 'Elite contempt'
+title: "Elite contempt"
 layout: post
 categories:
 - demagogues

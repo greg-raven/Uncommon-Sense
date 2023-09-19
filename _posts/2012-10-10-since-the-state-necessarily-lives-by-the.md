@@ -1,5 +1,5 @@
 ---
-title: 'The state is anti-capitalist'
+title: "The state is anti-capitalist"
 layout: post
 categories:
 - socialism

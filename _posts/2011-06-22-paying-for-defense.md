@@ -1,8 +1,8 @@
 ---
-title: 'Paying for defense'
+title: "Paying for defense"
 layout: post
 categories:
-- 'foreign policy'
+- foreign policy
 tags:
 - David Bergland
 ---

@@ -1,5 +1,5 @@
 ---
-title: 'Hear both sides'
+title: "Hear both sides"
 layout: post
 categories:
 - press

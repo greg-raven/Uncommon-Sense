@@ -1,5 +1,5 @@
 ---
-title: 'Redistribution is plunder'
+title: "Redistribution is plunder"
 layout: post
 categories:
 - taxation

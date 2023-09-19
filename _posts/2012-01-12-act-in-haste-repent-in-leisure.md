@@ -1,5 +1,5 @@
 ---
-title: 'Act in haste, repent in leisure'
+title: "Act in haste, repent in leisure"
 layout: post
 categories:
 - government

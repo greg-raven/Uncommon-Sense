@@ -1,8 +1,8 @@
 ---
-title: 'Disarm people to enslave them'
+title: "Disarm people to enslave them"
 layout: post
 categories:
-- 'Second Amendment'
+- Second Amendment
 tags:
 - George Mason
 ---

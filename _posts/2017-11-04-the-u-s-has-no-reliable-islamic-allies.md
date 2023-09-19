@@ -1,5 +1,5 @@
 ---
-title: 'The U.S. has no reliable Islamic allies'
+title: "The U.S. has no reliable Islamic allies"
 layout: post
 categories:
 - religion

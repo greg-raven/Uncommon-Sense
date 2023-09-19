@@ -1,5 +1,5 @@
 ---
-title: 'Golden Rule of citizenship'
+title: "Golden Rule of citizenship"
 layout: post
 categories:
 - citizenship

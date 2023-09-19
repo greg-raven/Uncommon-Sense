@@ -1,5 +1,5 @@
 ---
-title: 'Problems with a pure democracy'
+title: "Problems with a pure democracy"
 layout: post
 categories:
 - democracy

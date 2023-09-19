@@ -1,5 +1,5 @@
 ---
-title: 'Conspiracy against peace'
+title: "Conspiracy against peace"
 layout: post
 categories:
 - war

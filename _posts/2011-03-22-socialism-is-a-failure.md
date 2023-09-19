@@ -1,5 +1,5 @@
 ---
-title: 'Socialism is a failure'
+title: "Socialism is a failure"
 layout: post
 categories:
 - socialism

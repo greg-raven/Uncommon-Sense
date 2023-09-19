@@ -1,5 +1,5 @@
 ---
-title: 'Censorship and oppression'
+title: "Censorship and oppression"
 layout: post
 categories:
 - speech

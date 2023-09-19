@@ -1,5 +1,5 @@
 ---
-title: 'Congress will not restrain from taxation'
+title: "Congress will not restrain from taxation"
 layout: post
 categories:
 - taxation

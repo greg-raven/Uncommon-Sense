@@ -1,5 +1,5 @@
 ---
-title: 'The failure of central planners'
+title: "The failure of central planners"
 layout: post
 categories:
 - collectivization

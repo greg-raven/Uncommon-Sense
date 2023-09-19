@@ -1,5 +1,5 @@
 ---
-title: 'Reject appeals to authority'
+title: "Reject appeals to authority"
 layout: post
 categories:
 - knowledge

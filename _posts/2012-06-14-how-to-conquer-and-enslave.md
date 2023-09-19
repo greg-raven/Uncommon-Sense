@@ -1,5 +1,5 @@
 ---
-title: 'How to conquer and enslave'
+title: "How to conquer and enslave"
 layout: post
 categories:
 - debt

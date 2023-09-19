@@ -1,5 +1,5 @@
 ---
-title: 'Republic or democracy?'
+title: "Republic or democracy?"
 layout: post
 categories:
 - democracy

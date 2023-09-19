@@ -1,5 +1,5 @@
 ---
-title: 'Real motives'
+title: "Real motives"
 layout: post
 categories:
 - liberalism

@@ -1,5 +1,5 @@
 ---
-title: 'Power always corrupts'
+title: "Power always corrupts"
 layout: post
 categories:
 - corruption

@@ -1,8 +1,8 @@
 ---
-title: 'Power demands submission'
+title: "Power demands submission"
 layout: post
 categories:
-- 'external authority'
+- external authority
 tags:
 - Eric Hoffer
 ---

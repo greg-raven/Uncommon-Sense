@@ -1,5 +1,5 @@
 ---
-title: 'The NSA'
+title: "The NSA"
 layout: post
 categories:
 - speech

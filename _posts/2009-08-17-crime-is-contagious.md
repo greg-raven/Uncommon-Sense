@@ -1,5 +1,5 @@
 ---
-title: 'Crime is contagious'
+title: "Crime is contagious"
 layout: post
 categories:
 - corruption

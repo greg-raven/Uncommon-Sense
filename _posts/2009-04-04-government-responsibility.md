@@ -1,5 +1,5 @@
 ---
-title: 'Government responsibility'
+title: "Government responsibility"
 layout: post
 categories:
 - economics

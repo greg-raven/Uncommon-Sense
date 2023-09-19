@@ -1,5 +1,5 @@
 ---
-title: 'Violence vs. truth'
+title: "Violence vs. truth"
 layout: post
 categories:
 - reason

@@ -1,8 +1,8 @@
 ---
-title: 'Vindication of rights'
+title: "Vindication of rights"
 layout: post
 categories:
-- 'Second Amendment'
+- Second Amendment
 tags:
 - William Blackstone
 ---

@@ -1,5 +1,5 @@
 ---
-title: 'Wonderful diversity?'
+title: "Wonderful diversity?"
 layout: post
 categories:
 - diversity

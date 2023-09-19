@@ -1,5 +1,5 @@
 ---
-title: 'Other views'
+title: "Other views"
 layout: post
 categories:
 - speech

@@ -1,5 +1,5 @@
 ---
-title: 'Protecting the country from its government'
+title: "Protecting the country from its government"
 layout: post
 categories:
 - patriotism

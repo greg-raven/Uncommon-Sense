@@ -1,5 +1,5 @@
 ---
-title: 'Why plan ahead?'
+title: "Why plan ahead?"
 layout: post
 categories:
 - economics

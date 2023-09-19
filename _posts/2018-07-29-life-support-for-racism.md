@@ -1,5 +1,5 @@
 ---
-title: 'Life support for racism'
+title: "Life support for racism"
 layout: post
 categories:
 - race

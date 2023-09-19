@@ -1,5 +1,5 @@
 ---
-title: 'Society does not equal the State'
+title: "Society does not equal the State"
 layout: post
 categories:
 - government

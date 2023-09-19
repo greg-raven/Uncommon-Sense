@@ -1,5 +1,5 @@
 ---
-title: 'Western civilization'
+title: "Western civilization"
 layout: post
 categories:
 - culture

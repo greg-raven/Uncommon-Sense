@@ -1,5 +1,5 @@
 ---
-title: 'Do not condemn what you have never seen'
+title: "Do not condemn what you have never seen"
 layout: post
 categories:
 - capitalism

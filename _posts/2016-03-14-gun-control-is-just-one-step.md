@@ -1,8 +1,8 @@
 ---
-title: 'Gun control is just one step'
+title: "Gun control is just one step"
 layout: post
 categories:
-- 'Second Amendment'
+- Second Amendment
 tags:
 - Vladimir Ilyich Lenin
 ---

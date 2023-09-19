@@ -1,5 +1,5 @@
 ---
-title: 'Taxation without representation'
+title: "Taxation without representation"
 layout: post
 categories:
 - economics

@@ -1,5 +1,5 @@
 ---
-title: 'Europeans and Muslims'
+title: "Europeans and Muslims"
 layout: post
 categories:
 - immigration

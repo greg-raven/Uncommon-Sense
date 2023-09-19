@@ -1,5 +1,5 @@
 ---
-title: 'Self-affirming negativity'
+title: "Self-affirming negativity"
 layout: post
 categories:
 - perfection

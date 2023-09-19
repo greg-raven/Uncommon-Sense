@@ -1,5 +1,5 @@
 ---
-title: 'Enslaving the people'
+title: "Enslaving the people"
 layout: post
 categories:
 - socialism

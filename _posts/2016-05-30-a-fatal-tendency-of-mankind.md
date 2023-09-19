@@ -1,5 +1,5 @@
 ---
-title: 'A fatal tendency of mankind'
+title: "A fatal tendency of mankind"
 layout: post
 categories:
 - culture

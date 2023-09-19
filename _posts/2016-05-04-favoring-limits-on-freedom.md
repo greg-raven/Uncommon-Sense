@@ -1,5 +1,5 @@
 ---
-title: 'Favoring limits on freedom'
+title: "Favoring limits on freedom"
 layout: post
 categories:
 - culture

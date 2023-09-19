@@ -1,5 +1,5 @@
 ---
-title: 'Diversity of opinion'
+title: "Diversity of opinion"
 layout: post
 categories:
 - individualism

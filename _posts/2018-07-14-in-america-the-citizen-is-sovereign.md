@@ -1,5 +1,5 @@
 ---
-title: 'In America, the citizen is sovereign'
+title: "In America, the citizen is sovereign"
 layout: post
 categories:
 - individualism

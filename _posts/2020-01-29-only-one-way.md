@@ -1,5 +1,5 @@
 ---
-title: 'Only one way'
+title: "Only one way"
 layout: post
 categories:
 - truth

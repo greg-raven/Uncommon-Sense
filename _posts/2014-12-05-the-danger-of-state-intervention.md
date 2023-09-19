@@ -1,5 +1,5 @@
 ---
-title: 'The danger of state intervention'
+title: "The danger of state intervention"
 layout: post
 categories:
 - socialism

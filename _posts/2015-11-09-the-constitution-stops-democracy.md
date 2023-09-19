@@ -1,5 +1,5 @@
 ---
-title: 'The Constitution stops democracy'
+title: "The Constitution stops democracy"
 layout: post
 categories:
 - Constitution

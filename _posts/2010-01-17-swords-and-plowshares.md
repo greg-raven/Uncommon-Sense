@@ -1,8 +1,8 @@
 ---
-title: 'Swords and plowshares'
+title: "Swords and plowshares"
 layout: post
 categories:
-- 'Second Amendment'
+- Second Amendment
 tags:
 - Thomas Jefferson
 ---

@@ -1,5 +1,5 @@
 ---
-title: 'The value of fake news'
+title: "The value of fake news"
 layout: post
 categories:
 - press

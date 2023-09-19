@@ -1,5 +1,5 @@
 ---
-title: 'The novelty of common sense'
+title: "The novelty of common sense"
 layout: post
 categories:
 - virtue

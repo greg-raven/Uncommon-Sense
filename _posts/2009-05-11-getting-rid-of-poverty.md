@@ -1,5 +1,5 @@
 ---
-title: 'Getting rid of poverty'
+title: "Getting rid of poverty"
 layout: post
 categories:
 - economics

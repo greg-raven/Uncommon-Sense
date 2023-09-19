@@ -1,5 +1,5 @@
 ---
-title: 'Cause of inflation'
+title: "Cause of inflation"
 layout: post
 categories:
 - money

@@ -1,5 +1,5 @@
 ---
-title: 'Question everything'
+title: "Question everything"
 layout: post
 categories:
 - liberty

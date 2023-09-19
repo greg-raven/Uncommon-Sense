@@ -1,5 +1,5 @@
 ---
-title: 'Ethnic studies'
+title: "Ethnic studies"
 layout: post
 categories:
 - race

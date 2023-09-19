@@ -1,5 +1,5 @@
 ---
-title: 'Guilt is personal'
+title: "Guilt is personal"
 layout: post
 categories:
 - individualism

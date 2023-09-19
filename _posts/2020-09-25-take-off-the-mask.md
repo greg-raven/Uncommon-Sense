@@ -1,5 +1,5 @@
 ---
-title: 'Take off the mask'
+title: "Take off the mask"
 layout: post
 categories:
 - liberalism

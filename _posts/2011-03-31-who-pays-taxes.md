@@ -1,5 +1,5 @@
 ---
-title: 'Who pays taxes?'
+title: "Who pays taxes?"
 layout: post
 categories:
 - taxation

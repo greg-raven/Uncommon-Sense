@@ -1,5 +1,5 @@
 ---
-title: 'The evil of a two-party system'
+title: "The evil of a two-party system"
 layout: post
 categories:
 - politics

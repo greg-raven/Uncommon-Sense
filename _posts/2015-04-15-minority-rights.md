@@ -1,5 +1,5 @@
 ---
-title: 'Minority rights'
+title: "Minority rights"
 layout: post
 categories:
 - democracy

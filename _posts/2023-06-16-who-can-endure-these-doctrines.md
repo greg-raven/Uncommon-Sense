@@ -1,5 +1,5 @@
 ---
-title: 'Who can endure these doctrines?'
+title: "Who can endure these doctrines?"
 layout: post
 categories:
 - individualism

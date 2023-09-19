@@ -1,5 +1,5 @@
 ---
-title: 'Avoid debt'
+title: "Avoid debt"
 layout: post
 categories:
 - debt

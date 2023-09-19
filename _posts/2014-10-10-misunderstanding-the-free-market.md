@@ -1,5 +1,5 @@
 ---
-title: 'Misunderstanding the free market'
+title: "Misunderstanding the free market"
 layout: post
 categories:
 - economics

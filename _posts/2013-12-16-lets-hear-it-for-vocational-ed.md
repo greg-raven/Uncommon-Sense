@@ -1,5 +1,5 @@
 ---
-title: 'Let's hear it for vocational ed'
+title: "Let's hear it for vocational ed"
 layout: post
 categories:
 - education

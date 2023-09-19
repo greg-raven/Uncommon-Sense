@@ -1,5 +1,5 @@
 ---
-title: 'The good and the bad'
+title: "The good and the bad"
 layout: post
 categories:
 - politics

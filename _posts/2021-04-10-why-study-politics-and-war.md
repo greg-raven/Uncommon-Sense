@@ -1,5 +1,5 @@
 ---
-title: 'Why study politics and war'
+title: "Why study politics and war"
 layout: post
 categories:
 - culture

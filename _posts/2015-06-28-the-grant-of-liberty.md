@@ -1,5 +1,5 @@
 ---
-title: 'The grant of liberty'
+title: "The grant of liberty"
 layout: post
 categories:
 - liberty

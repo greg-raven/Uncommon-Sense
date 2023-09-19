@@ -1,5 +1,5 @@
 ---
-title: 'The war on drugs'
+title: "The war on drugs"
 layout: post
 categories:
 - laws

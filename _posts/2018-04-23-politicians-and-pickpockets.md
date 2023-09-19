@@ -1,5 +1,5 @@
 ---
-title: 'Politicians and pickpockets'
+title: "Politicians and pickpockets"
 layout: post
 categories:
 - socialism

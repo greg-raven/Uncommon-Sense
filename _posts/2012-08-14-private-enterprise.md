@@ -1,5 +1,5 @@
 ---
-title: 'Private enterprise'
+title: "Private enterprise"
 layout: post
 categories:
 - capitalism

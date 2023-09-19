@@ -1,5 +1,5 @@
 ---
-title: 'Legalize drugs'
+title: "Legalize drugs"
 layout: post
 categories:
 - liberty

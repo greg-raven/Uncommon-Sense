@@ -1,5 +1,5 @@
 ---
-title: 'The limits of their compassion'
+title: "The limits of their compassion"
 layout: post
 categories:
 - liberalism

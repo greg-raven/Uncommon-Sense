@@ -1,5 +1,5 @@
 ---
-title: 'Will power'
+title: "Will power"
 layout: post
 categories:
 - money

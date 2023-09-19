@@ -1,8 +1,8 @@
 ---
-title: 'Responsible gun ownership'
+title: "Responsible gun ownership"
 layout: post
 categories:
-- 'Second Amendment'
+- Second Amendment
 tags:
 - Donald J. Trump
 ---

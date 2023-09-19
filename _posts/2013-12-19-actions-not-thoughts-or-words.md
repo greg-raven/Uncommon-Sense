@@ -1,5 +1,5 @@
 ---
-title: 'Actions, not thoughts or words'
+title: "Actions, not thoughts or words"
 layout: post
 categories:
 - speech

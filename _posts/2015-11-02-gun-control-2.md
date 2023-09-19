@@ -1,8 +1,8 @@
 ---
-title: 'Gun control'
+title: "Gun control"
 layout: post
 categories:
-- 'Second Amendment'
+- Second Amendment
 tags:
 - Wayne LaPierre
 ---

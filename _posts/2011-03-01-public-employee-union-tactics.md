@@ -1,5 +1,5 @@
 ---
-title: 'Public employee union tactics'
+title: "Public employee union tactics"
 layout: post
 categories:
 - collectivization

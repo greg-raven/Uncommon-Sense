@@ -1,5 +1,5 @@
 ---
-title: ''Discretionary' spending'
+title: "'Discretionary' spending"
 layout: post
 categories:
 - socialism

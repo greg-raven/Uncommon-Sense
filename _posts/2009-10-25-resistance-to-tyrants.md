@@ -1,5 +1,5 @@
 ---
-title: 'Resistance to tyrants'
+title: "Resistance to tyrants"
 layout: post
 categories:
 - rebellion

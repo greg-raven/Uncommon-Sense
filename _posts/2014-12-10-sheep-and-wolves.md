@@ -1,8 +1,8 @@
 ---
-title: 'Sheep and wolves'
+title: "Sheep and wolves"
 layout: post
 categories:
-- 'informed electorate'
+- informed electorate
 tags:
 - Bertrand de Jouvenel
 ---

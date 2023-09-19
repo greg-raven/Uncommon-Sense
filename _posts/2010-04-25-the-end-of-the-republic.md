@@ -1,5 +1,5 @@
 ---
-title: 'The end of the Republic'
+title: "The end of the Republic"
 layout: post
 categories:
 - socialism

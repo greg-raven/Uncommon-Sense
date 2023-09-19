@@ -1,5 +1,5 @@
 ---
-title: 'My definition of a free society'
+title: "My definition of a free society"
 layout: post
 categories:
 - liberty

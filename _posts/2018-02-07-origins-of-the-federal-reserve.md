@@ -1,5 +1,5 @@
 ---
-title: 'Origins of the Federal Reserve'
+title: "Origins of the Federal Reserve"
 layout: post
 categories:
 - money

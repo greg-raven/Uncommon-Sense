@@ -1,5 +1,5 @@
 ---
-title: 'Free market for speech'
+title: "Free market for speech"
 layout: post
 categories:
 - speech

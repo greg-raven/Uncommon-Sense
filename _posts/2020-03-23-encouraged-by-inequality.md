@@ -1,5 +1,5 @@
 ---
-title: 'Encouraged by inequality'
+title: "Encouraged by inequality"
 layout: post
 categories:
 - capitalism

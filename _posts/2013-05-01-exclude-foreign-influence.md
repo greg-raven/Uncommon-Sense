@@ -1,5 +1,5 @@
 ---
-title: 'Exclude foreign influence'
+title: "Exclude foreign influence"
 layout: post
 categories:
 - nationalism

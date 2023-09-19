@@ -1,5 +1,5 @@
 ---
-title: 'Safety against foreign force'
+title: "Safety against foreign force"
 layout: post
 categories:
 - war

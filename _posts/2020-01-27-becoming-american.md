@@ -1,5 +1,5 @@
 ---
-title: 'Becoming American'
+title: "Becoming American"
 layout: post
 categories:
 - equality

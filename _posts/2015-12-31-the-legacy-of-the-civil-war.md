@@ -1,5 +1,5 @@
 ---
-title: 'The legacy of the Civil War'
+title: "The legacy of the Civil War"
 layout: post
 categories:
 - war

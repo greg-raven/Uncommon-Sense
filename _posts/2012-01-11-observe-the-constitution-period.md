@@ -1,5 +1,5 @@
 ---
-title: 'Observe the Constitution, period'
+title: "Observe the Constitution, period"
 layout: post
 categories:
 - Constitution

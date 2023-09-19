@@ -1,5 +1,5 @@
 ---
-title: 'If we lose free speech'
+title: "If we lose free speech"
 layout: post
 categories:
 - speech

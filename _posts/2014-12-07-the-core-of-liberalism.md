@@ -1,5 +1,5 @@
 ---
-title: 'The core of liberalism'
+title: "The core of liberalism"
 layout: post
 categories:
 - liberalism

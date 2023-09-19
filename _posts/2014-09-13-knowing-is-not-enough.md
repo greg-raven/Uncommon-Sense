@@ -1,5 +1,5 @@
 ---
-title: 'Knowing is not enough'
+title: "Knowing is not enough"
 layout: post
 categories:
 - citizenship

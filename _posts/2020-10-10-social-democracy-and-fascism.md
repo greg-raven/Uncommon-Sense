@@ -1,5 +1,5 @@
 ---
-title: 'Social democracy and fascism'
+title: "Social democracy and fascism"
 layout: post
 categories:
 - democracy

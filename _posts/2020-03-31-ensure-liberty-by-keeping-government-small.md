@@ -1,5 +1,5 @@
 ---
-title: 'Ensure liberty by keeping government small'
+title: "Ensure liberty by keeping government small"
 layout: post
 categories:
 - liberty

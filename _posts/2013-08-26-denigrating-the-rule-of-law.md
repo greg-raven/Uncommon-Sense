@@ -1,5 +1,5 @@
 ---
-title: 'Denigrating the rule of law'
+title: "Denigrating the rule of law"
 layout: post
 categories:
 - laws

@@ -1,5 +1,5 @@
 ---
-title: 'A life worth living'
+title: "A life worth living"
 layout: post
 categories:
 - service

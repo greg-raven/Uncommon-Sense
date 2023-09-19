@@ -1,5 +1,5 @@
 ---
-title: 'Benefits of rebellion'
+title: "Benefits of rebellion"
 layout: post
 categories:
 - rebellion

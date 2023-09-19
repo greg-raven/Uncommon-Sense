@@ -1,8 +1,8 @@
 ---
-title: 'Secrecy in free society'
+title: "Secrecy in free society"
 layout: post
 categories:
-- 'informed electorate'
+- informed electorate
 tags:
 - John F. Kennedy
 ---

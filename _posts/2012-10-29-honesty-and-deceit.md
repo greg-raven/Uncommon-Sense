@@ -1,5 +1,5 @@
 ---
-title: 'Honesty and deceit'
+title: "Honesty and deceit"
 layout: post
 categories:
 - morals

@@ -1,5 +1,5 @@
 ---
-title: 'Liberties guaranteed to citizens'
+title: "Liberties guaranteed to citizens"
 layout: post
 categories:
 - liberty

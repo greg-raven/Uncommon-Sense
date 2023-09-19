@@ -1,5 +1,5 @@
 ---
-title: 'Price of apathy'
+title: "Price of apathy"
 layout: post
 categories:
 - government

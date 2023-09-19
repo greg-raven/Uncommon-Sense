@@ -1,5 +1,5 @@
 ---
-title: 'Some drug policy'
+title: "Some drug policy"
 layout: post
 categories:
 - demagogues

@@ -1,5 +1,5 @@
 ---
-title: 'Evils from democracy'
+title: "Evils from democracy"
 layout: post
 categories:
 - democracy

@@ -1,5 +1,5 @@
 ---
-title: 'Liberty trumps union'
+title: "Liberty trumps union"
 layout: post
 categories:
 - decentralization

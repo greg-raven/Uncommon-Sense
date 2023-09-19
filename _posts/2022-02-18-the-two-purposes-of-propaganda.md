@@ -1,5 +1,5 @@
 ---
-title: 'The two purposes of propaganda'
+title: "The two purposes of propaganda"
 layout: post
 categories:
 - politics

@@ -1,8 +1,8 @@
 ---
-title: 'Pro-gun gun control'
+title: "Pro-gun gun control"
 layout: post
 categories:
-- 'Second Amendment'
+- Second Amendment
 tags:
 - Stefan Molyneux
 ---

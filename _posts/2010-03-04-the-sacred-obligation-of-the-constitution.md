@@ -1,5 +1,5 @@
 ---
-title: 'The sacred obligation of the Constitution'
+title: "The sacred obligation of the Constitution"
 layout: post
 categories:
 - Constitution

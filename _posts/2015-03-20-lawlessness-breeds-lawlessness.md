@@ -1,5 +1,5 @@
 ---
-title: 'Lawlessness breeds more lawlessness'
+title: "Lawlessness breeds more lawlessness"
 layout: post
 categories:
 - Constitution

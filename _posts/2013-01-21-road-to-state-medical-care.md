@@ -1,5 +1,5 @@
 ---
-title: 'The road to state medical care'
+title: "The road to state medical care"
 layout: post
 categories:
 - Obamacare

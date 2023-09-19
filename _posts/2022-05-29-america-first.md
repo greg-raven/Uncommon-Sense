@@ -1,8 +1,8 @@
 ---
-title: 'America first'
+title: "America first"
 layout: post
 categories:
-- 'foreign policy'
+- foreign policy
 tags:
 - Donald J. Trump
 ---

@@ -1,5 +1,5 @@
 ---
-title: 'Mismanagement shown by debts and taxes'
+title: "Mismanagement shown by debts and taxes"
 layout: post
 categories:
 - debt

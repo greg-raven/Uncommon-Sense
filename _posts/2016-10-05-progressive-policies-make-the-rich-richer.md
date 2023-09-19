@@ -1,5 +1,5 @@
 ---
-title: 'Progressive policies make the rich richer'
+title: "Progressive policies make the rich richer"
 layout: post
 categories:
 - conservatism

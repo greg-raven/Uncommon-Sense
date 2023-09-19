@@ -1,5 +1,5 @@
 ---
-title: 'Liberty under democracies'
+title: "Liberty under democracies"
 layout: post
 categories:
 - democracy

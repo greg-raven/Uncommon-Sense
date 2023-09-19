@@ -1,5 +1,5 @@
 ---
-title: 'Appreciate what you've been given'
+title: "Appreciate what you've been given"
 layout: post
 categories:
 - liberty

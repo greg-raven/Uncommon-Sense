@@ -1,8 +1,8 @@
 ---
-title: 'The right to bear arms'
+title: "The right to bear arms"
 layout: post
 categories:
-- 'Second Amendment'
+- Second Amendment
 tag: anonymous
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 'After Niemoller'
+title: "After Niemoller"
 layout: post
 categories:
 - rights

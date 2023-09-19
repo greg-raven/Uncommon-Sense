@@ -1,5 +1,5 @@
 ---
-title: 'Low standards are not compassionate'
+title: "Low standards are not compassionate"
 layout: post
 categories:
 - culture

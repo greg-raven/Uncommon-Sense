@@ -1,5 +1,5 @@
 ---
-title: 'CPAC at the Bridge'
+title: "CPAC at the Bridge"
 layout: post
 categories:
 - citizenship

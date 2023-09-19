@@ -1,5 +1,5 @@
 ---
-title: 'Dumbing down higher education'
+title: "Dumbing down higher education"
 layout: post
 categories:
 - education

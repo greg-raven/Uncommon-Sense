@@ -1,5 +1,5 @@
 ---
-title: 'Love of money'
+title: "Love of money"
 layout: post
 categories:
 - money

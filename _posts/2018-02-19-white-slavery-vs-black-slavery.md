@@ -1,5 +1,5 @@
 ---
-title: 'White slavery vs. black slavery'
+title: "White slavery vs. black slavery"
 layout: post
 categories:
 - history

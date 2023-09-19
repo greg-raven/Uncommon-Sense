@@ -1,5 +1,5 @@
 ---
-title: 'Today's youth not responsible for segregation'
+title: "Today's youth not responsible for segregation"
 layout: post
 categories:
 - equality

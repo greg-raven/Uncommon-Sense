@@ -1,5 +1,5 @@
 ---
-title: 'Hiding the truth'
+title: "Hiding the truth"
 layout: post
 categories:
 - truth

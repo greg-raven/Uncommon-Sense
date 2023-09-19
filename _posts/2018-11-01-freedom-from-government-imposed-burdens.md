@@ -1,5 +1,5 @@
 ---
-title: 'Freedom from government-imposed burdens'
+title: "Freedom from government-imposed burdens"
 layout: post
 categories:
 - liberty

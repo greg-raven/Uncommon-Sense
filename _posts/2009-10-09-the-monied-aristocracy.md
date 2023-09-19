@@ -1,5 +1,5 @@
 ---
-title: 'The monied aristocracy'
+title: "The monied aristocracy"
 layout: post
 categories:
 - debt

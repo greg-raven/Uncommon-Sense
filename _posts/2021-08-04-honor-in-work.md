@@ -1,5 +1,5 @@
 ---
-title: 'Honor in work'
+title: "Honor in work"
 layout: post
 categories:
 - morals

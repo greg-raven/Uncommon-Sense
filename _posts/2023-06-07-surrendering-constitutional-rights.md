@@ -1,5 +1,5 @@
 ---
-title: 'Surrendering Constitutional rights'
+title: "Surrendering Constitutional rights"
 layout: post
 categories:
 - liberty

@@ -1,5 +1,5 @@
 ---
-title: 'The State as the supreme diety'
+title: "The State as the supreme diety"
 layout: post
 categories:
 - rights

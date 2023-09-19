@@ -1,5 +1,5 @@
 ---
-title: 'Wage slaves'
+title: "Wage slaves"
 layout: post
 categories:
 - truth

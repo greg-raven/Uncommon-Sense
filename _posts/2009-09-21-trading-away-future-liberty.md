@@ -1,5 +1,5 @@
 ---
-title: 'Trading away future liberty'
+title: "Trading away future liberty"
 layout: post
 categories:
 - liberty

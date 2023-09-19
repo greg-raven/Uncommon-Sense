@@ -1,5 +1,5 @@
 ---
-title: 'At your feet or at your throat'
+title: "At your feet or at your throat"
 layout: post
 categories:
 - demagogues

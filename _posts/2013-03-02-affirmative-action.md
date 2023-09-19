@@ -1,5 +1,5 @@
 ---
-title: 'Affirmative action'
+title: "Affirmative action"
 layout: post
 categories:
 - equality

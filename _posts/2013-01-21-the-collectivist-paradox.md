@@ -1,5 +1,5 @@
 ---
-title: 'The collectivist paradox'
+title: "The collectivist paradox"
 layout: post
 categories:
 - collectivization

@@ -1,5 +1,5 @@
 ---
-title: 'How strange it must be to be a liberal'
+title: "How strange it must be to be a liberal"
 layout: post
 categories:
 - liberalism

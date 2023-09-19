@@ -1,5 +1,5 @@
 ---
-title: 'Sliding into servitude'
+title: "Sliding into servitude"
 layout: post
 categories:
 - money

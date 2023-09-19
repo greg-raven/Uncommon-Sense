@@ -1,5 +1,5 @@
 ---
-title: 'Decent men needed'
+title: "Decent men needed"
 layout: post
 categories:
 - government

@@ -1,5 +1,5 @@
 ---
-title: 'Subverting the will of the electorate'
+title: "Subverting the will of the electorate"
 layout: post
 categories:
 - demagogues

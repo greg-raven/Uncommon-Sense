@@ -1,5 +1,5 @@
 ---
-title: 'Laws must apply to all'
+title: "Laws must apply to all"
 layout: post
 categories:
 - laws

@@ -1,5 +1,5 @@
 ---
-title: 'Democracy equals brute force'
+title: "Democracy equals brute force"
 layout: post
 categories:
 - democracy

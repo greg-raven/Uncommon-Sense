@@ -1,5 +1,5 @@
 ---
-title: 'The moral police'
+title: "The moral police"
 layout: post
 categories:
 - morals

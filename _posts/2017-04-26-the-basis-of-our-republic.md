@@ -1,5 +1,5 @@
 ---
-title: 'The basis of our republic'
+title: "The basis of our republic"
 layout: post
 categories:
 - Constitution

@@ -1,5 +1,5 @@
 ---
-title: 'Creating a racial divide'
+title: "Creating a racial divide"
 layout: post
 categories:
 - race

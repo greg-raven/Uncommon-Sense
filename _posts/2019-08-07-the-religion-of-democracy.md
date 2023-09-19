@@ -1,5 +1,5 @@
 ---
-title: 'The religion of democracy'
+title: "The religion of democracy"
 layout: post
 categories:
 - democracy

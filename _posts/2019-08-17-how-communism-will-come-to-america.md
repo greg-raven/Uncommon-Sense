@@ -1,5 +1,5 @@
 ---
-title: 'How communism will come to America'
+title: "How communism will come to America"
 layout: post
 categories:
 - socialism

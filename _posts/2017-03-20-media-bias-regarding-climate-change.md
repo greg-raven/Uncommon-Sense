@@ -1,5 +1,5 @@
 ---
-title: 'Media bias regarding climate change'
+title: "Media bias regarding climate change"
 layout: post
 categories:
 - climate

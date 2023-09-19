@@ -1,5 +1,5 @@
 ---
-title: 'The victims of slavery'
+title: "The victims of slavery"
 layout: post
 categories:
 - race

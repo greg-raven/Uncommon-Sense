@@ -1,5 +1,5 @@
 ---
-title: 'A formula for never-ending strife'
+title: "A formula for never-ending strife"
 layout: post
 categories:
 - equality

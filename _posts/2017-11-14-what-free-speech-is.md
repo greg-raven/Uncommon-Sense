@@ -1,5 +1,5 @@
 ---
-title: 'What free speech is'
+title: "What free speech is"
 layout: post
 categories:
 - speech

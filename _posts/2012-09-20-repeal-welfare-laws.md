@@ -1,5 +1,5 @@
 ---
-title: 'Repeal welfare laws'
+title: "Repeal welfare laws"
 layout: post
 categories:
 - welfare

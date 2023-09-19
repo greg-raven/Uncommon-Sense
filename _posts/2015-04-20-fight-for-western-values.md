@@ -1,5 +1,5 @@
 ---
-title: 'Fight for Western values'
+title: "Fight for Western values"
 layout: post
 categories:
 - culture

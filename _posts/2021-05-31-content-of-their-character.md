@@ -1,5 +1,5 @@
 ---
-title: 'Content of their character'
+title: "Content of their character"
 layout: post
 categories:
 - culture

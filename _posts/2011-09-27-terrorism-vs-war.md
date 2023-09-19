@@ -1,5 +1,5 @@
 ---
-title: 'Terrorism vs. war'
+title: "Terrorism vs. war"
 layout: post
 categories:
 - war

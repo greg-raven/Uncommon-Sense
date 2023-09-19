@@ -1,5 +1,5 @@
 ---
-title: 'The real threat we face'
+title: "The real threat we face"
 layout: post
 categories:
 - culture

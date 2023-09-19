@@ -1,5 +1,5 @@
 ---
-title: 'The FDA as tyranny'
+title: "The FDA as tyranny"
 layout: post
 categories:
 - liberty

@@ -1,5 +1,5 @@
 ---
-title: 'Give me liberty or give me death'
+title: "Give me liberty or give me death"
 layout: post
 categories:
 - liberty

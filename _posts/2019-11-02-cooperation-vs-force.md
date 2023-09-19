@@ -1,5 +1,5 @@
 ---
-title: 'Cooperation vs. force'
+title: "Cooperation vs. force"
 layout: post
 categories:
 - capitalism

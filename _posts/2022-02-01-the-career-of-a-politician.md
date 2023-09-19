@@ -1,5 +1,5 @@
 ---
-title: 'The career of a politician'
+title: "The career of a politician"
 layout: post
 categories:
 - politics

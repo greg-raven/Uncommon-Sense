@@ -1,5 +1,5 @@
 ---
-title: 'Practical politics'
+title: "Practical politics"
 layout: post
 categories:
 - politics

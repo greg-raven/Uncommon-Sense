@@ -1,5 +1,5 @@
 ---
-title: 'Climate change and political power'
+title: "Climate change and political power"
 layout: post
 categories:
 - climate

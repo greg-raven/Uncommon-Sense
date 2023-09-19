@@ -1,5 +1,5 @@
 ---
-title: 'We get to pick and choose'
+title: "We get to pick and choose"
 layout: post
 categories:
 - immigration

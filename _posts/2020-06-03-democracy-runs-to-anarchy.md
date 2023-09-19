@@ -1,5 +1,5 @@
 ---
-title: 'Democracy runs to anarchy'
+title: "Democracy runs to anarchy"
 layout: post
 categories:
 - democracy

@@ -1,5 +1,5 @@
 ---
-title: 'Change for the better'
+title: "Change for the better"
 layout: post
 categories:
 - laws

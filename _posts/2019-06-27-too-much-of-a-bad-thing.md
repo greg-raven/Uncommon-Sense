@@ -1,5 +1,5 @@
 ---
-title: 'Too much of a bad thing'
+title: "Too much of a bad thing"
 layout: post
 categories:
 - government

@@ -1,5 +1,5 @@
 ---
-title: 'Real wealth and virtual wealth'
+title: "Real wealth and virtual wealth"
 layout: post
 categories:
 - debt

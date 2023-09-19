@@ -1,5 +1,5 @@
 ---
-title: 'The most sacred duty of government'
+title: "The most sacred duty of government"
 layout: post
 categories:
 - government

@@ -1,5 +1,5 @@
 ---
-title: 'Obligation to tolerate speech'
+title: "Obligation to tolerate speech"
 layout: post
 categories:
 - speech

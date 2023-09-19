@@ -1,5 +1,5 @@
 ---
-title: 'Safety third'
+title: "Safety third"
 layout: post
 categories:
 - rebellion

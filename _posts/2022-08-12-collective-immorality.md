@@ -1,5 +1,5 @@
 ---
-title: 'Collective immorality'
+title: "Collective immorality"
 layout: post
 categories:
 - collectivization

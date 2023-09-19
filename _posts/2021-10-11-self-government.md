@@ -1,5 +1,5 @@
 ---
-title: 'Self government'
+title: "Self government"
 layout: post
 categories:
 - liberty

@@ -1,5 +1,5 @@
 ---
-title: 'The best security for liberty'
+title: "The best security for liberty"
 layout: post
 categories:
 - knowledge

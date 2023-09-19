@@ -1,5 +1,5 @@
 ---
-title: 'Last official act'
+title: "Last official act"
 layout: post
 categories:
 - money

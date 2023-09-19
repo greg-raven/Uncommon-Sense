@@ -1,5 +1,5 @@
 ---
-title: 'Going from despotism to liberty'
+title: "Going from despotism to liberty"
 layout: post
 categories:
 - rebellion

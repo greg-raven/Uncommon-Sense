@@ -1,5 +1,5 @@
 ---
-title: 'The greatest threat to individual liberty'
+title: "The greatest threat to individual liberty"
 layout: post
 categories:
 - government

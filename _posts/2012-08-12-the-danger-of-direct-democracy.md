@@ -1,5 +1,5 @@
 ---
-title: 'The danger of direct democracy'
+title: "The danger of direct democracy"
 layout: post
 categories:
 - democracy

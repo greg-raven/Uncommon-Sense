@@ -1,5 +1,5 @@
 ---
-title: 'Past, present, and future'
+title: "Past, present, and future"
 layout: post
 categories:
 - culture

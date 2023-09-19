@@ -1,5 +1,5 @@
 ---
-title: 'Observing state corruption'
+title: "Observing state corruption"
 layout: post
 categories:
 - corruption

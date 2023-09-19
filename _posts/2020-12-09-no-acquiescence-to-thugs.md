@@ -1,8 +1,8 @@
 ---
-title: 'No acquiescence to thugs'
+title: "No acquiescence to thugs"
 layout: post
 categories:
-- 'foreign policy'
+- foreign policy
 tags:
 - Alexander Hamilton
 ---

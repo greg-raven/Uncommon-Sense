@@ -1,5 +1,5 @@
 ---
-title: 'Civil rights and equality'
+title: "Civil rights and equality"
 layout: post
 categories:
 - equality

@@ -1,5 +1,5 @@
 ---
-title: 'The right to be offensive'
+title: "The right to be offensive"
 layout: post
 categories:
 - speech

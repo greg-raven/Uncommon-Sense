@@ -1,5 +1,5 @@
 ---
-title: 'Social security'
+title: "Social security"
 layout: post
 categories:
 - socialism

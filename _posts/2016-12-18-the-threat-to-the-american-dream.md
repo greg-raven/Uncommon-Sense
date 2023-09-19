@@ -1,5 +1,5 @@
 ---
-title: 'The threat to the American Dream'
+title: "The threat to the American Dream"
 layout: post
 categories:
 - government

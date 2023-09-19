@@ -1,5 +1,5 @@
 ---
-title: ''Social justice' leads to despotism'
+title: "'Social justice' leads to despotism"
 layout: post
 categories:
 - liberty

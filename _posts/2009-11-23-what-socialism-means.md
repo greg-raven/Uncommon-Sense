@@ -1,5 +1,5 @@
 ---
-title: 'What socialism means'
+title: "What socialism means"
 layout: post
 categories:
 - socialism

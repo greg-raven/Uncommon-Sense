@@ -1,5 +1,5 @@
 ---
-title: 'With freedom comes responsibility'
+title: "With freedom comes responsibility"
 layout: post
 categories:
 - liberty

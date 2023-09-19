@@ -1,5 +1,5 @@
 ---
-title: 'When the boom becomes a bust'
+title: "When the boom becomes a bust"
 layout: post
 categories:
 - economics

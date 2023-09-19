@@ -1,5 +1,5 @@
 ---
-title: 'Not invented here'
+title: "Not invented here"
 layout: post
 categories:
 - intolerance

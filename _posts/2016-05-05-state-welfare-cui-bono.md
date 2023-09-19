@@ -1,5 +1,5 @@
 ---
-title: 'State welfare: Cui bono?'
+title: "State welfare: Cui bono?"
 layout: post
 categories:
 - welfare

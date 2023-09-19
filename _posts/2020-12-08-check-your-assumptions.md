@@ -1,5 +1,5 @@
 ---
-title: 'Check your assumptions'
+title: "Check your assumptions"
 layout: post
 categories:
 - knowledge

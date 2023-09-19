@@ -1,5 +1,5 @@
 ---
-title: 'The importance of private property rights'
+title: "The importance of private property rights"
 layout: post
 categories:
 - property

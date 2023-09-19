@@ -1,5 +1,5 @@
 ---
-title: 'Qualifications for the Presidency'
+title: "Qualifications for the Presidency"
 layout: post
 categories:
 - government

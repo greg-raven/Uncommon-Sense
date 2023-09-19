@@ -1,5 +1,5 @@
 ---
-title: 'The false premise of democracy'
+title: "The false premise of democracy"
 layout: post
 categories:
 - democracy

@@ -1,5 +1,5 @@
 ---
-title: 'Integrity needs no rules'
+title: "Integrity needs no rules"
 layout: post
 categories:
 - morals

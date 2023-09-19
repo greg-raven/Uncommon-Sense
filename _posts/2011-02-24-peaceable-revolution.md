@@ -1,5 +1,5 @@
 ---
-title: 'Peaceable revolution'
+title: "Peaceable revolution"
 layout: post
 categories:
 - taxation

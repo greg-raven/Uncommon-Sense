@@ -1,5 +1,5 @@
 ---
-title: 'Bring out the chain saw'
+title: "Bring out the chain saw"
 layout: post
 categories:
 - economics

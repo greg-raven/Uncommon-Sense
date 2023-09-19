@@ -1,5 +1,5 @@
 ---
-title: 'Long live the republic'
+title: "Long live the republic"
 layout: post
 categories:
 - democracy

@@ -1,5 +1,5 @@
 ---
-title: 'Truth through experience'
+title: "Truth through experience"
 layout: post
 categories:
 - truth

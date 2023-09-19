@@ -1,5 +1,5 @@
 ---
-title: 'If we lose control of immigration'
+title: "If we lose control of immigration"
 layout: post
 categories:
 - immigration

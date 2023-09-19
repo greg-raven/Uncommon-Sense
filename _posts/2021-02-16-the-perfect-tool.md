@@ -1,5 +1,5 @@
 ---
-title: 'The perfect tool'
+title: "The perfect tool"
 layout: post
 categories:
 - socialism

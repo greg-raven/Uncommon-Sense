@@ -1,5 +1,5 @@
 ---
-title: 'Too dangerous'
+title: "Too dangerous"
 layout: post
 categories:
 - demagogues

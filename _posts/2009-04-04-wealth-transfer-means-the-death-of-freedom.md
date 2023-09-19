@@ -1,5 +1,5 @@
 ---
-title: 'Wealth transfer means the death of freedom'
+title: "Wealth transfer means the death of freedom"
 layout: post
 categories:
 - socialism

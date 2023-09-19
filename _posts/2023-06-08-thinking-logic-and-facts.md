@@ -1,8 +1,8 @@
 ---
-title: 'Thinking, logic, and facts'
+title: "Thinking, logic, and facts"
 layout: post
 categories:
-- 'informed electorate'
+- informed electorate
 tags:
 - H. L. Mencken
 ---

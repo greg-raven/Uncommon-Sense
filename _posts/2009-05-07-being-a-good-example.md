@@ -1,5 +1,5 @@
 ---
-title: 'Being a good example'
+title: "Being a good example"
 layout: post
 categories:
 - war

@@ -1,5 +1,5 @@
 ---
-title: 'Error vs. reason'
+title: "Error vs. reason"
 layout: post
 categories:
 - speech

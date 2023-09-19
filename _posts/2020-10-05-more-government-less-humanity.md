@@ -1,5 +1,5 @@
 ---
-title: 'More government = less humanity'
+title: "More government = less humanity"
 layout: post
 categories:
 - collectivization

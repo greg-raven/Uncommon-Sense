@@ -1,5 +1,5 @@
 ---
-title: 'Why does socialism endure?'
+title: "Why does socialism endure?"
 layout: post
 categories:
 - press

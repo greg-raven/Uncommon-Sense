@@ -1,5 +1,5 @@
 ---
-title: 'Corrupt politicians mean corrupt government'
+title: "Corrupt politicians mean corrupt government"
 layout: post
 categories:
 - corruption

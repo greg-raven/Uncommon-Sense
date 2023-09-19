@@ -1,5 +1,5 @@
 ---
-title: 'Legislative priorities'
+title: "Legislative priorities"
 layout: post
 categories:
 - government

@@ -1,5 +1,5 @@
 ---
-title: 'Cultural relativism'
+title: "Cultural relativism"
 layout: post
 categories:
 - culture

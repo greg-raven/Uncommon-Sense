@@ -1,5 +1,5 @@
 ---
-title: 'No loving care from the government'
+title: "No loving care from the government"
 layout: post
 categories:
 - government

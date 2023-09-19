@@ -1,5 +1,5 @@
 ---
-title: 'View from the top'
+title: "View from the top"
 layout: post
 categories:
 - government

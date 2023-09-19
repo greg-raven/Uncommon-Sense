@@ -1,8 +1,8 @@
 ---
-title: 'No right to arbitrary power'
+title: "No right to arbitrary power"
 layout: post
 categories:
-- 'external authority'
+- external authority
 - government
 tags:
 - Samuel Adams

@@ -1,5 +1,5 @@
 ---
-title: 'Virtue is not hereditary'
+title: "Virtue is not hereditary"
 layout: post
 categories:
 - virtue

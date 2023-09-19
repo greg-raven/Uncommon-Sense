@@ -1,5 +1,5 @@
 ---
-title: 'Education has been replaced by ideological indoctrination'
+title: "Education has been replaced by ideological indoctrination"
 layout: post
 categories:
 - education

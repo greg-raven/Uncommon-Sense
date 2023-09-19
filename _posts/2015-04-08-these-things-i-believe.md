@@ -1,5 +1,5 @@
 ---
-title: 'These things I believe'
+title: "These things I believe"
 layout: post
 categories:
 - government

@@ -1,5 +1,5 @@
 ---
-title: 'Equal in slavery'
+title: "Equal in slavery"
 layout: post
 categories:
 - equality

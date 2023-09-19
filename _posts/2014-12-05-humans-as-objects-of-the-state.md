@@ -1,5 +1,5 @@
 ---
-title: 'Humans as objects of the state'
+title: "Humans as objects of the state"
 layout: post
 categories:
 - collectivization

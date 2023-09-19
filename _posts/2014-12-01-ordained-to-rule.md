@@ -1,5 +1,5 @@
 ---
-title: 'Ordained to rule'
+title: "Ordained to rule"
 layout: post
 categories:
 - demagogues

@@ -1,5 +1,5 @@
 ---
-title: 'We need men of virtue and wisdom'
+title: "We need men of virtue and wisdom"
 layout: post
 categories:
 - virtue

@@ -1,5 +1,5 @@
 ---
-title: 'Might doesn't make right'
+title: "Might doesn't make right"
 layout: post
 categories:
 - laws

@@ -1,5 +1,5 @@
 ---
-title: 'War is a racket'
+title: "War is a racket"
 layout: post
 categories:
 - war

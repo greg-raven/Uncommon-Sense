@@ -1,5 +1,5 @@
 ---
-title: 'Religion and morality'
+title: "Religion and morality"
 layout: post
 categories:
 - morals

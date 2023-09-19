@@ -1,5 +1,5 @@
 ---
-title: 'The real tragedy of life'
+title: "The real tragedy of life"
 layout: post
 categories:
 - truth

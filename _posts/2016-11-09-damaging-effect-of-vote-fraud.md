@@ -1,5 +1,5 @@
 ---
-title: 'Damaging effect of vote fraud'
+title: "Damaging effect of vote fraud"
 layout: post
 categories:
 - voting

@@ -1,5 +1,5 @@
 ---
-title: 'Screening voters'
+title: "Screening voters"
 layout: post
 categories:
 - voting

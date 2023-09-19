@@ -1,5 +1,5 @@
 ---
-title: 'The nature of a powerful bureaucratic class'
+title: "The nature of a powerful bureaucratic class"
 layout: post
 categories:
 - socialism

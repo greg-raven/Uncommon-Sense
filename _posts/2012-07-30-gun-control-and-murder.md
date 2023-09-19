@@ -1,8 +1,8 @@
 ---
-title: ''Gun control' and murder'
+title: "'Gun control' and murder"
 layout: post
 categories:
-- 'Second Amendment'
+- Second Amendment
 tags:
 - Markus T. Funk
 ---

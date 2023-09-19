@@ -1,5 +1,5 @@
 ---
-title: 'Freedom from parasites'
+title: "Freedom from parasites"
 layout: post
 categories:
 - socialism

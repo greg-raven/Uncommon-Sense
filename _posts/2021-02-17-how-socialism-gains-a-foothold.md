@@ -1,5 +1,5 @@
 ---
-title: 'How socialism gains a foothold'
+title: "How socialism gains a foothold"
 layout: post
 categories:
 - socialism

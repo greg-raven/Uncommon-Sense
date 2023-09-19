@@ -1,5 +1,5 @@
 ---
-title: 'Political correctness vs. free inquiry'
+title: "Political correctness vs. free inquiry"
 layout: post
 categories:
 - speech

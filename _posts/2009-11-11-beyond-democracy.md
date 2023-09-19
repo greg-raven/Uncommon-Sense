@@ -1,5 +1,5 @@
 ---
-title: 'Beyond democracy'
+title: "Beyond democracy"
 layout: post
 categories:
 - democracy

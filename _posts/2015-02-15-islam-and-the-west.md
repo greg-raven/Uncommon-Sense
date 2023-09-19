@@ -1,5 +1,5 @@
 ---
-title: 'Islam and the West'
+title: "Islam and the West"
 layout: post
 categories:
 - culture

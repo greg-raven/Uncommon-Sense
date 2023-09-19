@@ -1,5 +1,5 @@
 ---
-title: 'Democracy cannot long survive'
+title: "Democracy cannot long survive"
 layout: post
 categories:
 - democracy

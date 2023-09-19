@@ -1,5 +1,5 @@
 ---
-title: 'The power of accurate observation'
+title: "The power of accurate observation"
 layout: post
 categories:
 - knowledge

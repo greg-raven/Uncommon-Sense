@@ -1,5 +1,5 @@
 ---
-title: 'Limit government to governing'
+title: "Limit government to governing"
 layout: post
 categories:
 - government

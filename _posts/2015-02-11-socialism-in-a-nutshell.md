@@ -1,5 +1,5 @@
 ---
-title: 'Socialism in a nutshell'
+title: "Socialism in a nutshell"
 layout: post
 categories:
 - socialism

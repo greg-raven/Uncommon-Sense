@@ -1,5 +1,5 @@
 ---
-title: 'The cost of idealism'
+title: "The cost of idealism"
 layout: post
 categories:
 - perfection

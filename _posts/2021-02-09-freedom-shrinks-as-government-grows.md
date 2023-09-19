@@ -1,5 +1,5 @@
 ---
-title: 'Freedom shrinks as government grows'
+title: "Freedom shrinks as government grows"
 layout: post
 categories:
 - government

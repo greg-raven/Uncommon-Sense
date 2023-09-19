@@ -1,5 +1,5 @@
 ---
-title: 'Welfare dependence creates slaves'
+title: "Welfare dependence creates slaves"
 layout: post
 categories:
 - race

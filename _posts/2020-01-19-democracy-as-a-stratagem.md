@@ -1,5 +1,5 @@
 ---
-title: 'Democracy as a stratagem'
+title: "Democracy as a stratagem"
 layout: post
 categories:
 - socialism

@@ -1,5 +1,5 @@
 ---
-title: 'The last resource'
+title: "The last resource"
 layout: post
 categories:
 - war

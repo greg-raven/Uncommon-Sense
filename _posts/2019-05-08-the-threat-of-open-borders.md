@@ -1,5 +1,5 @@
 ---
-title: 'The threat of open borders'
+title: "The threat of open borders"
 layout: post
 categories:
 - immigration

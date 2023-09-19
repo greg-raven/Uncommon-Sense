@@ -1,5 +1,5 @@
 ---
-title: 'Imprisoning the unpopular'
+title: "Imprisoning the unpopular"
 layout: post
 categories:
 - intolerance

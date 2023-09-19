@@ -1,5 +1,5 @@
 ---
-title: 'Power seekers'
+title: "Power seekers"
 layout: post
 categories:
 - demagogues

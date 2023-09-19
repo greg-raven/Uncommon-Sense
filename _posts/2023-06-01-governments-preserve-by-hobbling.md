@@ -1,5 +1,5 @@
 ---
-title: 'Governments preserve by hobbling'
+title: "Governments preserve by hobbling"
 layout: post
 categories:
 - government

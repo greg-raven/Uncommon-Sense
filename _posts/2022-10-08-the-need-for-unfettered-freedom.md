@@ -1,5 +1,5 @@
 ---
-title: 'The need for unfettered freedom'
+title: "The need for unfettered freedom"
 layout: post
 categories:
 - speech

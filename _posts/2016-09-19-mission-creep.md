@@ -1,5 +1,5 @@
 ---
-title: 'Mission creep'
+title: "Mission creep"
 layout: post
 categories:
 - evil

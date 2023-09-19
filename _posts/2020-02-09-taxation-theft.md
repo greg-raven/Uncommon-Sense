@@ -1,5 +1,5 @@
 ---
-title: 'Taxation = theft'
+title: "Taxation = theft"
 layout: post
 categories:
 - taxation

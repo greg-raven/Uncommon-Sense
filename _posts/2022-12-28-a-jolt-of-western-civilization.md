@@ -1,5 +1,5 @@
 ---
-title: 'A jolt of Western civilization'
+title: "A jolt of Western civilization"
 layout: post
 categories:
 - culture

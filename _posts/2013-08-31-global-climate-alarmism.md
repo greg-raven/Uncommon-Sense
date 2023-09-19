@@ -1,5 +1,5 @@
 ---
-title: 'Global climate alarmism'
+title: "Global climate alarmism"
 layout: post
 categories:
 - environment

@@ -1,5 +1,5 @@
 ---
-title: 'Democrats and Republicans'
+title: "Democrats and Republicans"
 layout: post
 categories:
 - politics

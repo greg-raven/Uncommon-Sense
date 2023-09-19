@@ -1,5 +1,5 @@
 ---
-title: 'Authority without responsibility'
+title: "Authority without responsibility"
 layout: post
 categories:
 - government

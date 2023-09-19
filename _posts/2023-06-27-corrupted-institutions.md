@@ -1,5 +1,5 @@
 ---
-title: 'Our institutions have become untrustworthy and corrupted'
+title: "Our institutions have become untrustworthy and corrupted"
 layout: post
 categories:
 - corruption

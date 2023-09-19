@@ -1,5 +1,5 @@
 ---
-title: 'Comparative greeds'
+title: "Comparative greeds"
 layout: post
 categories:
 - socialism

@@ -1,5 +1,5 @@
 ---
-title: 'Freedom is risky'
+title: "Freedom is risky"
 layout: post
 categories:
 - liberty

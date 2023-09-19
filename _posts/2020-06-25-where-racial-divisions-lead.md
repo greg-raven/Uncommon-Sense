@@ -1,5 +1,5 @@
 ---
-title: 'Where racial divisions lead'
+title: "Where racial divisions lead"
 layout: post
 categories:
 - race

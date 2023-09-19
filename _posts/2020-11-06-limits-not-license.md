@@ -1,5 +1,5 @@
 ---
-title: 'Limits, not license'
+title: "Limits, not license"
 layout: post
 categories:
 - Constitution

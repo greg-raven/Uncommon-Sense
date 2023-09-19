@@ -1,5 +1,5 @@
 ---
-title: 'No worse tyranny'
+title: "No worse tyranny"
 layout: post
 categories:
 - taxation

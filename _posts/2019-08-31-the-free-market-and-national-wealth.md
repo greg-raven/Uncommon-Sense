@@ -1,5 +1,5 @@
 ---
-title: 'The free market and national wealth'
+title: "The free market and national wealth"
 layout: post
 categories:
 - capitalism

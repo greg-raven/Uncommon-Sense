@@ -1,5 +1,5 @@
 ---
-title: 'Goal achieved'
+title: "Goal achieved"
 layout: post
 categories:
 - corruption

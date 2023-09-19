@@ -1,5 +1,5 @@
 ---
-title: 'You have to put in the work'
+title: "You have to put in the work"
 layout: post
 categories:
 - prosperity

@@ -1,5 +1,5 @@
 ---
-title: 'Uniformity is not ideal'
+title: "Uniformity is not ideal"
 layout: post
 categories:
 - equality

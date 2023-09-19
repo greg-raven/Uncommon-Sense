@@ -1,5 +1,5 @@
 ---
-title: 'Vast left-wing conspiracy'
+title: "Vast left-wing conspiracy"
 layout: post
 categories:
 - socialism

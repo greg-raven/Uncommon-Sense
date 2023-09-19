@@ -1,8 +1,8 @@
 ---
-title: 'Take nothing for granted'
+title: "Take nothing for granted"
 layout: post
 categories:
-- 'external authority'
+- external authority
 tags:
 - Dwight D. Eisenhower
 ---

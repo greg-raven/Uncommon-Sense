@@ -1,5 +1,5 @@
 ---
-title: 'Paper is not money'
+title: "Paper is not money"
 layout: post
 categories:
 - money

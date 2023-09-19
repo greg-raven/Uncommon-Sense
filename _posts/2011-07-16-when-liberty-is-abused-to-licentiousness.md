@@ -1,5 +1,5 @@
 ---
-title: 'When liberty is abused to licentiousness'
+title: "When liberty is abused to licentiousness"
 layout: post
 categories:
 - virtue

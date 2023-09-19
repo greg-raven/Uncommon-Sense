@@ -1,5 +1,5 @@
 ---
-title: 'Truth during war'
+title: "Truth during war"
 layout: post
 categories:
 - truth

@@ -1,5 +1,5 @@
 ---
-title: 'Advances come from free men'
+title: "Advances come from free men"
 layout: post
 categories:
 - prosperity

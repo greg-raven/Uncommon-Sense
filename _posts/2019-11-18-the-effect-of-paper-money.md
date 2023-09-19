@@ -1,5 +1,5 @@
 ---
-title: 'The effect of paper money'
+title: "The effect of paper money"
 layout: post
 categories:
 - money

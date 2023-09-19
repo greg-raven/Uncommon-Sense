@@ -1,5 +1,5 @@
 ---
-title: 'Losing liberty'
+title: "Losing liberty"
 layout: post
 categories:
 - liberty

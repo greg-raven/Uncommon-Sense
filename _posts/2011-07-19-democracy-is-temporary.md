@@ -1,5 +1,5 @@
 ---
-title: 'Democracy is temporary'
+title: "Democracy is temporary"
 layout: post
 categories:
 - democracy

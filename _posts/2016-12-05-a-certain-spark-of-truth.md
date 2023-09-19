@@ -1,5 +1,5 @@
 ---
-title: 'A certain spark of truth'
+title: "A certain spark of truth"
 layout: post
 categories:
 - speech

@@ -1,5 +1,5 @@
 ---
-title: 'Worse than government'
+title: "Worse than government"
 layout: post
 categories:
 - government

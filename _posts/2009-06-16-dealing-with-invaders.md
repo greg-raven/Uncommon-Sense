@@ -1,5 +1,5 @@
 ---
-title: 'Dealing with invaders'
+title: "Dealing with invaders"
 layout: post
 categories:
 - immigration

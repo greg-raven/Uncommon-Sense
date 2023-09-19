@@ -1,5 +1,5 @@
 ---
-title: 'Controlling corruption'
+title: "Controlling corruption"
 layout: post
 categories:
 - decentralization

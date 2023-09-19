@@ -1,5 +1,5 @@
 ---
-title: 'The law defends plunder'
+title: "The law defends plunder"
 layout: post
 categories:
 - taxation

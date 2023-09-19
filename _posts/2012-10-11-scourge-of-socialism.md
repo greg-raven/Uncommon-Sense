@@ -1,5 +1,5 @@
 ---
-title: 'The scourge of socialism'
+title: "The scourge of socialism"
 layout: post
 categories:
 - socialism

@@ -1,5 +1,5 @@
 ---
-title: 'One reason for optimism'
+title: "One reason for optimism"
 layout: post
 categories:
 - language

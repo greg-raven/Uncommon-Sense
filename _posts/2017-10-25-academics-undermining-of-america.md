@@ -1,5 +1,5 @@
 ---
-title: 'Academics' undermining of America'
+title: "Academics' undermining of America"
 layout: post
 categories:
 - socialism

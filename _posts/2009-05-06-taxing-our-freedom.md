@@ -1,5 +1,5 @@
 ---
-title: 'Taxes diminish freedom'
+title: "Taxes diminish freedom"
 layout: post
 categories:
 - taxation

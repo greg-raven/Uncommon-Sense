@@ -1,5 +1,5 @@
 ---
-title: 'Losses under totalitarianism'
+title: "Losses under totalitarianism"
 layout: post
 categories:
 - socialism

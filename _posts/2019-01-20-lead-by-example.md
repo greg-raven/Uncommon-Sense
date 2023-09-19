@@ -1,8 +1,8 @@
 ---
-title: 'Lead by example'
+title: "Lead by example"
 layout: post
 categories:
-- 'foreign policy'
+- foreign policy
 tags:
 - Charles A. Lindbergh Jr.
 ---

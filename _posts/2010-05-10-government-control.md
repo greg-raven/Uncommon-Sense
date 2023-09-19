@@ -1,8 +1,8 @@
 ---
-title: 'Government control'
+title: "Government control"
 layout: post
 categories:
-- 'external authority'
+- external authority
 tags:
 - Alexis de Tocqueville
 ---

@@ -1,5 +1,5 @@
 ---
-title: 'Making government work'
+title: "Making government work"
 layout: post
 categories:
 - decentralization

@@ -1,5 +1,5 @@
 ---
-title: 'Conservatives vs. liberals'
+title: "Conservatives vs. liberals"
 layout: post
 categories:
 - politics

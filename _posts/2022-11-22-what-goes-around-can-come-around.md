@@ -1,5 +1,5 @@
 ---
-title: 'What goes around can come around'
+title: "What goes around can come around"
 layout: post
 categories:
 - intolerance

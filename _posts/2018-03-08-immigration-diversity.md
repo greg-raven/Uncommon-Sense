@@ -1,5 +1,5 @@
 ---
-title: 'Immigration diversity'
+title: "Immigration diversity"
 layout: post
 categories:
 - diversity

@@ -1,5 +1,5 @@
 ---
-title: 'Government ought to be open to improvement'
+title: "Government ought to be open to improvement"
 layout: post
 categories:
 - government

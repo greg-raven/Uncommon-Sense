@@ -1,5 +1,5 @@
 ---
-title: 'Institutionalized tyranny'
+title: "Institutionalized tyranny"
 layout: post
 categories:
 - laws

@@ -1,5 +1,5 @@
 ---
-title: 'Republican form of government'
+title: "Republican form of government"
 layout: post
 categories:
 - government

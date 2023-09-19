@@ -1,5 +1,5 @@
 ---
-title: 'Society's strength'
+title: "Society's strength"
 layout: post
 categories:
 - morals

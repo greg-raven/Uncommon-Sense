@@ -1,5 +1,5 @@
 ---
-title: 'Patriots and Christians'
+title: "Patriots and Christians"
 layout: post
 categories:
 - individualism

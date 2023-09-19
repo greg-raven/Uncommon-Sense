@@ -1,5 +1,5 @@
 ---
-title: 'Our greatest source of security'
+title: "Our greatest source of security"
 layout: post
 categories:
 - Constitution

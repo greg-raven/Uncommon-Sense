@@ -1,5 +1,5 @@
 ---
-title: 'Too much liberty vs. too little'
+title: "Too much liberty vs. too little"
 layout: post
 categories:
 - liberty

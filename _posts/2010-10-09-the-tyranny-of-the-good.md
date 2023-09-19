@@ -1,8 +1,8 @@
 ---
-title: 'The tyranny of the 'good''
+title: "The tyranny of the 'good'"
 layout: post
 categories:
-- 'external authority'
+- external authority
 - socialism
 tags:
 - C. S. Lewis

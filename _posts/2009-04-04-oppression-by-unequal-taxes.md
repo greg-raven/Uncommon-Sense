@@ -1,5 +1,5 @@
 ---
-title: 'Oppression by unequal taxes'
+title: "Oppression by unequal taxes"
 layout: post
 categories:
 - taxation

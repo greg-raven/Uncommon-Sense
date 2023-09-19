@@ -1,8 +1,8 @@
 ---
-title: 'Arms are a protection against government tyranny'
+title: "Arms are a protection against government tyranny"
 layout: post
 categories:
-- 'Second Amendment'
+- Second Amendment
 tags:
 - Thomas Jefferson
 ---

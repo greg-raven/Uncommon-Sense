@@ -1,5 +1,5 @@
 ---
-title: 'Modern government in a nutshell'
+title: "Modern government in a nutshell"
 layout: post
 categories:
 - government

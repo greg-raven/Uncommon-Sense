@@ -1,5 +1,5 @@
 ---
-title: 'Socialism despoils'
+title: "Socialism despoils"
 layout: post
 categories:
 - socialism

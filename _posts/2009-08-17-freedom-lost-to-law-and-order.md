@@ -1,5 +1,5 @@
 ---
-title: 'Freedom lost to 'law and order''
+title: "Freedom lost to 'law and order'"
 layout: post
 categories:
 - liberty

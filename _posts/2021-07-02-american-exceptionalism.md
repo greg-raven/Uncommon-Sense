@@ -1,5 +1,5 @@
 ---
-title: 'American exceptionalism'
+title: "American exceptionalism"
 layout: post
 categories:
 - history

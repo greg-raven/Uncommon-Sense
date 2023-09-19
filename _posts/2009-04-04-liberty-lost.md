@@ -1,5 +1,5 @@
 ---
-title: 'Liberty lost'
+title: "Liberty lost"
 layout: post
 categories:
 - Constitution

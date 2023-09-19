@@ -1,5 +1,5 @@
 ---
-title: 'Immoral morality of the elites'
+title: "Immoral morality of the elites"
 layout: post
 categories:
 - collectivization

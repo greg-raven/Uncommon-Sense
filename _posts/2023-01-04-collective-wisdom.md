@@ -1,5 +1,5 @@
 ---
-title: 'Collective wisdom'
+title: "Collective wisdom"
 layout: post
 categories:
 - democracy

@@ -1,5 +1,5 @@
 ---
-title: 'Take action for liberty'
+title: "Take action for liberty"
 layout: post
 categories:
 - demagogues

@@ -1,5 +1,5 @@
 ---
-title: 'Three forms of capital'
+title: "Three forms of capital"
 layout: post
 categories:
 - capitalism

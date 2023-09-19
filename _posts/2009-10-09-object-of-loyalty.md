@@ -1,5 +1,5 @@
 ---
-title: 'Object of loyalty'
+title: "Object of loyalty"
 layout: post
 categories:
 - patriotism

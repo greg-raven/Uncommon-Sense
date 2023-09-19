@@ -1,5 +1,5 @@
 ---
-title: 'Illegal immigration is wrong'
+title: "Illegal immigration is wrong"
 layout: post
 categories:
 - immigration

@@ -1,5 +1,5 @@
 ---
-title: 'Guard the public liberty'
+title: "Guard the public liberty"
 layout: post
 categories:
 - liberty

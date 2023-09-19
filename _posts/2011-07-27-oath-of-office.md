@@ -1,5 +1,5 @@
 ---
-title: 'Oath of office'
+title: "Oath of office"
 layout: post
 categories:
 - Constitution

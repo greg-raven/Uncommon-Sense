@@ -1,5 +1,5 @@
 ---
-title: 'Concentrated power'
+title: "Concentrated power"
 layout: post
 categories:
 - decentralization

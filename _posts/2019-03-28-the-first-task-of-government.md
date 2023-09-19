@@ -1,5 +1,5 @@
 ---
-title: 'The first task of government'
+title: "The first task of government"
 layout: post
 categories:
 - socialism

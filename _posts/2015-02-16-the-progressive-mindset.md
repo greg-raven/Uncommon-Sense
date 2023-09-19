@@ -1,5 +1,5 @@
 ---
-title: 'The progressive mindset'
+title: "The progressive mindset"
 layout: post
 categories:
 - intolerance

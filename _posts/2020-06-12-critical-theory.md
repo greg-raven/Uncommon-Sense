@@ -1,5 +1,5 @@
 ---
-title: 'Critical theory'
+title: "Critical theory"
 layout: post
 categories:
 - culture

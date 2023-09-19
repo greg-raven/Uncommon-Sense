@@ -1,5 +1,5 @@
 ---
-title: 'Un-Constitutional spending'
+title: "Un-Constitutional spending"
 layout: post
 categories:
 - taxation

@@ -1,5 +1,5 @@
 ---
-title: 'The fatal conceit of centralized power'
+title: "The fatal conceit of centralized power"
 layout: post
 categories:
 - decentralization

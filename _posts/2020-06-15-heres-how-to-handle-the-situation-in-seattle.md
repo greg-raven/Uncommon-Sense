@@ -1,8 +1,8 @@
 ---
-title: 'Here's how to handle the situation in Seattle'
+title: "Here's how to handle the situation in Seattle"
 layout: post
 categories:
-- 'foreign policy'
+- foreign policy
 tags:
 - Greg Raven
 ---

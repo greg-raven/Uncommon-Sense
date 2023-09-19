@@ -1,5 +1,5 @@
 ---
-title: 'No freedom in socialism'
+title: "No freedom in socialism"
 layout: post
 categories:
 - economics

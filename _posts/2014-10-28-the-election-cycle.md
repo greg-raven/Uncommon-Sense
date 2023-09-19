@@ -1,5 +1,5 @@
 ---
-title: 'The election cycle'
+title: "The election cycle"
 layout: post
 categories:
 - voting

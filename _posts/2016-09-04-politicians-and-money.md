@@ -1,5 +1,5 @@
 ---
-title: 'Politicians and money'
+title: "Politicians and money"
 layout: post
 categories:
 - corruption

@@ -1,5 +1,5 @@
 ---
-title: 'Beware the cure'
+title: "Beware the cure"
 layout: post
 categories:
 - demagogues

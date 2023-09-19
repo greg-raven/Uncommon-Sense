@@ -1,5 +1,5 @@
 ---
-title: 'More laws for more control'
+title: "More laws for more control"
 layout: post
 categories:
 - laws

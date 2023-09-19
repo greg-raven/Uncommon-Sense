@@ -1,5 +1,5 @@
 ---
-title: 'Victims of the war on poverty'
+title: "Victims of the war on poverty"
 layout: post
 categories:
 - welfare

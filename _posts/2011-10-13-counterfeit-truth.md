@@ -1,5 +1,5 @@
 ---
-title: 'Counterfeit truth'
+title: "Counterfeit truth"
 layout: post
 categories:
 - truth

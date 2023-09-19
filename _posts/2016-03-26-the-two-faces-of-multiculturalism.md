@@ -1,5 +1,5 @@
 ---
-title: 'The two faces of multiculturalism'
+title: "The two faces of multiculturalism"
 layout: post
 categories:
 - culture

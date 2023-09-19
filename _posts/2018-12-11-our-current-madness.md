@@ -1,5 +1,5 @@
 ---
-title: 'Our current madness'
+title: "Our current madness"
 layout: post
 categories:
 - government

@@ -1,5 +1,5 @@
 ---
-title: 'Hollywood vs. DC'
+title: "Hollywood vs. DC"
 layout: post
 categories:
 - culture

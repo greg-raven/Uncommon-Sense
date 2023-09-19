@@ -1,5 +1,5 @@
 ---
-title: 'Skepticism needed'
+title: "Skepticism needed"
 layout: post
 categories:
 - demagogues

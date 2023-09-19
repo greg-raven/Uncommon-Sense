@@ -1,5 +1,5 @@
 ---
-title: 'May sound good, but it doesn't work'
+title: "May sound good, but it doesn't work"
 layout: post
 categories:
 - socialism

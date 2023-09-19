@@ -1,5 +1,5 @@
 ---
-title: 'Clinging to victimhood'
+title: "Clinging to victimhood"
 layout: post
 categories:
 - welfare

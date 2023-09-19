@@ -1,5 +1,5 @@
 ---
-title: 'Education creates inequality'
+title: "Education creates inequality"
 layout: post
 categories:
 - education

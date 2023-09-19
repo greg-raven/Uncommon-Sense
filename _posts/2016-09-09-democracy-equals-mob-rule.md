@@ -1,5 +1,5 @@
 ---
-title: 'Democracy equals mob rule'
+title: "Democracy equals mob rule"
 layout: post
 categories:
 - democracy

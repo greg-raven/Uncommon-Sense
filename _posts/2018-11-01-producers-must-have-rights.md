@@ -1,5 +1,5 @@
 ---
-title: 'Producers must have rights'
+title: "Producers must have rights"
 layout: post
 categories:
 - collectivization

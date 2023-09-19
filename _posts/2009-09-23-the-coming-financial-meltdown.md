@@ -1,5 +1,5 @@
 ---
-title: 'The coming financial meltdown'
+title: "The coming financial meltdown"
 layout: post
 categories:
 - debt

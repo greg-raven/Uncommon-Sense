@@ -1,5 +1,5 @@
 ---
-title: 'Political 'compassion''
+title: "Political 'compassion'"
 layout: post
 categories:
 - politics

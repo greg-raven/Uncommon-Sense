@@ -1,8 +1,8 @@
 ---
-title: 'Resisting depotism'
+title: "Resisting depotism"
 layout: post
 categories:
-- 'external authority'
+- external authority
 tags:
 - Thomas Paine
 ---

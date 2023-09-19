@@ -1,5 +1,5 @@
 ---
-title: 'Public employee collective bargaining'
+title: "Public employee collective bargaining"
 layout: post
 categories:
 - collectivization

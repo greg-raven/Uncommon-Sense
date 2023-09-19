@@ -1,5 +1,5 @@
 ---
-title: 'Debt ends liberty'
+title: "Debt ends liberty"
 layout: post
 categories:
 - debt

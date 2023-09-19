@@ -1,5 +1,5 @@
 ---
-title: 'Most important number in the immigration debate'
+title: "Most important number in the immigration debate"
 layout: post
 categories:
 - immigration

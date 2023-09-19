@@ -1,5 +1,5 @@
 ---
-title: 'The mystery of government'
+title: "The mystery of government"
 layout: post
 categories:
 - government

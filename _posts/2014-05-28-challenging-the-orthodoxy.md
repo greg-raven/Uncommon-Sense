@@ -1,5 +1,5 @@
 ---
-title: 'Challenging the orthodoxy'
+title: "Challenging the orthodoxy"
 layout: post
 categories:
 - knowledge

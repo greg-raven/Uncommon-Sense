@@ -1,5 +1,5 @@
 ---
-title: 'Importance of morality'
+title: "Importance of morality"
 layout: post
 categories:
 - morals

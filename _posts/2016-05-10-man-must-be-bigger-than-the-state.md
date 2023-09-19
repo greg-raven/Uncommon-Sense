@@ -1,5 +1,5 @@
 ---
-title: 'Man must be bigger than the state'
+title: "Man must be bigger than the state"
 layout: post
 categories:
 - strength

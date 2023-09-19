@@ -1,5 +1,5 @@
 ---
-title: 'New manner of thinking'
+title: "New manner of thinking"
 layout: post
 categories:
 - knowledge

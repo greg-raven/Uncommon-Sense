@@ -1,5 +1,5 @@
 ---
-title: 'Hate speech doesn't exist. Stop legitimizing it'
+title: "Hate speech doesn't exist. Stop legitimizing it"
 layout: post
 categories:
 - speech

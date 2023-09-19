@@ -1,5 +1,5 @@
 ---
-title: 'Countries become cultivated by freedom'
+title: "Countries become cultivated by freedom"
 layout: post
 categories:
 - liberty

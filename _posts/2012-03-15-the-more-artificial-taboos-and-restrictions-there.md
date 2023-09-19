@@ -1,5 +1,5 @@
 ---
-title: 'More laws equal more poverty and crime'
+title: "More laws equal more poverty and crime"
 layout: post
 categories:
 - laws

@@ -1,5 +1,5 @@
 ---
-title: 'The prime function of government'
+title: "The prime function of government"
 layout: post
 categories:
 - property

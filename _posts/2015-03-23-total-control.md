@@ -1,5 +1,5 @@
 ---
-title: 'Total control'
+title: "Total control"
 layout: post
 categories:
 - socialism

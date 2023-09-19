@@ -1,8 +1,8 @@
 ---
-title: 'Empire abroad means repression at home'
+title: "Empire abroad means repression at home"
 layout: post
 categories:
-- 'foreign policy'
+- foreign policy
 tags:
 - George S. Boutwell
 ---

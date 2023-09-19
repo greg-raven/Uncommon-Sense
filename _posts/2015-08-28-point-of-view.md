@@ -1,5 +1,5 @@
 ---
-title: 'Point of view'
+title: "Point of view"
 layout: post
 categories:
 - liberalism

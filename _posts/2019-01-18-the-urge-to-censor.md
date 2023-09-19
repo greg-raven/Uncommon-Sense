@@ -1,5 +1,5 @@
 ---
-title: 'The urge to censor'
+title: "The urge to censor"
 layout: post
 categories:
 - speech

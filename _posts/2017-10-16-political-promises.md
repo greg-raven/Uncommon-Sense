@@ -1,5 +1,5 @@
 ---
-title: 'Political promises'
+title: "Political promises"
 layout: post
 categories:
 - demagogues

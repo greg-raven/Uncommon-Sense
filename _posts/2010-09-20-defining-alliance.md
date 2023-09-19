@@ -1,8 +1,8 @@
 ---
-title: 'Defining 'alliance''
+title: "Defining 'alliance'"
 layout: post
 categories:
-- 'foreign policy'
+- foreign policy
 tags:
 - Ambrose Bierce
 ---

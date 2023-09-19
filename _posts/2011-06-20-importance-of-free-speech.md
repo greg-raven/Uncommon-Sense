@@ -1,5 +1,5 @@
 ---
-title: 'The importance of free speech'
+title: "The importance of free speech"
 layout: post
 categories:
 - speech

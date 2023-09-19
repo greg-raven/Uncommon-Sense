@@ -1,5 +1,5 @@
 ---
-title: 'Racial preferences forever'
+title: "Racial preferences forever"
 layout: post
 categories:
 - race

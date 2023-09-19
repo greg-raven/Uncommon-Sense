@@ -1,5 +1,5 @@
 ---
-title: 'The changing role of schools'
+title: "The changing role of schools"
 layout: post
 categories:
 - education

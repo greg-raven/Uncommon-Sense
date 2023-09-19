@@ -1,8 +1,8 @@
 ---
-title: 'Jettison the empire to save the republic'
+title: "Jettison the empire to save the republic"
 layout: post
 categories:
-- 'foreign policy'
+- foreign policy
 - war
 tags:
 - Robert Owens

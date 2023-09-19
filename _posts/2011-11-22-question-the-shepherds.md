@@ -1,5 +1,5 @@
 ---
-title: 'Question the 'shepherds''
+title: "Question the 'shepherds'"
 layout: post
 categories:
 - demagogues

@@ -1,5 +1,5 @@
 ---
-title: 'Democracy is a threat to the American republic'
+title: "Democracy is a threat to the American republic"
 layout: post
 categories:
 - Constitution

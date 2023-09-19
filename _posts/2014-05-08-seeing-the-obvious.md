@@ -1,5 +1,5 @@
 ---
-title: 'Seeing the obvious'
+title: "Seeing the obvious"
 layout: post
 categories:
 - knowledge

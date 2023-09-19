@@ -1,5 +1,5 @@
 ---
-title: 'Fighting evil'
+title: "Fighting evil"
 layout: post
 categories:
 - evil

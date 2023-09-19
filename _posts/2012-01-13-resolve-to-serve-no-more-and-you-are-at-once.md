@@ -1,5 +1,5 @@
 ---
-title: 'Stay free'
+title: "Stay free"
 layout: post
 categories:
 - individualism

@@ -1,5 +1,5 @@
 ---
-title: 'Democrats vs. Republicans'
+title: "Democrats vs. Republicans"
 layout: post
 categories:
 - politics

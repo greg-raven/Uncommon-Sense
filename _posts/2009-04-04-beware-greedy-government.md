@@ -1,5 +1,5 @@
 ---
-title: 'Beware greedy government'
+title: "Beware greedy government"
 layout: post
 categories:
 - government

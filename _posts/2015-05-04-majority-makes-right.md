@@ -1,5 +1,5 @@
 ---
-title: 'Majority makes right?'
+title: "Majority makes right?"
 layout: post
 categories:
 - democracy

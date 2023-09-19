@@ -1,5 +1,5 @@
 ---
-title: 'Good intentions'
+title: "Good intentions"
 layout: post
 categories:
 - collectivization

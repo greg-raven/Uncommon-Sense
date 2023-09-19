@@ -1,5 +1,5 @@
 ---
-title: 'Only the rich have property rights'
+title: "Only the rich have property rights"
 layout: post
 categories:
 - rights

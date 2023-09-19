@@ -1,5 +1,5 @@
 ---
-title: 'Society and government'
+title: "Society and government"
 layout: post
 categories:
 - government

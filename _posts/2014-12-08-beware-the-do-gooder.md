@@ -1,5 +1,5 @@
 ---
-title: 'Beware the do-gooder'
+title: "Beware the do-gooder"
 layout: post
 categories:
 - individualism

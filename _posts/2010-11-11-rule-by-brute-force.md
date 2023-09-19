@@ -1,5 +1,5 @@
 ---
-title: 'Rule by brute force'
+title: "Rule by brute force"
 layout: post
 categories:
 - collectivization

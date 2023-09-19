@@ -1,5 +1,5 @@
 ---
-title: 'The chains of tyrants'
+title: "The chains of tyrants"
 layout: post
 categories:
 - corruption

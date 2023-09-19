@@ -1,5 +1,5 @@
 ---
-title: 'Who is destroying the world?'
+title: "Who is destroying the world?"
 layout: post
 categories:
 - evil

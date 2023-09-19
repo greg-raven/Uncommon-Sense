@@ -1,5 +1,5 @@
 ---
-title: 'Honest differences'
+title: "Honest differences"
 layout: post
 categories:
 - speech

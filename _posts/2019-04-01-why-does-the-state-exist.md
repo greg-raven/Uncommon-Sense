@@ -1,5 +1,5 @@
 ---
-title: 'Why does the state exist?'
+title: "Why does the state exist?"
 layout: post
 categories:
 - government

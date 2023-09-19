@@ -1,5 +1,5 @@
 ---
-title: 'Government must pay its debts'
+title: "Government must pay its debts"
 layout: post
 categories:
 - debt

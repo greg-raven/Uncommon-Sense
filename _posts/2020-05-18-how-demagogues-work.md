@@ -1,5 +1,5 @@
 ---
-title: 'How demagogues work'
+title: "How demagogues work"
 layout: post
 categories:
 - demagogues

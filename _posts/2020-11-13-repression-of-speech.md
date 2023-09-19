@@ -1,5 +1,5 @@
 ---
-title: 'Repression of speech'
+title: "Repression of speech"
 layout: post
 categories:
 - speech

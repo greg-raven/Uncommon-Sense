@@ -1,5 +1,5 @@
 ---
-title: 'Bad reputation'
+title: "Bad reputation"
 layout: post
 categories:
 - liberty

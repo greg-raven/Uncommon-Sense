@@ -1,5 +1,5 @@
 ---
-title: 'Two means of survival'
+title: "Two means of survival"
 layout: post
 categories:
 - liberty

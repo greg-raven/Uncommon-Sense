@@ -1,5 +1,5 @@
 ---
-title: 'Freedom of speech means better citizens'
+title: "Freedom of speech means better citizens"
 layout: post
 categories:
 - speech

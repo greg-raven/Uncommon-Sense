@@ -1,5 +1,5 @@
 ---
-title: 'Campaign finance'
+title: "Campaign finance"
 layout: post
 categories:
 - money

@@ -1,5 +1,5 @@
 ---
-title: 'Redefining words'
+title: "Redefining words"
 layout: post
 categories:
 - language

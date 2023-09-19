@@ -1,5 +1,5 @@
 ---
-title: 'Democracy is destroying diversity'
+title: "Democracy is destroying diversity"
 layout: post
 categories:
 - diversity

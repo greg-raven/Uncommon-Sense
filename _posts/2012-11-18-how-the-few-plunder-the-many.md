@@ -1,5 +1,5 @@
 ---
-title: 'How the few plunder the many'
+title: "How the few plunder the many"
 layout: post
 categories:
 - taxation

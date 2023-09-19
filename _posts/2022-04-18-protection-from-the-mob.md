@@ -1,5 +1,5 @@
 ---
-title: 'Protection against the mob'
+title: "Protection against the mob"
 layout: post
 categories:
 - democracy

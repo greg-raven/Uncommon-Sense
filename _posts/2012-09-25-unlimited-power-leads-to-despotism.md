@@ -1,5 +1,5 @@
 ---
-title: 'Unlimited power leads to despotism'
+title: "Unlimited power leads to despotism"
 layout: post
 categories:
 - democracy

@@ -1,5 +1,5 @@
 ---
-title: 'Gradual losses'
+title: "Gradual losses"
 layout: post
 categories:
 - liberty

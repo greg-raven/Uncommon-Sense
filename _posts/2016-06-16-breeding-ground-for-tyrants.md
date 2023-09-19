@@ -1,5 +1,5 @@
 ---
-title: 'Breeding ground for tyrants'
+title: "Breeding ground for tyrants"
 layout: post
 categories:
 - decentralization

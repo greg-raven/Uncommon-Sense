@@ -1,5 +1,5 @@
 ---
-title: 'Global tides'
+title: "Global tides"
 layout: post
 categories:
 - nationalism

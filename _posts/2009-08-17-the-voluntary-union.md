@@ -1,5 +1,5 @@
 ---
-title: 'The voluntary Union'
+title: "The voluntary Union"
 layout: post
 categories:
 - decentralization

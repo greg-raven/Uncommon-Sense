@@ -1,5 +1,5 @@
 ---
-title: 'As government expands, liberty contracts'
+title: "As government expands, liberty contracts"
 layout: post
 categories:
 - government

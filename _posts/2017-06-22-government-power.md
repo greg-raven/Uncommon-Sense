@@ -1,5 +1,5 @@
 ---
-title: 'Government power'
+title: "Government power"
 layout: post
 categories:
 - government

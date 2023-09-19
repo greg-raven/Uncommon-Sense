@@ -1,5 +1,5 @@
 ---
-title: 'Virtue signalling'
+title: "Virtue signalling"
 layout: post
 categories:
 - liberalism

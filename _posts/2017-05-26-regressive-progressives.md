@@ -1,5 +1,5 @@
 ---
-title: 'Regressive progressives'
+title: "Regressive progressives"
 layout: post
 categories:
 - culture

@@ -1,5 +1,5 @@
 ---
-title: 'The fallacy of democracy'
+title: "The fallacy of democracy"
 layout: post
 categories:
 - democracy

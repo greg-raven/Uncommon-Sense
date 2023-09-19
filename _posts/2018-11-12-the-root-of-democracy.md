@@ -1,5 +1,5 @@
 ---
-title: 'The root of democracy'
+title: "The root of democracy"
 layout: post
 categories:
 - democracy

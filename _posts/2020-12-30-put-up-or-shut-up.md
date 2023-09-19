@@ -1,5 +1,5 @@
 ---
-title: 'Put up or shut up'
+title: "Put up or shut up"
 layout: post
 categories:
 - adulthood

@@ -1,5 +1,5 @@
 ---
-title: 'What is profit?'
+title: "What is profit?"
 layout: post
 categories:
 - capitalism

@@ -1,5 +1,5 @@
 ---
-title: 'A dangerous sign of the times'
+title: "A dangerous sign of the times"
 layout: post
 categories:
 - collectivization

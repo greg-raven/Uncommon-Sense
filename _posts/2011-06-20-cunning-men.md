@@ -1,5 +1,5 @@
 ---
-title: 'Cunning men'
+title: "Cunning men"
 layout: post
 categories:
 - demagogues

@@ -1,5 +1,5 @@
 ---
-title: 'Black and White Standards'
+title: "Black and White Standards"
 layout: post
 categories:
 - race

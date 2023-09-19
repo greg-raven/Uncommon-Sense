@@ -1,5 +1,5 @@
 ---
-title: 'How to earn dignity'
+title: "How to earn dignity"
 layout: post
 categories:
 - self-improvement

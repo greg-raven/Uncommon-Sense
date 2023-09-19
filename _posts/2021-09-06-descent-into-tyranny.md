@@ -1,5 +1,5 @@
 ---
-title: 'Descent into tyranny'
+title: "Descent into tyranny"
 layout: post
 categories:
 - government

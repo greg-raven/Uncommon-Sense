@@ -1,5 +1,5 @@
 ---
-title: 'General welfare'
+title: "General welfare"
 layout: post
 categories:
 - money

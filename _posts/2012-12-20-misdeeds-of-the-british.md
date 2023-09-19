@@ -1,8 +1,8 @@
 ---
-title: 'Misdeeds of the British'
+title: "Misdeeds of the British"
 layout: post
 categories:
-- 'Second Amendment'
+- Second Amendment
 tags:
 - Mahatma Mohandas K. Gandhi
 ---

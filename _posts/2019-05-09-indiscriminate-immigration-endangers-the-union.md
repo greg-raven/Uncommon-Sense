@@ -1,5 +1,5 @@
 ---
-title: 'Indiscriminate immigration endangers the Union'
+title: "Indiscriminate immigration endangers the Union"
 layout: post
 categories:
 - immigration

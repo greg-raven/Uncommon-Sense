@@ -1,5 +1,5 @@
 ---
-title: 'Dealing with inequality'
+title: "Dealing with inequality"
 layout: post
 categories:
 - equality

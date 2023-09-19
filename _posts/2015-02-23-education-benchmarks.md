@@ -1,5 +1,5 @@
 ---
-title: 'Education benchmarks'
+title: "Education benchmarks"
 layout: post
 categories:
 - education

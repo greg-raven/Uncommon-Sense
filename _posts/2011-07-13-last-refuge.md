@@ -1,5 +1,5 @@
 ---
-title: 'The last refuge'
+title: "The last refuge"
 layout: post
 categories:
 - demagogues

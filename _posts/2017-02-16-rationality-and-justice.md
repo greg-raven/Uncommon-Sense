@@ -1,5 +1,5 @@
 ---
-title: 'Rationality and justice'
+title: "Rationality and justice"
 layout: post
 categories:
 - liberty

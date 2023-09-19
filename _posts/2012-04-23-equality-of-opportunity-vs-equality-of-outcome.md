@@ -1,5 +1,5 @@
 ---
-title: 'Equality of opportunity vs. equality of outcome'
+title: "Equality of opportunity vs. equality of outcome"
 layout: post
 categories:
 - equality

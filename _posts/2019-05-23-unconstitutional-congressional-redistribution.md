@@ -1,5 +1,5 @@
 ---
-title: 'Unconstitutional Congressional redistribution'
+title: "Unconstitutional Congressional redistribution"
 layout: post
 categories:
 - welfare

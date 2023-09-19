@@ -1,5 +1,5 @@
 ---
-title: 'Burgeoning bureaucracy'
+title: "Burgeoning bureaucracy"
 layout: post
 categories:
 - government

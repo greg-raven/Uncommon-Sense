@@ -1,5 +1,5 @@
 ---
-title: 'Tunnel vision'
+title: "Tunnel vision"
 layout: post
 categories:
 - socialism

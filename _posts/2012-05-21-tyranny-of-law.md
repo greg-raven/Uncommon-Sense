@@ -1,5 +1,5 @@
 ---
-title: 'The tyranny of the law'
+title: "The tyranny of the law"
 layout: post
 categories:
 - laws

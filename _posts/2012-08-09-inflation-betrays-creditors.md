@@ -1,5 +1,5 @@
 ---
-title: 'Inflation betrays creditors'
+title: "Inflation betrays creditors"
 layout: post
 categories:
 - economics

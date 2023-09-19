@@ -1,5 +1,5 @@
 ---
-title: 'Freedom is not a gift'
+title: "Freedom is not a gift"
 layout: post
 categories:
 - liberty

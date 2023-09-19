@@ -1,5 +1,5 @@
 ---
-title: 'Government incompetence and corruption'
+title: "Government incompetence and corruption"
 layout: post
 categories:
 - corruption

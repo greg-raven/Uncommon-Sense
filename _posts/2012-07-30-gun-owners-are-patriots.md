@@ -1,8 +1,8 @@
 ---
-title: 'Gun owners are patriots'
+title: "Gun owners are patriots"
 layout: post
 categories:
-- 'Second Amendment'
+- Second Amendment
 tags:
 - Jacob G. Hornberger
 ---

@@ -1,5 +1,5 @@
 ---
-title: 'Muslim multiculturalism'
+title: "Muslim multiculturalism"
 layout: post
 categories:
 - culture

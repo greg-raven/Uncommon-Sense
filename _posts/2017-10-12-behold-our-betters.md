@@ -1,5 +1,5 @@
 ---
-title: 'Behold our betters'
+title: "Behold our betters"
 layout: post
 categories:
 - culture

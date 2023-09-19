@@ -1,5 +1,5 @@
 ---
-title: 'Educating children'
+title: "Educating children"
 layout: post
 categories:
 - education

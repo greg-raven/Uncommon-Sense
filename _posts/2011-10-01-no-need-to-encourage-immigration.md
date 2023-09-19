@@ -1,5 +1,5 @@
 ---
-title: 'No need to encourage immigration'
+title: "No need to encourage immigration"
 layout: post
 categories:
 - immigration

@@ -1,5 +1,5 @@
 ---
-title: 'What is the Alt-right?'
+title: "What is the Alt-right?"
 layout: post
 categories:
 - conservatism

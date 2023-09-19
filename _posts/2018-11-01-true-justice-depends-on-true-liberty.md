@@ -1,5 +1,5 @@
 ---
-title: 'True justice depends on true liberty'
+title: "True justice depends on true liberty"
 layout: post
 categories:
 - liberty

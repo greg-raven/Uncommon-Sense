@@ -1,8 +1,8 @@
 ---
-title: 'Guns don't cause crime'
+title: "Guns don't cause crime"
 layout: post
 categories:
-- 'Second Amendment'
+- Second Amendment
 tags:
 - L. Neil Smith
 ---

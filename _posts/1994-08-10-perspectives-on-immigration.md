@@ -1,5 +1,5 @@
 ---
-title: 'Perspectives on immigration: Cut legal admissions by two-thirds'
+title: "Perspectives on immigration: Cut legal admissions by two-thirds"
 layout: post
 categories:
 - immigration

@@ -1,5 +1,5 @@
 ---
-title: 'Black racism is politically correct'
+title: "Black racism is politically correct"
 layout: post
 categories:
 - race

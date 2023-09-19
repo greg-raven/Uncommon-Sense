@@ -1,5 +1,5 @@
 ---
-title: 'Defining political correctness'
+title: "Defining political correctness"
 layout: post
 categories:
 - speech

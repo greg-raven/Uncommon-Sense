@@ -1,5 +1,5 @@
 ---
-title: 'Raising the debt limit represents failure'
+title: "Raising the debt limit represents failure"
 layout: post
 categories:
 - debt

@@ -1,5 +1,5 @@
 ---
-title: 'Supporting our troops'
+title: "Supporting our troops"
 layout: post
 categories:
 - war

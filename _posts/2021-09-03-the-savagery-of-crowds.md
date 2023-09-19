@@ -1,5 +1,5 @@
 ---
-title: 'The savagery of crowds'
+title: "The savagery of crowds"
 layout: post
 categories:
 - collectivization

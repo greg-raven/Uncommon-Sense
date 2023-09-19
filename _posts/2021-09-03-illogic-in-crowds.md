@@ -1,5 +1,5 @@
 ---
-title: 'Illogic in crowds'
+title: "Illogic in crowds"
 layout: post
 categories:
 - collectivization

@@ -1,5 +1,5 @@
 ---
-title: 'Legal plunder has many names'
+title: "Legal plunder has many names"
 layout: post
 categories:
 - taxation

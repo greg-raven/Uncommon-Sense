@@ -1,5 +1,5 @@
 ---
-title: 'Liberalism succinctly'
+title: "Liberalism succinctly"
 layout: post
 categories:
 - liberalism

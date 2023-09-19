@@ -1,5 +1,5 @@
 ---
-title: 'Degeneracy in the populace kills freedom'
+title: "Degeneracy in the populace kills freedom"
 layout: post
 categories:
 - culture

@@ -1,8 +1,8 @@
 ---
-title: 'Clear as mud'
+title: "Clear as mud"
 layout: post
 categories:
-- 'foreign policy'
+- foreign policy
 tags:
 - Aubrey Bailey
 ---

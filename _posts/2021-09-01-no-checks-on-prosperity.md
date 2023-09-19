@@ -1,5 +1,5 @@
 ---
-title: 'No checks on prosperity'
+title: "No checks on prosperity"
 layout: post
 categories:
 - socialism

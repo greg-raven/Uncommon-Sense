@@ -1,8 +1,8 @@
 ---
-title: 'Beware the enemy within'
+title: "Beware the enemy within"
 layout: post
 categories:
-- 'external authority'
+- external authority
 tags:
 - John Dewey
 ---

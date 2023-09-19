@@ -1,5 +1,5 @@
 ---
-title: 'An imperial, lawless president'
+title: "An imperial, lawless president"
 layout: post
 categories:
 - demagogues

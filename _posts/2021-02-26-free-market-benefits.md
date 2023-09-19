@@ -1,5 +1,5 @@
 ---
-title: 'Free market benefits'
+title: "Free market benefits"
 layout: post
 categories:
 - capitalism

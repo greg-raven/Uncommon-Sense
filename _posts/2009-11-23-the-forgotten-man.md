@@ -1,5 +1,5 @@
 ---
-title: 'The forgotten man'
+title: "The forgotten man"
 layout: post
 categories:
 - socialism

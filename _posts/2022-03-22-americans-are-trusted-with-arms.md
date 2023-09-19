@@ -1,8 +1,8 @@
 ---
-title: 'Americans are trusted with arms'
+title: "Americans are trusted with arms"
 layout: post
 categories:
-- 'Second Amendment'
+- Second Amendment
 tags:
 - James Madison
 ---

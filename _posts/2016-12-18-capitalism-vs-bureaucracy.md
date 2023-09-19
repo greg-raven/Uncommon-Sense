@@ -1,5 +1,5 @@
 ---
-title: 'Capitalism vs. bureaucracy'
+title: "Capitalism vs. bureaucracy"
 layout: post
 categories:
 - capitalism

@@ -1,5 +1,5 @@
 ---
-title: 'We believe ...'
+title: "We believe ..."
 layout: post
 categories:
 - conservatism

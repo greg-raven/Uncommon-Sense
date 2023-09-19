@@ -1,5 +1,5 @@
 ---
-title: 'Lucky rulers'
+title: "Lucky rulers"
 layout: post
 categories:
 - demagogues

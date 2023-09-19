@@ -1,5 +1,5 @@
 ---
-title: 'Causes of war'
+title: "Causes of war"
 layout: post
 categories:
 - war

@@ -1,5 +1,5 @@
 ---
-title: 'Liberty or servitude'
+title: "Liberty or servitude"
 layout: post
 categories:
 - liberty

@@ -1,5 +1,5 @@
 ---
-title: 'Often wrong'
+title: "Often wrong"
 layout: post
 categories:
 - liberalism

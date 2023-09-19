@@ -1,5 +1,5 @@
 ---
-title: 'Build the wall or get out of the way'
+title: "Build the wall or get out of the way"
 layout: post
 categories:
 - immigration

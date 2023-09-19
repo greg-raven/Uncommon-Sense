@@ -1,5 +1,5 @@
 ---
-title: 'Unenlightened self-interest'
+title: "Unenlightened self-interest"
 layout: post
 categories:
 - demagogues

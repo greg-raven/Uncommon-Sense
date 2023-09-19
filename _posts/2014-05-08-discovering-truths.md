@@ -1,5 +1,5 @@
 ---
-title: 'Discovering truths'
+title: "Discovering truths"
 layout: post
 categories:
 - truth

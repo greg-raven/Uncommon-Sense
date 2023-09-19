@@ -1,5 +1,5 @@
 ---
-title: 'Tax beneficiaries'
+title: "Tax beneficiaries"
 layout: post
 categories:
 - taxation

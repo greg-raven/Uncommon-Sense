@@ -1,5 +1,5 @@
 ---
-title: 'Surrendering our freedoms'
+title: "Surrendering our freedoms"
 layout: post
 categories:
 - liberty

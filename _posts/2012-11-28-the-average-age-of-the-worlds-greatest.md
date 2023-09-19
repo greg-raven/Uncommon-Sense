@@ -1,5 +1,5 @@
 ---
-title: 'The path of civilization'
+title: "The path of civilization"
 layout: post
 categories:
 - history

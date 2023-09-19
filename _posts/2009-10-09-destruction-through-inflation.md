@@ -1,5 +1,5 @@
 ---
-title: 'Destruction through inflation'
+title: "Destruction through inflation"
 layout: post
 categories:
 - money

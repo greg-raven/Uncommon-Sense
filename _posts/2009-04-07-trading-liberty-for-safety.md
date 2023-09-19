@@ -1,5 +1,5 @@
 ---
-title: 'Trading liberty for safety'
+title: "Trading liberty for safety"
 layout: post
 categories:
 - liberty

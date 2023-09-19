@@ -1,5 +1,5 @@
 ---
-title: 'Trial by jury'
+title: "Trial by jury"
 layout: post
 categories:
 - juries

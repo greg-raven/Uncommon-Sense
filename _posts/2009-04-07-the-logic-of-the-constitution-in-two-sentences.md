@@ -1,5 +1,5 @@
 ---
-title: 'The logic of the Constitution in two sentences'
+title: "The logic of the Constitution in two sentences"
 layout: post
 categories:
 - Constitution

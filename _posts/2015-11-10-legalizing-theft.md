@@ -1,5 +1,5 @@
 ---
-title: 'Legalizing theft'
+title: "Legalizing theft"
 layout: post
 categories:
 - democracy

@@ -1,5 +1,5 @@
 ---
-title: 'Unnecessary taxes'
+title: "Unnecessary taxes"
 layout: post
 categories:
 - taxation

@@ -1,5 +1,5 @@
 ---
-title: 'Freedom of speech and association'
+title: "Freedom of speech and association"
 layout: post
 categories:
 - liberty

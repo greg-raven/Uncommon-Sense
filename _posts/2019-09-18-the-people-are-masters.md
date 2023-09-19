@@ -1,5 +1,5 @@
 ---
-title: 'The people are masters'
+title: "The people are masters"
 layout: post
 categories:
 - Constitution

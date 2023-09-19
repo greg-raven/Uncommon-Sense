@@ -1,8 +1,8 @@
 ---
-title: 'The Second Amendment'
+title: "The Second Amendment"
 layout: post
 categories:
-- 'Second Amendment'
+- Second Amendment
 tags:
 - Antonin Scalia
 ---

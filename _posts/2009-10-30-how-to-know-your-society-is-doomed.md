@@ -1,5 +1,5 @@
 ---
-title: 'How to know your society is doomed'
+title: "How to know your society is doomed"
 layout: post
 categories:
 - money

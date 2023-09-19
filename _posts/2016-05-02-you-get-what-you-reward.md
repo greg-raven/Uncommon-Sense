@@ -1,5 +1,5 @@
 ---
-title: 'You get what you reward'
+title: "You get what you reward"
 layout: post
 categories:
 - government

@@ -1,5 +1,5 @@
 ---
-title: 'Freeing yourself from communism'
+title: "Freeing yourself from communism"
 layout: post
 categories:
 - collectivization

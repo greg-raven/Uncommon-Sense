@@ -1,5 +1,5 @@
 ---
-title: 'The first step in saving our liberty'
+title: "The first step in saving our liberty"
 layout: post
 categories:
 - liberty

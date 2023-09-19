@@ -1,5 +1,5 @@
 ---
-title: 'Government analogy'
+title: "Government analogy"
 layout: post
 categories:
 - government

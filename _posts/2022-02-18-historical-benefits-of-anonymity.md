@@ -1,5 +1,5 @@
 ---
-title: 'Historical benefits of anonymity'
+title: "Historical benefits of anonymity"
 layout: post
 categories:
 - speech

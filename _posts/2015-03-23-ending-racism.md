@@ -1,5 +1,5 @@
 ---
-title: 'Ending racism'
+title: "Ending racism"
 layout: post
 categories:
 - race

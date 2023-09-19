@@ -1,5 +1,5 @@
 ---
-title: 'Bureaucracies vs. citizens'
+title: "Bureaucracies vs. citizens"
 layout: post
 categories:
 - government

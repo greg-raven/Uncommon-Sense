@@ -1,5 +1,5 @@
 ---
-title: 'Science in the service of globalism'
+title: "Science in the service of globalism"
 layout: post
 categories:
 - environment

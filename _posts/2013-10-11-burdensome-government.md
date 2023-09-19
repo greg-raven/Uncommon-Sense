@@ -1,5 +1,5 @@
 ---
-title: 'Burdensome government'
+title: "Burdensome government"
 layout: post
 categories:
 - government

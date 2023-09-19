@@ -1,5 +1,5 @@
 ---
-title: 'Freedom of the press'
+title: "Freedom of the press"
 layout: post
 categories:
 - speech

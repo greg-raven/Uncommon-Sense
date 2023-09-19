@@ -1,8 +1,8 @@
 ---
-title: 'Curb your shame'
+title: "Curb your shame"
 layout: post
 categories:
-- 'informed electorate'
+- informed electorate
 - knowledge
 tags:
 - Albert Einstein

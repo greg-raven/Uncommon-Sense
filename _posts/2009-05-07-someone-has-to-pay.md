@@ -1,5 +1,5 @@
 ---
-title: 'Someone has to pay'
+title: "Someone has to pay"
 layout: post
 categories:
 - economics

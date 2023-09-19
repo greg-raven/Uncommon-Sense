@@ -1,5 +1,5 @@
 ---
-title: 'Tireless minority'
+title: "Tireless minority"
 layout: post
 categories:
 - politics

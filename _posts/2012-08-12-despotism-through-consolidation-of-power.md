@@ -1,5 +1,5 @@
 ---
-title: 'Despotism through consolidation of power'
+title: "Despotism through consolidation of power"
 layout: post
 categories:
 - collectivization

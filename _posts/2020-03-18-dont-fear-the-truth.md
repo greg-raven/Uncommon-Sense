@@ -1,5 +1,5 @@
 ---
-title: 'Don't fear the truth'
+title: "Don't fear the truth"
 layout: post
 categories:
 - truth

@@ -1,5 +1,5 @@
 ---
-title: 'Life, liberty, and property'
+title: "Life, liberty, and property"
 layout: post
 categories:
 - liberty

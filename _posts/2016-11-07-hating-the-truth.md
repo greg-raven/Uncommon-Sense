@@ -1,5 +1,5 @@
 ---
-title: 'Hating the truth'
+title: "Hating the truth"
 layout: post
 categories:
 - truth

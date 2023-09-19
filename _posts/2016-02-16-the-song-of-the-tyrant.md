@@ -1,5 +1,5 @@
 ---
-title: 'The song of the tyrant'
+title: "The song of the tyrant"
 layout: post
 categories:
 - demagogues

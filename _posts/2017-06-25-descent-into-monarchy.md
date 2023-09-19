@@ -1,5 +1,5 @@
 ---
-title: 'Descent into monarchy'
+title: "Descent into monarchy"
 layout: post
 categories:
 - property

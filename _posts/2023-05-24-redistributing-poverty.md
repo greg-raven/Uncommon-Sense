@@ -1,5 +1,5 @@
 ---
-title: 'Redistributing poverty'
+title: "Redistributing poverty"
 layout: post
 categories:
 - socialism

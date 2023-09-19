@@ -1,5 +1,5 @@
 ---
-title: 'Today's corporate press'
+title: "Today's corporate press"
 layout: post
 categories:
 - knowledge

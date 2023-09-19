@@ -1,5 +1,5 @@
 ---
-title: 'The betrayal of MLK's hope'
+title: "The betrayal of MLK's hope"
 layout: post
 categories:
 - equality

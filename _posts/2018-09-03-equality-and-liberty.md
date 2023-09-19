@@ -1,5 +1,5 @@
 ---
-title: 'Equality and liberty'
+title: "Equality and liberty"
 layout: post
 categories:
 - demagogues

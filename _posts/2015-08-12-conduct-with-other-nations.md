@@ -1,8 +1,8 @@
 ---
-title: 'Conduct with other nations'
+title: "Conduct with other nations"
 layout: post
 categories:
-- 'foreign policy'
+- foreign policy
 tags:
 - George Washington
 ---

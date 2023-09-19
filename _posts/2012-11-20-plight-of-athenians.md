@@ -1,5 +1,5 @@
 ---
-title: 'The plight of the Athenians'
+title: "The plight of the Athenians"
 layout: post
 categories:
 - rights

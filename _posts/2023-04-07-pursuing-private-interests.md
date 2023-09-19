@@ -1,5 +1,5 @@
 ---
-title: 'Pursuing private interests'
+title: "Pursuing private interests"
 layout: post
 categories:
 - capitalism

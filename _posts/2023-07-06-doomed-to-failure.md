@@ -1,5 +1,5 @@
 ---
-title: 'Dooming civilization to failure'
+title: "Dooming civilization to failure"
 layout: post
 categories:
 - knowledge

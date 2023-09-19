@@ -1,5 +1,5 @@
 ---
-title: 'Regulations and special interests'
+title: "Regulations and special interests"
 layout: post
 categories:
 - regulations

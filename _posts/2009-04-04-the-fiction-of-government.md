@@ -1,5 +1,5 @@
 ---
-title: 'The fiction of government'
+title: "The fiction of government"
 layout: post
 categories:
 - government

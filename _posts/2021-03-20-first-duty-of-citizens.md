@@ -1,5 +1,5 @@
 ---
-title: 'First duty of citizens'
+title: "First duty of citizens"
 layout: post
 categories:
 - liberty

@@ -1,5 +1,5 @@
 ---
-title: 'Cut from the same cloth'
+title: "Cut from the same cloth"
 layout: post
 categories:
 - socialism

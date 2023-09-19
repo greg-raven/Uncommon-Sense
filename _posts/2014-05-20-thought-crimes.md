@@ -1,5 +1,5 @@
 ---
-title: 'Thought crimes'
+title: "Thought crimes"
 layout: post
 categories:
 - speech

@@ -1,5 +1,5 @@
 ---
-title: 'Cheap lies'
+title: "Cheap lies"
 layout: post
 categories:
 - war

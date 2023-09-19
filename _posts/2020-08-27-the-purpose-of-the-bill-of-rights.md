@@ -1,5 +1,5 @@
 ---
-title: 'The purpose of the Bill of Rights'
+title: "The purpose of the Bill of Rights"
 layout: post
 categories:
 - Constitution

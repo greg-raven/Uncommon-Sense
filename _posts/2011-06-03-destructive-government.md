@@ -1,5 +1,5 @@
 ---
-title: 'Destructive government'
+title: "Destructive government"
 layout: post
 categories:
 - rebellion

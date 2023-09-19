@@ -1,5 +1,5 @@
 ---
-title: 'Terrorism as a political weapon'
+title: "Terrorism as a political weapon"
 layout: post
 categories:
 - evil

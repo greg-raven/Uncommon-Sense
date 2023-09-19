@@ -1,5 +1,5 @@
 ---
-title: 'The fundamentals'
+title: "The fundamentals"
 layout: post
 categories:
 - liberty

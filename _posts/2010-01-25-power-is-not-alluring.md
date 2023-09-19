@@ -1,5 +1,5 @@
 ---
-title: 'Power is not alluring'
+title: "Power is not alluring"
 layout: post
 categories:
 - individualism

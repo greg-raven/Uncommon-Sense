@@ -1,5 +1,5 @@
 ---
-title: 'Separation of powers'
+title: "Separation of powers"
 layout: post
 categories:
 - Constitution

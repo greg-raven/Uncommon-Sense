@@ -1,5 +1,5 @@
 ---
-title: 'The difference between Democrats and Republicans'
+title: "The difference between Democrats and Republicans"
 layout: post
 categories:
 - politics

@@ -1,5 +1,5 @@
 ---
-title: 'Stop false climate teachings'
+title: "Stop false climate teachings"
 layout: post
 categories:
 - education

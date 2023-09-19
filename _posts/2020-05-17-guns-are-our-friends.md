@@ -1,8 +1,8 @@
 ---
-title: 'Guns are our friends'
+title: "Guns are our friends"
 layout: post
 categories:
-- 'Second Amendment'
+- Second Amendment
 tags:
 - Ann Coulter
 ---

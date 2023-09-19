@@ -1,5 +1,5 @@
 ---
-title: 'Government control equals poverty'
+title: "Government control equals poverty"
 layout: post
 categories:
 - liberty

@@ -1,5 +1,5 @@
 ---
-title: 'Economic control'
+title: "Economic control"
 layout: post
 categories:
 - economics

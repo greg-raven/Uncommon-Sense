@@ -1,5 +1,5 @@
 ---
-title: 'The concept of global warming'
+title: "The concept of global warming"
 layout: post
 categories:
 - climate

@@ -1,5 +1,5 @@
 ---
-title: 'Sanity needed'
+title: "Sanity needed"
 layout: post
 categories:
 - liberalism

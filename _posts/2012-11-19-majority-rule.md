@@ -1,5 +1,5 @@
 ---
-title: 'Majority rule'
+title: "Majority rule"
 layout: post
 categories:
 - democracy

@@ -1,5 +1,5 @@
 ---
-title: 'The American ideal'
+title: "The American ideal"
 layout: post
 categories:
 - liberty

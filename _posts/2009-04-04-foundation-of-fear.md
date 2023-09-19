@@ -1,5 +1,5 @@
 ---
-title: 'Foundation of fear'
+title: "Foundation of fear"
 layout: post
 categories:
 - politics

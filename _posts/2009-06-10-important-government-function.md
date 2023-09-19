@@ -1,5 +1,5 @@
 ---
-title: 'Important government function'
+title: "Important government function"
 layout: post
 categories:
 - money

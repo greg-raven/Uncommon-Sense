@@ -1,5 +1,5 @@
 ---
-title: 'Secessionist attitudes'
+title: "Secessionist attitudes"
 layout: post
 categories:
 - decentralization

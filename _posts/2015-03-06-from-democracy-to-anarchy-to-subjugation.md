@@ -1,5 +1,5 @@
 ---
-title: 'From democracy to anarchy to subjugation'
+title: "From democracy to anarchy to subjugation"
 layout: post
 categories:
 - democracy

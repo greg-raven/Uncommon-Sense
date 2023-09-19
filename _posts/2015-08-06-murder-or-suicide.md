@@ -1,5 +1,5 @@
 ---
-title: 'Murder or suicide'
+title: "Murder or suicide"
 layout: post
 categories:
 - socialism

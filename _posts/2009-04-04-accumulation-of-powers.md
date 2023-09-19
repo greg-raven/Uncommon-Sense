@@ -1,5 +1,5 @@
 ---
-title: 'Accumulation of powers'
+title: "Accumulation of powers"
 layout: post
 categories:
 - decentralization

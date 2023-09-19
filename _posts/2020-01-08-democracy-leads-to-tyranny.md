@@ -1,5 +1,5 @@
 ---
-title: 'Democracy leads to tyranny'
+title: "Democracy leads to tyranny"
 layout: post
 categories:
 - democracy

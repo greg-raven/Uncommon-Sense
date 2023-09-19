@@ -1,5 +1,5 @@
 ---
-title: 'Debasement as compassion'
+title: "Debasement as compassion"
 layout: post
 categories:
 - welfare

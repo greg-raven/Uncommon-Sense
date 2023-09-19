@@ -1,5 +1,5 @@
 ---
-title: 'Scientific authority'
+title: "Scientific authority"
 layout: post
 categories:
 - truth

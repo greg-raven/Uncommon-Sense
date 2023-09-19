@@ -1,5 +1,5 @@
 ---
-title: 'I considered myself a liberal ...'
+title: "I considered myself a liberal ..."
 layout: post
 categories:
 - equality

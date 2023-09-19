@@ -1,5 +1,5 @@
 ---
-title: 'The forced march to mediocrity'
+title: "The forced march to mediocrity"
 layout: post
 categories:
 - economics

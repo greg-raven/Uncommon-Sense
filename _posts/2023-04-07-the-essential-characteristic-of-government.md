@@ -1,5 +1,5 @@
 ---
-title: 'The essential characteristic of government'
+title: "The essential characteristic of government"
 layout: post
 categories:
 - government

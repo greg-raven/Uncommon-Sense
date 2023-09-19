@@ -1,5 +1,5 @@
 ---
-title: 'America's welfare first'
+title: "America's welfare first"
 layout: post
 categories:
 - nationalism

@@ -1,5 +1,5 @@
 ---
-title: 'Government power vs. individual liberty'
+title: "Government power vs. individual liberty"
 layout: post
 categories:
 - government

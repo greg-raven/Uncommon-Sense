@@ -1,5 +1,5 @@
 ---
-title: 'Politics and government'
+title: "Politics and government"
 layout: post
 categories:
 - government

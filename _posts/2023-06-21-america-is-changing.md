@@ -1,5 +1,5 @@
 ---
-title: 'America has been changing and not for the better'
+title: "America has been changing and not for the better"
 layout: post
 categories:
 - liberty

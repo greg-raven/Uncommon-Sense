@@ -1,5 +1,5 @@
 ---
-title: 'Vice as crime'
+title: "Vice as crime"
 layout: post
 categories:
 - laws

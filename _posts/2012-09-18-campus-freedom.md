@@ -1,5 +1,5 @@
 ---
-title: 'Campus freedom'
+title: "Campus freedom"
 layout: post
 categories:
 - education

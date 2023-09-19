@@ -1,5 +1,5 @@
 ---
-title: 'Private thoughts'
+title: "Private thoughts"
 layout: post
 categories:
 - speech

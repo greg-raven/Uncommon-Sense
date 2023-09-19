@@ -1,5 +1,5 @@
 ---
-title: 'Stop penalizing the productive'
+title: "Stop penalizing the productive"
 layout: post
 categories:
 - socialism

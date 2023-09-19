@@ -1,5 +1,5 @@
 ---
-title: 'Government's view of the economy'
+title: "Government's view of the economy"
 layout: post
 categories:
 - taxation

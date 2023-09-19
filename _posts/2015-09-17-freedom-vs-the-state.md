@@ -1,5 +1,5 @@
 ---
-title: 'Freedom vs. the state'
+title: "Freedom vs. the state"
 layout: post
 categories:
 - liberty

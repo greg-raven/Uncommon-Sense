@@ -1,5 +1,5 @@
 ---
-title: 'Liberal paradise'
+title: "Liberal paradise"
 layout: post
 categories:
 - liberalism

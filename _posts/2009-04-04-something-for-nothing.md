@@ -1,5 +1,5 @@
 ---
-title: 'Something for nothing'
+title: "Something for nothing"
 layout: post
 categories:
 - economics

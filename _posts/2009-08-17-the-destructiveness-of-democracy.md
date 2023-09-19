@@ -1,5 +1,5 @@
 ---
-title: 'The destructiveness of democracy'
+title: "The destructiveness of democracy"
 layout: post
 categories:
 - democracy

@@ -1,5 +1,5 @@
 ---
-title: 'The blessing of small government'
+title: "The blessing of small government"
 layout: post
 categories:
 - conservatism

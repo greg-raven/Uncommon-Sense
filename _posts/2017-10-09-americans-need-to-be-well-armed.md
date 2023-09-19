@@ -1,8 +1,8 @@
 ---
-title: 'Americans need to be well armed'
+title: "Americans need to be well armed"
 layout: post
 categories:
-- 'Second Amendment'
+- Second Amendment
 tags:
 - Michael F. Scheuer
 ---

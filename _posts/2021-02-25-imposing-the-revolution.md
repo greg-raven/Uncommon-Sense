@@ -1,5 +1,5 @@
 ---
-title: 'Imposing the revolution'
+title: "Imposing the revolution"
 layout: post
 categories:
 - collectivization

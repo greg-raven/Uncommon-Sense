@@ -1,8 +1,8 @@
 ---
-title: 'The people must remain attentive'
+title: "The people must remain attentive"
 layout: post
 categories:
-- 'informed electorate'
+- informed electorate
 tags:
 - Thomas Jefferson
 ---

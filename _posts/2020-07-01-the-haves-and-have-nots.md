@@ -1,5 +1,5 @@
 ---
-title: 'The haves and have-nots'
+title: "The haves and have-nots"
 layout: post
 categories:
 - individualism

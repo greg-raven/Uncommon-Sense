@@ -1,5 +1,5 @@
 ---
-title: 'Socialism will end our Republic'
+title: "Socialism will end our Republic"
 layout: post
 categories:
 - democracy

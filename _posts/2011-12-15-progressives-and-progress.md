@@ -1,5 +1,5 @@
 ---
-title: 'Progressives and progress'
+title: "Progressives and progress"
 layout: post
 categories:
 - liberalism

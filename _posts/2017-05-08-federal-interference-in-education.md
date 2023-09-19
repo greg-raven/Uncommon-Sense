@@ -1,5 +1,5 @@
 ---
-title: 'Federal interference in education'
+title: "Federal interference in education"
 layout: post
 categories:
 - education

@@ -1,5 +1,5 @@
 ---
-title: 'A republic promises the cure'
+title: "A republic promises the cure"
 layout: post
 categories:
 - government

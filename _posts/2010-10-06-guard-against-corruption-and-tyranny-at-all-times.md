@@ -1,5 +1,5 @@
 ---
-title: 'Guard against corruption and tyranny at all times'
+title: "Guard against corruption and tyranny at all times"
 layout: post
 categories:
 - corruption

@@ -1,5 +1,5 @@
 ---
-title: 'Is reality optional?'
+title: "Is reality optional?"
 layout: post
 categories:
 - economics

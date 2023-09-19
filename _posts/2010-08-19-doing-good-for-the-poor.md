@@ -1,5 +1,5 @@
 ---
-title: 'Doing good for the poor'
+title: "Doing good for the poor"
 layout: post
 categories:
 - welfare

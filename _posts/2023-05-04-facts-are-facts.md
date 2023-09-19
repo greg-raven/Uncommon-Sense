@@ -1,5 +1,5 @@
 ---
-title: 'Facts are facts'
+title: "Facts are facts"
 layout: post
 categories:
 - truth

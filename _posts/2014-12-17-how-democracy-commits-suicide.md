@@ -1,5 +1,5 @@
 ---
-title: 'How democracy commits suicide'
+title: "How democracy commits suicide"
 layout: post
 categories:
 - democracy

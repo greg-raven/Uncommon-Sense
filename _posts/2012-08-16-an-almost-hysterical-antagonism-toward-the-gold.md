@@ -1,5 +1,5 @@
 ---
-title: 'Gold and freedom'
+title: "Gold and freedom"
 layout: post
 categories:
 - money

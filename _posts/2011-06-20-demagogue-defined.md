@@ -1,5 +1,5 @@
 ---
-title: 'Demagogue defined'
+title: "Demagogue defined"
 layout: post
 categories:
 - demagogues

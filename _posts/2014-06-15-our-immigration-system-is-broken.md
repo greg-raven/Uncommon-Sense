@@ -1,5 +1,5 @@
 ---
-title: 'Our immigration system is broken'
+title: "Our immigration system is broken"
 layout: post
 categories:
 - immigration

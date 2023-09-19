@@ -1,8 +1,8 @@
 ---
-title: 'Isolationism and self-reliance'
+title: "Isolationism and self-reliance"
 layout: post
 categories:
-- 'foreign policy'
+- foreign policy
 tags:
 - George Washington
 ---

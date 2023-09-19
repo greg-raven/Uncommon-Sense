@@ -1,5 +1,5 @@
 ---
-title: 'The price of free benefits'
+title: "The price of free benefits"
 layout: post
 categories:
 - money

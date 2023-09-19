@@ -1,5 +1,5 @@
 ---
-title: 'No compromise with evil'
+title: "No compromise with evil"
 layout: post
 categories:
 - evil

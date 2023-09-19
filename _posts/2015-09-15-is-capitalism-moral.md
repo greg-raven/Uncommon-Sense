@@ -1,5 +1,5 @@
 ---
-title: 'Is capitalism moral?'
+title: "Is capitalism moral?"
 layout: post
 categories:
 - capitalism

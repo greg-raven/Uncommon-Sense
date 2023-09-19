@@ -1,5 +1,5 @@
 ---
-title: 'Conscience vs rights'
+title: "Conscience vs rights"
 layout: post
 categories:
 - rights

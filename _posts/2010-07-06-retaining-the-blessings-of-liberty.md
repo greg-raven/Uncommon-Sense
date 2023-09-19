@@ -1,5 +1,5 @@
 ---
-title: 'Retaining the blessings of liberty'
+title: "Retaining the blessings of liberty"
 layout: post
 categories:
 - liberty

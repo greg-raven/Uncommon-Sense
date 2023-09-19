@@ -1,5 +1,5 @@
 ---
-title: 'The growth of the General Welfare and Commerce clauses'
+title: "The growth of the General Welfare and Commerce clauses"
 layout: post
 categories:
 - Constitution

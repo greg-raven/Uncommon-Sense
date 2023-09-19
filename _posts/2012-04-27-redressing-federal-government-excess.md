@@ -1,5 +1,5 @@
 ---
-title: 'Redressing federal government excess'
+title: "Redressing federal government excess"
 layout: post
 categories:
 - rebellion

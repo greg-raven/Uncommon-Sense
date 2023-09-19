@@ -1,8 +1,8 @@
 ---
-title: 'Bureaucrats and guns'
+title: "Bureaucrats and guns"
 layout: post
 categories:
-- 'Second Amendment'
+- Second Amendment
 tags:
 - H. L. Mencken
 ---

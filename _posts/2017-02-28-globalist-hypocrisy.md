@@ -1,5 +1,5 @@
 ---
-title: 'Globalist hypocrisy'
+title: "Globalist hypocrisy"
 layout: post
 categories:
 - collectivization

@@ -1,5 +1,5 @@
 ---
-title: 'Freedom of opinion'
+title: "Freedom of opinion"
 layout: post
 categories:
 - speech

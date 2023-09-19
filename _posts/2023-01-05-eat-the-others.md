@@ -1,5 +1,5 @@
 ---
-title: 'Eat the others'
+title: "Eat the others"
 layout: post
 categories:
 - politics

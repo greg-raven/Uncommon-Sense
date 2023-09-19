@@ -1,5 +1,5 @@
 ---
-title: 'Freedom does not always win'
+title: "Freedom does not always win"
 layout: post
 categories:
 - liberty

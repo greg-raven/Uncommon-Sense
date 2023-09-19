@@ -1,5 +1,5 @@
 ---
-title: 'Sacrificing your principles'
+title: "Sacrificing your principles"
 layout: post
 categories:
 - virtue

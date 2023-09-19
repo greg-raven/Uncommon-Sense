@@ -1,5 +1,5 @@
 ---
-title: 'What freedom isn't'
+title: "What freedom isn't"
 layout: post
 categories:
 - liberty

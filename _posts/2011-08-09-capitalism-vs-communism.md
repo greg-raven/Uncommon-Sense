@@ -1,5 +1,5 @@
 ---
-title: 'Capitalism vs. communism'
+title: "Capitalism vs. communism"
 layout: post
 categories:
 - capitalism

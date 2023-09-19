@@ -1,5 +1,5 @@
 ---
-title: 'Private rights are a public good'
+title: "Private rights are a public good"
 layout: post
 categories:
 - property

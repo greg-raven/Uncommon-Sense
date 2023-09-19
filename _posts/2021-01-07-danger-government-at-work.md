@@ -1,5 +1,5 @@
 ---
-title: 'Danger: Government at work'
+title: "Danger: Government at work"
 layout: post
 categories:
 - laws

@@ -1,5 +1,5 @@
 ---
-title: 'Guidance of religion'
+title: "Guidance of religion"
 layout: post
 categories:
 - virtue

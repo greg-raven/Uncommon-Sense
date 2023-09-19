@@ -1,5 +1,5 @@
 ---
-title: 'Helping themselves'
+title: "Helping themselves"
 layout: post
 categories:
 - demagogues

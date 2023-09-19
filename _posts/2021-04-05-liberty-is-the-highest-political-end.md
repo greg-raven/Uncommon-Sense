@@ -1,5 +1,5 @@
 ---
-title: 'Liberty is the highest political end'
+title: "Liberty is the highest political end"
 layout: post
 categories:
 - liberty

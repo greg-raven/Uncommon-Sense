@@ -1,5 +1,5 @@
 ---
-title: 'A test for freedom'
+title: "A test for freedom"
 layout: post
 categories:
 - individualism

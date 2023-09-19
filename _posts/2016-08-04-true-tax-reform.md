@@ -1,5 +1,5 @@
 ---
-title: 'True tax reform'
+title: "True tax reform"
 layout: post
 categories:
 - taxation

@@ -1,9 +1,9 @@
 ---
-title: 'Borrowing from those we protect'
+title: "Borrowing from those we protect"
 layout: post
 categories:
 - economics
-- 'foreign policy'
+- foreign policy
 - war
 tags:
 - Patrick J. Buchanan

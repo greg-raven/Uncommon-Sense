@@ -1,5 +1,5 @@
 ---
-title: 'If you see something, say something'
+title: "If you see something, say something"
 layout: post
 categories:
 - citizenship

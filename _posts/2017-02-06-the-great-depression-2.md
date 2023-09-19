@@ -1,5 +1,5 @@
 ---
-title: 'The Great Depression'
+title: "The Great Depression"
 layout: post
 categories:
 - economics

@@ -1,5 +1,5 @@
 ---
-title: 'Picking racial winners and losers'
+title: "Picking racial winners and losers"
 layout: post
 categories:
 - equality

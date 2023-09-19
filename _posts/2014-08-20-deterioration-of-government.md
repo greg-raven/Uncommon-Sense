@@ -1,5 +1,5 @@
 ---
-title: 'Deterioration of government'
+title: "Deterioration of government"
 layout: post
 categories:
 - government

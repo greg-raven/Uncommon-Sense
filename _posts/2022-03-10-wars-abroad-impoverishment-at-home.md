@@ -1,5 +1,5 @@
 ---
-title: 'Wars abroad, impoverishment at home'
+title: "Wars abroad, impoverishment at home"
 layout: post
 categories:
 - war

@@ -1,8 +1,8 @@
 ---
-title: 'Secrecy in government'
+title: "Secrecy in government"
 layout: post
 categories:
-- 'informed electorate'
+- informed electorate
 tags:
 - John F. Kennedy
 ---

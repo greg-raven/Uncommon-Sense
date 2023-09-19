@@ -1,5 +1,5 @@
 ---
-title: 'Human chattel'
+title: "Human chattel"
 layout: post
 categories:
 - socialism

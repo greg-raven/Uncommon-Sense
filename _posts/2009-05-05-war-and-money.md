@@ -1,5 +1,5 @@
 ---
-title: 'War and money'
+title: "War and money"
 layout: post
 categories:
 - money

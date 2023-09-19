@@ -1,5 +1,5 @@
 ---
-title: 'The American nation'
+title: "The American nation"
 layout: post
 categories:
 - culture

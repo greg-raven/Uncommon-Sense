@@ -1,5 +1,5 @@
 ---
-title: 'Exercise your rights'
+title: "Exercise your rights"
 layout: post
 categories:
 - rights

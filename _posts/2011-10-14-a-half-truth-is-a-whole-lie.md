@@ -1,5 +1,5 @@
 ---
-title: 'Half truth'
+title: "Half truth"
 layout: post
 categories:
 - truth

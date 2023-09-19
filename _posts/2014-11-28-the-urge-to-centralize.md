@@ -1,5 +1,5 @@
 ---
-title: 'The urge to centralize'
+title: "The urge to centralize"
 layout: post
 categories:
 - collectivization

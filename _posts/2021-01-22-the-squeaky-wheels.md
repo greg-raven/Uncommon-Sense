@@ -1,5 +1,5 @@
 ---
-title: 'The squeaky wheels'
+title: "The squeaky wheels"
 layout: post
 categories:
 - demagogues

@@ -1,5 +1,5 @@
 ---
-title: 'Patriotic obligation'
+title: "Patriotic obligation"
 layout: post
 categories:
 - corruption

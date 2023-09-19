@@ -1,5 +1,5 @@
 ---
-title: 'Make Federal borrowing illegal'
+title: "Make Federal borrowing illegal"
 layout: post
 categories:
 - debt

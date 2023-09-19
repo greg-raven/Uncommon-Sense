@@ -1,5 +1,5 @@
 ---
-title: 'Political language'
+title: "Political language"
 layout: post
 categories:
 - politics

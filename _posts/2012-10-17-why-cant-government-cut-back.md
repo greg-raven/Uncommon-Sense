@@ -1,5 +1,5 @@
 ---
-title: 'Why can't government cut back?'
+title: "Why can't government cut back?"
 layout: post
 categories:
 - government

@@ -1,5 +1,5 @@
 ---
-title: 'The assault on Christianity'
+title: "The assault on Christianity"
 layout: post
 categories:
 - religion

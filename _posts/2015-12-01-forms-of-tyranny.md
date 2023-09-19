@@ -1,5 +1,5 @@
 ---
-title: 'Forms of tyranny'
+title: "Forms of tyranny"
 layout: post
 categories:
 - democracy

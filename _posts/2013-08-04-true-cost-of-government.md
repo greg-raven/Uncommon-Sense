@@ -1,5 +1,5 @@
 ---
-title: 'True cost of government'
+title: "True cost of government"
 layout: post
 categories:
 - regulations

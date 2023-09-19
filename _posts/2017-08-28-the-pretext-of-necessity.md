@@ -1,5 +1,5 @@
 ---
-title: 'The pretext of 'necessity''
+title: "The pretext of 'necessity'"
 layout: post
 categories:
 - demagogues

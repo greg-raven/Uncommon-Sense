@@ -1,5 +1,5 @@
 ---
-title: 'Taxation vs. taxidermy'
+title: "Taxation vs. taxidermy"
 layout: post
 categories:
 - taxation

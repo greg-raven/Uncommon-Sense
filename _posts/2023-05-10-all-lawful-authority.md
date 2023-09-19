@@ -1,5 +1,5 @@
 ---
-title: 'All lawful authority'
+title: "All lawful authority"
 layout: post
 categories:
 - government

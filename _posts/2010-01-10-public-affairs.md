@@ -1,5 +1,5 @@
 ---
-title: 'Public affairs'
+title: "Public affairs"
 layout: post
 categories:
 - government

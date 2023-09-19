@@ -1,5 +1,5 @@
 ---
-title: 'Anything called a 'program' is unconstitutional'
+title: "Anything called a 'program' is unconstitutional"
 layout: post
 categories:
 - Constitution

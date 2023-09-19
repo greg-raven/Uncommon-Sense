@@ -1,5 +1,5 @@
 ---
-title: 'Superficial distinctions of socialism'
+title: "Superficial distinctions of socialism"
 layout: post
 categories:
 - socialism

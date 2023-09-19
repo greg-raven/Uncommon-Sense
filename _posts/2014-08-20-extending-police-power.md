@@ -1,5 +1,5 @@
 ---
-title: 'Extending police power'
+title: "Extending police power"
 layout: post
 categories:
 - laws

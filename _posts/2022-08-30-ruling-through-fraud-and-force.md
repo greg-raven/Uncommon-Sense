@@ -1,5 +1,5 @@
 ---
-title: 'Ruling through fraud and force'
+title: "Ruling through fraud and force"
 layout: post
 categories:
 - socialism

@@ -1,8 +1,8 @@
 ---
-title: 'Firearms restrain evil interference'
+title: "Firearms restrain evil interference"
 layout: post
 categories:
-- 'Second Amendment'
+- Second Amendment
 tags:
 - George Washington
 ---

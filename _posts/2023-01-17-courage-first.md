@@ -1,5 +1,5 @@
 ---
-title: 'Courage first'
+title: "Courage first"
 layout: post
 categories:
 - strength

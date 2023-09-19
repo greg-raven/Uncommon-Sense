@@ -1,8 +1,8 @@
 ---
-title: 'Knowledge and virtue'
+title: "Knowledge and virtue"
 layout: post
 categories:
-- 'informed electorate'
+- informed electorate
 tags:
 - Samuel Adams
 ---

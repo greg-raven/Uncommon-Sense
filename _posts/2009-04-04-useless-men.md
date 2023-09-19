@@ -1,5 +1,5 @@
 ---
-title: 'Useless men'
+title: "Useless men"
 layout: post
 categories:
 - politics

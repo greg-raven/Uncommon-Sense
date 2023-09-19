@@ -1,5 +1,5 @@
 ---
-title: 'Private morals and public office'
+title: "Private morals and public office"
 layout: post
 categories:
 - virtue

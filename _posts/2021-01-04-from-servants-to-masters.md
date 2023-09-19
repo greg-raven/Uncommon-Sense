@@ -1,5 +1,5 @@
 ---
-title: 'From servants to masters'
+title: "From servants to masters"
 layout: post
 categories:
 - government

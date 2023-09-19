@@ -1,5 +1,5 @@
 ---
-title: 'One sin of socialism'
+title: "One sin of socialism"
 layout: post
 categories:
 - socialism

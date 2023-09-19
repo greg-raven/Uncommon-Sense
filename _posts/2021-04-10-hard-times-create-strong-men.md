@@ -1,5 +1,5 @@
 ---
-title: 'Hard times create strong men'
+title: "Hard times create strong men"
 layout: post
 categories:
 - culture

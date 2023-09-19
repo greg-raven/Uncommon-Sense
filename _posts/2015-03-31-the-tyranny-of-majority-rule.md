@@ -1,5 +1,5 @@
 ---
-title: 'The tyranny of majority rule'
+title: "The tyranny of majority rule"
 layout: post
 categories:
 - democracy

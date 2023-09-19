@@ -1,5 +1,5 @@
 ---
-title: 'Why we need the Constitution'
+title: "Why we need the Constitution"
 layout: post
 categories:
 - Constitution

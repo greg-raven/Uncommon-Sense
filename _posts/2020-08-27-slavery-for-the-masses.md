@@ -1,5 +1,5 @@
 ---
-title: 'Slavery for the masses'
+title: "Slavery for the masses"
 layout: post
 categories:
 - liberty

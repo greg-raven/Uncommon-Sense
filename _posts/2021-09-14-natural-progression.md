@@ -1,5 +1,5 @@
 ---
-title: 'Natural progression'
+title: "Natural progression"
 layout: post
 categories:
 - government

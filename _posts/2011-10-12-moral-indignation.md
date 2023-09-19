@@ -1,5 +1,5 @@
 ---
-title: 'Moral indignation'
+title: "Moral indignation"
 layout: post
 categories:
 - evil

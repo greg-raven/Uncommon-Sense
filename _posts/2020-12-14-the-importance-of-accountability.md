@@ -1,5 +1,5 @@
 ---
-title: 'The importance of accountability'
+title: "The importance of accountability"
 layout: post
 categories:
 - laws

@@ -1,5 +1,5 @@
 ---
-title: 'Western values'
+title: "Western values"
 layout: post
 categories:
 - liberty

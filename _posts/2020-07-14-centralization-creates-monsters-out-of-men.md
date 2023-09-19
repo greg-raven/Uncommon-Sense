@@ -1,5 +1,5 @@
 ---
-title: 'Centralization creates monsters out of men'
+title: "Centralization creates monsters out of men"
 layout: post
 categories:
 - decentralization

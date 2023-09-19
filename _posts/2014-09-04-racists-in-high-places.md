@@ -1,5 +1,5 @@
 ---
-title: 'Racists in high places'
+title: "Racists in high places"
 layout: post
 categories:
 - demagogues

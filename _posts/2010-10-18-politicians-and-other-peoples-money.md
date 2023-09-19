@@ -1,5 +1,5 @@
 ---
-title: 'Politicians and other people's money'
+title: "Politicians and other people's money"
 layout: post
 categories:
 - taxation

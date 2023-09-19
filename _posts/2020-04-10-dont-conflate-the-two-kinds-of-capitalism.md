@@ -1,5 +1,5 @@
 ---
-title: 'Don't conflate capitalism and corporatism'
+title: "Don't conflate capitalism and corporatism"
 layout: post
 categories:
 - capitalism
@@ -27,6 +27,6 @@ If it is asked whether it's a question of dishonest legislators, it is not. The 
 
 The proper lesson to have learned should have been the realization that government controls and create only harm, injustice, and distortions in the economy, and should be repealed. The government should not have had the power to interfere in the economy. It should not have held economic power. But since it did, and so long as it did, the abuses necessarily had to take place with each control leading to further and more disastrous controls. To this day, people have not yet grasped that lesson and whenever anything goes wrong in any industry, it is always the free market --- the free capitalists --- that take the blame. I stress this without exception: If you investigate you will always find that the source of the evils or the abuses was the government controls, not free enterprises or the free market.
 
-Source: Excerpts from "The Robber Barons," by Ayn Rand. H/T [LibertyPen on YouTube](https://youtu.be/hK18v2Vn8Ug)
+Source: Excerpts from "The Robber Barons." H/T [LibertyPen on YouTube](https://youtu.be/hK18v2Vn8Ug)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hK18v2Vn8Ug" title="Don't conflate capitalism and corporatism"></iframe>

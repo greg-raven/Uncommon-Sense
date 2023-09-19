@@ -1,5 +1,5 @@
 ---
-title: ''Right-wing' socialism'
+title: "'Right-wing' socialism"
 layout: post
 categories:
 - socialism

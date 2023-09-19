@@ -1,5 +1,5 @@
 ---
-title: 'Accidental insults'
+title: "Accidental insults"
 layout: post
 categories:
 - citizenship

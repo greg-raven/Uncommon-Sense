@@ -1,5 +1,5 @@
 ---
-title: 'Equality under the law'
+title: "Equality under the law"
 layout: post
 categories:
 - equality

@@ -1,5 +1,5 @@
 ---
-title: 'Disadvantage on campus'
+title: "Disadvantage on campus"
 layout: post
 categories:
 - education

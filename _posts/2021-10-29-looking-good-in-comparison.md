@@ -1,5 +1,5 @@
 ---
-title: 'Looking good in comparison'
+title: "Looking good in comparison"
 layout: post
 categories:
 - politics

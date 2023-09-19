@@ -1,5 +1,5 @@
 ---
-title: 'Distinctions in society'
+title: "Distinctions in society"
 layout: post
 categories:
 - individualism

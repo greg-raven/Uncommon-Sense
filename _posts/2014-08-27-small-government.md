@@ -1,5 +1,5 @@
 ---
-title: 'Small government'
+title: "Small government"
 layout: post
 categories:
 - government

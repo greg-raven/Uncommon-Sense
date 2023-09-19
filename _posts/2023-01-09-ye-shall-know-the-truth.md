@@ -1,5 +1,5 @@
 ---
-title: 'Ye shall know the truth'
+title: "Ye shall know the truth"
 layout: post
 categories:
 - truth

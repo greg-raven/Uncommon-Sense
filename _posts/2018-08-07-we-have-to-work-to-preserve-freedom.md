@@ -1,5 +1,5 @@
 ---
-title: 'We have to work to preserve freedom'
+title: "We have to work to preserve freedom"
 layout: post
 categories:
 - liberty

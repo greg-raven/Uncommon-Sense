@@ -1,5 +1,5 @@
 ---
-title: 'The cost of socialism'
+title: "The cost of socialism"
 layout: post
 categories:
 - liberty

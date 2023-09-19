@@ -1,5 +1,5 @@
 ---
-title: 'Run your own life'
+title: "Run your own life"
 layout: post
 categories:
 - individualism

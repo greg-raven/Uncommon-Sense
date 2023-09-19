@@ -1,8 +1,8 @@
 ---
-title: 'On being governed'
+title: "On being governed"
 layout: post
 categories:
-- 'external authority'
+- external authority
 tags:
 - Pierre-Joseph Proudhon
 ---

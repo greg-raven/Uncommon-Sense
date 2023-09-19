@@ -1,5 +1,5 @@
 ---
-title: 'Unalienable rights'
+title: "Unalienable rights"
 layout: post
 categories:
 - rights

@@ -1,5 +1,5 @@
 ---
-title: 'Use it or lose it'
+title: "Use it or lose it"
 layout: post
 categories:
 - individualism

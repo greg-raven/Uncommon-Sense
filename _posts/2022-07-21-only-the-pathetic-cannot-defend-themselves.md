@@ -1,8 +1,8 @@
 ---
-title: 'Only the pathetic cannot defend themselves'
+title: "Only the pathetic cannot defend themselves"
 layout: post
 categories:
-- 'Second Amendment'
+- Second Amendment
 tags:
 - Ted Nugent
 ---

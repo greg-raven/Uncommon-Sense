@@ -1,5 +1,5 @@
 ---
-title: 'Compound interest'
+title: "Compound interest"
 layout: post
 categories:
 - government

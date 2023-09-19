@@ -1,5 +1,5 @@
 ---
-title: 'Surrendering reason lowers your guard'
+title: "Surrendering reason lowers your guard"
 layout: post
 categories:
 - reason

@@ -1,5 +1,5 @@
 ---
-title: 'Being politically correct'
+title: "Being politically correct"
 layout: post
 categories:
 - speech

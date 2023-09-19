@@ -1,5 +1,5 @@
 ---
-title: 'Property must be protected'
+title: "Property must be protected"
 layout: post
 categories:
 - property

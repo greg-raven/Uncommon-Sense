@@ -1,5 +1,5 @@
 ---
-title: 'Stand for something'
+title: "Stand for something"
 layout: post
 categories:
 - conviction

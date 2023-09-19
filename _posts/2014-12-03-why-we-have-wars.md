@@ -1,5 +1,5 @@
 ---
-title: 'Why we have wars'
+title: "Why we have wars"
 layout: post
 categories:
 - war

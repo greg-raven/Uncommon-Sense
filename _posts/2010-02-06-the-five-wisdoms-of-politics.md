@@ -1,5 +1,5 @@
 ---
-title: 'The Five Wisdoms of politics'
+title: "The Five Wisdoms of politics"
 layout: post
 categories:
 - politics

@@ -1,5 +1,5 @@
 ---
-title: 'Why most Americans love government'
+title: "Why most Americans love government"
 layout: post
 categories:
 - taxation

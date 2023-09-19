@@ -1,5 +1,5 @@
 ---
-title: 'The real reason for small government'
+title: "The real reason for small government"
 layout: post
 categories:
 - taxation

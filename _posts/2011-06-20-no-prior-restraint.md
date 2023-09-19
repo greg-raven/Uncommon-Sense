@@ -1,5 +1,5 @@
 ---
-title: 'No prior restraint'
+title: "No prior restraint"
 layout: post
 categories:
 - speech

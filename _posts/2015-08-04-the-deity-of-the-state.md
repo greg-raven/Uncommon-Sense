@@ -1,5 +1,5 @@
 ---
-title: 'The deity of the State'
+title: "The deity of the State"
 layout: post
 categories:
 - collectivization

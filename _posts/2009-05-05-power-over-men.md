@@ -1,5 +1,5 @@
 ---
-title: 'Power over men'
+title: "Power over men"
 layout: post
 categories:
 - decentralization

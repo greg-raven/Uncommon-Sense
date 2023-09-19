@@ -1,5 +1,5 @@
 ---
-title: 'Which shall govern?'
+title: "Which shall govern?"
 layout: post
 categories:
 - individualism

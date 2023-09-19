@@ -1,5 +1,5 @@
 ---
-title: 'Toxic femininity'
+title: "Toxic femininity"
 layout: post
 categories:
 - democracy

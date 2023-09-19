@@ -1,5 +1,5 @@
 ---
-title: 'Insinuated tyranny'
+title: "Insinuated tyranny"
 layout: post
 categories:
 - culture

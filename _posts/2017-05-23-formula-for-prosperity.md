@@ -1,5 +1,5 @@
 ---
-title: 'Formula for prosperity'
+title: "Formula for prosperity"
 layout: post
 categories:
 - prosperity

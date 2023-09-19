@@ -1,5 +1,5 @@
 ---
-title: 'The individual vs. the group'
+title: "The individual vs. the group"
 layout: post
 categories:
 - liberty

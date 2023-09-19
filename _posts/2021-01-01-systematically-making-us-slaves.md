@@ -1,5 +1,5 @@
 ---
-title: 'Systematically making us slaves'
+title: "Systematically making us slaves"
 layout: post
 categories:
 - collectivization

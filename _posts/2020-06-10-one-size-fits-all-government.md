@@ -1,5 +1,5 @@
 ---
-title: 'One-size-fits-all government'
+title: "One-size-fits-all government"
 layout: post
 categories:
 - decentralization

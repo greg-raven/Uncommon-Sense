@@ -1,8 +1,8 @@
 ---
-title: 'Middle East conflict'
+title: "Middle East conflict"
 layout: post
 categories:
-- 'foreign policy'
+- foreign policy
 tags:
 - Ron Paul
 ---

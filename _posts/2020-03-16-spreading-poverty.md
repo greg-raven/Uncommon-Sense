@@ -1,5 +1,5 @@
 ---
-title: 'Spreading poverty'
+title: "Spreading poverty"
 layout: post
 categories:
 - socialism

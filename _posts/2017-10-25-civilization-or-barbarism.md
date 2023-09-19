@@ -1,5 +1,5 @@
 ---
-title: 'Civilization or barbarism'
+title: "Civilization or barbarism"
 layout: post
 categories:
 - war

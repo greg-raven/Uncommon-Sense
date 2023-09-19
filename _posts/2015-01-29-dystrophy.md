@@ -2,7 +2,7 @@
 title: Dystrophy
 layout: post
 categories:
-- 'external authority'
+- external authority
 tags:
 - Chris Hedges
 ---

@@ -1,5 +1,5 @@
 ---
-title: 'The basis for advancement'
+title: "The basis for advancement"
 layout: post
 categories:
 - self-improvement

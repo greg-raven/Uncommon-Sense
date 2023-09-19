@@ -1,5 +1,5 @@
 ---
-title: 'Socialism: Less power, less money for the people'
+title: "Socialism: Less power, less money for the people"
 layout: post
 categories:
 - socialism

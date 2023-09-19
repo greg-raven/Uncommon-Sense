@@ -1,5 +1,5 @@
 ---
-title: 'Keep up the fight'
+title: "Keep up the fight"
 layout: post
 categories:
 - war

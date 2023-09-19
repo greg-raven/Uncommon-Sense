@@ -1,5 +1,5 @@
 ---
-title: 'Independence through self-sufficiency'
+title: "Independence through self-sufficiency"
 layout: post
 categories:
 - individualism

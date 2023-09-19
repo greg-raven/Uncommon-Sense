@@ -1,5 +1,5 @@
 ---
-title: 'Liberty vs. force'
+title: "Liberty vs. force"
 layout: post
 categories:
 - politics

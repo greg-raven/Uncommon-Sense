@@ -1,5 +1,5 @@
 ---
-title: 'War of the poor against the rich'
+title: "War of the poor against the rich"
 layout: post
 categories:
 - Constitution

@@ -1,5 +1,5 @@
 ---
-title: 'Science vs. opinion'
+title: "Science vs. opinion"
 layout: post
 categories:
 - knowledge

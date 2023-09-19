@@ -1,5 +1,5 @@
 ---
-title: 'The American whey'
+title: "The American whey"
 layout: post
 categories:
 - immigration

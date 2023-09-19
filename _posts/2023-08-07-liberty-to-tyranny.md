@@ -1,5 +1,5 @@
 ---
-title: 'From liberty to tyranny'
+title: "From liberty to tyranny"
 layout: post
 categories:
 - liberty

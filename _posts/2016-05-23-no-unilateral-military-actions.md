@@ -1,5 +1,5 @@
 ---
-title: 'No unilateral military actions'
+title: "No unilateral military actions"
 layout: post
 categories:
 - war

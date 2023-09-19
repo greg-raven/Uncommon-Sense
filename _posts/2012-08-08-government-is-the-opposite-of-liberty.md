@@ -1,5 +1,5 @@
 ---
-title: 'Government is the opposite of liberty'
+title: "Government is the opposite of liberty"
 layout: post
 categories:
 - government

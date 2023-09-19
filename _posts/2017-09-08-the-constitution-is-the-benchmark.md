@@ -1,5 +1,5 @@
 ---
-title: 'The Constitution is the benchmark'
+title: "The Constitution is the benchmark"
 layout: post
 categories:
 - Constitution

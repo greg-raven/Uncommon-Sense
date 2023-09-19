@@ -1,5 +1,5 @@
 ---
-title: 'The Federal Reserve'
+title: "The Federal Reserve"
 layout: post
 categories:
 - money

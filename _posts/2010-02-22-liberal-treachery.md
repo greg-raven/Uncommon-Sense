@@ -1,5 +1,5 @@
 ---
-title: 'Liberal treachery'
+title: "Liberal treachery"
 layout: post
 categories:
 - liberalism

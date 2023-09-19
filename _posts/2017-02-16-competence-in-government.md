@@ -1,5 +1,5 @@
 ---
-title: 'Competence in government'
+title: "Competence in government"
 layout: post
 categories:
 - government

@@ -1,5 +1,5 @@
 ---
-title: 'Party above truth'
+title: "Party above truth"
 layout: post
 categories:
 - demagogues

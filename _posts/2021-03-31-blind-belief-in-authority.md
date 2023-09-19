@@ -1,8 +1,8 @@
 ---
-title: 'Blind belief in authority'
+title: "Blind belief in authority"
 layout: post
 categories:
-- 'external authority'
+- external authority
 tags:
 - Albert Einstein
 ---

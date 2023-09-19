@@ -1,5 +1,5 @@
 ---
-title: 'The Harrison Bergeron effect'
+title: "The Harrison Bergeron effect"
 layout: post
 categories:
 - equality

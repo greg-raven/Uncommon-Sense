@@ -1,5 +1,5 @@
 ---
-title: 'The de-evolution of schooling'
+title: "The de-evolution of schooling"
 layout: post
 categories:
 - education

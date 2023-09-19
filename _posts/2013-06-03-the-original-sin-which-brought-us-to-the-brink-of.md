@@ -1,5 +1,5 @@
 ---
-title: 'Income tax'
+title: "Income tax"
 layout: post
 categories:
 - taxation

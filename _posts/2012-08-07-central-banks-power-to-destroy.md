@@ -1,5 +1,5 @@
 ---
-title: 'Central banks have the power to destroy'
+title: "Central banks have the power to destroy"
 layout: post
 categories:
 - money

@@ -1,5 +1,5 @@
 ---
-title: 'Most dangerous weapon'
+title: "Most dangerous weapon"
 layout: post
 categories:
 - speech

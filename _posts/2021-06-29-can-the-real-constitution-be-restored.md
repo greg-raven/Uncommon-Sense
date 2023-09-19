@@ -1,5 +1,5 @@
 ---
-title: 'Can the real Constitution be restored?'
+title: "Can the real Constitution be restored?"
 layout: post
 categories:
 - Constitution

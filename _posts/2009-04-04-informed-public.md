@@ -1,8 +1,8 @@
 ---
-title: 'Informed public'
+title: "Informed public"
 layout: post
 categories:
-- 'informed electorate'
+- informed electorate
 tags:
 - George Washington
 ---

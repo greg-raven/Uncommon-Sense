@@ -1,5 +1,5 @@
 ---
-title: 'Invade the world, invite the world, investigate the world'
+title: "Invade the world, invite the world, investigate the world"
 layout: post
 categories:
 - rights

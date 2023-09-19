@@ -1,5 +1,5 @@
 ---
-title: 'Inequality before the law'
+title: "Inequality before the law"
 layout: post
 categories:
 - equality

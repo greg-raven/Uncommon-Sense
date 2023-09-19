@@ -1,5 +1,5 @@
 ---
-title: 'Hidden taxation'
+title: "Hidden taxation"
 layout: post
 categories:
 - money

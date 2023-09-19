@@ -1,5 +1,5 @@
 ---
-title: 'Government control'
+title: "Government control"
 layout: post
 categories:
 - decentralization

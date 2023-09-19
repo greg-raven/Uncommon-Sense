@@ -1,5 +1,5 @@
 ---
-title: 'Free society'
+title: "Free society"
 layout: post
 categories:
 - liberty

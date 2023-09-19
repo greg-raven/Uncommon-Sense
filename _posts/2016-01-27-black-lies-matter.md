@@ -1,5 +1,5 @@
 ---
-title: 'Black lies matter'
+title: "Black lies matter"
 layout: post
 categories:
 - culture

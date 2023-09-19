@@ -1,5 +1,5 @@
 ---
-title: 'Majority vs. minority'
+title: "Majority vs. minority"
 layout: post
 categories:
 - collectivization

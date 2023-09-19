@@ -1,5 +1,5 @@
 ---
-title: 'The natural effort of individuals vs. the folly of human laws'
+title: "The natural effort of individuals vs. the folly of human laws"
 layout: post
 categories:
 - prosperity

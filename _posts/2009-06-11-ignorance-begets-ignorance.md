@@ -1,8 +1,8 @@
 ---
-title: 'Ignorance begets ignorance'
+title: "Ignorance begets ignorance"
 layout: post
 categories:
-- 'informed electorate'
+- informed electorate
 tag: anonymous
 ---
 

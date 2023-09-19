@@ -1,5 +1,5 @@
 ---
-title: 'Adopting socialism'
+title: "Adopting socialism"
 layout: post
 categories:
 - socialism

@@ -1,5 +1,5 @@
 ---
-title: 'Legacy of lawlessness'
+title: "Legacy of lawlessness"
 layout: post
 categories:
 - demagogues

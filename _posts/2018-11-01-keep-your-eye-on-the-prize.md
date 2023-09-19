@@ -1,5 +1,5 @@
 ---
-title: 'Keep your eye on the prize'
+title: "Keep your eye on the prize"
 layout: post
 categories:
 - socialism

@@ -1,5 +1,5 @@
 ---
-title: 'Democracy and taxes'
+title: "Democracy and taxes"
 layout: post
 categories:
 - democracy

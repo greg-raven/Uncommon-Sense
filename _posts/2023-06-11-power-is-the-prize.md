@@ -1,5 +1,5 @@
 ---
-title: 'Power is the prize'
+title: "Power is the prize"
 layout: post
 categories:
 - corruption

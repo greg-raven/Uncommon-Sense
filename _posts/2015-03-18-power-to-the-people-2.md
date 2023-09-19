@@ -1,5 +1,5 @@
 ---
-title: 'Power to the people?'
+title: "Power to the people?"
 layout: post
 categories:
 - liberalism

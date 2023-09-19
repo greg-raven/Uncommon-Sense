@@ -1,5 +1,5 @@
 ---
-title: 'The truth about Afghanistan'
+title: "The truth about Afghanistan"
 layout: post
 categories:
 - war

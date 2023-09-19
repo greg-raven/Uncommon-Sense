@@ -1,5 +1,5 @@
 ---
-title: 'Closet capitalists'
+title: "Closet capitalists"
 layout: post
 categories:
 - capitalism

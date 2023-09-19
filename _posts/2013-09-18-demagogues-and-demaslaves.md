@@ -1,5 +1,5 @@
 ---
-title: 'Demagogues and demaslaves'
+title: "Demagogues and demaslaves"
 layout: post
 categories:
 - demagogues

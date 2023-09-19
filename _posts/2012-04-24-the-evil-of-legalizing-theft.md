@@ -1,5 +1,5 @@
 ---
-title: 'The evil of legalizing theft'
+title: "The evil of legalizing theft"
 layout: post
 categories:
 - taxation

@@ -1,8 +1,8 @@
 ---
-title: 'The moral obligation to be skeptical'
+title: "The moral obligation to be skeptical"
 layout: post
 categories:
-- 'informed electorate'
+- informed electorate
 tags:
 - Bergan Evans
 ---

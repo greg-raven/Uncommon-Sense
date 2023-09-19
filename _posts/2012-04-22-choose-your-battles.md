@@ -1,5 +1,5 @@
 ---
-title: 'Choose your battles'
+title: "Choose your battles"
 layout: post
 categories:
 - reason

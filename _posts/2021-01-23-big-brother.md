@@ -1,5 +1,5 @@
 ---
-title: 'Big Brother'
+title: "Big Brother"
 layout: post
 categories:
 - collectivization

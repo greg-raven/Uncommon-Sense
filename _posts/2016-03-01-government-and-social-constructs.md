@@ -1,5 +1,5 @@
 ---
-title: 'Government and social constructs'
+title: "Government and social constructs"
 layout: post
 categories:
 - race

@@ -1,5 +1,5 @@
 ---
-title: 'People get the government they tolerate'
+title: "People get the government they tolerate"
 layout: post
 categories:
 - government

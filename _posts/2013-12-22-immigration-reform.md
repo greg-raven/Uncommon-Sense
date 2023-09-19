@@ -1,5 +1,5 @@
 ---
-title: 'Immigration reform'
+title: "Immigration reform"
 layout: post
 categories:
 - immigration

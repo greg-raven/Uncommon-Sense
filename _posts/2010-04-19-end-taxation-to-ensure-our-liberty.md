@@ -1,5 +1,5 @@
 ---
-title: 'End taxation to ensure our liberty'
+title: "End taxation to ensure our liberty"
 layout: post
 categories:
 - taxation

@@ -1,8 +1,8 @@
 ---
-title: 'Weapon of choice'
+title: "Weapon of choice"
 layout: post
 categories:
-- 'Second Amendment'
+- Second Amendment
 tags:
 - Sam Gerard
 ---

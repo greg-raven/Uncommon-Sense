@@ -1,5 +1,5 @@
 ---
-title: 'False alternatives to liberty'
+title: "False alternatives to liberty"
 layout: post
 categories:
 - liberty

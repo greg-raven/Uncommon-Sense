@@ -1,5 +1,5 @@
 ---
-title: 'Hope and change'
+title: "Hope and change"
 layout: post
 categories:
 - rebellion

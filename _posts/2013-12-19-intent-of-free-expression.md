@@ -1,5 +1,5 @@
 ---
-title: 'Intent of free expression'
+title: "Intent of free expression"
 layout: post
 categories:
 - speech

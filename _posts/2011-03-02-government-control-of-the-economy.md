@@ -1,5 +1,5 @@
 ---
-title: 'Government control of the economy'
+title: "Government control of the economy"
 layout: post
 categories:
 - economics

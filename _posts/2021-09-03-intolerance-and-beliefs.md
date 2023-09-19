@@ -1,5 +1,5 @@
 ---
-title: 'Intolerance and beliefs'
+title: "Intolerance and beliefs"
 layout: post
 categories:
 - conviction

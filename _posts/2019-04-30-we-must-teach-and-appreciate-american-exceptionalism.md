@@ -1,5 +1,5 @@
 ---
-title: 'We must teach and appreciate American exceptionalism'
+title: "We must teach and appreciate American exceptionalism"
 layout: post
 categories:
 - culture

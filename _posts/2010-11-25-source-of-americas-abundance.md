@@ -1,5 +1,5 @@
 ---
-title: 'Source of America's abundance'
+title: "Source of America's abundance"
 layout: post
 categories:
 - liberty

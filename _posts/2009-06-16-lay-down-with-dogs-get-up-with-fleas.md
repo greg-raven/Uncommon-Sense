@@ -1,5 +1,5 @@
 ---
-title: 'Lay down with dogs, get up with fleas'
+title: "Lay down with dogs, get up with fleas"
 layout: post
 categories:
 - immigration

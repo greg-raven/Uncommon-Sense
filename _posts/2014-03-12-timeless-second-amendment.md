@@ -1,8 +1,8 @@
 ---
-title: 'Timeless Second Amendment'
+title: "Timeless Second Amendment"
 layout: post
 categories:
-- 'Second Amendment'
+- Second Amendment
 tags:
 - Robert Emerson
 ---

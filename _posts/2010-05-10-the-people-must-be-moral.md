@@ -1,5 +1,5 @@
 ---
-title: 'The people must be moral'
+title: "The people must be moral"
 layout: post
 categories:
 - morals

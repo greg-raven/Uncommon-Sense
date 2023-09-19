@@ -1,5 +1,5 @@
 ---
-title: 'Source of affluence'
+title: "Source of affluence"
 layout: post
 categories:
 - prosperity

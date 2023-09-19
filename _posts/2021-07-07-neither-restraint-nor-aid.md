@@ -1,5 +1,5 @@
 ---
-title: 'Neither restraint nor aid'
+title: "Neither restraint nor aid"
 layout: post
 categories:
 - liberty

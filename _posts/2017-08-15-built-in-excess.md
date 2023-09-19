@@ -1,5 +1,5 @@
 ---
-title: 'Built-in excess'
+title: "Built-in excess"
 layout: post
 categories:
 - government

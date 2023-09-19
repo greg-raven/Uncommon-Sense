@@ -1,5 +1,5 @@
 ---
-title: 'Government abuse of power'
+title: "Government abuse of power"
 layout: post
 categories:
 - democracy

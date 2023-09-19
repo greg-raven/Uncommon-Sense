@@ -1,5 +1,5 @@
 ---
-title: 'We used to be free'
+title: "We used to be free"
 layout: post
 categories:
 - liberty

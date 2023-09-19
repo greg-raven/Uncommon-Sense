@@ -1,8 +1,8 @@
 ---
-title: 'Are we not to be trusted?'
+title: "Are we not to be trusted?"
 layout: post
 categories:
-- 'Second Amendment'
+- Second Amendment
 tags:
 - Patrick Henry
 ---

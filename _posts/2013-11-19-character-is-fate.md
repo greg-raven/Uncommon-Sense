@@ -1,5 +1,5 @@
 ---
-title: 'Character is fate'
+title: "Character is fate"
 layout: post
 categories:
 - Obamacare

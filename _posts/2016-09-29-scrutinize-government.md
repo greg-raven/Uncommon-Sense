@@ -1,8 +1,8 @@
 ---
-title: 'Scrutinize government'
+title: "Scrutinize government"
 layout: post
 categories:
-- 'informed electorate'
+- informed electorate
 tags:
 - Daniel Webster
 ---

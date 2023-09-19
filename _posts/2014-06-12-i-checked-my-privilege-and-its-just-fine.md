@@ -1,5 +1,5 @@
 ---
-title: 'I checked my privilege, and it's just fine'
+title: "I checked my privilege, and it's just fine"
 layout: post
 categories:
 - language

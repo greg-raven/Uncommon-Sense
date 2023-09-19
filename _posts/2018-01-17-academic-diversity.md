@@ -1,5 +1,5 @@
 ---
-title: 'Academic diversity'
+title: "Academic diversity"
 layout: post
 categories:
 - diversity

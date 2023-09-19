@@ -1,5 +1,5 @@
 ---
-title: 'Blacks don't need these 'favors''
+title: "Blacks don't need these 'favors'"
 layout: post
 categories:
 - race

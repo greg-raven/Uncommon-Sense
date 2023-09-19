@@ -1,5 +1,5 @@
 ---
-title: 'Reversing Muslim immigration'
+title: "Reversing Muslim immigration"
 layout: post
 categories:
 - immigration

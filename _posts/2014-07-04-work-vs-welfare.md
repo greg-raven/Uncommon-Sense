@@ -1,5 +1,5 @@
 ---
-title: 'Work vs. welfare'
+title: "Work vs. welfare"
 layout: post
 categories:
 - welfare

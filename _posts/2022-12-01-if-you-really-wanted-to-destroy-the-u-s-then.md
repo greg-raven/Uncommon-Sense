@@ -1,5 +1,5 @@
 ---
-title: 'If you really wanted to destroy the U.S., then ...'
+title: "If you really wanted to destroy the U.S., then ..."
 layout: post
 categories:
 - socialism

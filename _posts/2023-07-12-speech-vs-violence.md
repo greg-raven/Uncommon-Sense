@@ -1,5 +1,5 @@
 ---
-title: 'Speech vs. violence'
+title: "Speech vs. violence"
 layout: post
 categories:
 - speech

@@ -1,5 +1,5 @@
 ---
-title: 'There ought to be a law'
+title: "There ought to be a law"
 layout: post
 categories:
 - government

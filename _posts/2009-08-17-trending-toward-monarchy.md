@@ -1,5 +1,5 @@
 ---
-title: 'Trending toward monarchy'
+title: "Trending toward monarchy"
 layout: post
 categories:
 - government

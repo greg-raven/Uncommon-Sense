@@ -1,5 +1,5 @@
 ---
-title: 'Our tax system'
+title: "Our tax system"
 layout: post
 categories:
 - socialism

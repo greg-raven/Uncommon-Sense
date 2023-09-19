@@ -1,5 +1,5 @@
 ---
-title: 'Socialism and Marxism'
+title: "Socialism and Marxism"
 layout: post
 categories:
 - socialism

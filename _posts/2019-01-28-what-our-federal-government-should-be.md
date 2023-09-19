@@ -1,5 +1,5 @@
 ---
-title: 'What our Federal government should be'
+title: "What our Federal government should be"
 layout: post
 categories:
 - decentralization

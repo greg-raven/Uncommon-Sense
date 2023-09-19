@@ -1,5 +1,5 @@
 ---
-title: 'Fighting the central bank'
+title: "Fighting the central bank"
 layout: post
 categories:
 - economics

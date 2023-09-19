@@ -1,5 +1,5 @@
 ---
-title: 'Freedom from black-robed demagogues'
+title: "Freedom from black-robed demagogues"
 layout: post
 categories:
 - liberty

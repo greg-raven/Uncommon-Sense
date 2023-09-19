@@ -1,5 +1,5 @@
 ---
-title: 'Give me truth'
+title: "Give me truth"
 layout: post
 categories:
 - truth

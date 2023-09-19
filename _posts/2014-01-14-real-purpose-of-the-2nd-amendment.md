@@ -1,8 +1,8 @@
 ---
-title: 'Real purpose of the 2nd Amendment'
+title: "Real purpose of the 2nd Amendment"
 layout: post
 categories:
-- 'Second Amendment'
+- Second Amendment
 tags:
 - Ann Coulter
 ---

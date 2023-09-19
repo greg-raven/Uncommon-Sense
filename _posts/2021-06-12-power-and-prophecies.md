@@ -1,5 +1,5 @@
 ---
-title: 'Power and prophecies'
+title: "Power and prophecies"
 layout: post
 categories:
 - corruption

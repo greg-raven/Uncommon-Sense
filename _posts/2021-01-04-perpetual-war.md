@@ -1,5 +1,5 @@
 ---
-title: 'Perpetual war'
+title: "Perpetual war"
 layout: post
 categories:
 - war

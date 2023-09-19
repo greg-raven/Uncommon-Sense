@@ -1,5 +1,5 @@
 ---
-title: 'Fight for your freedom'
+title: "Fight for your freedom"
 layout: post
 categories:
 - liberty

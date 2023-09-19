@@ -1,5 +1,5 @@
 ---
-title: 'Preconceived notions'
+title: "Preconceived notions"
 layout: post
 categories:
 - truth

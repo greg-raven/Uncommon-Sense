@@ -1,5 +1,5 @@
 ---
-title: 'Self esteem instead of knowledge'
+title: "Self esteem instead of knowledge"
 layout: post
 categories:
 - knowledge

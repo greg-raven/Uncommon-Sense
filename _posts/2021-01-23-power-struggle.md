@@ -1,5 +1,5 @@
 ---
-title: 'Power struggle'
+title: "Power struggle"
 layout: post
 categories:
 - speech

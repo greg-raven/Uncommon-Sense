@@ -1,5 +1,5 @@
 ---
-title: 'Government power is limited'
+title: "Government power is limited"
 layout: post
 categories:
 - Constitution

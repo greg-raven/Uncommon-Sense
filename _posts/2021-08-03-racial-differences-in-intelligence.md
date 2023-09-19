@@ -1,5 +1,5 @@
 ---
-title: 'Racial differences in intelligence'
+title: "Racial differences in intelligence"
 layout: post
 categories:
 - culture

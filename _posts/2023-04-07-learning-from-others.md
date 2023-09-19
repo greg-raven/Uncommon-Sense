@@ -1,5 +1,5 @@
 ---
-title: 'Learning from others'
+title: "Learning from others"
 layout: post
 categories:
 - education

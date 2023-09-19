@@ -1,5 +1,5 @@
 ---
-title: 'Eliminating cronyism'
+title: "Eliminating cronyism"
 layout: post
 categories:
 - corruption

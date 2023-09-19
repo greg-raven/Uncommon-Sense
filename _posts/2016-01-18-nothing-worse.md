@@ -1,8 +1,8 @@
 ---
-title: 'Nothing worse'
+title: "Nothing worse"
 layout: post
 categories:
-- 'informed electorate'
+- informed electorate
 - knowledge
 tags:
 - Johann Wolfgang von Goethe

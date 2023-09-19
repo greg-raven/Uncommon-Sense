@@ -1,5 +1,5 @@
 ---
-title: 'Getting back on the road to liberty'
+title: "Getting back on the road to liberty"
 layout: post
 categories:
 - democracy

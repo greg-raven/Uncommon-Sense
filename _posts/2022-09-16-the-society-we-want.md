@@ -1,5 +1,5 @@
 ---
-title: 'The society we want'
+title: "The society we want"
 layout: post
 categories:
 - liberty

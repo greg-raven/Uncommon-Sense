@@ -1,5 +1,5 @@
 ---
-title: 'Fight big government'
+title: "Fight big government"
 layout: post
 categories:
 - collectivization

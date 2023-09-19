@@ -1,5 +1,5 @@
 ---
-title: 'Stumbling over the truth'
+title: "Stumbling over the truth"
 layout: post
 categories:
 - truth

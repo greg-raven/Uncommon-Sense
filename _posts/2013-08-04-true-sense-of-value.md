@@ -1,5 +1,5 @@
 ---
-title: 'True sense of value'
+title: "True sense of value"
 layout: post
 categories:
 - service

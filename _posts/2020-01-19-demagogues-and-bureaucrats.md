@@ -1,5 +1,5 @@
 ---
-title: 'Demagogues and bureaucrats'
+title: "Demagogues and bureaucrats"
 layout: post
 categories:
 - demagogues

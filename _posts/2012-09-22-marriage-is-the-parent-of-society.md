@@ -1,5 +1,5 @@
 ---
-title: 'Marriage is the parent of society'
+title: "Marriage is the parent of society"
 layout: post
 categories:
 - culture

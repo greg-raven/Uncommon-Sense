@@ -1,5 +1,5 @@
 ---
-title: 'Diversity of enterprise for the wealth of a nation'
+title: "Diversity of enterprise for the wealth of a nation"
 layout: post
 categories:
 - capitalism

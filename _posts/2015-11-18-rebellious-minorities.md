@@ -1,5 +1,5 @@
 ---
-title: 'Rebellious minorities'
+title: "Rebellious minorities"
 layout: post
 categories:
 - speech

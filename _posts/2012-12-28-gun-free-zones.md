@@ -1,8 +1,8 @@
 ---
-title: 'Gun-free zones'
+title: "Gun-free zones"
 layout: post
 categories:
-- 'Second Amendment'
+- Second Amendment
 tags:
 - John R. Lott Jr.
 ---

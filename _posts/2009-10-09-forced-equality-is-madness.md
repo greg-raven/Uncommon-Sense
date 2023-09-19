@@ -1,5 +1,5 @@
 ---
-title: 'Forced equality is madness'
+title: "Forced equality is madness"
 layout: post
 categories:
 - equality

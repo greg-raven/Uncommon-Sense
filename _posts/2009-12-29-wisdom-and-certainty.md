@@ -1,5 +1,5 @@
 ---
-title: 'Wisdom and certainty'
+title: "Wisdom and certainty"
 layout: post
 categories:
 - knowledge

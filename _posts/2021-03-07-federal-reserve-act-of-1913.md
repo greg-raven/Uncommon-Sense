@@ -1,5 +1,5 @@
 ---
-title: 'Federal Reserve Act of 1913'
+title: "Federal Reserve Act of 1913"
 layout: post
 categories:
 - money

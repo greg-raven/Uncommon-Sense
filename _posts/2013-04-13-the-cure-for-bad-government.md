@@ -1,5 +1,5 @@
 ---
-title: 'The cure for bad government'
+title: "The cure for bad government"
 layout: post
 categories:
 - voting

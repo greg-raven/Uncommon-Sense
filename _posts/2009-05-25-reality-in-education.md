@@ -1,5 +1,5 @@
 ---
-title: 'Reality in education'
+title: "Reality in education"
 layout: post
 categories:
 - education

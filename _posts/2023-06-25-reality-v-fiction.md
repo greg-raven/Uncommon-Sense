@@ -1,5 +1,5 @@
 ---
-title: 'Reality vs. fiction'
+title: "Reality vs. fiction"
 layout: post
 categories:
 - reason

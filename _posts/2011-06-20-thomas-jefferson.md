@@ -1,5 +1,5 @@
 ---
-title: 'Thomas Jefferson'
+title: "Thomas Jefferson"
 layout: post
 categories:
 - knowledge

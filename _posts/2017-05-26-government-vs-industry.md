@@ -1,5 +1,5 @@
 ---
-title: 'Government vs. industry'
+title: "Government vs. industry"
 layout: post
 categories:
 - government

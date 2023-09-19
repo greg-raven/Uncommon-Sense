@@ -1,5 +1,5 @@
 ---
-title: 'Expansion of the state'
+title: "Expansion of the state"
 layout: post
 categories:
 - government

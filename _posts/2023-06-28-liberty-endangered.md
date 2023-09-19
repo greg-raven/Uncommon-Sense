@@ -1,5 +1,5 @@
 ---
-title: 'Liberty endangered'
+title: "Liberty endangered"
 layout: post
 categories:
 - liberty

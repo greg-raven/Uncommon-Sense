@@ -1,5 +1,5 @@
 ---
-title: 'Freedom does not come from government'
+title: "Freedom does not come from government"
 layout: post
 categories:
 - liberty

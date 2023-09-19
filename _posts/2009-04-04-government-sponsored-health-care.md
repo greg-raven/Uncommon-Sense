@@ -1,5 +1,5 @@
 ---
-title: 'Government-sponsored health care'
+title: "Government-sponsored health care"
 layout: post
 categories:
 - Obamacare

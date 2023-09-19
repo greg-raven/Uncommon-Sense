@@ -1,5 +1,5 @@
 ---
-title: 'Seductions of power'
+title: "Seductions of power"
 layout: post
 categories:
 - equality

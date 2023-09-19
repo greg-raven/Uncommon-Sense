@@ -1,5 +1,5 @@
 ---
-title: 'Decadent language'
+title: "Decadent language"
 layout: post
 categories:
 - language

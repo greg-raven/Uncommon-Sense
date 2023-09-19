@@ -1,5 +1,5 @@
 ---
-title: 'The best argument for small government'
+title: "The best argument for small government"
 layout: post
 categories:
 - demagogues

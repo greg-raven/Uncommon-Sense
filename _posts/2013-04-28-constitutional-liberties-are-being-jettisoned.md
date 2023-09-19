@@ -1,5 +1,5 @@
 ---
-title: 'Constitutional liberties are being jettisoned'
+title: "Constitutional liberties are being jettisoned"
 layout: post
 categories:
 - Constitution

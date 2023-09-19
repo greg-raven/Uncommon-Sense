@@ -1,5 +1,5 @@
 ---
-title: 'Other's achievements'
+title: "Other's achievements"
 layout: post
 categories:
 - collectivization

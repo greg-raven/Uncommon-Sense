@@ -1,5 +1,5 @@
 ---
-title: 'Greatest threat to America today'
+title: "Greatest threat to America today"
 layout: post
 categories:
 - taxation

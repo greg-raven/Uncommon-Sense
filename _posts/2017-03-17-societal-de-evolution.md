@@ -1,5 +1,5 @@
 ---
-title: 'Societal de-evolution'
+title: "Societal de-evolution"
 layout: post
 categories:
 - culture

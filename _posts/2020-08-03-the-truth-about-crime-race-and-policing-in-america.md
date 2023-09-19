@@ -1,5 +1,5 @@
 ---
-title: 'The truth about crime, race, and policing in America'
+title: "The truth about crime, race, and policing in America"
 layout: post
 categories:
 - race

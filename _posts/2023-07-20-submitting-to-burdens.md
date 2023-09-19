@@ -1,5 +1,5 @@
 ---
-title: 'Submitting to burdens'
+title: "Submitting to burdens"
 layout: post
 categories:
 - external authority

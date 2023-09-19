@@ -1,5 +1,5 @@
 ---
-title: 'Fourth of July'
+title: "Fourth of July"
 layout: post
 categories:
 - conservatism

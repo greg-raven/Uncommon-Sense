@@ -1,5 +1,5 @@
 ---
-title: 'Government plundering'
+title: "Government plundering"
 layout: post
 categories:
 - rights

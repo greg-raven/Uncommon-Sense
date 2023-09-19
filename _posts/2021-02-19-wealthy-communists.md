@@ -1,5 +1,5 @@
 ---
-title: 'Wealthy communists'
+title: "Wealthy communists"
 layout: post
 categories:
 - collectivization

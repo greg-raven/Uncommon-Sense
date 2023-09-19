@@ -1,5 +1,5 @@
 ---
-title: 'Wolves and lambs'
+title: "Wolves and lambs"
 layout: post
 categories:
 - democracy

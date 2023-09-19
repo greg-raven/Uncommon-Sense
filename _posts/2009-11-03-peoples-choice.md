@@ -1,5 +1,5 @@
 ---
-title: 'People's choice'
+title: "People's choice"
 layout: post
 categories:
 - democracy

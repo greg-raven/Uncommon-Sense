@@ -1,5 +1,5 @@
 ---
-title: 'Modern 'diversity''
+title: "Modern 'diversity'"
 layout: post
 categories:
 - speech

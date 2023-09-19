@@ -1,5 +1,5 @@
 ---
-title: 'The danger of private interests'
+title: "The danger of private interests"
 layout: post
 categories:
 - democracy

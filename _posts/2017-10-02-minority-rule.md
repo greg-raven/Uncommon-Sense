@@ -1,5 +1,5 @@
 ---
-title: 'Minority rule'
+title: "Minority rule"
 layout: post
 categories:
 - liberty

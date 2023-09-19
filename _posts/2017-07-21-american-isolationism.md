@@ -1,8 +1,8 @@
 ---
-title: 'American isolationism'
+title: "American isolationism"
 layout: post
 categories:
-- 'foreign policy'
+- foreign policy
 tags:
 - George Washington
 ---

@@ -1,5 +1,5 @@
 ---
-title: 'The industrial/political complex'
+title: "The industrial/political complex"
 layout: post
 categories:
 - corruption

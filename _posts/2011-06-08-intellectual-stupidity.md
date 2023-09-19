@@ -1,5 +1,5 @@
 ---
-title: 'Intellectual stupidity'
+title: "Intellectual stupidity"
 layout: post
 categories:
 - knowledge

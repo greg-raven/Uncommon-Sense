@@ -1,5 +1,5 @@
 ---
-title: 'Equal protection'
+title: "Equal protection"
 layout: post
 categories:
 - equality

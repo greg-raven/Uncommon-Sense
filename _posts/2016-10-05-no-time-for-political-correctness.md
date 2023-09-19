@@ -1,5 +1,5 @@
 ---
-title: 'No time for political correctness'
+title: "No time for political correctness"
 layout: post
 categories:
 - prosperity

@@ -1,5 +1,5 @@
 ---
-title: 'Immigration policy'
+title: "Immigration policy"
 layout: post
 categories:
 - immigration

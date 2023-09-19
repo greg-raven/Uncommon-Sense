@@ -1,5 +1,5 @@
 ---
-title: 'Foreigners vs. Americans'
+title: "Foreigners vs. Americans"
 layout: post
 categories:
 - citizenship

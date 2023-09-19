@@ -1,5 +1,5 @@
 ---
-title: 'Money talks'
+title: "Money talks"
 layout: post
 categories:
 - money

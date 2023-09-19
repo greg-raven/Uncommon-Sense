@@ -1,5 +1,5 @@
 ---
-title: 'Make your own circumstances'
+title: "Make your own circumstances"
 layout: post
 categories:
 - self-improvement

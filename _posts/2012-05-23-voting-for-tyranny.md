@@ -1,5 +1,5 @@
 ---
-title: 'Voting for tyranny'
+title: "Voting for tyranny"
 layout: post
 categories:
 - democracy

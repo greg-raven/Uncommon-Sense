@@ -1,5 +1,5 @@
 ---
-title: 'Think border walls don't work?'
+title: "Think border walls don't work?"
 layout: post
 categories:
 - immigration

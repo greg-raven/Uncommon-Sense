@@ -1,5 +1,5 @@
 ---
-title: 'Measuring success'
+title: "Measuring success"
 layout: post
 categories:
 - strength

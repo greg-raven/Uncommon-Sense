@@ -1,5 +1,5 @@
 ---
-title: 'Truth and fiction'
+title: "Truth and fiction"
 layout: post
 categories:
 - truth

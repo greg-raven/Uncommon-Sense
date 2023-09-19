@@ -1,5 +1,5 @@
 ---
-title: 'Needs are not rights'
+title: "Needs are not rights"
 layout: post
 categories:
 - welfare

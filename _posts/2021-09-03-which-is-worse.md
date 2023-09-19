@@ -1,5 +1,5 @@
 ---
-title: 'Which is worse?'
+title: "Which is worse?"
 layout: post
 categories:
 - culture

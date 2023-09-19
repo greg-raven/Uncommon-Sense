@@ -1,5 +1,5 @@
 ---
-title: 'Militarizing government officials'
+title: "Militarizing government officials"
 layout: post
 categories:
 - government

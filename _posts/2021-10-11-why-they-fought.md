@@ -1,5 +1,5 @@
 ---
-title: 'Why they fought'
+title: "Why they fought"
 layout: post
 categories:
 - war

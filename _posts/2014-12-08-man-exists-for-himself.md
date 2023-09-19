@@ -1,5 +1,5 @@
 ---
-title: 'Man exists for himself'
+title: "Man exists for himself"
 layout: post
 categories:
 - collectivization

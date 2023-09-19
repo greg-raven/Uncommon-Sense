@@ -1,5 +1,5 @@
 ---
-title: 'Government vs. the people'
+title: "Government vs. the people"
 layout: post
 categories:
 - government

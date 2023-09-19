@@ -1,5 +1,5 @@
 ---
-title: 'Instruments of government'
+title: "Instruments of government"
 layout: post
 categories:
 - rebellion

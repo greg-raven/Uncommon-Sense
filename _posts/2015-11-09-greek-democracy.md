@@ -1,5 +1,5 @@
 ---
-title: 'Greek democracy'
+title: "Greek democracy"
 layout: post
 categories:
 - democracy

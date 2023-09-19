@@ -1,5 +1,5 @@
 ---
-title: 'Talk is cheap'
+title: "Talk is cheap"
 layout: post
 categories:
 - government

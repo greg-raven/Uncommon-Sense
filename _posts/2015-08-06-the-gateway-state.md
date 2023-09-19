@@ -1,5 +1,5 @@
 ---
-title: 'The 'gateway' state'
+title: "The 'gateway' state"
 layout: post
 categories:
 - government

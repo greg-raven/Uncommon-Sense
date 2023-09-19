@@ -1,5 +1,5 @@
 ---
-title: 'Freedom allows greatness'
+title: "Freedom allows greatness"
 layout: post
 categories:
 - liberty

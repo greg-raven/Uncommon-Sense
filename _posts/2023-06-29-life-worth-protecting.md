@@ -1,5 +1,5 @@
 ---
-title: 'Is your life worth protecting?'
+title: "Is your life worth protecting?"
 layout: post
 categories:
 - Second Amendment

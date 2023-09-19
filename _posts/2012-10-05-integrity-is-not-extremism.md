@@ -1,5 +1,5 @@
 ---
-title: 'Integrity is not extremism'
+title: "Integrity is not extremism"
 layout: post
 categories:
 - virtue

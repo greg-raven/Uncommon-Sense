@@ -1,5 +1,5 @@
 ---
-title: 'Need, greed, and compassion'
+title: "Need, greed, and compassion"
 layout: post
 categories:
 - socialism

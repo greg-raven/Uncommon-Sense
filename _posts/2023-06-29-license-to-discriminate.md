@@ -1,5 +1,5 @@
 ---
-title: 'No license to discriminate'
+title: "No license to discriminate"
 layout: post
 categories:
 - equality

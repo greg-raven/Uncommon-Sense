@@ -1,5 +1,5 @@
 ---
-title: 'Happiness lies in avoiding socialism'
+title: "Happiness lies in avoiding socialism"
 layout: post
 categories:
 - socialism

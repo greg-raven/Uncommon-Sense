@@ -1,5 +1,5 @@
 ---
-title: 'Herd mentality'
+title: "Herd mentality"
 layout: post
 categories:
 - collectivization

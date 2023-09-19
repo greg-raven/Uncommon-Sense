@@ -1,5 +1,5 @@
 ---
-title: 'Cheaper than ever'
+title: "Cheaper than ever"
 layout: post
 categories:
 - economics

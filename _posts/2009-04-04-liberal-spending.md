@@ -1,5 +1,5 @@
 ---
-title: 'Liberal spending'
+title: "Liberal spending"
 layout: post
 categories:
 - welfare

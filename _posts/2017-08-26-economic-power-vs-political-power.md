@@ -1,5 +1,5 @@
 ---
-title: 'Economic power vs. political power'
+title: "Economic power vs. political power"
 layout: post
 categories:
 - economics

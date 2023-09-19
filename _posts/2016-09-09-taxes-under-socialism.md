@@ -1,5 +1,5 @@
 ---
-title: 'Taxes under socialism'
+title: "Taxes under socialism"
 layout: post
 categories:
 - socialism

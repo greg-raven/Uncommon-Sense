@@ -1,5 +1,5 @@
 ---
-title: 'Honesty in office is paramount'
+title: "Honesty in office is paramount"
 layout: post
 categories:
 - morals

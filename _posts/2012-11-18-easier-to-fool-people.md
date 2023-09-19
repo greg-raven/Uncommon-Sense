@@ -1,5 +1,5 @@
 ---
-title: 'Easier to fool people'
+title: "Easier to fool people"
 layout: post
 categories:
 - education

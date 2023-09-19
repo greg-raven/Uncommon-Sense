@@ -1,5 +1,5 @@
 ---
-title: 'The best form of government'
+title: "The best form of government"
 layout: post
 categories:
 - democracy

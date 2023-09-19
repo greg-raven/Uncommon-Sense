@@ -1,5 +1,5 @@
 ---
-title: 'Free press'
+title: "Free press"
 layout: post
 categories:
 - press

@@ -1,5 +1,5 @@
 ---
-title: 'Initiation of force'
+title: "Initiation of force"
 layout: post
 categories:
 - rights

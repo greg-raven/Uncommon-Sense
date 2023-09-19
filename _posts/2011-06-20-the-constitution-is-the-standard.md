@@ -1,5 +1,5 @@
 ---
-title: 'The Constitution is the standard'
+title: "The Constitution is the standard"
 layout: post
 categories:
 - Constitution

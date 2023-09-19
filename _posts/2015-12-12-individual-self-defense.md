@@ -1,8 +1,8 @@
 ---
-title: 'Individual self defense'
+title: "Individual self defense"
 layout: post
 categories:
-- 'Second Amendment'
+- Second Amendment
 tags:
 - John Adams
 ---

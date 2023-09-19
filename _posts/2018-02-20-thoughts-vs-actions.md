@@ -1,5 +1,5 @@
 ---
-title: 'Thoughts vs. actions'
+title: "Thoughts vs. actions"
 layout: post
 categories:
 - speech

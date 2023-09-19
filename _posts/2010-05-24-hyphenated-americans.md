@@ -1,5 +1,5 @@
 ---
-title: 'Hyphenated Americanism'
+title: "Hyphenated Americanism"
 layout: post
 categories:
 - citizenship

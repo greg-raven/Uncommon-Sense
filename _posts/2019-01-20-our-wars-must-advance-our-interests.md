@@ -1,5 +1,5 @@
 ---
-title: 'Our wars must advance our interests'
+title: "Our wars must advance our interests"
 layout: post
 categories:
 - war

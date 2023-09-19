@@ -1,5 +1,5 @@
 ---
-title: 'Parliament of whores'
+title: "Parliament of whores"
 layout: post
 categories:
 - government

@@ -1,5 +1,5 @@
 ---
-title: 'Liable to abuse'
+title: "Liable to abuse"
 layout: post
 categories:
 - money

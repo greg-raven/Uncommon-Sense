@@ -1,5 +1,5 @@
 ---
-title: 'No sane country would permit birthright citizenship'
+title: "No sane country would permit birthright citizenship"
 layout: post
 categories:
 - citizenship

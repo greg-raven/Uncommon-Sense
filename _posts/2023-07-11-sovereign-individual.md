@@ -1,5 +1,5 @@
 ---
-title: 'The individual is sovereign'
+title: "The individual is sovereign"
 layout: post
 categories:
 - individualism

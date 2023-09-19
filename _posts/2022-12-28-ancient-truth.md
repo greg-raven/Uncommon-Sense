@@ -1,5 +1,5 @@
 ---
-title: 'Ancient truth'
+title: "Ancient truth"
 layout: post
 categories:
 - liberty

@@ -1,5 +1,5 @@
 ---
-title: 'What's the difference?'
+title: "What's the difference?"
 layout: post
 categories:
 - education

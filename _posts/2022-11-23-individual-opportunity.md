@@ -1,5 +1,5 @@
 ---
-title: 'Individual opportunity'
+title: "Individual opportunity"
 layout: post
 categories:
 - liberty

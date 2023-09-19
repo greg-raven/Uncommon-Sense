@@ -1,5 +1,5 @@
 ---
-title: 'Foreign wars'
+title: "Foreign wars"
 layout: post
 categories:
 - war

@@ -1,5 +1,5 @@
 ---
-title: 'Fixing the open border'
+title: "Fixing the open border"
 layout: post
 categories:
 - immigration

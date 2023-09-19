@@ -1,5 +1,5 @@
 ---
-title: 'Banking control over government'
+title: "Banking control over government"
 layout: post
 categories:
 - money

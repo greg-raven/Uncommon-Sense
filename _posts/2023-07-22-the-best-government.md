@@ -1,5 +1,5 @@
 ---
-title: 'Which is the best government?'
+title: "Which is the best government?"
 layout: post
 categories:
 - government

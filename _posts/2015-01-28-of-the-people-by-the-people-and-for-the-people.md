@@ -1,5 +1,5 @@
 ---
-title: 'Of the people, by the people, and for the people'
+title: "Of the people, by the people, and for the people"
 layout: post
 categories:
 - demagogues

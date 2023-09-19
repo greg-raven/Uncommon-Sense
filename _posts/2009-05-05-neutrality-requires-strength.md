@@ -1,5 +1,5 @@
 ---
-title: 'Neutrality requires strength'
+title: "Neutrality requires strength"
 layout: post
 categories:
 - strength

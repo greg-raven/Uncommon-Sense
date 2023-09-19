@@ -1,5 +1,5 @@
 ---
-title: 'From freedom to tyranny'
+title: "From freedom to tyranny"
 layout: post
 categories:
 - socialism

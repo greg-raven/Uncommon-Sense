@@ -1,5 +1,5 @@
 ---
-title: 'Prohibition law'
+title: "Prohibition law"
 layout: post
 categories:
 - rights

@@ -1,5 +1,5 @@
 ---
-title: 'Moral defense of individual rights'
+title: "Moral defense of individual rights"
 layout: post
 categories:
 - liberty

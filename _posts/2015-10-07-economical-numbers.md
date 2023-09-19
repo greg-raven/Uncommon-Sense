@@ -1,5 +1,5 @@
 ---
-title: 'Economical numbers'
+title: "Economical numbers"
 layout: post
 categories:
 - debt

@@ -1,5 +1,5 @@
 ---
-title: 'Taking Western civilization for granted'
+title: "Taking Western civilization for granted"
 layout: post
 categories:
 - culture

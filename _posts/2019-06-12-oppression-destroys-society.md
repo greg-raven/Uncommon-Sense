@@ -1,5 +1,5 @@
 ---
-title: 'Oppression destroys society'
+title: "Oppression destroys society"
 layout: post
 categories:
 - democracy

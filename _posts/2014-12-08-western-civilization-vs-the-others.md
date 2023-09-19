@@ -1,5 +1,5 @@
 ---
-title: 'Western civilization vs. the others'
+title: "Western civilization vs. the others"
 layout: post
 categories:
 - liberty

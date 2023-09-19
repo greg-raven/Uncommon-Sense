@@ -1,5 +1,5 @@
 ---
-title: 'Bad precedents'
+title: "Bad precedents"
 layout: post
 categories:
 - laws

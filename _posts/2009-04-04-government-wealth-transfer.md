@@ -1,5 +1,5 @@
 ---
-title: 'Government wealth transfer'
+title: "Government wealth transfer"
 layout: post
 categories:
 - money

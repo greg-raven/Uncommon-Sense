@@ -1,5 +1,5 @@
 ---
-title: 'Democracy and immigration'
+title: "Democracy and immigration"
 layout: post
 categories:
 - immigration

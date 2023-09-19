@@ -1,5 +1,5 @@
 ---
-title: 'Losing the branches of our government'
+title: "Losing the branches of our government"
 layout: post
 categories:
 - government

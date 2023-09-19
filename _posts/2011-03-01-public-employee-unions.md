@@ -1,5 +1,5 @@
 ---
-title: 'Public employee unions'
+title: "Public employee unions"
 layout: post
 categories:
 - collectivization

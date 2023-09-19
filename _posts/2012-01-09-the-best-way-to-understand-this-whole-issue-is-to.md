@@ -1,5 +1,5 @@
 ---
-title: 'What government does'
+title: "What government does"
 layout: post
 categories:
 - socialism

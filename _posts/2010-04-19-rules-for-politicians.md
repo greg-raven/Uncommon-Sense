@@ -1,5 +1,5 @@
 ---
-title: 'Rules for politicians'
+title: "Rules for politicians"
 layout: post
 categories:
 - money

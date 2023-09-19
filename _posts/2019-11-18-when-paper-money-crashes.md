@@ -1,5 +1,5 @@
 ---
-title: 'When paper money crashes'
+title: "When paper money crashes"
 layout: post
 categories:
 - money

@@ -1,5 +1,5 @@
 ---
-title: 'Jaws of power'
+title: "Jaws of power"
 layout: post
 categories:
 - collectivization

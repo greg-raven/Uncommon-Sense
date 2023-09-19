@@ -1,5 +1,5 @@
 ---
-title: 'Gold is the ultimate'
+title: "Gold is the ultimate"
 layout: post
 categories:
 - money

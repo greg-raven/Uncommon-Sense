@@ -1,5 +1,5 @@
 ---
-title: 'Paper money not legal'
+title: "Paper money not legal"
 layout: post
 categories:
 - money

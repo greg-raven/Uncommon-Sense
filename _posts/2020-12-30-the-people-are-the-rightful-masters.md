@@ -1,5 +1,5 @@
 ---
-title: 'The people are the rightful masters'
+title: "The people are the rightful masters"
 layout: post
 categories:
 - Constitution

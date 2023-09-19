@@ -1,5 +1,5 @@
 ---
-title: 'Pausing immigration to rid newcomers of foreign attachments'
+title: "Pausing immigration to rid newcomers of foreign attachments"
 layout: post
 categories:
 - citizenship

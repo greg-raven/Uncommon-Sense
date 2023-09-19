@@ -1,5 +1,5 @@
 ---
-title: 'The pretense of caring'
+title: "The pretense of caring"
 layout: post
 categories:
 - demagogues

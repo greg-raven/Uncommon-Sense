@@ -1,5 +1,5 @@
 ---
-title: 'Vote for freedom'
+title: "Vote for freedom"
 layout: post
 categories:
 - democracy

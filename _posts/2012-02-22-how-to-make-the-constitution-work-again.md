@@ -1,5 +1,5 @@
 ---
-title: 'How to make the Constitution work again'
+title: "How to make the Constitution work again"
 layout: post
 categories:
 - Constitution

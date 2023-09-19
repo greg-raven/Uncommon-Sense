@@ -1,8 +1,8 @@
 ---
-title: 'The logic of gun control'
+title: "The logic of gun control"
 layout: post
 categories:
-- 'Second Amendment'
+- Second Amendment
 tags:
 - Joe Sobran
 ---

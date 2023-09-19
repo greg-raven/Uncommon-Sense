@@ -1,8 +1,8 @@
 ---
-title: 'Formula for tyranny'
+title: "Formula for tyranny"
 layout: post
 categories:
-- 'Second Amendment'
+- Second Amendment
 tags:
 - James Madison
 ---

@@ -1,5 +1,5 @@
 ---
-title: 'Minimum-wage laws'
+title: "Minimum-wage laws"
 layout: post
 categories:
 - economics

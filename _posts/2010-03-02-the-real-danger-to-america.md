@@ -1,5 +1,5 @@
 ---
-title: 'The real danger to America'
+title: "The real danger to America"
 layout: post
 categories:
 - democracy

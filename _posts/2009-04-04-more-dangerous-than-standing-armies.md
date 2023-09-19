@@ -1,5 +1,5 @@
 ---
-title: 'More dangerous than standing armies'
+title: "More dangerous than standing armies"
 layout: post
 categories:
 - money

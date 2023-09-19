@@ -1,5 +1,5 @@
 ---
-title: 'Changing climate change'
+title: "Changing climate change"
 layout: post
 categories:
 - climate

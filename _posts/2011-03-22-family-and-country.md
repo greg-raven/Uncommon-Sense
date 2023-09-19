@@ -1,5 +1,5 @@
 ---
-title: 'Family and country'
+title: "Family and country"
 layout: post
 categories:
 - collectivization

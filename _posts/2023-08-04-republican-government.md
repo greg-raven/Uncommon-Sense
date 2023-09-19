@@ -1,5 +1,5 @@
 ---
-title: 'Republican government'
+title: "Republican government"
 layout: post
 categories:
 - government

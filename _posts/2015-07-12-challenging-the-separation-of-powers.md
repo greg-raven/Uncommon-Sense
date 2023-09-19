@@ -1,5 +1,5 @@
 ---
-title: 'Challenging the separation of powers'
+title: "Challenging the separation of powers"
 layout: post
 categories:
 - Constitution

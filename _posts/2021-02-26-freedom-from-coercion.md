@@ -1,5 +1,5 @@
 ---
-title: 'Freedom from coercion'
+title: "Freedom from coercion"
 layout: post
 categories:
 - demagogues

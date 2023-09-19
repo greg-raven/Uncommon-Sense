@@ -1,5 +1,5 @@
 ---
-title: 'Subsidizing problems'
+title: "Subsidizing problems"
 layout: post
 categories:
 - socialism

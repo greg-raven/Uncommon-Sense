@@ -1,5 +1,5 @@
 ---
-title: 'Reason vs. ignorance'
+title: "Reason vs. ignorance"
 layout: post
 categories:
 - reason

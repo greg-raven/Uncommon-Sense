@@ -1,5 +1,5 @@
 ---
-title: 'Gold, silver, barter, and debt'
+title: "Gold, silver, barter, and debt"
 layout: post
 categories:
 - debt

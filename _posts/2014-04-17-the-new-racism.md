@@ -1,5 +1,5 @@
 ---
-title: 'The new racism'
+title: "The new racism"
 layout: post
 categories:
 - race

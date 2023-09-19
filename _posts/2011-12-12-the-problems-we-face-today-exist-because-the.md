@@ -1,5 +1,5 @@
 ---
-title: 'Givers vs. takers'
+title: "Givers vs. takers"
 layout: post
 categories:
 - democracy

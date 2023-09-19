@@ -1,5 +1,5 @@
 ---
-title: 'Costs of diversity'
+title: "Costs of diversity"
 layout: post
 categories:
 - diversity

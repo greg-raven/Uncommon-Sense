@@ -1,5 +1,5 @@
 ---
-title: 'Too much government is bad'
+title: "Too much government is bad"
 layout: post
 categories:
 - government

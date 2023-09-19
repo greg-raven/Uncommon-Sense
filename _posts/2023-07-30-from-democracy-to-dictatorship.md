@@ -1,5 +1,5 @@
 ---
-title: 'From democracy to dictatorship'
+title: "From democracy to dictatorship"
 layout: post
 categories:
 - democracy

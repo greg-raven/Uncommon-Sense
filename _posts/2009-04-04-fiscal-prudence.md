@@ -1,5 +1,5 @@
 ---
-title: 'Fiscal prudence'
+title: "Fiscal prudence"
 layout: post
 categories:
 - money

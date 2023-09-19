@@ -1,5 +1,5 @@
 ---
-title: 'Why we fight'
+title: "Why we fight"
 layout: post
 categories:
 - equality

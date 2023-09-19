@@ -1,5 +1,5 @@
 ---
-title: 'Freedom is the absence of force'
+title: "Freedom is the absence of force"
 layout: post
 categories:
 - liberty

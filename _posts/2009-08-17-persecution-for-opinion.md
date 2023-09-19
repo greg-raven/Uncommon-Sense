@@ -1,5 +1,5 @@
 ---
-title: 'Persecution for opinion'
+title: "Persecution for opinion"
 layout: post
 categories:
 - speech

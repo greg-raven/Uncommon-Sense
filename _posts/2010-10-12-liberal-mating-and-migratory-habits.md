@@ -1,5 +1,5 @@
 ---
-title: 'Liberal mating and migratory habits'
+title: "Liberal mating and migratory habits"
 layout: post
 categories:
 - liberalism

@@ -1,5 +1,5 @@
 ---
-title: 'Paper money cheats the common man'
+title: "Paper money cheats the common man"
 layout: post
 categories:
 - money

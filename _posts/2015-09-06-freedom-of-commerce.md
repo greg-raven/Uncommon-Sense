@@ -1,5 +1,5 @@
 ---
-title: 'Freedom of commerce'
+title: "Freedom of commerce"
 layout: post
 categories:
 - economics

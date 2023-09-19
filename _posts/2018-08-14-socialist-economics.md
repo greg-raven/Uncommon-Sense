@@ -1,5 +1,5 @@
 ---
-title: 'Socialist 'economics''
+title: "Socialist 'economics'"
 layout: post
 categories:
 - economics

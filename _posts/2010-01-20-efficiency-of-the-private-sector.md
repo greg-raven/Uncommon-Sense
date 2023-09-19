@@ -1,5 +1,5 @@
 ---
-title: 'Efficiency of the private sector'
+title: "Efficiency of the private sector"
 layout: post
 categories:
 - decentralization

@@ -1,5 +1,5 @@
 ---
-title: 'Anybody can be president'
+title: "Anybody can be president"
 layout: post
 categories:
 - government

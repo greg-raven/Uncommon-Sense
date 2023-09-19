@@ -1,8 +1,8 @@
 ---
-title: 'The palladium of our liberties'
+title: "The palladium of our liberties"
 layout: post
 categories:
-- 'Second Amendment'
+- Second Amendment
 tags:
 - Joseph Story
 ---

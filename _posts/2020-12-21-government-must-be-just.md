@@ -1,5 +1,5 @@
 ---
-title: 'Government must be just'
+title: "Government must be just"
 layout: post
 categories:
 - laws

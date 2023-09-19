@@ -1,5 +1,5 @@
 ---
-title: 'Deficit spending'
+title: "Deficit spending"
 layout: post
 categories:
 - taxation

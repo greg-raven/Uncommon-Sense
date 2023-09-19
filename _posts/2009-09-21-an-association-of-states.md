@@ -1,5 +1,5 @@
 ---
-title: 'An association of states'
+title: "An association of states"
 layout: post
 categories:
 - Constitution

@@ -1,5 +1,5 @@
 ---
-title: 'Using every trick to expand government'
+title: "Using every trick to expand government"
 layout: post
 categories:
 - government

@@ -1,5 +1,5 @@
 ---
-title: 'Lethargic government wanted'
+title: "Lethargic government wanted"
 layout: post
 categories:
 - decentralization

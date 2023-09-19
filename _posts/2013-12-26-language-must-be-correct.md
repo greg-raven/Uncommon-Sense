@@ -1,5 +1,5 @@
 ---
-title: 'Language must be correct'
+title: "Language must be correct"
 layout: post
 categories:
 - language

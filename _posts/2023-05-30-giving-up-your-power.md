@@ -1,8 +1,8 @@
 ---
-title: 'Giving up your power'
+title: "Giving up your power"
 layout: post
 categories:
-- 'external authority'
+- external authority
 tags:
 - Alice Walker
 ---

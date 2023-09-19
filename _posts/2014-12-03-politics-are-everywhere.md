@@ -1,5 +1,5 @@
 ---
-title: 'Politics are everywhere'
+title: "Politics are everywhere"
 layout: post
 categories:
 - politics

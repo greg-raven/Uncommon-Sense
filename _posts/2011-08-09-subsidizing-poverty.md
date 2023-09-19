@@ -1,5 +1,5 @@
 ---
-title: 'Subsidizing poverty'
+title: "Subsidizing poverty"
 layout: post
 categories:
 - welfare

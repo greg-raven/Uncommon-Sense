@@ -1,8 +1,8 @@
 ---
-title: 'Mind control'
+title: "Mind control"
 layout: post
 categories:
-- 'external authority'
+- external authority
 tags:
 - Robert A. Heinlein
 ---

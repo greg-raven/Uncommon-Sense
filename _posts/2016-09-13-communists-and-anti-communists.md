@@ -1,5 +1,5 @@
 ---
-title: 'Communists and anti-Communists'
+title: "Communists and anti-Communists"
 layout: post
 categories:
 - socialism

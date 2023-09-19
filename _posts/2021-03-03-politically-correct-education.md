@@ -1,5 +1,5 @@
 ---
-title: 'Politically-correct education'
+title: "Politically-correct education"
 layout: post
 categories:
 - education

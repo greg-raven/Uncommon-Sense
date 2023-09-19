@@ -1,5 +1,5 @@
 ---
-title: 'Socialism must be voluntary'
+title: "Socialism must be voluntary"
 layout: post
 categories:
 - socialism

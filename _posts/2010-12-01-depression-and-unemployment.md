@@ -1,5 +1,5 @@
 ---
-title: 'Depression and unemployment'
+title: "Depression and unemployment"
 layout: post
 categories:
 - economics

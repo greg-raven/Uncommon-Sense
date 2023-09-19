@@ -1,5 +1,5 @@
 ---
-title: 'Property rights are foundational'
+title: "Property rights are foundational"
 layout: post
 categories:
 - property

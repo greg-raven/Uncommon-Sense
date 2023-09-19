@@ -1,5 +1,5 @@
 ---
-title: 'Inside progressivism'
+title: "Inside progressivism"
 layout: post
 categories:
 - socialism

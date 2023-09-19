@@ -1,8 +1,8 @@
 ---
-title: 'Protection against monarchs, etc.'
+title: "Protection against monarchs, etc."
 layout: post
 categories:
-- 'Second Amendment'
+- Second Amendment
 tags:
 - Edward Gibbon
 ---

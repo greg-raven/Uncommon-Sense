@@ -1,5 +1,5 @@
 ---
-title: 'The free market limits oppression'
+title: "The free market limits oppression"
 layout: post
 categories:
 - capitalism

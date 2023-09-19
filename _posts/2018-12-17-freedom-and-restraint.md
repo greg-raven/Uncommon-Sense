@@ -1,5 +1,5 @@
 ---
-title: 'Freedom and restraint'
+title: "Freedom and restraint"
 layout: post
 categories:
 - liberty

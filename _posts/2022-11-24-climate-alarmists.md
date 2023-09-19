@@ -1,5 +1,5 @@
 ---
-title: 'Climate alarmists'
+title: "Climate alarmists"
 layout: post
 categories:
 - climate

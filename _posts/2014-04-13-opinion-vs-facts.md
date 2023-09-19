@@ -1,5 +1,5 @@
 ---
-title: 'Opinion vs. facts'
+title: "Opinion vs. facts"
 layout: post
 categories:
 - demagogues

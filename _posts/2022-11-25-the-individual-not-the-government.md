@@ -1,5 +1,5 @@
 ---
-title: 'The individual, not the government'
+title: "The individual, not the government"
 layout: post
 categories:
 - government

@@ -1,5 +1,5 @@
 ---
-title: 'Fear enables power'
+title: "Fear enables power"
 layout: post
 categories:
 - external authority

@@ -1,5 +1,5 @@
 ---
-title: 'The strongest argument for free enterprise'
+title: "The strongest argument for free enterprise"
 layout: post
 categories:
 - capitalism

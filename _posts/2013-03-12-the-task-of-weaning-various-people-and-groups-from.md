@@ -1,5 +1,5 @@
 ---
-title: 'Weaning people from the state teat'
+title: "Weaning people from the state teat"
 layout: post
 categories:
 - individualism

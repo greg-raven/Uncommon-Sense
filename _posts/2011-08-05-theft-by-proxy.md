@@ -1,5 +1,5 @@
 ---
-title: 'Theft by proxy'
+title: "Theft by proxy"
 layout: post
 categories:
 - socialism

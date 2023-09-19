@@ -1,5 +1,5 @@
 ---
-title: 'In the name of liberalism'
+title: "In the name of liberalism"
 layout: post
 categories:
 - collectivization

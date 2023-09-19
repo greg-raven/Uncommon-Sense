@@ -1,5 +1,5 @@
 ---
-title: 'Managing capital'
+title: "Managing capital"
 layout: post
 categories:
 - economics

@@ -1,8 +1,8 @@
 ---
-title: 'Inherent right of the people'
+title: "Inherent right of the people"
 layout: post
 categories:
-- 'external authority'
+- external authority
 - rebellion
 tags:
 - Daniel Webster

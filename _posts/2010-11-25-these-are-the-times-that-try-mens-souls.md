@@ -1,5 +1,5 @@
 ---
-title: 'These are the times that try men's souls'
+title: "These are the times that try men's souls"
 layout: post
 categories:
 - liberty

@@ -1,5 +1,5 @@
 ---
-title: 'Putting the trans in transition'
+title: "Putting the trans in transition"
 layout: post
 categories:
 - morals

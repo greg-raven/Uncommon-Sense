@@ -1,5 +1,5 @@
 ---
-title: 'From republic to democracy'
+title: "From republic to democracy"
 layout: post
 categories:
 - democracy

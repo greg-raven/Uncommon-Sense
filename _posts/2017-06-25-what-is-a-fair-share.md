@@ -1,5 +1,5 @@
 ---
-title: 'What is a 'fair share'?'
+title: "What is a 'fair share'?"
 layout: post
 categories:
 - socialism

@@ -1,8 +1,8 @@
 ---
-title: 'Contact your representatives'
+title: "Contact your representatives"
 layout: post
 categories:
-- 'informed electorate'
+- informed electorate
 tags:
 - Nancy Pelosi
 ---

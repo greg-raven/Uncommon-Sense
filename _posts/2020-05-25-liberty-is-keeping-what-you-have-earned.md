@@ -1,5 +1,5 @@
 ---
-title: 'Liberty is keeping what you have earned'
+title: "Liberty is keeping what you have earned"
 layout: post
 categories:
 - taxation

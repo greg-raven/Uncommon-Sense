@@ -1,5 +1,5 @@
 ---
-title: 'The effects of Prohibition'
+title: "The effects of Prohibition"
 layout: post
 categories:
 - laws

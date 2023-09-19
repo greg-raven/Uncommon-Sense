@@ -1,5 +1,5 @@
 ---
-title: 'Politics vs. reality'
+title: "Politics vs. reality"
 layout: post
 categories:
 - politics

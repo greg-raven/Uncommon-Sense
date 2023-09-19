@@ -1,5 +1,5 @@
 ---
-title: 'Building the new Internet'
+title: "Building the new Internet"
 layout: post
 categories:
 - speech

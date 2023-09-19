@@ -1,8 +1,8 @@
 ---
-title: 'God or tyrants'
+title: "God or tyrants"
 layout: post
 categories:
-- 'external authority'
+- external authority
 tags:
 - Benjamin Franklin
 ---

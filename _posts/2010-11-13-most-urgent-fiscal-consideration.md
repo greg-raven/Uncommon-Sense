@@ -1,5 +1,5 @@
 ---
-title: 'Most urgent fiscal consideration'
+title: "Most urgent fiscal consideration"
 layout: post
 categories:
 - debt

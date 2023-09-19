@@ -1,5 +1,5 @@
 ---
-title: 'The fatter the government, the skinnier the people'
+title: "The fatter the government, the skinnier the people"
 layout: post
 categories:
 - government

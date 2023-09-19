@@ -1,5 +1,5 @@
 ---
-title: 'The zero-sum nature of college admissions'
+title: "The zero-sum nature of college admissions"
 layout: post
 categories:
 - equality

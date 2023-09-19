@@ -1,5 +1,5 @@
 ---
-title: 'Political correctness in a nutshell'
+title: "Political correctness in a nutshell"
 layout: post
 categories:
 - individualism

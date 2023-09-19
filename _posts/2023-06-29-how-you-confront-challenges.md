@@ -1,5 +1,5 @@
 ---
-title: 'What matters is how you confront challenges'
+title: "What matters is how you confront challenges"
 layout: post
 categories:
 - equality

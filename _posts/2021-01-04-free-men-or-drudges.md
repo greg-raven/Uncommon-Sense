@@ -1,5 +1,5 @@
 ---
-title: 'Free men or drudges?'
+title: "Free men or drudges?"
 layout: post
 categories:
 - liberty

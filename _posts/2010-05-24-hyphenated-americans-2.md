@@ -1,5 +1,5 @@
 ---
-title: 'Hyphenated Americans'
+title: "Hyphenated Americans"
 layout: post
 categories:
 - citizenship

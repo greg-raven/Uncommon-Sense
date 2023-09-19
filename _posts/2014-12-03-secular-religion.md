@@ -1,5 +1,5 @@
 ---
-title: 'Secular religion'
+title: "Secular religion"
 layout: post
 categories:
 - socialism

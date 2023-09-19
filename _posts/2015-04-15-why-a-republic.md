@@ -1,5 +1,5 @@
 ---
-title: 'Why a republic?'
+title: "Why a republic?"
 layout: post
 categories:
 - Constitution

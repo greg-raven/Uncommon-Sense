@@ -1,8 +1,8 @@
 ---
-title: 'Victimizing the victims'
+title: "Victimizing the victims"
 layout: post
 categories:
-- 'Second Amendment'
+- Second Amendment
 tags:
 - William Burroughs
 ---

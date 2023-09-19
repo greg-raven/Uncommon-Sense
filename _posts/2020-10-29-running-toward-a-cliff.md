@@ -1,5 +1,5 @@
 ---
-title: 'Running toward a cliff'
+title: "Running toward a cliff"
 layout: post
 categories:
 - individualism

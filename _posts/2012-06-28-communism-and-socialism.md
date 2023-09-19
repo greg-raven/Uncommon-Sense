@@ -1,5 +1,5 @@
 ---
-title: 'Communism and socialism'
+title: "Communism and socialism"
 layout: post
 categories:
 - socialism

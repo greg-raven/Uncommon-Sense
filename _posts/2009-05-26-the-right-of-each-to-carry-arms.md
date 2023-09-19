@@ -1,8 +1,8 @@
 ---
-title: 'The right of each to carry arms'
+title: "The right of each to carry arms"
 layout: post
 categories:
-- 'Second Amendment'
+- Second Amendment
 tags:
 - James Paterson
 ---

@@ -1,5 +1,5 @@
 ---
-title: 'Perpetual debt'
+title: "Perpetual debt"
 layout: post
 categories:
 - taxation

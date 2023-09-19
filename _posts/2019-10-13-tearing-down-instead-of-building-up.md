@@ -1,5 +1,5 @@
 ---
-title: 'Tearing down instead of building up'
+title: "Tearing down instead of building up"
 layout: post
 categories:
 - socialism

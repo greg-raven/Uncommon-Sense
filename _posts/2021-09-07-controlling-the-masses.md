@@ -1,5 +1,5 @@
 ---
-title: 'Controlling the masses'
+title: "Controlling the masses"
 layout: post
 categories:
 - education

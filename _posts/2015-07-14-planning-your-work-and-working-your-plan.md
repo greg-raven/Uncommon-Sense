@@ -1,5 +1,5 @@
 ---
-title: 'Planning your work, and working your plan'
+title: "Planning your work, and working your plan"
 layout: post
 categories:
 - adulthood

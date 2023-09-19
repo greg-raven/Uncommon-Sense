@@ -1,5 +1,5 @@
 ---
-title: 'Encouraging segregation'
+title: "Encouraging segregation"
 layout: post
 categories:
 - equality

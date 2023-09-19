@@ -1,5 +1,5 @@
 ---
-title: 'Liberty and virtue'
+title: "Liberty and virtue"
 layout: post
 categories:
 - virtue

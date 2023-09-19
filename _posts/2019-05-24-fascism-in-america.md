@@ -1,5 +1,5 @@
 ---
-title: 'Fascism in America'
+title: "Fascism in America"
 layout: post
 categories:
 - socialism

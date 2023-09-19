@@ -1,5 +1,5 @@
 ---
-title: 'Preserving the American way of life'
+title: "Preserving the American way of life"
 layout: post
 categories:
 - liberty

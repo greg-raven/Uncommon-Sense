@@ -1,5 +1,5 @@
 ---
-title: 'The free market'
+title: "The free market"
 layout: post
 categories:
 - economics

@@ -1,5 +1,5 @@
 ---
-title: 'Overbearing majority'
+title: "Overbearing majority"
 layout: post
 categories:
 - democracy

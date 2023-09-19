@@ -1,5 +1,5 @@
 ---
-title: 'Don't use kids as guinea pigs'
+title: "Don't use kids as guinea pigs"
 layout: post
 categories:
 - education

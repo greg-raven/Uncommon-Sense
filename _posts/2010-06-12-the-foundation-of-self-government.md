@@ -1,5 +1,5 @@
 ---
-title: 'The foundation of self-government'
+title: "The foundation of self-government"
 layout: post
 categories:
 - government

@@ -1,5 +1,5 @@
 ---
-title: 'Destroying capitalism'
+title: "Destroying capitalism"
 layout: post
 categories:
 - socialism

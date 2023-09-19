@@ -1,9 +1,9 @@
 ---
-title: 'The four boxes of liberty'
+title: "The four boxes of liberty"
 layout: post
 categories:
 - juries
-- 'Second Amendment'
+- Second Amendment
 - speech
 - voting
 tags:

@@ -1,5 +1,5 @@
 ---
-title: 'Preserving respect and esteem'
+title: "Preserving respect and esteem"
 layout: post
 categories:
 - truth

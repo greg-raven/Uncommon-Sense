@@ -1,5 +1,5 @@
 ---
-title: 'The enemy within'
+title: "The enemy within"
 layout: post
 categories:
 - demagogues

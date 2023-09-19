@@ -1,5 +1,5 @@
 ---
-title: 'Bureaucracy cannot tolerate individuals'
+title: "Bureaucracy cannot tolerate individuals"
 layout: post
 categories:
 - individualism

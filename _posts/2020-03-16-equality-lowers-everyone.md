@@ -1,5 +1,5 @@
 ---
-title: ''Equality' lowers everyone'
+title: "'Equality' lowers everyone"
 layout: post
 categories:
 - equality

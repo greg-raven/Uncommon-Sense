@@ -1,5 +1,5 @@
 ---
-title: 'Who rules you'
+title: "Who rules you"
 layout: post
 categories:
 - speech

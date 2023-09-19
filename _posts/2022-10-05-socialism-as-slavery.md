@@ -1,5 +1,5 @@
 ---
-title: 'Socialism as slavery'
+title: "Socialism as slavery"
 layout: post
 categories:
 - socialism

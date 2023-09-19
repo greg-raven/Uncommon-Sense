@@ -1,5 +1,5 @@
 ---
-title: 'Failings of the fourth estate'
+title: "Failings of the fourth estate"
 layout: post
 categories:
 - press

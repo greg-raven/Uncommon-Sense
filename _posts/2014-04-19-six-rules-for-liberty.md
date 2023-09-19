@@ -1,5 +1,5 @@
 ---
-title: 'Six rules for liberty'
+title: "Six rules for liberty"
 layout: post
 categories:
 - liberty

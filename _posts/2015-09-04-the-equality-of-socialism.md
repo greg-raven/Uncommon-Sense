@@ -1,5 +1,5 @@
 ---
-title: 'The equality of socialism'
+title: "The equality of socialism"
 layout: post
 categories:
 - socialism

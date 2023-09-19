@@ -1,5 +1,5 @@
 ---
-title: 'Ability and honor'
+title: "Ability and honor"
 layout: post
 categories:
 - morals

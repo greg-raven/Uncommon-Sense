@@ -1,5 +1,5 @@
 ---
-title: 'Death and taxes'
+title: "Death and taxes"
 layout: post
 categories:
 - Constitution

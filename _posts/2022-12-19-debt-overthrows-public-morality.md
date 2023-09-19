@@ -1,5 +1,5 @@
 ---
-title: 'Debt overthrows public morality'
+title: "Debt overthrows public morality"
 layout: post
 categories:
 - economics

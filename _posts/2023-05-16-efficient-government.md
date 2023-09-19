@@ -1,5 +1,5 @@
 ---
-title: 'Efficient government'
+title: "Efficient government"
 layout: post
 categories:
 - government

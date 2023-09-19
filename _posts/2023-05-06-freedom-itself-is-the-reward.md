@@ -1,5 +1,5 @@
 ---
-title: 'Freedom itself is the reward'
+title: "Freedom itself is the reward"
 layout: post
 categories:
 - liberty

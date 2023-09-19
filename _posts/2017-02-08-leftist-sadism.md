@@ -1,5 +1,5 @@
 ---
-title: 'Leftist sadism'
+title: "Leftist sadism"
 layout: post
 categories:
 - intolerance

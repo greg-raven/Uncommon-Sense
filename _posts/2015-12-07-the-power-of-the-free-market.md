@@ -1,5 +1,5 @@
 ---
-title: 'The power of the free market'
+title: "The power of the free market"
 layout: post
 categories:
 - prosperity

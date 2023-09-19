@@ -1,5 +1,5 @@
 ---
-title: 'The corrosive effect of welfare'
+title: "The corrosive effect of welfare"
 layout: post
 categories:
 - welfare

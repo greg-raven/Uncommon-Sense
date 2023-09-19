@@ -1,5 +1,5 @@
 ---
-title: 'Enthusiasm in liberty'
+title: "Enthusiasm in liberty"
 layout: post
 categories:
 - liberty

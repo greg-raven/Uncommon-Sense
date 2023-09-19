@@ -1,5 +1,5 @@
 ---
-title: 'Envy cannot be our master'
+title: "Envy cannot be our master"
 layout: post
 categories:
 - equality

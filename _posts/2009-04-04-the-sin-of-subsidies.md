@@ -1,5 +1,5 @@
 ---
-title: 'The sin of subsidies'
+title: "The sin of subsidies"
 layout: post
 categories:
 - taxation

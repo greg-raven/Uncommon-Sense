@@ -1,5 +1,5 @@
 ---
-title: 'A more American conservatism'
+title: "A more American conservatism"
 layout: post
 categories:
 - conservatism

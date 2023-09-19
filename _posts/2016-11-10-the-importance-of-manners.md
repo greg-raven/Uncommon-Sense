@@ -1,5 +1,5 @@
 ---
-title: 'The importance of manners'
+title: "The importance of manners"
 layout: post
 categories:
 - intolerance

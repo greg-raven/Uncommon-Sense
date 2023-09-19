@@ -1,5 +1,5 @@
 ---
-title: 'Not a democracy'
+title: "Not a democracy"
 layout: post
 categories:
 - Constitution

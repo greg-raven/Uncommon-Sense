@@ -1,5 +1,5 @@
 ---
-title: 'The primacy of the individual'
+title: "The primacy of the individual"
 layout: post
 categories:
 - individualism

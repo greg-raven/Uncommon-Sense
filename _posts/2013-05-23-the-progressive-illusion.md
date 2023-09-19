@@ -1,5 +1,5 @@
 ---
-title: 'The progressive illusion'
+title: "The progressive illusion"
 layout: post
 categories:
 - socialism

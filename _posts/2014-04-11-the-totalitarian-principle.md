@@ -1,5 +1,5 @@
 ---
-title: 'The totalitarian principle'
+title: "The totalitarian principle"
 layout: post
 categories:
 - socialism

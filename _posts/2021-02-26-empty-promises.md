@@ -1,5 +1,5 @@
 ---
-title: 'Empty promises'
+title: "Empty promises"
 layout: post
 categories:
 - demagogues

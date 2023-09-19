@@ -1,5 +1,5 @@
 ---
-title: 'Tyranny and oppression'
+title: "Tyranny and oppression"
 layout: post
 categories:
 - war

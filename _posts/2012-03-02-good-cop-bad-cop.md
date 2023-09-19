@@ -1,5 +1,5 @@
 ---
-title: 'Good cop, bad cop'
+title: "Good cop, bad cop"
 layout: post
 categories:
 - government

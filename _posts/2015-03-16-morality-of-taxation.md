@@ -1,5 +1,5 @@
 ---
-title: 'Morality of taxation'
+title: "Morality of taxation"
 layout: post
 categories:
 - taxation

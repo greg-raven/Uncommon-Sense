@@ -1,5 +1,5 @@
 ---
-title: 'The people, authority, and responsibility'
+title: "The people, authority, and responsibility"
 layout: post
 categories:
 - individualism

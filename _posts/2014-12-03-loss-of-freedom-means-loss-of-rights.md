@@ -1,5 +1,5 @@
 ---
-title: 'Loss of freedom means loss of rights'
+title: "Loss of freedom means loss of rights"
 layout: post
 categories:
 - liberty

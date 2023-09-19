@@ -1,5 +1,5 @@
 ---
-title: 'Judge carefully and well'
+title: "Judge carefully and well"
 layout: post
 categories:
 - voting

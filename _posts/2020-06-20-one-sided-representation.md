@@ -1,5 +1,5 @@
 ---
-title: 'One-sided representation'
+title: "One-sided representation"
 layout: post
 categories:
 - race

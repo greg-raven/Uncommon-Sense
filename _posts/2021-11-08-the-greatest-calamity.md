@@ -1,5 +1,5 @@
 ---
-title: 'The greatest calamity'
+title: "The greatest calamity"
 layout: post
 categories:
 - debt

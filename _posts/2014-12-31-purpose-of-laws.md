@@ -1,5 +1,5 @@
 ---
-title: 'Purpose of just laws'
+title: "Purpose of just laws"
 layout: post
 categories:
 - laws

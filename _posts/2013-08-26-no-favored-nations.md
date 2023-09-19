@@ -1,8 +1,8 @@
 ---
-title: 'No favored nations'
+title: "No favored nations"
 layout: post
 categories:
-- 'foreign policy'
+- foreign policy
 tags:
 - George Washington
 ---

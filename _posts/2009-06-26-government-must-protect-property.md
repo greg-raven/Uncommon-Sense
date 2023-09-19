@@ -1,5 +1,5 @@
 ---
-title: 'Government must protect property'
+title: "Government must protect property"
 layout: post
 categories:
 - property

@@ -1,5 +1,5 @@
 ---
-title: 'Douglas on the First Amendment'
+title: "Douglas on the First Amendment"
 layout: post
 categories:
 - speech

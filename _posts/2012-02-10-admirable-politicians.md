@@ -1,5 +1,5 @@
 ---
-title: 'Admiring liars'
+title: "Admiring liars"
 layout: post
 categories:
 - demagogues

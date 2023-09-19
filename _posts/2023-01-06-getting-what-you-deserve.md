@@ -1,5 +1,5 @@
 ---
-title: 'Getting what you deserve'
+title: "Getting what you deserve"
 layout: post
 categories:
 - democracy

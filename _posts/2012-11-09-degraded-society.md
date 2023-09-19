@@ -1,5 +1,5 @@
 ---
-title: 'Degraded society'
+title: "Degraded society"
 layout: post
 categories:
 - culture

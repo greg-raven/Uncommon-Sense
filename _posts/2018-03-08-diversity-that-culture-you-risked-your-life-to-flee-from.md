@@ -1,5 +1,5 @@
 ---
-title: 'Diversity: That culture you risked your life to flee from'
+title: "Diversity: That culture you risked your life to flee from"
 layout: post
 categories:
 - diversity

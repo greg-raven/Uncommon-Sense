@@ -1,5 +1,5 @@
 ---
-title: 'Delegation of powers'
+title: "Delegation of powers"
 layout: post
 categories:
 - government

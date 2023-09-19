@@ -1,5 +1,5 @@
 ---
-title: 'Making the best use of knowledge'
+title: "Making the best use of knowledge"
 layout: post
 categories:
 - knowledge

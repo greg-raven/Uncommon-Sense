@@ -1,5 +1,5 @@
 ---
-title: 'Liberalism is suicide'
+title: "Liberalism is suicide"
 layout: post
 categories:
 - liberalism

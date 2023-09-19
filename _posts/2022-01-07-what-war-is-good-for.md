@@ -1,5 +1,5 @@
 ---
-title: 'What war is good for'
+title: "What war is good for"
 layout: post
 categories:
 - war

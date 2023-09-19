@@ -1,5 +1,5 @@
 ---
-title: 'Trading down'
+title: "Trading down"
 layout: post
 categories:
 - demagogues

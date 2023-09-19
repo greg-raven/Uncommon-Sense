@@ -1,5 +1,5 @@
 ---
-title: 'Taxation through inflation'
+title: "Taxation through inflation"
 layout: post
 categories:
 - taxation

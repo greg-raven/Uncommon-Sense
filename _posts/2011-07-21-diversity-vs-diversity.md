@@ -1,5 +1,5 @@
 ---
-title: 'Diversity vs. diversity'
+title: "Diversity vs. diversity"
 layout: post
 categories:
 - diversity

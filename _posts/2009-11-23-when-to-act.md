@@ -1,5 +1,5 @@
 ---
-title: 'When to act'
+title: "When to act"
 layout: post
 categories:
 - conviction

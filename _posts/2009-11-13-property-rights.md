@@ -1,5 +1,5 @@
 ---
-title: 'Property rights'
+title: "Property rights"
 layout: post
 categories:
 - rights

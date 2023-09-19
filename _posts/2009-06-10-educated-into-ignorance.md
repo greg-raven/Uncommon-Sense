@@ -1,5 +1,5 @@
 ---
-title: 'Educated into stupidity'
+title: "Educated into stupidity"
 layout: post
 categories:
 - education

@@ -1,5 +1,5 @@
 ---
-title: 'Democracy never lasts long'
+title: "Democracy never lasts long"
 layout: post
 categories:
 - democracy

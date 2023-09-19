@@ -1,5 +1,5 @@
 ---
-title: 'There is a difference'
+title: "There is a difference"
 layout: post
 categories:
 - government

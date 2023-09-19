@@ -1,5 +1,5 @@
 ---
-title: 'The politician's alternative'
+title: "The politician's alternative"
 layout: post
 categories:
 - politics

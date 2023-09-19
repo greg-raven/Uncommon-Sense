@@ -1,5 +1,5 @@
 ---
-title: 'Expansion and collapse'
+title: "Expansion and collapse"
 layout: post
 categories:
 - economics

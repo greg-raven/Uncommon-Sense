@@ -1,5 +1,5 @@
 ---
-title: 'Watch what gold is doing'
+title: "Watch what gold is doing"
 layout: post
 categories:
 - economics

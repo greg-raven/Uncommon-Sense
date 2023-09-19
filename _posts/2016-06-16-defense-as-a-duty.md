@@ -1,5 +1,5 @@
 ---
-title: 'Defense as a duty'
+title: "Defense as a duty"
 layout: post
 categories:
 - government

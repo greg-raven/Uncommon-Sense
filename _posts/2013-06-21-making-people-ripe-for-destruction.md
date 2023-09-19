@@ -1,5 +1,5 @@
 ---
-title: 'Making people ripe for destruction'
+title: "Making people ripe for destruction"
 layout: post
 categories:
 - morals

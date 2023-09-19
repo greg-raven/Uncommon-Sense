@@ -1,5 +1,5 @@
 ---
-title: 'The goal of Newspeak'
+title: "The goal of Newspeak"
 layout: post
 categories:
 - speech

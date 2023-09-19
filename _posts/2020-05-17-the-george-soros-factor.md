@@ -1,5 +1,5 @@
 ---
-title: 'The George Soros factor'
+title: "The George Soros factor"
 layout: post
 categories:
 - corruption

@@ -1,5 +1,5 @@
 ---
-title: 'Education paradox'
+title: "Education paradox"
 layout: post
 categories:
 - education

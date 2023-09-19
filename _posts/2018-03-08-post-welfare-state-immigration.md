@@ -1,5 +1,5 @@
 ---
-title: 'Post-welfare-state immigration'
+title: "Post-welfare-state immigration"
 layout: post
 categories:
 - immigration

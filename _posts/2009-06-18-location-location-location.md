@@ -1,5 +1,5 @@
 ---
-title: 'Location, location, location'
+title: "Location, location, location"
 layout: post
 categories:
 - environment

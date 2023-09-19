@@ -1,5 +1,5 @@
 ---
-title: 'A peek into the future'
+title: "A peek into the future"
 layout: post
 categories:
 - education

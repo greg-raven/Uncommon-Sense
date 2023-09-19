@@ -1,5 +1,5 @@
 ---
-title: 'The only recourse for betrayal'
+title: "The only recourse for betrayal"
 layout: post
 categories:
 - corruption

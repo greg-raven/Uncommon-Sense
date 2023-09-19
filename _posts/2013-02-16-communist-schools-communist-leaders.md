@@ -1,5 +1,5 @@
 ---
-title: 'Communist schools result in communist leaders'
+title: "Communist schools result in communist leaders"
 layout: post
 categories:
 - liberalism

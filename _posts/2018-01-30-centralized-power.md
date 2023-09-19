@@ -1,5 +1,5 @@
 ---
-title: 'Centralized power'
+title: "Centralized power"
 layout: post
 categories:
 - government

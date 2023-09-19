@@ -1,5 +1,5 @@
 ---
-title: 'Crimes of ego'
+title: "Crimes of ego"
 layout: post
 categories:
 - evil

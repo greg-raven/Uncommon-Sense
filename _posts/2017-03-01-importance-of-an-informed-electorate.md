@@ -1,5 +1,5 @@
 ---
-title: 'Importance of an informed electorate'
+title: "Importance of an informed electorate"
 layout: post
 categories:
 - history

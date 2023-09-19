@@ -1,5 +1,5 @@
 ---
-title: 'Our leaders'
+title: "Our leaders"
 layout: post
 categories:
 - knowledge

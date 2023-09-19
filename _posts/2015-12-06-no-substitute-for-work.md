@@ -1,5 +1,5 @@
 ---
-title: 'No substitute for work'
+title: "No substitute for work"
 layout: post
 categories:
 - self-improvement

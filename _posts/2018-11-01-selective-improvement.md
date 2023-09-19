@@ -1,5 +1,5 @@
 ---
-title: 'Selective improvement'
+title: "Selective improvement"
 layout: post
 categories:
 - socialism

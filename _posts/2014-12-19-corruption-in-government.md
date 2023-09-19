@@ -1,5 +1,5 @@
 ---
-title: 'Corruption in government'
+title: "Corruption in government"
 layout: post
 categories:
 - corruption

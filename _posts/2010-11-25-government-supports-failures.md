@@ -1,5 +1,5 @@
 ---
-title: 'Government supports failures'
+title: "Government supports failures"
 layout: post
 categories:
 - truth

@@ -1,5 +1,5 @@
 ---
-title: 'Wisdom and age'
+title: "Wisdom and age"
 layout: post
 categories:
 - education

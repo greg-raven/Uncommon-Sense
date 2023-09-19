@@ -1,5 +1,5 @@
 ---
-title: 'Central banking'
+title: "Central banking"
 layout: post
 categories:
 - money

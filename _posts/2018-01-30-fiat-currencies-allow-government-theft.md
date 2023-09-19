@@ -1,5 +1,5 @@
 ---
-title: 'Fiat currencies allow government theft'
+title: "Fiat currencies allow government theft"
 layout: post
 categories:
 - economics

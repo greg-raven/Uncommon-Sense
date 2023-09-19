@@ -1,5 +1,5 @@
 ---
-title: 'How Affirmative Action creates dangerous double standards'
+title: "How Affirmative Action creates dangerous double standards"
 layout: post
 categories:
 - race

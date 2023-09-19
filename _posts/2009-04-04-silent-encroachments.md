@@ -1,5 +1,5 @@
 ---
-title: 'Silent encroachments'
+title: "Silent encroachments"
 layout: post
 categories:
 - liberty

@@ -1,5 +1,5 @@
 ---
-title: 'Democracy detested'
+title: "Democracy detested"
 layout: post
 categories:
 - democracy

@@ -1,5 +1,5 @@
 ---
-title: 'State expense'
+title: "State expense"
 layout: post
 categories:
 - taxation

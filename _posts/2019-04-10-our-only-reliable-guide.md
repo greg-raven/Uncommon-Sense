@@ -1,5 +1,5 @@
 ---
-title: 'Our only reliable guide'
+title: "Our only reliable guide"
 layout: post
 categories:
 - conservatism

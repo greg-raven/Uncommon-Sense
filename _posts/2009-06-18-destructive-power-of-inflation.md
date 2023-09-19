@@ -1,5 +1,5 @@
 ---
-title: 'Destructive power of inflation'
+title: "Destructive power of inflation"
 layout: post
 categories:
 - economics

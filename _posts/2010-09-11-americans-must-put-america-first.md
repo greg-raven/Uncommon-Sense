@@ -1,5 +1,5 @@
 ---
-title: 'Americans must put America first'
+title: "Americans must put America first"
 layout: post
 categories:
 - citizenship

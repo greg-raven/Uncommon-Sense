@@ -1,5 +1,5 @@
 ---
-title: 'Democracy is a disease and a poison'
+title: "Democracy is a disease and a poison"
 layout: post
 categories:
 - democracy

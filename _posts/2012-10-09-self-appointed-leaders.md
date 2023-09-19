@@ -1,5 +1,5 @@
 ---
-title: 'Self-appointed leaders'
+title: "Self-appointed leaders"
 layout: post
 categories:
 - demagogues

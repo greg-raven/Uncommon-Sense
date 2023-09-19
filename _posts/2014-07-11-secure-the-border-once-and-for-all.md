@@ -1,5 +1,5 @@
 ---
-title: 'Secure the border once and for all'
+title: "Secure the border once and for all"
 layout: post
 categories:
 - immigration

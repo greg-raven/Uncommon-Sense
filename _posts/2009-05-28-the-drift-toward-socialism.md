@@ -1,5 +1,5 @@
 ---
-title: 'The drift toward socialism'
+title: "The drift toward socialism"
 layout: post
 categories:
 - socialism

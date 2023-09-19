@@ -1,8 +1,8 @@
 ---
-title: 'A right of the individual'
+title: "A right of the individual"
 layout: post
 categories:
-- 'Second Amendment'
+- Second Amendment
 tags:
 - Bernard J. Bordonet
 ---

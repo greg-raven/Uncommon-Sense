@@ -1,5 +1,5 @@
 ---
-title: 'Money from thin air'
+title: "Money from thin air"
 layout: post
 categories:
 - money

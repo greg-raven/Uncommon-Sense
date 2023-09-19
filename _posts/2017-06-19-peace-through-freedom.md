@@ -1,5 +1,5 @@
 ---
-title: 'Peace through freedom'
+title: "Peace through freedom"
 layout: post
 categories:
 - collectivization

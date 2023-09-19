@@ -1,5 +1,5 @@
 ---
-title: 'Normal Americans are barriers to social progress'
+title: "Normal Americans are barriers to social progress"
 layout: post
 categories:
 - culture

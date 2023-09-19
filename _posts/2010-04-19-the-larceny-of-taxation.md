@@ -1,5 +1,5 @@
 ---
-title: 'The larceny of taxation'
+title: "The larceny of taxation"
 layout: post
 categories:
 - taxation

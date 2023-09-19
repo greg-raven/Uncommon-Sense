@@ -1,5 +1,5 @@
 ---
-title: 'The harm inflicted by do-gooders'
+title: "The harm inflicted by do-gooders"
 layout: post
 categories:
 - individualism

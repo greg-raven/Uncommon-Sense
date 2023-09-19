@@ -1,5 +1,5 @@
 ---
-title: 'Willful ignorance'
+title: "Willful ignorance"
 layout: post
 categories:
 - knowledge

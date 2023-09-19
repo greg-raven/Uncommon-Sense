@@ -1,5 +1,5 @@
 ---
-title: 'The basis for republicanism'
+title: "The basis for republicanism"
 layout: post
 categories:
 - individualism

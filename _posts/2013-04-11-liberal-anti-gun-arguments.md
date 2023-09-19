@@ -1,8 +1,8 @@
 ---
-title: 'Liberal anti-gun arguments'
+title: "Liberal anti-gun arguments"
 layout: post
 categories:
-- 'Second Amendment'
+- Second Amendment
 tags:
 - Ann Coulter
 ---

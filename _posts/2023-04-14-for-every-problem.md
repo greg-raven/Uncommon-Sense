@@ -1,5 +1,5 @@
 ---
-title: 'For every problem'
+title: "For every problem"
 layout: post
 categories:
 - knowledge

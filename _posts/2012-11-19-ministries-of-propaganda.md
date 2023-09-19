@@ -1,5 +1,5 @@
 ---
-title: 'Ministries of propaganda'
+title: "Ministries of propaganda"
 layout: post
 categories:
 - decentralization

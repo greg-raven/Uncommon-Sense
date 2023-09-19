@@ -1,5 +1,5 @@
 ---
-title: 'Republic vs. a democracy'
+title: "Republic vs. a democracy"
 layout: post
 categories:
 - government

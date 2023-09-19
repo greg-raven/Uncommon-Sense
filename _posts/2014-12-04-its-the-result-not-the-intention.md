@@ -1,5 +1,5 @@
 ---
-title: 'It's the result, not the intention'
+title: "It's the result, not the intention"
 layout: post
 categories:
 - liberty

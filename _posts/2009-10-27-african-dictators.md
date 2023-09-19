@@ -1,5 +1,5 @@
 ---
-title: 'African dictators'
+title: "African dictators"
 layout: post
 categories:
 - demagogues

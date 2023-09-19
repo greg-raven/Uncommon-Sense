@@ -1,10 +1,10 @@
 ---
-title: 'No liberty without the sword and the purse'
+title: "No liberty without the sword and the purse"
 layout: post
 categories:
 - liberty
 - money
-- 'Second Amendment'
+- Second Amendment
 tags:
 - Patrick Henry
 ---

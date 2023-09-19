@@ -1,8 +1,8 @@
 ---
-title: 'Dereliction of Congress'
+title: "Dereliction of Congress"
 layout: post
 categories:
-- 'foreign policy'
+- foreign policy
 tags:
 - Charley Reese
 ---

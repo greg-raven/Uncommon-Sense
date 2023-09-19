@@ -1,5 +1,5 @@
 ---
-title: 'Freedom vs. security'
+title: "Freedom vs. security"
 layout: post
 categories:
 - liberty

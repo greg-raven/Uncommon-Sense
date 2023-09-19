@@ -1,5 +1,5 @@
 ---
-title: 'Look to the root causes'
+title: "Look to the root causes"
 layout: post
 categories:
 - laws

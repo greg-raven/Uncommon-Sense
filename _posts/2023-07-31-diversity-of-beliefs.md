@@ -1,5 +1,5 @@
 ---
-title: 'Diversity of beliefs'
+title: "Diversity of beliefs"
 layout: post
 categories:
 - diversity

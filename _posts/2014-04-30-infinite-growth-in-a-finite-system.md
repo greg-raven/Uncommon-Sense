@@ -1,5 +1,5 @@
 ---
-title: 'Infinite growth in a finite system'
+title: "Infinite growth in a finite system"
 layout: post
 categories:
 - economics

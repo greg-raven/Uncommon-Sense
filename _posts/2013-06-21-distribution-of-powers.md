@@ -1,5 +1,5 @@
 ---
-title: 'Distribution of powers'
+title: "Distribution of powers"
 layout: post
 categories:
 - decentralization

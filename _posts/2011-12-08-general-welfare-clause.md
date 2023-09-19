@@ -1,5 +1,5 @@
 ---
-title: 'The general welfare clause'
+title: "The general welfare clause"
 layout: post
 categories:
 - welfare

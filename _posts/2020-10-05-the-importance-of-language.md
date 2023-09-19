@@ -1,5 +1,5 @@
 ---
-title: 'The importance of language'
+title: "The importance of language"
 layout: post
 categories:
 - language

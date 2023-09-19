@@ -1,8 +1,8 @@
 ---
-title: 'True world leadership'
+title: "True world leadership"
 layout: post
 categories:
-- 'foreign policy'
+- foreign policy
 tags:
 - John Quincy Adams
 ---

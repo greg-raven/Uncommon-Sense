@@ -1,5 +1,5 @@
 ---
-title: 'Government obligations to constituents'
+title: "Government obligations to constituents"
 layout: post
 categories:
 - government

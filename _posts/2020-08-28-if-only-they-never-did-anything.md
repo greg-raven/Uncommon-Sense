@@ -1,5 +1,5 @@
 ---
-title: 'If only they never did anything'
+title: "If only they never did anything"
 layout: post
 categories:
 - government

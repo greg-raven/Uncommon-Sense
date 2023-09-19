@@ -1,5 +1,5 @@
 ---
-title: 'No incentives in socialism'
+title: "No incentives in socialism"
 layout: post
 categories:
 - education

@@ -1,5 +1,5 @@
 ---
-title: 'If we lose freedom'
+title: "If we lose freedom"
 layout: post
 categories:
 - liberty

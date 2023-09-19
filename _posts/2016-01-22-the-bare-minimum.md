@@ -1,5 +1,5 @@
 ---
-title: 'The bare minimum'
+title: "The bare minimum"
 layout: post
 categories:
 - speech

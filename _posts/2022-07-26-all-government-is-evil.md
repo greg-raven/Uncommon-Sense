@@ -1,5 +1,5 @@
 ---
-title: 'All government is evil'
+title: "All government is evil"
 layout: post
 categories:
 - government

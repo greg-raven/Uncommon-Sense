@@ -1,5 +1,5 @@
 ---
-title: 'Choice of the governed'
+title: "Choice of the governed"
 layout: post
 categories:
 - religion

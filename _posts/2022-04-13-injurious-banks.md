@@ -1,5 +1,5 @@
 ---
-title: 'Injurious banks'
+title: "Injurious banks"
 layout: post
 categories:
 - money

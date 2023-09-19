@@ -1,5 +1,5 @@
 ---
-title: 'Needed: A return to normalcy'
+title: "Needed: A return to normalcy"
 layout: post
 categories:
 - rebellion

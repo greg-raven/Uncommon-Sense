@@ -1,5 +1,5 @@
 ---
-title: 'The rule of the people'
+title: "The rule of the people"
 layout: post
 categories:
 - democracy

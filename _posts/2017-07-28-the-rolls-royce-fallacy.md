@@ -1,5 +1,5 @@
 ---
-title: 'The Rolls Royce fallacy'
+title: "The Rolls Royce fallacy"
 layout: post
 categories:
 - economics

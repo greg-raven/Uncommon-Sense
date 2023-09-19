@@ -1,5 +1,5 @@
 ---
-title: 'Knowledge is power'
+title: "Knowledge is power"
 layout: post
 categories:
 - knowledge

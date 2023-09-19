@@ -1,5 +1,5 @@
 ---
-title: 'An experiment in socialism'
+title: "An experiment in socialism"
 layout: post
 categories:
 - socialism

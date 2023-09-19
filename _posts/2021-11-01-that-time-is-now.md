@@ -1,5 +1,5 @@
 ---
-title: 'That time is now'
+title: "That time is now"
 layout: post
 categories:
 - corruption

@@ -1,5 +1,5 @@
 ---
-title: 'The alibi of tyrants'
+title: "The alibi of tyrants"
 layout: post
 categories:
 - collectivization

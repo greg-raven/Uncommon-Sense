@@ -1,5 +1,5 @@
 ---
-title: 'Liberty is the luxury of self-discipline'
+title: "Liberty is the luxury of self-discipline"
 layout: post
 categories:
 - liberty

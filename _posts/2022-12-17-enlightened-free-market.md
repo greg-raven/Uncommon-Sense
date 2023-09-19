@@ -1,5 +1,5 @@
 ---
-title: 'Enlightened free-market'
+title: "Enlightened free-market"
 layout: post
 categories:
 - economics

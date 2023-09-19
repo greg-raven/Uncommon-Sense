@@ -1,5 +1,5 @@
 ---
-title: 'Taxation equals slavery'
+title: "Taxation equals slavery"
 layout: post
 categories:
 - taxation

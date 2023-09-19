@@ -1,5 +1,5 @@
 ---
-title: 'FDR vs. Obama'
+title: "FDR vs. Obama"
 layout: post
 categories:
 - Obamacare

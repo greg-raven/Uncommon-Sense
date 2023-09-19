@@ -1,5 +1,5 @@
 ---
-title: 'Bi-partisan theft'
+title: "Bi-partisan theft"
 layout: post
 categories:
 - socialism

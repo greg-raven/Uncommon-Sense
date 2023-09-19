@@ -1,5 +1,5 @@
 ---
-title: 'Our 1.5-party system'
+title: "Our 1.5-party system"
 layout: post
 categories:
 - politics

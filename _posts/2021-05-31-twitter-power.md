@@ -1,5 +1,5 @@
 ---
-title: 'Twitter power'
+title: "Twitter power"
 layout: post
 categories:
 - press

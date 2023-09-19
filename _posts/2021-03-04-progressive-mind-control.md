@@ -1,5 +1,5 @@
 ---
-title: 'Progressive mind-control'
+title: "Progressive mind-control"
 layout: post
 categories:
 - education

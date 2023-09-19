@@ -1,5 +1,5 @@
 ---
-title: 'The importance of private property'
+title: "The importance of private property"
 layout: post
 categories:
 - property

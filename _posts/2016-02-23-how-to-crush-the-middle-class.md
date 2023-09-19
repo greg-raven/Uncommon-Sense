@@ -1,5 +1,5 @@
 ---
-title: 'How to crush the middle class'
+title: "How to crush the middle class"
 layout: post
 categories:
 - taxation

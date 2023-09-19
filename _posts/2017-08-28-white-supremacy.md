@@ -1,5 +1,5 @@
 ---
-title: 'White supremacy'
+title: "White supremacy"
 layout: post
 categories:
 - culture

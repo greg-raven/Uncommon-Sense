@@ -1,5 +1,5 @@
 ---
-title: 'Belief in the free market'
+title: "Belief in the free market"
 layout: post
 categories:
 - capitalism

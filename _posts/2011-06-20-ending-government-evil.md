@@ -1,5 +1,5 @@
 ---
-title: 'Ending government evil'
+title: "Ending government evil"
 layout: post
 categories:
 - evil

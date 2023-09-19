@@ -1,8 +1,8 @@
 ---
-title: 'Summary and conclusions from the Mueller Report'
+title: "Summary and conclusions from the Mueller Report"
 layout: post
 categories:
-- 'informed electorate'
+- informed electorate
 tags:
 - William P. Barr
 ---

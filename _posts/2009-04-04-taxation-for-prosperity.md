@@ -1,5 +1,5 @@
 ---
-title: 'Taxation for prosperity'
+title: "Taxation for prosperity"
 layout: post
 categories:
 - taxation

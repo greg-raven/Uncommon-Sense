@@ -1,8 +1,8 @@
 ---
-title: 'Freedom is precarious'
+title: "Freedom is precarious"
 layout: post
 categories:
-- 'Second Amendment'
+- Second Amendment
 tags:
 - Jacob G. Hornberger
 ---

@@ -1,5 +1,5 @@
 ---
-title: 'Free competition'
+title: "Free competition"
 layout: post
 categories:
 - capitalism

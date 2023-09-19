@@ -1,5 +1,5 @@
 ---
-title: 'What every principal should tell his students'
+title: "What every principal should tell his students"
 layout: post
 categories:
 - education

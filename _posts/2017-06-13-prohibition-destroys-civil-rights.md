@@ -1,5 +1,5 @@
 ---
-title: 'Prohibition destroys civil rights'
+title: "Prohibition destroys civil rights"
 layout: post
 categories:
 - rights

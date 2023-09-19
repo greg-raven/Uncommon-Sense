@@ -1,5 +1,5 @@
 ---
-title: 'We must overcome 'diversity''
+title: "We must overcome 'diversity'"
 layout: post
 categories:
 - diversity

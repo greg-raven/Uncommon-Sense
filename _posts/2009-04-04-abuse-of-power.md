@@ -1,5 +1,5 @@
 ---
-title: 'Abuse of power'
+title: "Abuse of power"
 layout: post
 categories:
 - liberty

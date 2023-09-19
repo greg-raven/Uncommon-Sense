@@ -1,5 +1,5 @@
 ---
-title: 'Any man can be a radical'
+title: "Any man can be a radical"
 layout: post
 categories:
 - individualism

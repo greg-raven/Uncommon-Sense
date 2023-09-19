@@ -1,5 +1,5 @@
 ---
-title: 'Boiling down 'multiculturalism''
+title: "Boiling down 'multiculturalism'"
 layout: post
 categories:
 - culture

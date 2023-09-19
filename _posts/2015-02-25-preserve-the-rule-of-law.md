@@ -1,5 +1,5 @@
 ---
-title: 'Preserve the rule of law'
+title: "Preserve the rule of law"
 layout: post
 categories:
 - Constitution

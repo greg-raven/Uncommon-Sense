@@ -1,5 +1,5 @@
 ---
-title: 'Science vs. consensus'
+title: "Science vs. consensus"
 layout: post
 categories:
 - knowledge

@@ -1,5 +1,5 @@
 ---
-title: 'True character'
+title: "True character"
 layout: post
 categories:
 - virtue

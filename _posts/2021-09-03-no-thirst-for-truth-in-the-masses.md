@@ -1,5 +1,5 @@
 ---
-title: 'No thirst for truth in the masses'
+title: "No thirst for truth in the masses"
 layout: post
 categories:
 - truth

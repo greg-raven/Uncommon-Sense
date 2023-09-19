@@ -1,5 +1,5 @@
 ---
-title: 'Preserving liberty through knowledge'
+title: "Preserving liberty through knowledge"
 layout: post
 categories:
 - liberty

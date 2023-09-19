@@ -1,5 +1,5 @@
 ---
-title: 'Equally free and independent'
+title: "Equally free and independent"
 layout: post
 categories:
 - equality

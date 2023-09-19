@@ -1,5 +1,5 @@
 ---
-title: 'Absolute rights'
+title: "Absolute rights"
 layout: post
 categories:
 - rights

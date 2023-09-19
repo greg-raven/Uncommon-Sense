@@ -1,5 +1,5 @@
 ---
-title: 'How people constitute a government'
+title: "How people constitute a government"
 layout: post
 categories:
 - Constitution

@@ -1,5 +1,5 @@
 ---
-title: 'Liberty vs. intrusion'
+title: "Liberty vs. intrusion"
 layout: post
 categories:
 - economics

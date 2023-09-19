@@ -1,5 +1,5 @@
 ---
-title: 'Combating socialism with socialism'
+title: "Combating socialism with socialism"
 layout: post
 categories:
 - socialism

@@ -1,5 +1,5 @@
 ---
-title: 'Defending their errors'
+title: "Defending their errors"
 layout: post
 categories:
 - demagogues

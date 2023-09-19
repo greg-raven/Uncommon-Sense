@@ -1,5 +1,5 @@
 ---
-title: 'Don't steal'
+title: "Don't steal"
 layout: post
 categories:
 - government

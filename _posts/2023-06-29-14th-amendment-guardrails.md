@@ -1,5 +1,5 @@
 ---
-title: 'The Fourteenth Amendment needs guardrails'
+title: "The Fourteenth Amendment needs guardrails"
 layout: post
 categories:
 - equality

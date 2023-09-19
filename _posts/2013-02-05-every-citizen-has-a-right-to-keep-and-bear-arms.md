@@ -1,8 +1,8 @@
 ---
-title: 'The right to arms shall never be questioned'
+title: "The right to arms shall never be questioned"
 layout: post
 categories:
-- 'Second Amendment'
+- Second Amendment
 tags:
 - Maine Constitution
 ---

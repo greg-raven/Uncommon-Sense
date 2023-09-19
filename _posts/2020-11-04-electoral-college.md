@@ -1,5 +1,5 @@
 ---
-title: 'Electoral college'
+title: "Electoral college"
 layout: post
 categories:
 - democracy

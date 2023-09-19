@@ -1,5 +1,5 @@
 ---
-title: 'Liberty is not for wimps'
+title: "Liberty is not for wimps"
 layout: post
 categories:
 - liberty

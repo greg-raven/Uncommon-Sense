@@ -1,5 +1,5 @@
 ---
-title: 'Rent control'
+title: "Rent control"
 layout: post
 categories:
 - economics

@@ -1,5 +1,5 @@
 ---
-title: 'Who really pays corporate taxes'
+title: "Who really pays corporate taxes"
 layout: post
 categories:
 - taxation

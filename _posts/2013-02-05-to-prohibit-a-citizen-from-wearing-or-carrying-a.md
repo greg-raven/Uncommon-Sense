@@ -1,8 +1,8 @@
 ---
-title: 'Occasional crime cannot trump Constitutional rights'
+title: "Occasional crime cannot trump Constitutional rights"
 layout: post
 categories:
-- 'Second Amendment'
+- Second Amendment
 tags:
 - Wilson v. State
 ---

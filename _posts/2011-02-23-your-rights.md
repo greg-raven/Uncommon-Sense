@@ -1,5 +1,5 @@
 ---
-title: 'Your rights'
+title: "Your rights"
 layout: post
 categories:
 - rights

@@ -1,5 +1,5 @@
 ---
-title: 'Truth can be revolutionary'
+title: "Truth can be revolutionary"
 layout: post
 categories:
 - truth

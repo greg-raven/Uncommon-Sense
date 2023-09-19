@@ -1,5 +1,5 @@
 ---
-title: 'Education control'
+title: "Education control"
 layout: post
 categories:
 - education

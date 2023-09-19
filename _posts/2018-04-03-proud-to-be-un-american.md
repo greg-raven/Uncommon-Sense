@@ -1,5 +1,5 @@
 ---
-title: 'Proud to be un-American'
+title: "Proud to be un-American"
 layout: post
 categories:
 - immigration

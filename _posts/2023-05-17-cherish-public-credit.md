@@ -1,5 +1,5 @@
 ---
-title: 'Cherish public credit'
+title: "Cherish public credit"
 layout: post
 categories:
 - debt

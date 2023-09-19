@@ -1,5 +1,5 @@
 ---
-title: 'The meaning of 'general welfare''
+title: "The meaning of 'general welfare'"
 layout: post
 categories:
 - taxation

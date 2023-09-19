@@ -1,5 +1,5 @@
 ---
-title: 'Escaping 'utopia''
+title: "Escaping 'utopia'"
 layout: post
 categories:
 - perfection

@@ -1,5 +1,5 @@
 ---
-title: 'The importance of the rule of law'
+title: "The importance of the rule of law"
 layout: post
 categories:
 - corruption

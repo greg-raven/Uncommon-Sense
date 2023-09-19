@@ -1,5 +1,5 @@
 ---
-title: 'Importance of decentralization'
+title: "Importance of decentralization"
 layout: post
 categories:
 - decentralization

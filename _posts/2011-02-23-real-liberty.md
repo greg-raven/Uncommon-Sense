@@ -1,5 +1,5 @@
 ---
-title: 'Real liberty'
+title: "Real liberty"
 layout: post
 categories:
 - Constitution

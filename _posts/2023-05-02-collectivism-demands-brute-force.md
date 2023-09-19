@@ -1,5 +1,5 @@
 ---
-title: 'Collectivism demands brute force'
+title: "Collectivism demands brute force"
 layout: post
 categories:
 - collectivization

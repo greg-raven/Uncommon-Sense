@@ -1,5 +1,5 @@
 ---
-title: 'Defining patriotism'
+title: "Defining patriotism"
 layout: post
 categories:
 - patriotism

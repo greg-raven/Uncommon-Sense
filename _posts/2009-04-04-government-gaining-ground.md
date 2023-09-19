@@ -1,5 +1,5 @@
 ---
-title: 'Government gaining ground'
+title: "Government gaining ground"
 layout: post
 categories:
 - liberty

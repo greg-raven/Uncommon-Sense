@@ -1,5 +1,5 @@
 ---
-title: 'History shows the dole is destructive'
+title: "History shows the dole is destructive"
 layout: post
 categories:
 - welfare

@@ -1,5 +1,5 @@
 ---
-title: 'Whatever exists deserves to be known'
+title: "Whatever exists deserves to be known"
 layout: post
 categories:
 - truth

@@ -1,5 +1,5 @@
 ---
-title: 'Peace or freedom'
+title: "Peace or freedom"
 layout: post
 categories:
 - liberty

@@ -1,8 +1,8 @@
 ---
-title: 'Beware the technocracy'
+title: "Beware the technocracy"
 layout: post
 categories:
-- 'external authority'
+- external authority
 tags:
 - Dwight D. Eisenhower
 ---

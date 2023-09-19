@@ -1,5 +1,5 @@
 ---
-title: 'The historical background of the Constitution'
+title: "The historical background of the Constitution"
 layout: post
 categories:
 - Constitution

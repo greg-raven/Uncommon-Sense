@@ -1,5 +1,5 @@
 ---
-title: 'We must understand our monetary system'
+title: "We must understand our monetary system"
 layout: post
 categories:
 - money

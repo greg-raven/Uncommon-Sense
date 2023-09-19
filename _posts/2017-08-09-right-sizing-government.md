@@ -1,5 +1,5 @@
 ---
-title: 'Right-sizing government'
+title: "Right-sizing government"
 layout: post
 categories:
 - Constitution

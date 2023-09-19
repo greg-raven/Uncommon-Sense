@@ -1,5 +1,5 @@
 ---
-title: 'The Obama solution to illegal immigration'
+title: "The Obama solution to illegal immigration"
 layout: post
 categories:
 - immigration

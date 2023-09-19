@@ -1,5 +1,5 @@
 ---
-title: 'Denying reality'
+title: "Denying reality"
 layout: post
 categories:
 - truth

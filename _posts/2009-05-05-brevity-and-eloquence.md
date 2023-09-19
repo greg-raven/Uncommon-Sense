@@ -1,5 +1,5 @@
 ---
-title: 'Brevity and eloquence'
+title: "Brevity and eloquence"
 layout: post
 categories:
 - language

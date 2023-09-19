@@ -1,5 +1,5 @@
 ---
-title: 'More power means more abuse of power'
+title: "More power means more abuse of power"
 layout: post
 categories:
 - corruption

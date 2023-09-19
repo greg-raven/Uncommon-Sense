@@ -1,5 +1,5 @@
 ---
-title: 'Why government grows'
+title: "Why government grows"
 layout: post
 categories:
 - socialism

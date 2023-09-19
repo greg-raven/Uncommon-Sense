@@ -1,5 +1,5 @@
 ---
-title: 'The power to covet'
+title: "The power to covet"
 layout: post
 categories:
 - democracy

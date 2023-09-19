@@ -1,5 +1,5 @@
 ---
-title: 'Why republics fall'
+title: "Why republics fall"
 layout: post
 categories:
 - corruption

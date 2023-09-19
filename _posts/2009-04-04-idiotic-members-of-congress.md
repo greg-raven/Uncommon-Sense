@@ -1,5 +1,5 @@
 ---
-title: 'Idiotic members of Congress'
+title: "Idiotic members of Congress"
 layout: post
 categories:
 - government

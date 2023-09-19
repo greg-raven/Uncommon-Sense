@@ -1,5 +1,5 @@
 ---
-title: 'Prolonged warfare'
+title: "Prolonged warfare"
 layout: post
 categories:
 - war

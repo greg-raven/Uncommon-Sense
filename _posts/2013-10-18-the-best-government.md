@@ -1,5 +1,5 @@
 ---
-title: 'The best government'
+title: "The best government"
 layout: post
 categories:
 - government

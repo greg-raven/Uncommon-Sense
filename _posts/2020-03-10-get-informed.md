@@ -1,8 +1,8 @@
 ---
-title: 'Get informed'
+title: "Get informed"
 layout: post
 categories:
-- 'informed electorate'
+- informed electorate
 tags:
 - Benjamin Franklin
 ---

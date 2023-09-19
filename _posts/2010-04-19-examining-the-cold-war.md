@@ -1,5 +1,5 @@
 ---
-title: 'Examining the Cold War'
+title: "Examining the Cold War"
 layout: post
 categories:
 - liberty

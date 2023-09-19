@@ -1,5 +1,5 @@
 ---
-title: 'Collectivist emergencies'
+title: "Collectivist emergencies"
 layout: post
 categories:
 - collectivization

@@ -1,5 +1,5 @@
 ---
-title: 'The mentality of crowds'
+title: "The mentality of crowds"
 layout: post
 categories:
 - collectivization

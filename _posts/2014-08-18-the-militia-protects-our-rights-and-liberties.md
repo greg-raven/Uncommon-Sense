@@ -1,8 +1,8 @@
 ---
-title: 'The militia protects our rights and liberties'
+title: "The militia protects our rights and liberties"
 layout: post
 categories:
-- 'Second Amendment'
+- Second Amendment
 tags:
 - Elbridge Gerry
 ---

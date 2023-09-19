@@ -1,5 +1,5 @@
 ---
-title: 'The Seven Deadly Blunders'
+title: "The Seven Deadly Blunders"
 layout: post
 categories:
 - morals

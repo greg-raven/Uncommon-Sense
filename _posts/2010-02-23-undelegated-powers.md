@@ -1,5 +1,5 @@
 ---
-title: 'Undelegated powers'
+title: "Undelegated powers"
 layout: post
 categories:
 - Constitution

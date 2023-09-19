@@ -1,5 +1,5 @@
 ---
-title: 'Limits on general welfare'
+title: "Limits on general welfare"
 layout: post
 categories:
 - Constitution

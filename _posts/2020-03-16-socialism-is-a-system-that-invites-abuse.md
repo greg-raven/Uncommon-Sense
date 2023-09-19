@@ -1,5 +1,5 @@
 ---
-title: 'Socialism is a system that invites abuse'
+title: "Socialism is a system that invites abuse"
 layout: post
 categories:
 - socialism

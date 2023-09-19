@@ -1,5 +1,5 @@
 ---
-title: 'Why leaders go to war'
+title: "Why leaders go to war"
 layout: post
 categories:
 - war

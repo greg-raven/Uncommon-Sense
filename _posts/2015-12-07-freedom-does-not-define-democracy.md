@@ -1,5 +1,5 @@
 ---
-title: ''Freedom' does not define democracy'
+title: "'Freedom' does not define democracy"
 layout: post
 categories:
 - democracy

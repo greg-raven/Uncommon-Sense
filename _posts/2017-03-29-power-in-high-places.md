@@ -1,5 +1,5 @@
 ---
-title: 'Power in high places'
+title: "Power in high places"
 layout: post
 categories:
 - government

@@ -1,5 +1,5 @@
 ---
-title: 'Bureaucracies and identity politics'
+title: "Bureaucracies and identity politics"
 layout: post
 categories:
 - socialism

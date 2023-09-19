@@ -1,5 +1,5 @@
 ---
-title: 'Deepening the Great Depression'
+title: "Deepening the Great Depression"
 layout: post
 categories:
 - money

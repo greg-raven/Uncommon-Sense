@@ -1,5 +1,5 @@
 ---
-title: 'Freedom of speech is paramount'
+title: "Freedom of speech is paramount"
 layout: post
 categories:
 - speech

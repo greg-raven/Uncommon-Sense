@@ -1,5 +1,5 @@
 ---
-title: 'We are not the government'
+title: "We are not the government"
 layout: post
 categories:
 - democracy

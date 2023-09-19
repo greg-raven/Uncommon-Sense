@@ -1,5 +1,5 @@
 ---
-title: 'Immigrants must assimilate'
+title: "Immigrants must assimilate"
 layout: post
 categories:
 - immigration

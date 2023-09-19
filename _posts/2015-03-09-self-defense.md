@@ -1,5 +1,5 @@
 ---
-title: 'Self defense'
+title: "Self defense"
 layout: post
 categories:
 - strength

@@ -1,5 +1,5 @@
 ---
-title: 'The burden of government'
+title: "The burden of government"
 layout: post
 categories:
 - taxation

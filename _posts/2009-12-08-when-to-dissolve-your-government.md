@@ -1,5 +1,5 @@
 ---
-title: 'When to dissolve your government'
+title: "When to dissolve your government"
 layout: post
 categories:
 - rebellion

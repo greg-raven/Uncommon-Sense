@@ -1,5 +1,5 @@
 ---
-title: 'General Welfare'
+title: "General Welfare"
 layout: post
 categories:
 - Constitution

@@ -1,5 +1,5 @@
 ---
-title: 'Declarations of independence'
+title: "Declarations of independence"
 layout: post
 categories:
 - liberty

@@ -1,5 +1,5 @@
 ---
-title: 'Finding the right answer'
+title: "Finding the right answer"
 layout: post
 categories:
 - speech

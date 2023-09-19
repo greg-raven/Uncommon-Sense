@@ -1,5 +1,5 @@
 ---
-title: 'No change, no hope.'
+title: "No change, no hope."
 layout: post
 categories:
 - race

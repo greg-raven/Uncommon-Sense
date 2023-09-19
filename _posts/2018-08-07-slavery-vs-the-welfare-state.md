@@ -1,5 +1,5 @@
 ---
-title: 'Slavery vs. the welfare state'
+title: "Slavery vs. the welfare state"
 layout: post
 categories:
 - welfare

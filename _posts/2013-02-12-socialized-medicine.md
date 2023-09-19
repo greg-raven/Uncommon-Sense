@@ -1,5 +1,5 @@
 ---
-title: 'Socialized medicine'
+title: "Socialized medicine"
 layout: post
 categories:
 - Obamacare

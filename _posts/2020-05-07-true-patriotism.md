@@ -1,5 +1,5 @@
 ---
-title: 'True patriotism'
+title: "True patriotism"
 layout: post
 categories:
 - patriotism

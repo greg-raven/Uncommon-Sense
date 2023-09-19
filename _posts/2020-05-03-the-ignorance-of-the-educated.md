@@ -1,5 +1,5 @@
 ---
-title: 'The ignorance of the educated'
+title: "The ignorance of the educated"
 layout: post
 categories:
 - education

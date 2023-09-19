@@ -1,5 +1,5 @@
 ---
-title: 'The smallest minority'
+title: "The smallest minority"
 layout: post
 categories:
 - individualism

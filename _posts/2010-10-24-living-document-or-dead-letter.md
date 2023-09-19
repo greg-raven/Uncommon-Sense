@@ -1,5 +1,5 @@
 ---
-title: 'Living document or dead letter?'
+title: "Living document or dead letter?"
 layout: post
 categories:
 - Constitution

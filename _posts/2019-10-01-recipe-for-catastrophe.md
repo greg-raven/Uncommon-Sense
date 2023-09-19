@@ -1,5 +1,5 @@
 ---
-title: 'Recipe for catastrophe'
+title: "Recipe for catastrophe"
 layout: post
 categories:
 - immigration

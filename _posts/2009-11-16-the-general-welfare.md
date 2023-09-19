@@ -1,5 +1,5 @@
 ---
-title: 'The general welfare'
+title: "The general welfare"
 layout: post
 categories:
 - decentralization

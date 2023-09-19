@@ -1,5 +1,5 @@
 ---
-title: 'Reverse discrimination'
+title: "Reverse discrimination"
 layout: post
 categories:
 - press

@@ -1,5 +1,5 @@
 ---
-title: 'United we must remain'
+title: "United we must remain"
 layout: post
 categories:
 - culture

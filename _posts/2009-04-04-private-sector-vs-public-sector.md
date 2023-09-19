@@ -1,5 +1,5 @@
 ---
-title: 'Private sector vs. public sector'
+title: "Private sector vs. public sector"
 layout: post
 categories:
 - government

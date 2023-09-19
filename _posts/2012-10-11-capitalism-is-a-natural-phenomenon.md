@@ -1,5 +1,5 @@
 ---
-title: 'Capitalism is a natural phenomenon'
+title: "Capitalism is a natural phenomenon"
 layout: post
 categories:
 - socialism

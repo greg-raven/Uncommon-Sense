@@ -1,5 +1,5 @@
 ---
-title: 'The worst of the worst'
+title: "The worst of the worst"
 layout: post
 categories:
 - politics

@@ -1,5 +1,5 @@
 ---
-title: 'Government mismanagement of monies'
+title: "Government mismanagement of monies"
 layout: post
 categories:
 - economics

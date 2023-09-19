@@ -1,5 +1,5 @@
 ---
-title: 'Frankness, honesty, and courage'
+title: "Frankness, honesty, and courage"
 layout: post
 categories:
 - truth

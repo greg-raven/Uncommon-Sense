@@ -1,5 +1,5 @@
 ---
-title: 'Consequences of PC'
+title: "Consequences of PC"
 layout: post
 categories:
 - war

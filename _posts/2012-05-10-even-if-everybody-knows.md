@@ -1,5 +1,5 @@
 ---
-title: 'Even if everybody knows ...'
+title: "Even if everybody knows ..."
 layout: post
 categories:
 - democracy

@@ -1,5 +1,5 @@
 ---
-title: 'Laws needed to protect liberty'
+title: "Laws needed to protect liberty"
 layout: post
 categories:
 - liberty

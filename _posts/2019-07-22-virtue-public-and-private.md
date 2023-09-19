@@ -1,5 +1,5 @@
 ---
-title: 'Virtue: Public and private'
+title: "Virtue: Public and private"
 layout: post
 categories:
 - virtue

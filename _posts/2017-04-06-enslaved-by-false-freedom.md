@@ -1,5 +1,5 @@
 ---
-title: 'Enslaved by false freedom'
+title: "Enslaved by false freedom"
 layout: post
 categories:
 - liberty

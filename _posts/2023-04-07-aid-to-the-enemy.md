@@ -1,5 +1,5 @@
 ---
-title: 'Aid to the enemy'
+title: "Aid to the enemy"
 layout: post
 categories:
 - war

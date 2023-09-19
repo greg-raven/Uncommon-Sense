@@ -1,5 +1,5 @@
 ---
-title: 'Hold onto the Constitution'
+title: "Hold onto the Constitution"
 layout: post
 categories:
 - Constitution

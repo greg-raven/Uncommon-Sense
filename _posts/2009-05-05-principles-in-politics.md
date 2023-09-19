@@ -1,5 +1,5 @@
 ---
-title: 'Principles in politics'
+title: "Principles in politics"
 layout: post
 categories:
 - virtue

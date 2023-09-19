@@ -1,5 +1,5 @@
 ---
-title: 'If white America were racist'
+title: "If white America were racist"
 layout: post
 categories:
 - race

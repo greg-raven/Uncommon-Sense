@@ -1,5 +1,5 @@
 ---
-title: 'Support the rule of law'
+title: "Support the rule of law"
 layout: post
 categories:
 - laws

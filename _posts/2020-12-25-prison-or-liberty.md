@@ -1,5 +1,5 @@
 ---
-title: 'Prison or liberty'
+title: "Prison or liberty"
 layout: post
 categories:
 - liberty

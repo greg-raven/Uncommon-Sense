@@ -1,5 +1,5 @@
 ---
-title: 'Set business free'
+title: "Set business free"
 layout: post
 categories:
 - capitalism

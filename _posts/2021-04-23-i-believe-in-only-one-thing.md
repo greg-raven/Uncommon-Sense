@@ -1,5 +1,5 @@
 ---
-title: 'I believe in only one thing'
+title: "I believe in only one thing"
 layout: post
 categories:
 - liberty

@@ -1,5 +1,5 @@
 ---
-title: 'The time is now near at hand'
+title: "The time is now near at hand"
 layout: post
 categories:
 - war

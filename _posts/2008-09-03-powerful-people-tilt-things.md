@@ -1,5 +1,5 @@
 ---
-title: 'People in power tend to tilt things in their direction'
+title: "People in power tend to tilt things in their direction"
 layout: post
 categories:
 - demagogues

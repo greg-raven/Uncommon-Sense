@@ -1,5 +1,5 @@
 ---
-title: 'Democracy vs. liberty'
+title: "Democracy vs. liberty"
 layout: post
 categories:
 - democracy

@@ -1,5 +1,5 @@
 ---
-title: 'Dishonesty is the default'
+title: "Dishonesty is the default"
 layout: post
 categories:
 - truth

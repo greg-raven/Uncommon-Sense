@@ -1,5 +1,5 @@
 ---
-title: 'Exposing government deceit'
+title: "Exposing government deceit"
 layout: post
 categories:
 - press

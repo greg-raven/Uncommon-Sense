@@ -1,5 +1,5 @@
 ---
-title: 'Obedience and rebellion'
+title: "Obedience and rebellion"
 layout: post
 categories:
 - collectivization

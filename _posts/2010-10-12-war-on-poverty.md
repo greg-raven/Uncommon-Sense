@@ -1,5 +1,5 @@
 ---
-title: 'War on poverty'
+title: "War on poverty"
 layout: post
 categories:
 - prosperity

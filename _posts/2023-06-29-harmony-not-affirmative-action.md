@@ -1,5 +1,5 @@
 ---
-title: 'Affirmative-action policies do not promote harmony'
+title: "Affirmative-action policies do not promote harmony"
 layout: post
 categories:
 - equality

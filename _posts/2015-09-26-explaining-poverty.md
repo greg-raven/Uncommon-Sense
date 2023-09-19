@@ -1,5 +1,5 @@
 ---
-title: 'Explaining poverty'
+title: "Explaining poverty"
 layout: post
 categories:
 - prosperity

@@ -1,5 +1,5 @@
 ---
-title: 'U.S. ruined by the Federal Reserve Bank'
+title: "U.S. ruined by the Federal Reserve Bank"
 layout: post
 categories:
 - money

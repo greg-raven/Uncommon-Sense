@@ -1,5 +1,5 @@
 ---
-title: 'We've been nice to the liberals for too long'
+title: "We've been nice to the liberals for too long"
 layout: post
 categories:
 - liberalism

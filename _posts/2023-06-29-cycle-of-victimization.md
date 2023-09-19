@@ -1,5 +1,5 @@
 ---
-title: 'A never-ending cycle of victimization'
+title: "A never-ending cycle of victimization"
 layout: post
 categories:
 - equality

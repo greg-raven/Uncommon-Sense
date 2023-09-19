@@ -1,5 +1,5 @@
 ---
-title: 'Extremism and moderation'
+title: "Extremism and moderation"
 layout: post
 categories:
 - liberty

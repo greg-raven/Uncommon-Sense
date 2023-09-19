@@ -1,5 +1,5 @@
 ---
-title: 'False dichotomy'
+title: "False dichotomy"
 layout: post
 categories:
 - truth

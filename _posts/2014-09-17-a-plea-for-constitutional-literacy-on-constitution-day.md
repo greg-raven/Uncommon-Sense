@@ -1,5 +1,5 @@
 ---
-title: 'A plea for Constitutional literacy on Constitution Day'
+title: "A plea for Constitutional literacy on Constitution Day"
 layout: post
 categories:
 - Constitution

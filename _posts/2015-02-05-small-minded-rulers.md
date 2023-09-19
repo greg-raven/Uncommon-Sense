@@ -1,5 +1,5 @@
 ---
-title: 'Small-minded rulers'
+title: "Small-minded rulers"
 layout: post
 categories:
 - regulations

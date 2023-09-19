@@ -1,5 +1,5 @@
 ---
-title: 'The history of the Revolution'
+title: "The history of the Revolution"
 layout: post
 categories:
 - history

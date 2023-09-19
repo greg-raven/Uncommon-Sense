@@ -1,5 +1,5 @@
 ---
-title: 'Tenth Commandment'
+title: "Tenth Commandment"
 layout: post
 categories:
 - morals

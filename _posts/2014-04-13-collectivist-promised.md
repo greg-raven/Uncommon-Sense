@@ -1,5 +1,5 @@
 ---
-title: 'Collectivist promised'
+title: "Collectivist promised"
 layout: post
 categories:
 - collectivization

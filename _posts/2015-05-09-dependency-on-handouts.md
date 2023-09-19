@@ -1,5 +1,5 @@
 ---
-title: 'Dependency on handouts'
+title: "Dependency on handouts"
 layout: post
 categories:
 - welfare

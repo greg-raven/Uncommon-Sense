@@ -1,5 +1,5 @@
 ---
-title: 'Bank bail-outs'
+title: "Bank bail-outs"
 layout: post
 categories:
 - economics

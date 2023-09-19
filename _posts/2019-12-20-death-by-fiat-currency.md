@@ -1,5 +1,5 @@
 ---
-title: 'Death by fiat currency'
+title: "Death by fiat currency"
 layout: post
 categories:
 - money

@@ -1,5 +1,5 @@
 ---
-title: 'Black political standards'
+title: "Black political standards"
 layout: post
 categories:
 - race

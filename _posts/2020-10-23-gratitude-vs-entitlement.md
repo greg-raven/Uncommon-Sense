@@ -1,5 +1,5 @@
 ---
-title: 'Gratitude vs. entitlement'
+title: "Gratitude vs. entitlement"
 layout: post
 categories:
 - capitalism

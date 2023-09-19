@@ -1,5 +1,5 @@
 ---
-title: 'The Black Lives Matter movement is based on a lie'
+title: "The Black Lives Matter movement is based on a lie"
 layout: post
 categories:
 - race

@@ -1,5 +1,5 @@
 ---
-title: 'Who to blame'
+title: "Who to blame"
 layout: post
 categories:
 - government

@@ -1,5 +1,5 @@
 ---
-title: 'Never let a good crisis go to waste'
+title: "Never let a good crisis go to waste"
 layout: post
 categories:
 - demagogues

@@ -1,5 +1,5 @@
 ---
-title: 'Short memories'
+title: "Short memories"
 layout: post
 categories:
 - politics

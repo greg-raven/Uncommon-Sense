@@ -1,5 +1,5 @@
 ---
-title: 'Their way or the highway'
+title: "Their way or the highway"
 layout: post
 categories:
 - liberalism

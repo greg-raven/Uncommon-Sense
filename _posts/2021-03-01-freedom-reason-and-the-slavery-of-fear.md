@@ -1,5 +1,5 @@
 ---
-title: 'Freedom, reason, and the slavery of fear'
+title: "Freedom, reason, and the slavery of fear"
 layout: post
 categories:
 - liberty

@@ -1,5 +1,5 @@
 ---
-title: 'End the Fed'
+title: "End the Fed"
 layout: post
 categories:
 - economics

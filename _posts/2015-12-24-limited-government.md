@@ -1,5 +1,5 @@
 ---
-title: 'Limited government'
+title: "Limited government"
 layout: post
 categories:
 - Constitution

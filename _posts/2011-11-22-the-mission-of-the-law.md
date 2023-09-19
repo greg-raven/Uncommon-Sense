@@ -1,5 +1,5 @@
 ---
-title: 'The mission of the law'
+title: "The mission of the law"
 layout: post
 categories:
 - laws

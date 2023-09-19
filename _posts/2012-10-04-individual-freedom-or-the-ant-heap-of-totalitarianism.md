@@ -1,5 +1,5 @@
 ---
-title: 'Individual freedom, or the ant heap of totalitarianism'
+title: "Individual freedom, or the ant heap of totalitarianism"
 layout: post
 categories:
 - liberty

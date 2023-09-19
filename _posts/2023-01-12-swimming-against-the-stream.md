@@ -1,5 +1,5 @@
 ---
-title: 'Swimming against the stream'
+title: "Swimming against the stream"
 layout: post
 categories:
 - speech

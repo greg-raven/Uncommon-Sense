@@ -1,5 +1,5 @@
 ---
-title: 'Growth of illegitimate government'
+title: "Growth of illegitimate government"
 layout: post
 categories:
 - government

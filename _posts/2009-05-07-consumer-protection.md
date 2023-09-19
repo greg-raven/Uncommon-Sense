@@ -1,5 +1,5 @@
 ---
-title: 'Consumer protection'
+title: "Consumer protection"
 layout: post
 categories:
 - regulations

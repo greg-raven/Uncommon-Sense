@@ -1,5 +1,5 @@
 ---
-title: 'The Constitution is the law of the land'
+title: "The Constitution is the law of the land"
 layout: post
 categories:
 - Constitution

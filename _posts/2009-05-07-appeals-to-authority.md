@@ -1,8 +1,8 @@
 ---
-title: 'Appeals to authority'
+title: "Appeals to authority"
 layout: post
 categories:
-- 'external authority'
+- external authority
 tags:
 - Robert A. Heinlein
 ---

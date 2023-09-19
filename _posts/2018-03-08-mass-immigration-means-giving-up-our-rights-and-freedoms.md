@@ -1,5 +1,5 @@
 ---
-title: 'Mass immigration means giving up our rights and freedoms'
+title: "Mass immigration means giving up our rights and freedoms"
 layout: post
 categories:
 - immigration

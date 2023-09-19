@@ -1,5 +1,5 @@
 ---
-title: 'Choose your rulers wisely'
+title: "Choose your rulers wisely"
 layout: post
 categories:
 - government

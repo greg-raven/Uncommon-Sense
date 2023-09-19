@@ -1,5 +1,5 @@
 ---
-title: 'The cost of false equality'
+title: "The cost of false equality"
 layout: post
 categories:
 - economics

@@ -1,5 +1,5 @@
 ---
-title: 'The socialism continuum'
+title: "The socialism continuum"
 layout: post
 categories:
 - socialism

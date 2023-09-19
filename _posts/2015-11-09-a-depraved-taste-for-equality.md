@@ -1,5 +1,5 @@
 ---
-title: 'A depraved taste for equality'
+title: "A depraved taste for equality"
 layout: post
 categories:
 - equality

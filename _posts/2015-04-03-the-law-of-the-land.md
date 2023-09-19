@@ -1,5 +1,5 @@
 ---
-title: 'The law of the land'
+title: "The law of the land"
 layout: post
 categories:
 - Constitution

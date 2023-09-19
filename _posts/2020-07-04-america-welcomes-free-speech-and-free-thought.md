@@ -1,5 +1,5 @@
 ---
-title: 'America welcomes free speech and free thought'
+title: "America welcomes free speech and free thought"
 layout: post
 categories:
 - speech

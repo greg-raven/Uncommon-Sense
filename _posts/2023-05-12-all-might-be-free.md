@@ -1,5 +1,5 @@
 ---
-title: 'All might be free'
+title: "All might be free"
 layout: post
 categories:
 - liberty

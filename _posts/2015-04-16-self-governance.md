@@ -1,5 +1,5 @@
 ---
-title: 'Self governance'
+title: "Self governance"
 layout: post
 categories:
 - individualism

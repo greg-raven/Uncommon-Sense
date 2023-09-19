@@ -1,8 +1,8 @@
 ---
-title: 'Government secrecy'
+title: "Government secrecy"
 layout: post
 categories:
-- 'informed electorate'
+- informed electorate
 tags:
 - Robert A. Heinlein
 ---

@@ -1,5 +1,5 @@
 ---
-title: 'Charlatans need followers'
+title: "Charlatans need followers"
 layout: post
 categories:
 - individualism

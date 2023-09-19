@@ -1,5 +1,5 @@
 ---
-title: 'Educate to preserve liberty'
+title: "Educate to preserve liberty"
 layout: post
 categories:
 - education

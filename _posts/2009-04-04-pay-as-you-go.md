@@ -1,5 +1,5 @@
 ---
-title: 'Pay as you go'
+title: "Pay as you go"
 layout: post
 categories:
 - economics

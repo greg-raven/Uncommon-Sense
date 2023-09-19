@@ -1,5 +1,5 @@
 ---
-title: 'U.S. debt and budget deficit'
+title: "U.S. debt and budget deficit"
 layout: post
 categories:
 - debt

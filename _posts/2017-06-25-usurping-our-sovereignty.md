@@ -1,5 +1,5 @@
 ---
-title: 'Usurping our sovereignty'
+title: "Usurping our sovereignty"
 layout: post
 categories:
 - Constitution

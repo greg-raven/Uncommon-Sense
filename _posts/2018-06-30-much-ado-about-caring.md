@@ -1,5 +1,5 @@
 ---
-title: 'Much ado about caring'
+title: "Much ado about caring"
 layout: post
 categories:
 - liberalism

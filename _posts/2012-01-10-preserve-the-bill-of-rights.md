@@ -1,5 +1,5 @@
 ---
-title: 'Preserve the Bill of Rights'
+title: "Preserve the Bill of Rights"
 layout: post
 categories:
 - Constitution

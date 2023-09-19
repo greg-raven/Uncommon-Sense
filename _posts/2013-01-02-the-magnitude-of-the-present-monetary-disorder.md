@@ -1,5 +1,5 @@
 ---
-title: 'Our present money disorder'
+title: "Our present money disorder"
 layout: post
 categories:
 - money

@@ -1,5 +1,5 @@
 ---
-title: 'Freedom of speech is the first to go'
+title: "Freedom of speech is the first to go"
 layout: post
 categories:
 - speech

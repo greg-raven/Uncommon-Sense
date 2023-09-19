@@ -1,5 +1,5 @@
 ---
-title: 'Founded on liberty'
+title: "Founded on liberty"
 layout: post
 categories:
 - liberty

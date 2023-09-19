@@ -1,5 +1,5 @@
 ---
-title: 'Productivity through freedom'
+title: "Productivity through freedom"
 layout: post
 categories:
 - liberty

@@ -1,5 +1,5 @@
 ---
-title: 'The cost of good intentions'
+title: "The cost of good intentions"
 layout: post
 categories:
 - collectivization

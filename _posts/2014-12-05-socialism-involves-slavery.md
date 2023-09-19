@@ -1,5 +1,5 @@
 ---
-title: 'Socialism involves slavery'
+title: "Socialism involves slavery"
 layout: post
 categories:
 - socialism

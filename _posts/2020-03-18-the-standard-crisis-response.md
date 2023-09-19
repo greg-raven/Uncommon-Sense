@@ -1,5 +1,5 @@
 ---
-title: 'The standard crisis response'
+title: "The standard crisis response"
 layout: post
 categories:
 - collectivization

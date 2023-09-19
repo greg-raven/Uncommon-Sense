@@ -1,5 +1,5 @@
 ---
-title: 'The path to prosperity'
+title: "The path to prosperity"
 layout: post
 categories:
 - prosperity

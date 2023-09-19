@@ -1,5 +1,5 @@
 ---
-title: 'Robbing through taxes'
+title: "Robbing through taxes"
 layout: post
 categories:
 - taxation

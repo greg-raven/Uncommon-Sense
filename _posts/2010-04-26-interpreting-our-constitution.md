@@ -1,5 +1,5 @@
 ---
-title: 'Interpreting our Constitution'
+title: "Interpreting our Constitution"
 layout: post
 categories:
 - Constitution

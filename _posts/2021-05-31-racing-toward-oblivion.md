@@ -1,5 +1,5 @@
 ---
-title: 'Racing toward oblivion'
+title: "Racing toward oblivion"
 layout: post
 categories:
 - prosperity

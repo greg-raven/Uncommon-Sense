@@ -1,5 +1,5 @@
 ---
-title: 'The best system yet'
+title: "The best system yet"
 layout: post
 categories:
 - capitalism

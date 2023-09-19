@@ -1,5 +1,5 @@
 ---
-title: 'Revolutions and belief'
+title: "Revolutions and belief"
 layout: post
 categories:
 - rebellion

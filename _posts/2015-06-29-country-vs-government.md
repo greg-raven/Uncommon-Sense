@@ -1,5 +1,5 @@
 ---
-title: 'Country vs. government'
+title: "Country vs. government"
 layout: post
 categories:
 - government

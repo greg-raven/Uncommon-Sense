@@ -1,5 +1,5 @@
 ---
-title: 'Strict immigration laws protect our nation'
+title: "Strict immigration laws protect our nation"
 layout: post
 categories:
 - immigration

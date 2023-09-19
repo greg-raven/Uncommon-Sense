@@ -1,5 +1,5 @@
 ---
-title: 'Might vs. justice'
+title: "Might vs. justice"
 layout: post
 categories:
 - rights

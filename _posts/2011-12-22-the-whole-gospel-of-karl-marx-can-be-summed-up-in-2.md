@@ -1,5 +1,5 @@
 ---
-title: 'The Gospel of Marx'
+title: "The Gospel of Marx"
 layout: post
 categories:
 - socialism

@@ -1,5 +1,5 @@
 ---
-title: 'Products of freedom'
+title: "Products of freedom"
 layout: post
 categories:
 - liberty

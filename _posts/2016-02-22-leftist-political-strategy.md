@@ -1,5 +1,5 @@
 ---
-title: 'Leftist political strategy'
+title: "Leftist political strategy"
 layout: post
 categories:
 - socialism

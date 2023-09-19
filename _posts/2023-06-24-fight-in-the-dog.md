@@ -1,5 +1,5 @@
 ---
-title: 'The fight in the dog'
+title: "The fight in the dog"
 layout: post
 categories:
 - strength

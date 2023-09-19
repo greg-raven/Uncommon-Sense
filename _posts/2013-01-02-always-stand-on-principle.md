@@ -1,5 +1,5 @@
 ---
-title: 'Always stand on principle'
+title: "Always stand on principle"
 layout: post
 categories:
 - virtue

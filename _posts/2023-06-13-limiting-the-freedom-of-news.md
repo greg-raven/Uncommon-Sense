@@ -1,5 +1,5 @@
 ---
-title: 'Limiting the freedom of news'
+title: "Limiting the freedom of news"
 layout: post
 categories:
 - speech

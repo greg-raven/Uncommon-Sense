@@ -1,5 +1,5 @@
 ---
-title: 'Liberals and freedoms'
+title: "Liberals and freedoms"
 layout: post
 categories:
 - liberalism

@@ -1,5 +1,5 @@
 ---
-title: 'Propaganda's purpose'
+title: "Propaganda's purpose"
 layout: post
 categories:
 - demagogues

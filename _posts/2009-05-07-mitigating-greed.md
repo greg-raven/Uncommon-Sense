@@ -1,5 +1,5 @@
 ---
-title: 'Mitigating greed'
+title: "Mitigating greed"
 layout: post
 categories:
 - capitalism

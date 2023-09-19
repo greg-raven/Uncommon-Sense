@@ -1,5 +1,5 @@
 ---
-title: 'Spendthrift rulers'
+title: "Spendthrift rulers"
 layout: post
 categories:
 - waste

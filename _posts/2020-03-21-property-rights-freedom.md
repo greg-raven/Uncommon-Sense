@@ -1,5 +1,5 @@
 ---
-title: 'Property rights = freedom'
+title: "Property rights = freedom"
 layout: post
 categories:
 - property

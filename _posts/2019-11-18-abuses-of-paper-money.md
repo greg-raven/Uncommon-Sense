@@ -1,5 +1,5 @@
 ---
-title: 'Abuses of paper money'
+title: "Abuses of paper money"
 layout: post
 categories:
 - money

@@ -1,5 +1,5 @@
 ---
-title: 'Constant kind of warfare between the governing and governed'
+title: "Constant kind of warfare between the governing and governed"
 layout: post
 categories:
 - government

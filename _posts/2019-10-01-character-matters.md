@@ -1,5 +1,5 @@
 ---
-title: 'Character matters'
+title: "Character matters"
 layout: post
 categories:
 - demagogues

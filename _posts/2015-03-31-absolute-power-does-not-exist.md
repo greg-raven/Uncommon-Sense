@@ -1,5 +1,5 @@
 ---
-title: 'Absolute power does not exist'
+title: "Absolute power does not exist"
 layout: post
 categories:
 - individualism

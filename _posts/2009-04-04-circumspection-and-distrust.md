@@ -1,5 +1,5 @@
 ---
-title: 'Circumspection and distrust'
+title: "Circumspection and distrust"
 layout: post
 categories:
 - corruption

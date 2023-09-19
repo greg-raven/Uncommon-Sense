@@ -1,5 +1,5 @@
 ---
-title: 'Destroy civilization by first destroying the money'
+title: "Destroy civilization by first destroying the money"
 layout: post
 categories:
 - money

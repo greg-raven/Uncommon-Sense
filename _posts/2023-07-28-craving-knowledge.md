@@ -1,5 +1,5 @@
 ---
-title: 'Craving after knowledge'
+title: "Craving after knowledge"
 layout: post
 categories:
 - knowledge

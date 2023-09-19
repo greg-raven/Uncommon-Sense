@@ -1,5 +1,5 @@
 ---
-title: 'Rational law'
+title: "Rational law"
 layout: post
 categories:
 - liberty

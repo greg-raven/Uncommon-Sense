@@ -1,5 +1,5 @@
 ---
-title: 'State vs. society'
+title: "State vs. society"
 layout: post
 categories:
 - collectivization

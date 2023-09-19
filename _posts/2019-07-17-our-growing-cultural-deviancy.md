@@ -1,5 +1,5 @@
 ---
-title: 'Our growing cultural deviancy'
+title: "Our growing cultural deviancy"
 layout: post
 categories:
 - culture

@@ -1,8 +1,8 @@
 ---
-title: 'Govern yourself'
+title: "Govern yourself"
 layout: post
 categories:
-- 'external authority'
+- external authority
 tags:
 - George Herron
 ---

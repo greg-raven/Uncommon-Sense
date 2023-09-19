@@ -1,5 +1,5 @@
 ---
-title: 'Press must be impartial and accurate'
+title: "Press must be impartial and accurate"
 layout: post
 categories:
 - press

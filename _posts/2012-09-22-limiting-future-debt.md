@@ -1,5 +1,5 @@
 ---
-title: 'Limiting future debt'
+title: "Limiting future debt"
 layout: post
 categories:
 - debt
