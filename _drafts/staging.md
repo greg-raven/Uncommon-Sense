@@ -705,7 +705,11 @@ Contrary to the Marxists, the Nazis did not advocate public ownership of the mea
 
 Beyond a doubt truth bears the same relation to falsehood as light to darkness. Leonardo Da Vinci
 
+
+
 I believe that the community is already in process of dissolution where each man begins to eye his neighbor as a possible enemy, where non-conformity with the accepted creed, political as well as religious, is a mark of disaffection; where denunciation, without specification or backing, takes the place of evidence, where orthodoxy chokes freedom of dissent; where faith in the eventual supremacy of reason has become so timid that we dare not enter our convictions in the open lists, to win or lose. Learned Hand
+
+
 
 Repeal the entire Banking Act of 1933, and Austrian School economists will cheer, especially if the current system were replaced by a 100%-reserve competitive banking with no central bank. That banking reform would give us a sound money system, meaning no more business cycle, bailouts, or inflation. Lew Rockwell
 
@@ -1433,3 +1437,10 @@ When people get used to preferential treatment, equal treatment seems like discr
 
 Children have a tendency toward self-involvement which makes them give too much weight to trivia, too little weight to significant things. John D. MacDonald
 
+
+
+Hope is a good breakfast, but it is a bad supper. Francis Bacon
+
+
+
+If you are wise, mingle these two elements: do not hope without despair, or despair without hope.  Lucius Annaeus Seneca
