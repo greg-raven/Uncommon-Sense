@@ -3,7 +3,8 @@ title: "No duty to their constituents"
 layout: post
 categories:
 - government
-tag: "John Hayward"
+tags:
+- John Hayward
 ---
 
 The driving force behind lethally incompetent blue-state government is that no Democrat politician today thinks duty to their constituents is their top priority. All of them have higher concerns: global warming, diversity agenda, Party-building, and lining their own pockets.

@@ -297,15 +297,11 @@ Many of the greatest things man has achieved are not the result of consciously d
 
 The history of government management of money has, except for a few short happy periods, been one of incessant fraud and deception. Friedrich August von Hayek
 
-Freedom is the will to be responsible to ourselves. Friedrich Nietzsche
-
-Socialism is the phantastic younger brother of despotism, which it wants to inherit. Socialism wants to have the fullness of state force which before only existed in despotism. ... However, it goes further than anything in the past because it aims at the formal destruction of the individual ... who ... can be used to improve communities by an expedient organ of government. Friedrich Nietzsche
-
 A man who lies to himself, and believes his own lies, becomes unable to recognize truth, either in himself or in anyone else, and he ends up losing respect for himself and for others. When he has no respect for anyone, he can no longer love, and in him, he yields to his impulses, indulges in the lowest form of pleasure, and behaves in the end like an animal in satisfying his vices. And it all comes from lying to others and to yourself. Fyodor Dostoyevsky
 
-By the time the (16th) Amendment had been approved by the states, the Rockefeller Foundation was in full operation ... about the same time that Judge Kenesaw Landis was ordering the breakup of the Standard Oil monopoly ... John D ... not only avoided taxes by creating four great tax-exempt foundations; he used them as repositories for his 'divested' interests ... made his assets non-taxable so that they might be passed down through generations without ... estate and gift taxes ... Each year the Rockefellers can dump up to half their incomes into their pet foundations and deduct the 'donations' from their income tax. Gary Allen
+By the time the (16th) Amendment had been approved by the states, the Rockefeller Foundation was in full operation ... about the same time that Judge Kenesaw Landis was ordering the breakup of the Standard Oil monopoly ... John D. ... not only avoided taxes by creating four great tax-exempt foundations; he used them as repositories for his "divested" interests ... made his assets non-taxable so that they might be passed down through generations without ... estate and gift taxes ... Each year the Rockefellers can dump up to half their incomes into their pet foundations and deduct the "donations" from their income tax. Gary Allen
 
-I believe that if we had and would keep our dirty, bloody, dollar-soaked fingers out of the business of these nations so full of depressed, exploited people, they will arrive at a solution of their own --- and if unfortunately their revolution must be of the violent type because the 'haves' refuse to share with the 'have-nots' by any peaceful method, at least what they get will be their own, and not the American style, which they don't want and above all don't want crammed down their throats by Americans. David M. Shoup
+I believe that if we had and would keep our dirty, bloody, dollar-soaked fingers out of the business of these nations so full of depressed, exploited people, they will arrive at a solution of their own --- and if unfortunately their revolution must be of the violent type because the "haves" refuse to share with the "have-nots" by any peaceful method, at least what they get will be their own, and not the American style, which they don't want and above all don't want crammed down their throats by Americans. David M. Shoup
 
 The only thing we learn from history is that we learn nothing from history. Georg Wilhelm Friedrich Hegel
 
@@ -345,7 +341,7 @@ It is proof of a base and low mind for one to wish to think with the masses or m
 
 [T]he people as ultimate sovereigns, retain the ultimate power --- and even the duty --- to overthrow any government that fails to respect their authority. Glenn Harlan Reynolds
 
-The antipode of individualism is collectivism, which subordinates the individual to the group --- be it the 'community,' the tribe, the race, the proletariat, etc. A person's moral worth is judged by how much he sacrifices himself to the group. [Under collectivism] the more emergencies (and victims) the better, because they provide more opportunity for 'virtue'. Glenn Woiceshyn
+The antipode of individualism is collectivism, which subordinates the individual to the group --- be it the "community," the tribe, the race, the proletariat, etc. A person's moral worth is judged by how much he sacrifices himself to the group. [Under collectivism] the more emergencies (and victims) the better, because they provide more opportunity for "virtue." Glenn Woiceshyn
 
 A heretic is a man who sees with his own eyes. Gotthold Ephraim Lessing
 
@@ -389,7 +385,7 @@ It is well enough that people of the nation do not understand our banking and mo
 
 It is not the business of government to make men virtuous or religious, or to preserve the fool from the consequences of his own folly. Government should be repressive no further than is necessary to secure liberty by protecting the equal rights of each from aggression on the part of others, and the moment governmental prohibitions extend beyond this line they are in danger of defeating the very ends they are intended to serve. Henry George
 
-The monetary managers are fond of telling us that they have substituted 'responsible money management' for the gold standard. But there is no historic record of responsible paper money management ... The record taken as a whole is one of hyperinflation, devaluation and monetary chaos. Henry Hazlitt
+The monetary managers are fond of telling us that they have substituted "responsible money management" for the gold standard. But there is no historic record of responsible paper money management ... The record taken as a whole is one of hyperinflation, devaluation, and monetary chaos. Henry Hazlitt
 
 No man is great enough or wise enough for any of us to surrender our destiny to. The only way in which anyone can lead us is to restore our belief in our own guidance. Henry Miller
 
@@ -433,7 +429,7 @@ The Press was protected so that it could bare the secrets of the government and 
 
 Ever since Croesus, the first millionaire, invented gold coins, money has depreciated. And the face of the coin has been debased as fast as its value. First the faces of gods were on the coins. Then the faces of kings. Then of presidents. Now there's no face at all. Today it's only paper, with a picture of a public building and the signature of a cashier. Muck! The miracle is that you can still buy things with it. Ian Fleming
 
-Liberty is the possibility of doubting, the possibility of making a mistake, the possibility of searching and experimenting, the possibility of saying 'No' to any authority --- literary, artistic, philosophic, religious, social and even political. Ignazio Silone
+Liberty is the possibility of doubting, the possibility of making a mistake, the possibility of searching and experimenting, the possibility of saying "No" to any authority --- literary, artistic, philosophic, religious, social and even political. Ignazio Silone
 
 The work of the individual still remains the spark that moves mankind forward. Igor Sikorsky
 
@@ -465,7 +461,7 @@ The chief duty of the National Government in connection with the currency of the
 
 America is in trouble ... not from without, but from within! The Central Government has become too powerful. Citizens fear the Government. This is wrong. This is dangerous! I know the Government covered-up and promulgated LIES about Waco, Ruby Ridge, Pan Am Flight 103, Hoffa, and J.F.K. The Government knew I was right when I called Janet Reno a traitor. Janet Reno sold us out when she refused to investigate a $10-million payoff to the Democratic Party from a general in the Red Chinese Army (no less!). Think about it! And the Government knew that I had known why Reno was forced to betray America! I'm proud that I tried to do something about it! Someday the truth will come out. (I hope China never attacks us!) James A. Traficant, Jr.
 
-Assault weapons laws resemble hate speech laws. Hate speech laws usually begin by targeting a few words that almost no one approves. Once the system for controlling and punishing 'hate speech' is put into place, there is little or nothing to stop it from expanding to punish more and more types of everyday speech. Similarly, once an assault weapons law is on the books, there is little to prevent politicians from vastly increasing the number of weapons banned under the law. The main effect of banning assault weapons is to give government an excuse to arrest and imprison millions of Americans while doing little or nothing to reduce crime. America has a limited number of police, and politicians must decide who the real public enemies are. If Mr. Clinton signs an assault weapons ban, it could signal the start of an attack on gun owners' constitutional rights that could far surpass all previous gun bans. James Bovard
+Assault weapons laws resemble hate speech laws. Hate speech laws usually begin by targeting a few words that almost no one approves. Once the system for controlling and punishing "hate speech" is put into place, there is little or nothing to stop it from expanding to punish more and more types of everyday speech. Similarly, once an assault weapons law is on the books, there is little to prevent politicians from vastly increasing the number of weapons banned under the law. The main effect of banning assault weapons is to give government an excuse to arrest and imprison millions of Americans while doing little or nothing to reduce crime. America has a limited number of police, and politicians must decide who the real public enemies are. If Mr. Clinton signs an assault weapons ban, it could signal the start of an attack on gun owners' constitutional rights that could far surpass all previous gun bans. James Bovard
 
 Individualism, the love of enterprise, and the pride in personal freedom, have been deemed by Americans not only as their choicest, but their peculiar and exclusive possessions. James Bryce
 
@@ -487,7 +483,7 @@ There can be no prescription old enough to supersede the Law of Nature and the g
 
 Toward no crimes have men shown themselves so cold-bloodedly cruel as in punishing differences of opinion. James Russell Lowell
 
-Please explain to us why 'Pride Month' is cause for celebration? Are we celebrating individuals who are 'brave' enough to act in a manner contrary to God's law? Are we celebrating that God gave them up to dishonorable passions, to a debased mind to do what ought not to be done? So are we suppose to lend our approval to those who have the 'guts' to not only live in a way contrary to what God has intended, to break the laws of nature, to mutilate the body of a confused child dragged along by a parent starved for social media attention and more? Ask yourself, does our Creator celebrate 'Pride Month?' Is this of God? No it is not. Now, I'm going to be kind, fair and respectful to all who deserve to be treated as such, but I refuse to join in a month of people celebrating that which is contrary to our absolute moral law to which we all are bound, and will all one day give an account of our lives to the Law Giver Himself. Now, that is a very sobering realization to those who have been saved, but to unbelievers, all that matters is themselves; and because they live in the flesh, they CAN'T submit to God's law. To my fellow Christian brothers and sisters, let us hold fast to our faith, so that we are not misled and we finish our race strong when God calls us home. James S. Robinson
+Please explain to us why "Pride Month" is cause for celebration? Are we celebrating individuals who are "brave" enough to act in a manner contrary to God's law? Are we celebrating that God gave them up to dishonorable passions, to a debased mind to do what ought not to be done? So are we suppose to lend our approval to those who have the "guts" to not only live in a way contrary to what God has intended, to break the laws of nature, to mutilate the body of a confused child dragged along by a parent starved for social media attention and more? Ask yourself, does our Creator celebrate "Pride Month?" Is this of God? No it is not. Now, I'm going to be kind, fair and respectful to all who deserve to be treated as such, but I refuse to join in a month of people celebrating that which is contrary to our absolute moral law to which we all are bound, and will all one day give an account of our lives to the Law Giver Himself. Now, that is a very sobering realization to those who have been saved, but to unbelievers, all that matters is themselves; and because they live in the flesh, they CAN'T submit to God's law. To my fellow Christian brothers and sisters, let us hold fast to our faith, so that we are not misled and we finish our race strong when God calls us home. James S. Robinson
 
 It is a general maxim that all governments find a use for as much money as they can raise. Indeed, they have commonly demands for more ... I take this as a settled truth, that they will all spend as much as their revenue; that is, will live up to their income. James Smith
 
@@ -521,7 +517,7 @@ The law is not the private property of lawyers, nor is justice the exclusive pro
 
 Why doesn't everybody leave everybody else the hell alone? Jimmy Durante
 
-We used to be a free people. Now we are hedged in by millions of laws. Harassed by a plague of opportunistic lawyers. Harmed by regulations meant for our protection. Unnecessarily taxed to pay for a suffocating bureaucracy. Drowning in petty paperwork. Stifled by 'rights' that rarely benefit anyone. Joan Beck
+We used to be a free people. Now we are hedged in by millions of laws. Harassed by a plague of opportunistic lawyers. Harmed by regulations meant for our protection. Unnecessarily taxed to pay for a suffocating bureaucracy. Drowning in petty paperwork. Stifled by "rights" that rarely benefit anyone. Joan Beck
 
 None are more hopelessly enslaved than those who falsely believe they are free. Johann Wolfgang von Goethe
 
@@ -581,7 +577,7 @@ Truth: the most deadly weapon ever discovered by humanity. Capable of destroying
 
 It is the duty of a citizen in a free country not to fit into society, but to make society. John Holt
 
-Education ... now seems to me perhaps the most authoritarian and dangerous of all the social inventions of mankind. It is the deepest foundation of the modern slave state, in which most people feel themselves to be nothing but producers, consumers, spectators, and 'fans,' driven more and more, in all parts of their lives, by greed, envy, and fear. My concern is not to improve 'education' but to do away with it, to end the ugly and antihuman business of people-shaping and to allow and help people to shape themselves. John Holt
+Education ... now seems to me perhaps the most authoritarian and dangerous of all the social inventions of mankind. It is the deepest foundation of the modern slave state, in which most people feel themselves to be nothing but producers, consumers, spectators, and "fans," driven more and more, in all parts of their lives, by greed, envy, and fear. My concern is not to improve "education" but to do away with it, to end the ugly and antihuman business of people-shaping and to allow and help people to shape themselves. John Holt
 
 People who make careers out of helping others --- sometimes at great sacrifice, often not --- usually don't like to hear that those others might get along fine, might even get along better, without their help. John Holt
 
@@ -633,7 +629,7 @@ Those who suppress freedom always do so in the name of law and order. John V. Li
 
 We have plenty of freedom in this country but not a great deal of independence. John W. Raper
 
-In recent years we have witnessed numerous marches on Washington in which one group or another has demanded new 'rights.' Frequently, such rights have not meant freedom from state control, but rather entitlement to state action, protection, or subsidy. In the process of yielding to the 'will of the people' and creating new rights, the state invariably enlarges itself and its bureaucracy. Each new right seems to demand a new agency to guarantee it, administer it, or deliver it. John W. Whitehead
+In recent years we have witnessed numerous marches on Washington in which one group or another has demanded new "rights." Frequently, such rights have not meant freedom from state control, but rather entitlement to state action, protection, or subsidy. In the process of yielding to the "will of the people" and creating new rights, the state invariably enlarges itself and its bureaucracy. Each new right seems to demand a new agency to guarantee it, administer it, or deliver it. John W. Whitehead
 
 The True Gentleman is the man whose conduct proceeds from good will and an acute sense of propriety, and whose self-control is equal to all emergencies; who does not make the poor man conscious of his poverty, the obscure man of his obscurity, or any man of his inferiority or deformity; who is himself humbled if necessity compels him to humble another; who does not flatter wealth, cringe before power, or boast of his own possessions or achievements; who speaks with frankness but always with sincerity and sympathy; whose deed follows his word; who thinks of the rights and feelings of others, rather than his own; and who appears well in any company, a man with whom honor is sacred and virtue safe. John Walter Wayland
 
@@ -665,7 +661,7 @@ The cry of the soul is for freedom. It longs for liberty, from the date of its f
 
 The right of ordinary citizens to possess weapons is the most extraordinary, most controversial, and least understood of those liberties secured by Englishmen and bequeathed to their American colonists. It lies at the very heart of the relationship between the individual and his fellows, and between the individual and his government. Joyce Lee Malcolm
 
-It's kind of hard to beat gasoline. A lot of the technologies that we think of as being clean ... are not better than gasoline.' – Julian Marshall
+It's kind of hard to beat gasoline. A lot of the technologies that we think of as being clean ... are not better than gasoline. – Julian Marshall
 
 In a small Swiss city sits an international organization so obscure and secretive ... Control of the institution, the Bank for International Settlements, lies with some of the world's most powerful and least visible men: the heads of 32 central banks, officials able to shift billions of dollars and alter the course of economies at the stroke of a pen. Keith Bradsher
 
@@ -689,7 +685,7 @@ To pretend to know when you do not know is a disease. Lao-Tzu
 
 The drive of the Rockefellers and their allies is to create a one-world government combining supercapitalism and communism under the same tent, all under their control ... Do I mean conspiracy? Yes I do. I am convinced there is such a plot, international in scope, generations old in planning, and incredibly evil in intent. Larry P. McDonald
 
-The Declaration of Independence ... is not a legal prescription conferring powers upon the courts; and the Constitution's refusal to 'deny or disparage' other rights is far removed from affirming any one of them, and even farther removed from authorizing judges to identify what they might be, and to enforce the judges' list against laws duly enacted by the people. Laura Schlessinger
+The Declaration of Independence ... is not a legal prescription conferring powers upon the courts; and the Constitution's refusal to "deny or disparage" other rights is far removed from affirming any one of them, and even farther removed from authorizing judges to identify what they might be, and to enforce the judges' list against laws duly enacted by the people. Laura Schlessinger
 
 If the Biden Administration's goal was to purposefully destabilize America and destroy our country from within, it would look absolutely identical to the mess we're in right now. Lauren Boebert
 
@@ -713,7 +709,7 @@ I believe that the community is already in process of dissolution where each man
 
 Repeal the entire Banking Act of 1933, and Austrian School economists will cheer, especially if the current system were replaced by a 100%-reserve competitive banking with no central bank. That banking reform would give us a sound money system, meaning no more business cycle, bailouts, or inflation. Lew Rockwell
 
-Even though they are a relatively recent policy development, civil rights laws are considered necessary to insure rights for blacks. But they are, in fact, among the most draconian forms of intervention into the free market. They attack the essence of private property, the ability to exercise control over it. Such laws have resulted in lessened economic freedom, lowered prosperity, heightened social tension, and more trouble for the groups the laws are supposed to help. ... A Korean grocer may want to employ only Korean clerks, a magazine for black professionals only black editors and writers, and a German restaurant only German cooks and waiters. An employer may think that Iraqi-Americans have been unfairly treated and want to favor them. A women's health club may want only women customer's and a men's bar may want only men. There is nothing wrong with any of these behaviors, although civil rights laws seek to end them. In addition to violating the free labor contract, civil rights laws guarantee everyone the right of 'access' to 'public accommodations' like restaurants, movie theaters, and shops. In fact, what the civil rights laws call public is really private. These businesses are established by private entrepreneurs with private money. The owners should no more be required to serve everyone who comes into their place than they are required to invite everyone to their home for dinner. A large downtown restaurant is as private as a small house in the country. The real difference between private and public is one of ownership, not function or location. Lew Rockwell
+Even though they are a relatively recent policy development, civil rights laws are considered necessary to insure rights for blacks. But they are, in fact, among the most draconian forms of intervention into the free market. They attack the essence of private property, the ability to exercise control over it. Such laws have resulted in lessened economic freedom, lowered prosperity, heightened social tension, and more trouble for the groups the laws are supposed to help. ... A Korean grocer may want to employ only Korean clerks, a magazine for black professionals only black editors and writers, and a German restaurant only German cooks and waiters. An employer may think that Iraqi-Americans have been unfairly treated and want to favor them. A women's health club may want only women customer's and a men's bar may want only men. There is nothing wrong with any of these behaviors, although civil rights laws seek to end them. In addition to violating the free labor contract, civil rights laws guarantee everyone the right of "access" to "public accommodations" like restaurants, movie theaters, and shops. In fact, what the civil rights laws call public is really private. These businesses are established by private entrepreneurs with private money. The owners should no more be required to serve everyone who comes into their place than they are required to invite everyone to their home for dinner. A large downtown restaurant is as private as a small house in the country. The real difference between private and public is one of ownership, not function or location. Lew Rockwell
 
 What is needed here is a return to the Constitution of the United States. We need to have a complete divorce of Bank and State. The old struggle that was fought out here in Jackson's day must be fought over again ... The Federal Reserve Act should be repealed and the Federal Reserve Banks, having violated their charters, should be liquidated immediately. Faithless Government officers who have violated their oaths of office should be impeached and brought to trial. Louis McFadden
 
@@ -749,7 +745,7 @@ What is needed here is a return to the Constitution of the United States. We nee
 
 Tis the upright mind that holds true sovereignty. Lucius Annaeus Seneca
 
-Every step which leads from capitalism toward planning is necessarily a step nearer to absolutism and dictatorship.' - Ludwig von Mises
+Every step which leads from capitalism toward planning is necessarily a step nearer to absolutism and dictatorship. - Ludwig von Mises
 
 Socialism is not in the least what it pretends to be. It is not the pioneer of a better and finer world, but the spoiler of what thousands of years of civilization have created. It does not build, it destroys. For destruction is the essence of it. It produces nothing, it only consumes what the social order based on private ownership in the means of production has created. Ludwig von Mises
 
@@ -791,7 +787,7 @@ To believe in something, and not to live it, is dishonest. Mahatma Mohandas K. G
 
 Truth never damages a cause that is just. Mahatma Mohandas K. Gandhi
 
-The modern banking system manufactures 'money' out of nothing; and the process is, perhaps, the most, astounding piece of 'sleight of hand' that was ever invented. In fact, it was not invented. It merely 'grew.' ... Banks in fact are able to create (and cancel) modern 'deposit money,' just as much as they were originally able to create, or call in, their own original forms of private notes. They can, in fact, inflate and deflate, i.e., mint, and un-mint the modern 'ledger-entry' currency.' Major L. L. B. Angas
+The modern banking system manufactures 'money' out of nothing; and the process is, perhaps, the most, astounding piece of 'sleight of hand' that was ever invented. In fact, it was not invented. It merely 'grew.' ... Banks in fact are able to create (and cancel) modern 'deposit money,' just as much as they were originally able to create, or call in, their own original forms of private notes. They can, in fact, inflate and deflate, i.e., mint, and un-mint the modern 'ledger-entry' currency. Major L. L. B. Angas
 
 Today government touches everything in America and harms almost everything it touches. Federal, state, and local governments together spend 42 out of every 100 dollars we earn. Those who do the taxing and spending have long since ceased to work for the people as a whole. Rather, they work for themselves and for their clients --- the education industry, the welfare culture, public-employee unions, etc.. Malcolm Wallop
 
@@ -813,7 +809,7 @@ Nothing can so alienate a voter from the political system as backing a winning c
 
 Perhaps Communists had wormed their way so deeply into our government on both the working and planning levels that they were able to exercise an inordinate degree of power in shaping the course of America in the dangerous postwar era. I could not help wondering and worrying whether we were faced with open enemies across the conference table and hidden enemies who sat with us in our most secret councils. General Mark Clark
 
-Collectivist ethical principle: man is not an end to himself, but is only a tool to serve the ends of others. Whether those 'others' are a dictator's gang, the nation, society, the race, (the) god(s), the majority, the community, the tribe, etc., is irrelevant --- the point is that man in principle must be sacrificed to others. Mark Da Cunha
+Collectivist ethical principle: man is not an end to himself, but is only a tool to serve the ends of others. Whether those "others" are a dictator's gang, the nation, society, the race, (the) god(s), the majority, the community, the tribe, etc., is irrelevant --- the point is that man in principle must be sacrificed to others. Mark Da Cunha
 
 Here in America, government began as a tool to assure freedom. It gradually turned into a hideously expensive political toy designed to redistribute your wealth and control most aspects of your business and private life. Mark Skousen
 
@@ -821,7 +817,7 @@ Here in America, government began as a tool to assure freedom. It gradually turn
 
 Today's political leaders demonstrate their low opinion of the public with every social law they pass. They believe that, if given the right to chose, the citizenry will probably make the wrong choice. Legislators not think any more in terms of persuading people; they feel the need to force their agenda on the public at the point of a bayonet and the barrel of a gun, in the name of the IRS, the SEC, the FDA, the DEA, the EPA, or a multitude of other ABCs of government authority. Mark Skousen
 
-For in a Republic, who is 'the country?' Is it the Government which is for the moment in the saddle? Why, the Government is merely a servant --- merely a temporary servant; it cannot be its prerogative to determine what is right and what is wrong, and decide who is a patriot and who isn't. Its function is to obey orders, not originate them. Mark Twain
+For in a Republic, who is "the country?" Is it the Government which is for the moment in the saddle? Why, the Government is merely a servant --- merely a temporary servant; it cannot be its prerogative to determine what is right and what is wrong, and decide who is a patriot and who isn't. Its function is to obey orders, not originate them. Mark Twain
 
 How you can win the population for war: At first, the statesman will invent cheap lying, that impute the guilt of the attacked nation, and each person will be happy over this deceit, that calm the conscience. It will study it detailed and refuse to test arguments of the other opinion. So he will convince step for step even therefrom that the war is just and thank God, that he, after this process of grotesque even deceit, can sleep better. Mark Twain
 
@@ -871,11 +867,11 @@ If Big Brother comes to America, he will not be a fearsome, foreboding figure wi
 
 The worst forms of tyranny, or certainly the most successful ones, are not those we rail against but those that so insinuate themselves into the imagery of our consciousness, and the fabric of our lives, as not to be perceived as tyranny. Michael Parenti
 
-It was the Republican Party that demolished the shining city on the hill my father built. It was the Republican Party that was 100 percent responsible for the end of the Reagan Revolution ... [T]he Republican Party abandoned the trail leading to that shining city on the hill to become itself a quasi-Left-wing organization which looks at the Democrats' welfare programs and says 'me too'. Michael Reagan
+It was the Republican Party that demolished the shining city on the hill my father built. It was the Republican Party that was 100 percent responsible for the end of the Reagan Revolution ... [T]he Republican Party abandoned the trail leading to that shining city on the hill to become itself a quasi-Left-wing organization which looks at the Democrats' welfare programs and says "me too." Michael Reagan
 
 Most people prefer to believe that their leaders are just and fair, even in the face of evidence to the contrary, because once a citizen acknowledges that the government under which he lives is lying and corrupt, the citizen has to choose what he or she will do about it. To take action in the face of corrupt government entails risks of harm to life and loved ones. To choose to do nothing is to surrender one's self-image of standing for principles. Most people do not have the courage to face that choice. Hence, most propaganda is not designed to fool the critical thinker but only to give moral cowards an excuse not to think at all. Michael Rivero
 
-The surest way to ruin a promising career in economics, whether professional or academic, is to venture into the 'cranks and crackpots' world of suggestions for reform of the financial system. Michael Rowbotham British economist
+The surest way to ruin a promising career in economics, whether professional or academic, is to venture into the "cranks and crackpots" world of suggestions for reform of the financial system. Michael Rowbotham
 
 Ruff's Third Law of Economic Dynamics: 'An economy in motion tends to stay in motion, and an economy at rest tends to stay at rest. A free market is constantly in motion. A centrally planned market slows until it eventually dies completely. Mike Ruff
 
@@ -903,7 +899,7 @@ We must, therefore, emphasize that 'we' are not the government; the government i
 
 There are only two forces in the world, the sword and the spirit. In the long run the sword will always be conquered by the spirit. Napoleon Bonaparte
 
-When a government is dependent upon bankers for money, they and not the leaders of the government control the situation, since the hand that gives is above the hand that takes... Money has no motherland; financiers are without patriotism and without decency; their sole object is gain. Napoleon Bonaparte
+When a government is dependent upon bankers for money, they and not the leaders of the government control the situation, since the hand that gives is above the hand that takes ... Money has no motherland; financiers are without patriotism and without decency; their sole object is gain. Napoleon Bonaparte
 
 I can't think of anything that would do more toward putting us back on the road to liberty and personal responsibility than for the average American, and for the news media, to come to the understanding that we are not a democracy, nor were we supposed to be. Neal Boortz
 
@@ -913,7 +909,7 @@ I have always believed that government had a limited capacity to do good and a v
 
 I have always believed that government had a limited capacity to do good and a virtually infinite capacity to do harm ... Neil Hamilton
 
-The function of socialism is to raise suffering to a higher level. Norman Mailer American novelist, journalist, essayist, poet, playwright, screenwriter, and film director
+The function of socialism is to raise suffering to a higher level. Norman Mailer
 
 I have no respect for the passion of equality, which seems to me merely idealizing envy --- I don't disparage envy but I don't accept it as legitimately my master. Oliver Wendell Holmes, Jr.
 
@@ -1045,7 +1041,7 @@ It's a mistake to think that poor people get the benefit from the welfare system
 
 Why is patriotism thought to be blind loyalty to the government and the politicians who run it, rather than loyalty to the principles of liberty and support for the people? Real patriotism is a willingness to challenge the government when it's wrong. Ron Paul
 
-The NRA believes America's laws were made to be obeyed and that our Constitutional liberties are just as important today as 200 years ago. And by the way, the Constitution does not say Government shall decree the right to keep and bear arms. The Constitution says 'The right of the people to keep and bear arms shall not be infringed.' Ronald Reagan
+The NRA believes America's laws were made to be obeyed and that our Constitutional liberties are just as important today as 200 years ago. And by the way, the Constitution does not say Government shall decree the right to keep and bear arms. The Constitution says "The right of the people to keep and bear arms shall not be infringed." Ronald Reagan
 
 We don't have inflation because the people are living too well, we have inflation because government is living too well. Ronald Reagan
 
@@ -1181,7 +1177,7 @@ Political history is far too criminal and pathological to be a fit subject of st
 
 One of the most insidious consequences of the present burden of personal income tax is that it strips many middle class families of financial reserves & seems to lend support to campaigns for socialized medicine, socialized housing, socialized food, socialized every thing. The personal income tax has made the individual vastly more dependent on the State & more avid for state hand-outs. It has shifted the balance in America from an individual-centered to a State-centered economic & social system. W. H. Chamberlin
 
-Communism and socialism is [sic] seductive. It promises us that people will contribute according to ability and receive according to needs. Everybody is equal. Everybody has a right to decent housing, decent food and affordable medical care. History should have taught us that when we hear people talk this stuff --- watch out! Walter E. Williams
+Communism and socialism is *[sic]* seductive. It promises us that people will contribute according to ability and receive according to needs. Everybody is equal. Everybody has a right to decent housing, decent food and affordable medical care. History should have taught us that when we hear people talk this stuff --- watch out! Walter E. Williams
 
 Democracy and liberty are not the same. Democracy is little more than mob rule, while liberty refers to the sovereignty of the individual. Walter E. Williams
 
@@ -1193,7 +1189,7 @@ When men are brought face to face with their opponents, forced to listen and lea
 
 Our lives improve only when we take chances --- and the first and most difficult risk we can take is to be honest with ourselves. Walter Truett Anderson
 
-... [O]urs is a sick profession marked by incompetence, lack of training, misconduct and bad manners. Ineptness, bungling, malpractice, and bad ethics can be observed in court houses all over this country every day ... these incompetents have a seeming unawareness of the fundamental ethics of the profession. ... the harsh truth is that ... we may well be on our way to a society, overrun by hordes of lawyers, hungry as locusts, and brigades of judges in numbers never before contemplated. Warren E. Burger Chief Justice, U. S. Supreme Court
+... [O]urs is a sick profession marked by incompetence, lack of training, misconduct and bad manners. Ineptness, bungling, malpractice, and bad ethics can be observed in court houses all over this country every day ... these incompetents have a seeming unawareness of the fundamental ethics of the profession. ... the harsh truth is that ... we may well be on our way to a society, overrun by hordes of lawyers, hungry as locusts, and brigades of judges in numbers never before contemplated. Warren E. Burger
 
 No free people can lose their liberties while they are jealous of liberty. But the liberties of the freest people are in danger when they set up symbols of liberty as fetishes, worshipping the symbol instead of the principle it represents. Wendell Phillips
 
@@ -1201,7 +1197,7 @@ Whether in chains or in laurels, liberty knows nothing but victories. Wendell Ph
 
 After 20 years on the bench I have concluded that federal drug laws are a disaster. It is time to get the government out of drug enforcement. Whitman Knapp
 
-We are what we repeatedly do. Excellence then is not an act but a habit Will Durant
+We are what we repeatedly do. Excellence then is not an act but a habit. Will Durant
 
 Liberty doesn't work as well in practice as it does in speeches. Will Rogers
 
