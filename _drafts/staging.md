@@ -1382,20 +1382,11 @@ We are fast approaching the stage of ultimate inversion: The stage where governm
 
 
 
-When people nobody voted for run everything, you are not living in a free country. Tucker Carlson
-
-
-
 There must be no barriers to freedom of inquiry ... There is no place for dogma in science. The scientist is free, and must be free to ask any question, to doubt any assertion, to seek for any evidence, to correct any errors. Our political life is also predicated on openness. We know that the only way to avoid error is to detect it and that the only way to detect it is to be free to inquire. And we know that as long as men are free to ask what they must, free to say what they think, free to think what they will, freedom can never be lost, and science can never regress. J. Robert Oppenheimer
 
 
 
 Socialism produces bad music, bad art, social stagnation, and really unhappy people. Frank Zappa
-
-
-
-If you think that the Bill of Rights is what sets us apart, you're crazy. Every Banana
-Republic in the world has a Bill of Rights. Antonin Scalia
 
 
 
@@ -1407,36 +1398,8 @@ The whole aim of practical politics is to keep the populace alarmed (and hence c
 
 
 
-The CIA owns everyone of any significance in the major media. William Colby
-
-
-
-We'll know our disinformation program is complete when everything the American public believes is false. William Casey
-
-
-
 Deception is a state of mind and the mind of the State. James Angleton
 
 
 
 You must understand, the leading Bolsheviks who took over Russia were not Russians. They hated Russians. They hated Christians. Driven by ethnic hatred they tortured and slaughtered millions of Russians without a shred of human remorse. It cannot be overstated. Bolshevism committed the greatest human slaughter of all time. The fact that most of the world is ignorant and uncaring about this enormous crime is proof that the global media is in the hands of the perpetrators. Alexandr Solzhenitsyn
-
-
-
-The Founders never intended for Americans to trust their government. Our entire Constitution was predicated on the notion that government was a necessary evil, to be restrained and minimized as much as possible. Rand Paul
-
-
-
-When people get used to preferential treatment, equal treatment seems like discrimination. Thomas Sowell
-
-
-
-Children have a tendency toward self-involvement which makes them give too much weight to trivia, too little weight to significant things. John D. MacDonald
-
-
-
-Hope is a good breakfast, but it is a bad supper. Francis Bacon
-
-
-
-If you are wise, mingle these two elements: do not hope without despair, or despair without hope.  Lucius Annaeus Seneca
