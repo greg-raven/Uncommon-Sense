@@ -1403,3 +1403,15 @@ Deception is a state of mind and the mind of the State. James Angleton
 
 
 You must understand, the leading Bolsheviks who took over Russia were not Russians. They hated Russians. They hated Christians. Driven by ethnic hatred they tortured and slaughtered millions of Russians without a shred of human remorse. It cannot be overstated. Bolshevism committed the greatest human slaughter of all time. The fact that most of the world is ignorant and uncaring about this enormous crime is proof that the global media is in the hands of the perpetrators. Alexandr Solzhenitsyn
+
+
+
+Discovery consists in seeing what everyone else has seen and thinking what no one else has thought. Albert Szent-Gyorgi
+
+
+
+Never assume the obvious is true. William Safire
+
+
+
+The conclusion is thus inescapable that the history, concept, and wording of the Second Amendment to the Constitution of the United States, as well as its interpretation by every major commentator and court in the first half-century after its ratification, indicates that what is protected is an individual right of a private citizen to own and carry firearms in a peaceful manner. Report of the Subcommittee on the Constitution of the Committee on the Judiciary
