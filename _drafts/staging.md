@@ -1374,15 +1374,7 @@ It is amazing how much panic one honest man can spread among a multitude of hypo
 
 
 
-When you see that trading is done, not by consent, but by compulsion --- when you see that in order to produce, you need to obtain permission from men who produce nothing --- when you see that money is flowing to those who deal, not in goods, but in favors --- when you see that men get richer by graft and by pull than by work, and your laws don't protect you against them, but protect them against you --- when you see corruption being rewarded and honesty becoming a self-sacrifice --- you may know that your society is doomed. Elon Musk
-
-
-
 We are fast approaching the stage of ultimate inversion: The stage where government is free to do as it pleases, while the citizens may act only by permission. Ayn Rand
-
-
-
-There must be no barriers to freedom of inquiry ... There is no place for dogma in science. The scientist is free, and must be free to ask any question, to doubt any assertion, to seek for any evidence, to correct any errors. Our political life is also predicated on openness. We know that the only way to avoid error is to detect it and that the only way to detect it is to be free to inquire. And we know that as long as men are free to ask what they must, free to say what they think, free to think what they will, freedom can never be lost, and science can never regress. J. Robert Oppenheimer
 
 
 
@@ -1411,7 +1403,3 @@ Discovery consists in seeing what everyone else has seen and thinking what no on
 
 
 Never assume the obvious is true. William Safire
-
-
-
-The conclusion is thus inescapable that the history, concept, and wording of the Second Amendment to the Constitution of the United States, as well as its interpretation by every major commentator and court in the first half-century after its ratification, indicates that what is protected is an individual right of a private citizen to own and carry firearms in a peaceful manner. Report of the Subcommittee on the Constitution of the Committee on the Judiciary
