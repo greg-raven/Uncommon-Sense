@@ -4,7 +4,7 @@ layout: post
 categories:
 - Obamacare
 tags:
-- P. J. ORourke'
+- P. J. O'Rourke
 ---
 
 If you think health care is expensive now, wait until you see what it costs when it's free!
