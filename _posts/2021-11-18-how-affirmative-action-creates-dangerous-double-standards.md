@@ -11,7 +11,7 @@ Who was it who said, "if the Negro cannot stand on his own legs, let him fall"?
 
 Ronald Reagan? Newt Gingrich? Charles Murray?
 
-Not even close. It was Frederick Douglass! This was part of a speech in which Douglass also said: "Everybody has asked the question ... '"What shall we do with the Negro?"' I have had but one answer from the beginning. Do nothing with us! Your doing with us has already played the mischief with us. Do nothing with us!" Frederick Douglass had achieved a deeper understanding in the 19th century than any of the black "leaders" of today.
+Not even close. It was Frederick Douglass! This was part of a speech in which Douglass also said: "Everybody has asked the question ... 'What shall we do with the Negro?'" I have had but one answer from the beginning. Do nothing with us! Your doing with us has already played the mischief with us. Do nothing with us!" Frederick Douglass had achieved a deeper understanding in the 19th century than any of the black "leaders" of today.
 
 Those whites who feel a need to do something with blacks and for blacks have been some of the most dangerous "friends" of blacks. Academia is the home of many such "friends," which is why there are not only double standards of admissions to colleges but also in some places double standards in grading. The late David Riesman called it "affirmative grading." A professor at one of California's state universities where black students are allowed to graduate on the basis of easier standards put it bluntly: "We are just lying to these black students when we give them degrees."
 

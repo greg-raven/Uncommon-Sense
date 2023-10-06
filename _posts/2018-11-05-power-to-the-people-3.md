@@ -8,4 +8,4 @@ tags:
 - Margaret Thatcher
 ---
 
-Socialists cry 'power to the people' and raise the clenched fist as they say it. We all know they really mean power over people. Power to the state.
+Socialists cry "power to the people" and raise the clenched fist as they say it. We all know they really mean power over people. Power to the state.

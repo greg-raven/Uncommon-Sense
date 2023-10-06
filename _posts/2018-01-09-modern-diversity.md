@@ -7,4 +7,4 @@ tags:
 - Joe Sobran
 ---
 
-When liberals clamor for 'diversity,' they don't necessarily mean they are ready to tolerate actual disagreement.
+When liberals clamor for "diversity," they don't necessarily mean they are ready to tolerate actual disagreement.
