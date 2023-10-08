@@ -1382,14 +1382,6 @@ Socialism produces bad music, bad art, social stagnation, and really unhappy peo
 
 
 
-The most effective way to destroy people is to deny and obliterate their own understanding of their history. George Orwell
-
-
-
-The whole aim of practical politics is to keep the populace alarmed (and hence clamorous to be led to safety) by an endless series of hobgoblins, most of them imaginary. H. L. Mencken
-
-
-
 Deception is a state of mind and the mind of the State. James Angleton
 
 
@@ -1399,7 +1391,3 @@ You must understand, the leading Bolsheviks who took over Russia were not Russia
 
 
 Discovery consists in seeing what everyone else has seen and thinking what no one else has thought. Albert Szent-Gyorgi
-
-
-
-Never assume the obvious is true. William Safire
