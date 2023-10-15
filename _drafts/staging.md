@@ -267,7 +267,7 @@ Sometimes the law defends plunder and participates in it. Sometimes the law plac
 
 The war against illegal plunder has been fought since the beginning of the world. But how is ... legal plunder to be identified? Quite simply. See if the law takes from some persons what belongs to them, and gives it to other persons to whom it does not belong. See if the law benefits one citizen at the expense of another by doing what the citizen himself cannot do without committing a crime. Then abolish this law without delay ... If such a law is not abolished immediately it will spread, multiply and develop into a system. Frederic Bastiat
 
-What, then, is the law? It is the collective organization of the individual right to lawful defense. ... since an individual cannot lawfully use force against the person, liberty, or property of another individual, then the common force --- for the same reason --- cannot lawfully be used to destroy the person, liberty, or property of individual groups. ... But, unfortunately, law by no means confines itself to its proper functions. And when it has exceeded its proper functions, it has not done so merely in some inconsequential and debatable matters. The law has gone further than this; it has acted in direct opposition to its own purpose. The law has been used to destroy its own objective: It has been applied to annihilating the justice that it was supposed to maintain; to limiting and destroying rights which its real purpose was to respect. The law has placed the collective force at the disposal of the unscrupulous who wish, without risk, to exploit the person, liberty, and property of others. It has converted plunder into a right, in order to protect plunder. And it has converted lawful defense into a crime, in order to punish lawful defense. Frederic Bastiat
+
 
 Interpreted as it ought to be interpreted, the constitution is a Glorious Liberty Document! Frederick Douglass
 
@@ -1346,11 +1346,11 @@ To act without clear understanding, to form habits without investigation, to fol
 
 I will not surrender responsibility for my life and my actions. John Enoch Powell
 
-Unrestrained political authority, though it be confided to masses, cannot be trusted without positive limitations, men in bodies being but an aggregation of the passions, weaknesses and interests of men as individuals. James Fenimore Cooper
 
-If there is any fixed star in our constitutional constellation, it is that no official, high or petty, can prescribe what shall be orthodox in politics, nationalism, religion, or other matters of opinion or force citizens to confess by word or act their faith therein. Justice Robert H. Jackson
 
-Government power must be dispersed. If government is to exercise power, better in the county than in the state, better in the state than in Washington. If I do not like what my local community does, be it in sewage disposal, or zoning, or schools, I can move to another local community, and though few may take this step, the mere possibility acts as a check. If I do not like what Washington imposes, I have few alternatives in this world of jealous nations. Milton Friedman
+If there is any fixed star in our constitutional constellation, it is that no official, high or petty, can prescribe what shall be orthodox in politics, nationalism, religion, or other matters of opinion or force citizens to confess by word or act their faith therein. Robert H. Jackson
+
+
 
 The attributes of sovereignty are now enjoyed by every state in the Union. Alexander Hamilton
 
@@ -1358,27 +1358,11 @@ Liberty is the hardest test that one can inflict on a people. To know how to be 
 
 
 
-The uniform, constant, and uninterrupted effort of every man to better his condition ... is frequently powerful enough to maintain the natural progress of things toward improvement, in spite of the extravagance of government, and of the greatest errors of administration. Adam Smith
-
-
-
 The fact that so many successful politicians are such shameless liars is not only a reflection on them, it is also a reflection on us. When the people want the impossible, only liars can satisfy them, and only in the short run. Thomas Sowell
 
 
 
-Oppressors can tyrannize only when they achieve a standing army, an enslaved press, and a disarmed populace. James Madison
-
-
-
-It is amazing how much panic one honest man can spread among a multitude of hypocrites. Thomas Sowell
-
-
-
 We are fast approaching the stage of ultimate inversion: The stage where government is free to do as it pleases, while the citizens may act only by permission. Ayn Rand
-
-
-
-Socialism produces bad music, bad art, social stagnation, and really unhappy people. Frank Zappa
 
 
 
