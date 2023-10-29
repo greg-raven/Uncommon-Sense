@@ -275,7 +275,7 @@ The non-producers now receive the larger share of what those who labor produce. 
 
 Those who profess to favor freedom and yet depreciate agitation, are people who want crops without ploughing the ground; they want rain without thunder and lightning; they want the ocean without the roar of its many waters. The struggle may be a moral one, or it may be a physical one, or it may be both. But it must be a struggle. Power concedes nothing without a demand; it never has and it never will. Frederick Douglass
 
-To educate a man is to unfit him to be a slave. Frederick Douglass
+
 
 Liberty is meaningless where the right to utter one's thoughts and opinions has ceased to exist. Frederick Douglass
 
@@ -1335,14 +1335,14 @@ Attention to health is life's greatest hindrance. Plato
 
 I have never let my schooling interfere with my education. Mark Twain
 
-I don't want to achieve immortality through my work; I want to achieve immortality through not dying. Woody Allen
 
-Heav'n hath no rage like love to hatred turn'd, Nor Hell a fury, like a woman scorn'd. William Congreve
 
 A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty. Winston Churchill
 
 
 To act without clear understanding, to form habits without investigation, to follow a path all one's life without knowing where it really leads --- such is the behavior of the multitude. Mencius
+
+
 
 I will not surrender responsibility for my life and my actions. John Enoch Powell
 
@@ -1353,6 +1353,8 @@ If there is any fixed star in our constitutional constellation, it is that no of
 
 
 The attributes of sovereignty are now enjoyed by every state in the Union. Alexander Hamilton
+
+
 
 Liberty is the hardest test that one can inflict on a people. To know how to be free is not given equally to all men and all nations. Paul Valéry
 
