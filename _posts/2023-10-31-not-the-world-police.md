@@ -1,5 +1,5 @@
 ---
-title: "No commission to police the morld"
+title: "No commission to police the world"
 layout: post
 categories:
 - foreign policy
