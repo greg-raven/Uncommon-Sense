@@ -1,14 +1,13 @@
-Laws which prescribe what everyone must believe, and forbid men to say or write anything against this or that opinion, are often passed to gratify, or rather to appease the anger of those who cannot abide independent minds. Baruch Spinoza
+Happiness is good health and a bad memory. Ingrid Bergman
 
+Friends may come and go, but enemies accumulate. Thomas Jones
 
-Give me control over a man's economic actions, and hence over his means of survival, and except for a few occasional heroes, I'll promise to deliver to you men who think and write and behave as I want them to. Benjamin A. Rooge
 
 No duty, however, binds us to these so-called laws, whose corrupting influence menaces what is noblest in our being ... Benjamin Constant
 
 
 As to Jesus of Nazareth, my opinion of whom you particularly desire, I think the system of Morals and his Religion, as he left them to us, the best the World ever saw or is likely to see; but I apprehend it has received various corrupting Changes; and I have, with most of the present Dissenters in England, some doubts as to his divinity. Benjamin Franklin
 
-We Americans have no commission from God to police the world. Benjamin Harrison
 
 We enact many laws that manufacture criminals, and then a few that punish them. Benjamin R. Tucker
 
@@ -1317,63 +1316,3 @@ It is better to have a permanent income than to be fascinating. Oscar Wilde
 The graveyards are full of indispensable men. Charles de Gaulle
 
 You can pretend to be serious; you can't pretend to be witty. Sacha Guitry
-
-
-The object of war is not to die for your country but to make the other bastard die for his. George Patton
-
-Too many pieces of music finish too long after the end. Igor Stravinsky
-
-Happiness is good health and a bad memory. Ingrid Bergman
-
-Friends may come and go, but enemies accumulate. Thomas Jones
-
-You can get more with a kind word and a gun than you can with a kind word alone. Al Capone
-
-The cynics are right nine times out of ten. Henry Louis Mencken
-
-Attention to health is life's greatest hindrance. Plato
-
-I have never let my schooling interfere with my education. Mark Twain
-
-
-
-A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty. Winston Churchill
-
-
-To act without clear understanding, to form habits without investigation, to follow a path all one's life without knowing where it really leads --- such is the behavior of the multitude. Mencius
-
-
-
-I will not surrender responsibility for my life and my actions. John Enoch Powell
-
-
-
-If there is any fixed star in our constitutional constellation, it is that no official, high or petty, can prescribe what shall be orthodox in politics, nationalism, religion, or other matters of opinion or force citizens to confess by word or act their faith therein. Robert H. Jackson
-
-
-
-The attributes of sovereignty are now enjoyed by every state in the Union. Alexander Hamilton
-
-
-
-Liberty is the hardest test that one can inflict on a people. To know how to be free is not given equally to all men and all nations. Paul Valéry
-
-
-
-The fact that so many successful politicians are such shameless liars is not only a reflection on them, it is also a reflection on us. When the people want the impossible, only liars can satisfy them, and only in the short run. Thomas Sowell
-
-
-
-We are fast approaching the stage of ultimate inversion: The stage where government is free to do as it pleases, while the citizens may act only by permission. Ayn Rand
-
-
-
-Deception is a state of mind and the mind of the State. James Angleton
-
-
-
-You must understand, the leading Bolsheviks who took over Russia were not Russians. They hated Russians. They hated Christians. Driven by ethnic hatred they tortured and slaughtered millions of Russians without a shred of human remorse. It cannot be overstated. Bolshevism committed the greatest human slaughter of all time. The fact that most of the world is ignorant and uncaring about this enormous crime is proof that the global media is in the hands of the perpetrators. Alexandr Solzhenitsyn
-
-
-
-Discovery consists in seeing what everyone else has seen and thinking what no one else has thought. Albert Szent-Gyorgi
