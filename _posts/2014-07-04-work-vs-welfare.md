@@ -2,6 +2,8 @@
 title: "Work vs. welfare"
 layout: post
 categories:
+- economics
+- socialism
 - welfare
 tags:
 - Leo Tolstoy

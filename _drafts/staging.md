@@ -26,7 +26,6 @@ A lie doesn't become truth, wrong doesn't become right, and evil doesn't become 
 
 When you or I write a check there must be sufficient funds in our account to cover that check, but when the Federal Reserve writes a check, it is creating money. Boston Federal Reserve Bank
 
-[M]onopoly profits exist over the long run only when the government guarantees them, as in utilities and cable. And for concentration of market power, no robber baron can hold a candle to the U.S. government .... The hugest concentration of market power in this country does not lie with the likes of Rupert Murdoch or Bill Gates, but with government itself ... No private company, no matter how huge or wealthy, could possibly have as much widespread power over the function of American markets as government does. And this power is exercised with essential unseriousness .... And unlike business attempts to make money, which necessarily involve selling something to a willing consumer, government's market manipulations require forcing people into situations --- whether paying for cars or food, paying for R&D or new technologies, or selling off a part of their company --- that they would not have wanted to be in but for the government's ham-handed threat of force ... Nothing could serve the workings of the marketplace better than [government] leaving it. Brian Doherty
 
 Be a lamp unto yourself. Work out your liberation with diligence. Buddha
 
@@ -48,7 +47,6 @@ A man may have to die for our country: but no man must, in any exclusive sense, 
 
 For who can endure a doctrine which would allow only dentists to say whether our teeth were aching, only cobblers to say whether our shoes hurt us, and only governments to tell us whether we were being well governed? C. S. Lewis
 
-I do not like the pretensions of Government --- the grounds on which it demands my obedience --- to be pitched too high. I don't like the medicine-man's magical pretensions nor the Bourbon's Divine Right. This is not solely because I disbelieve in magic and in Bossuet's Politique. I believe in God, but I detest theocracy. For every Government consists of mere men and is, strictly viewed, a makeshift; if it adds to its commands 'Thus saith the Lord', it lies, and lies dangerously. On just the same ground I dread government in the name of science. That is how tyrannies come in. In every age the men who want us under their thumb, if they have any sense, will put forward the particular pretension which the hopes and fears of that age render most potent. They 'cash in'. It has been magic, it has been Christianity. Now it will certainly be science. Perhaps the real scientists may not think much of the tyrants' 'science'--- they didn't think much of Hitler's racial theories or Stalin's biology. But they can be muzzled. C. S. Lewis
 
 It is easy to think the State has a lot of different objects --- military, political, economic, and what not. But in a way things are much simpler than that. The State exists simply to promote and to protect the ordinary happiness of human beings in this life. A husband and wife chatting over a fire, a couple of friends having a game of darts in a pub, a man reading a book in his own room or digging in his own garden --- that is what the State is there for. And unless they are helping to increase and prolong and protect such moments, all the laws, parliaments, armies, courts, police, economics, etc., are simply a waste of time. C. S. Lewis
 
@@ -108,8 +106,6 @@ If you don't know that the Nazi party was Socialist and the Communist party is S
 
 You can only protect your liberties in this world by protecting the other man's freedom. You can only be free if I am free. Clarence S. Darrow
 
-I believe that there is a moral and constitutional equivalence between laws designed to subjugate a race and those that distribute benefits on the basis of race in order to foster some current notion of equality ... In my mind, government-sponsored racial discrimination based on benign prejudice is just as noxious as discrimination inspired by malicious prejudice. Clarence Thomas
-
 We must create out of the younger generation a generation of Communists. We must turn children, who can be shaped like wax, into real, good Communists ... We must remove the children from the crude influence of their families. We must take them over and, to speak frankly, nationalize them. From the first days of their lives they will be under the healthy influence of Communist children's nurseries and schools. There they will grow up to be real Communists. Communist Party Education Workers Congress
 
 The lust for power, for dominating others, inflames the heart more than any other passion. Cornelius Tacitus
@@ -132,7 +128,6 @@ We must abandon the prevalent belief in the superior wisdom of the ignorant. Dan
 
 If the Union was formed by accession of States then the Union may be dissolved by the secession of States. Daniel Webster
 
-Liberty exists in proportion to wholesome restraint. Daniel Webster
 
 No government is respectable which is not just. Without unspotted purity of public faith, without sacred public principle, fidelity, and honor, no machinery of laws, can give dignity to political society. Daniel Webster
 
@@ -588,9 +583,8 @@ We simply do not catch a high enough percentage of users to make the law a real 
 
 [E]very Man has a Property in his own Person. This no Body has any Right to but himself. The Labour of his Body, and the Work of his Hands, we may say, are properly his. The great and chief end therefore, of Mens uniting into Commonwealths, and putting themselves under Government, is the Preservation of their Property. John Locke
 
-[I]t being reasonable and just, I should have a right to destroy that which threatens me with destruction: for by the fundamental law of nature, man being to be preserved as much as possible, when all cannot be preserved, the safety of the innocent is to be preferred: and one may destroy a man who makes war upon him, or has discovered an enmity to his being, for the same reason that he may kill a Wolf or a lion ... John Locke
 
-[Individuals] have a right to defend themselves and recover by force what by unlawful force is taken from them. John Locke
+Individuals have a right to defend themselves and recover by force what by unlawful force is taken from them. John Locke
 
 All men by nature are equal in that equal right that every man hath to his natural freedom, without being subjected to the will or authority of any other man; being all equal and independent, no one ought to harm another in his life, health, liberty or possessions. John Locke
 
@@ -688,17 +682,8 @@ The Declaration of Independence ... is not a legal prescription conferring power
 
 If the Biden Administration's goal was to purposefully destabilize America and destroy our country from within, it would look absolutely identical to the mess we're in right now. Lauren Boebert
 
-It bothers me that the executive branch is taking the amazing position that just on the president's say-so, any American citizen can be picked up, not just in Afghanistan, but at O'Hare Airport or on the streets of any city in this country, and locked up without access to a lawyer or court just because the government says he's connected somehow with the Taliban or Al Qaeda. That's not the American way. It's not the constitutional way. Laurence Tribe
 
 Patterning your life around other's opinions is nothing more than slavery. Lawana Blackwell
-
-The more is given the less the people will work for themselves, and the less they work the more their poverty will increase. Leo Nikolaevich Tolstoi
-
-What, actually, is the difference between communism and fascism? Both are forms of statism, authoritarianism. The only difference between Stalin's communism and Mussolini's fascism is an insignificant detail in organizational structure. Leonard E. Read
-
-Contrary to the Marxists, the Nazis did not advocate public ownership of the means of production. They did demand that the government oversee and run the nation's economy. The issue of legal ownership, they explained, is secondary; what counts is the issue of control. Private citizens, therefore, may continue to hold titles to property --- so long as the state reserves to itself the unqualified right to regulate the use of their property. Leonard Peikoff
-
-Beyond a doubt truth bears the same relation to falsehood as light to darkness. Leonardo Da Vinci
 
 
 
@@ -748,11 +733,7 @@ Every step which leads from capitalism toward planning is necessarily a step nea
 
 Socialism is not in the least what it pretends to be. It is not the pioneer of a better and finer world, but the spoiler of what thousands of years of civilization have created. It does not build, it destroys. For destruction is the essence of it. It produces nothing, it only consumes what the social order based on private ownership in the means of production has created. Ludwig von Mises
 
-The essential characteristic of Western civilization that distinguishes it from the arrested and petrified civilizations of the East was and is its concern for freedom from the state. Ludwig Von Mises
 
-The struggle for freedom ... is not the struggle of the many against the few, but of minorities --- sometimes of a minority of but one man --- against the majority. Ludwig von Mises
-
-This, then, is freedom in the external life of man --- that he is independent of the arbitrary power of his fellows. Ludwig von Mises
 
 Nothing is so difficult as not deceiving oneself. Ludwig Wittgenstein
 
@@ -760,11 +741,8 @@ By the power to lay and collect imposts Congress may impose duties on any or eve
 
 When they took the 4th Amendment, I was quiet because I didn't deal drugs. When they took the 6th Amendment, I was quiet because I am innocent. When they took the 2nd Amendment, I was quiet because I don't own a gun. Now they have taken the 1st Amendment, and I can only be quiet. Lyle Myhr
 
-You do not examine legislation in the light of the benefits it will convey if properly administered, but in the light of the wrongs it would do and the harm it would cause if improperly administered. Lyndon B. Johnson
 
-For more than six hundred years --- that is, since the Magna Carta in 1215 --- there has been no clearer principle of English or American constitutional law than that, in criminal cases, it is not only the right and duty of juries to judge what are the facts, what is the law, and what was the moral intent of the accused; but that it is also their right, and their primary and paramount duty, to judge the justice of the law, and to hold all laws invalid, that are, in their opinion, unjust, oppressive, and all persons guiltless in violating or resisting the execution of such laws. Lysander Spooner
 
-The principle that the majority have a right to rule the minority, practically resolves all government into a mere contest between two bodies of men, as to which of them shall be masters, and which of them slaves; a contest, that --- however bloody --- can, in the nature of things, never be finally closed, so long as man refuses to be a slave. Lysander Spooner
 
 The Rothschilds, and that class of money-lenders of whom they are the representatives and agents --- men who never think of lending a shilling to their next-door neighbors, for purposes of honest industry, unless upon the most ample security, and at the highest rate of interest --- stand ready, at all times, to lend money in unlimited amounts to those robbers and murderers, who call themselves governments, to be expended in shooting down those who do not submit quietly to being robbed and enslaved. Lysander Spooner
 
@@ -878,7 +856,6 @@ Anyone who tells you that 'It Can't Happen Here' is whistling past the graveyard
 
 I'm in favor of legalizing drugs. According to my value system, if people want to kill themselves, they have every right to do so. Most of the harm that comes from drugs is because they are illegal. Milton Friedman
 
-One of the great mistakes is to judge policies and programs by their intentions rather than their results. Milton Friedman
 
 The Fed was largely responsible for converting what might have been a garden-variety recession, although perhaps a fairly severe one, into a major catastrophe. Instead of using its powers to offset the depression, it presided over a decline in the quantity of money by one-third from 1929 to 1933 ... Far from the depression being a failure of the free-enterprise system, it was a tragic failure of government. Milton Friedman
 
@@ -1280,9 +1257,23 @@ Not everything that can be counted counts, and not everything that counts can be
 
 Only two things are infinite, the universe and human stupidity, and I'm not sure about the former. Albert Einstein
 
-A lie gets halfway around the world before the truth has a chance to get its pants on. Sir Winston Churchill
 
 I find that the harder I work, the more luck I seem to have. Thomas Jefferson
+
+I have often thought that nothing would do more extensive good at small expense than the establishment of a small circulating library in every county, to consist of a few well-chosen books, to be lent to the people of the country under regulations as would secure their safe return in due time.
+
+I have sworn upon the altar of God eternal hostility against every form of tyranny over the mind of man.
+
+It is left, therefore, to the juries, if they think the permanent judges are under any bias whatever in any cause, to take on themselves to judge the law as well as the fact. They never exercise this power but when they suspect partiality in the judges, and by the exercise of this power they have been the firmest bulwarks of English liberty.
+
+Question with boldness even the existence of a God; because, if there be one, he must more approve of the homage of reason, than that of blind-folded fear ... Do not be frightened from this inquiry from any fear of its consequences. If it ends in the belief that there is no God, you will find incitements to virtue in the comfort and pleasantness you feel in its exercise ...
+
+That government is best which governs the least, because its people discipline themselves.
+
+The error seems not sufficiently eradicated, that the operations of the mind, as well as the acts of the body, are subject to the coercion of the laws. But our rulers can have authority over such natural rights only as we have submitted to them. The rights of conscience we never submitted, we could not submit. We are answerable for them to our God. The legitimate powers of government extend to such acts only as are injurious to others ... Was the government to prescribe to us our medicine and diet, our bodies would be in such keeping as our souls are now. Thus in France the emetic was once forbidden as a medicine, and the potatoe as an article of food.
+
+There is no act, however virtuous, for which ingenuity may not find some bad motive.
+
 
 Each problem that I solved became a rule which served afterwards to solve other problems. Rene Descartes
 
@@ -1292,7 +1283,7 @@ Obstacles are those frightful things you see when you take your eyes off your go
 
 My advice to you is get married: if you find a good wife you'll be happy; if not, you'll become a philosopher. Socrates
 
-Egotist: a person more interested in himself than in me. Ambrose Bierce
+Egotist: A person more interested in himself than in me. Ambrose Bierce
 
 It has become appallingly obvious that our technology has exceeded our humanity. Albert Einstein
 
@@ -1310,9 +1301,174 @@ Forgive your enemies, but never forget their names. John F. Kennedy
 
 Well-timed silence hath more eloquence than speech. Martin Fraquhar Tupper
 
-
-It is better to have a permanent income than to be fascinating. Oscar Wilde
-
 The graveyards are full of indispensable men. Charles de Gaulle
 
 You can pretend to be serious; you can't pretend to be witty. Sacha Guitry
+
+You want to know my definition of gun control? Being able to stand at 25 meters and put two rounds in the same hole. That's gun control. Jesse Ventura
+
+
+
+We feel that an American citizen of voting age and good character should have the right to purchase without restriction a handgun, pistol, revolver, rifle, shotgun, or like item without interference by a government body. National Police Officers' Association of America
+
+
+
+Are we at last brought to such a humiliating and debasing degradation, that we cannot be trusted with arms for our own defence? Where is the difference between having our arms in our own possession and under our own direction, and having them under the management of Congress? If our defence be the *real* object of having those arms, in whose hands can they be trusted with more propriety, or equal safety to us, as in our own hands? Patrick Henry
+
+
+
+What, Sir, is the use of a militia? It is to prevent the establishment of a standing army, the bane of liberty. ... Whenever Governments mean to invade the rights and liberties of the people, they always attempt to destroy the militia, in order to raise an army upon their ruins. Elbridge Gerry
+
+
+
+America united with a handful of troops, or without a single soldier, exhibits a more forbidding posture to foreign ambition than America disunited, with a hundred thousand veterans ready for combat. James Madison
+
+
+
+By calling attention to a well-regulated militia for the security of the Nation, and the right of each citizen to keep and bear arms, our founding fathers recognized the essentially civilian nature of our economy. Although it is extremely unlikely that the fear of governmental tyranny, which gave rise to the 2nd amendment, will ever be a major danger to our Nation, the amendment still remains an important declaration of our basic military-civilian relationship, in which every citizen must be ready to participate in the defense of his country. For that reason I believe the 2nd Amendment will always be important. John F. Kennedy
+
+
+
+The great object is that every man be armed. Everyone who is able may have a gun. Patrick Henry
+
+
+
+The next time you read or hear about a murder victim, a rape victim or an assault victim, I want you to preface it with the word 'unarmed' so that murder victims become 'unarmed murder victims'; this is especially true in rape. How many times have you read, 'An unidentified woman, heavily armed with a semi-automatic weapon was raped by a man wielding a knife.' No answer is necessary, right? The Liberty Pole
+
+
+
+A person has the right to keep and bear arms for the defense of self, family, home and state, and for lawful hunting and recreational use. West Virginia Constitution
+
+
+
+The framers gave us the Second Amendment not so we could go deer or duck hunting but to give us a modicum of protection against congressional tyranny. Walter E. Williams
+
+
+
+A truly independent life, in fact life itself, pivots on the right and implementation of keeping and bearing arms. Unarmed and helpless is unarmed and helpless, and no man has any right whatsoever to force that upon another man. Case closed. Ted Nugent
+
+
+
+What country can preserve its liberties, if its rulers are not warned from time to time that this people preserve the spirit of resistance? Let them take arms. Thomas Jefferson
+
+
+
+Nothing makes sense in this country --- crime, poverty, welfare, policing, school performance, urban decay --- if we deliberately close our eyes to the reality of race. Jared Taylor
+
+If we insist races are equal, every black shortcoming has to be blamed on white supremacy, the legacy of slavery, white privilege, systemic racism, or whatever name we give to the latest explanation that denies reality. It's all the fault of white people. Blaming whites does two things:
+It teaches blacks to hate us --- and boy, do they.
+It also manipulates guilty whites into supporting "diversity, equity, and inclusion," which means taking from whites and giving to blacks. Equal outcomes are not possible, so DEI will never end. We are turning our country inside out --- weakening it terribly. Jared Taylor
+
+
+
+He therefore is the truest friend to the liberty of his country who tries most to promote its virtue, and who, so far as his power and influence extend, will not suffer a man to be chosen into any office of power and trust who is not a wise and virtuous man ... The sum of all is, if we would most truly enjoy this gift of Heaven, let us become a virtuous people. Samuel Adams
+
+
+
+No pecuniary consideration is more urgent, than the regular redemption and discharge of the public debt: on none can delay be more injurious, or an economy of time more valuable. George Washington
+
+
+
+We are thus in the position of having to borrow from Europe to defend Europe, of having to borrow from China and Japan to defend Chinese and Japanese access to Gulf oil, and of having to borrow from Arab emirs, sultans and monarchs to make Iraq safe for democracy. We borrow from the nations we defend so that we may continue to defend them. To question this is an unpardonable heresy called "isolationism." Patrick J. Buchanan
+
+
+
+So low and hopeless are the finances of the United States, that, the year before last Congress was obliged to borrow money even, to pay the interest of the principal which we had borrowed before. This wretched resource of turning interest into principal, is the most humiliating and disgraceful measure that a nation could take, and approximates with rapidity to absolute ruin: Yet it is the inevitable and certain consequence of such a system as the existing Confederation. William Richardson Davie
+
+
+
+The delegation of the government, in [a republic], to a small number of citizens elected by the rest ... [is] to refine and enlarge the public views by passing them through the medium of a chosen body of citizens, whose wisdom may best discern the true interest of their country and whose patriotism and love of justice will be least likely to sacrifice it to temporary or partial considerations. James Madison
+
+
+
+The alternate domination of one faction over another, sharpened by the spirit of revenge, natural to party dissension, which in different ages and countries has perpetrated the most horrid enormities, is itself a frightful despotism … The disorders and miseries, which result, gradually incline the minds of men to seek security and repose in the absolute power of an individual; and sooner or later the chief of some prevailing faction, more able or more fortunate than his competitors, turns this disposition to the purposes of his own elevation, on the ruins of Public Liberty. George Washington
+
+
+
+The Constitution is not neutral. It was designed to take the government off the backs of people. William O. Douglas
+
+
+
+Nothing whatever but the constitutional law, the political structure, of these United States protects any American from arbitrary seizure of his property and his person, from the Gestapo and the Storm Troops, from the concentration camp, the torture chamber, the revolver at the back of his neck in a cellar. Rose Wilder Lane
+
+
+
+Our whole political system rests on the distinction between constitutional and other laws. The former are the solemn principles laid down by the people in its ultimate sovereignty; the latter are regulations made by its representatives within the limits of their authority, and the courts can hold unauthorized and void any act which exceeds those limits. The courts can do this because they are maintaining against the legislature the fundamental principles which the people themselves have determined to support, and they can do it only so long as the people feel that the constitution is something more sacred and enduring than ordinary laws, something that derives its force from a higher authority. Walter F. Dodd
+
+
+
+Newspaper editors separate the wheat from the chaff --- and print the chaff. Adlai E. Stevenson II
+
+
+
+We have a lot of goodness in this country. And we should promote it, but never through the barrel of a gun. We should do it by setting good standards, motivating people and have them want to emulate us. But you can't enforce our goodness, like the neocons preach, with an armed force. It doesn't work. Dr. Ron Paul
+
+
+
+I believe in adequate defense at the coastline and nothing else. If a nation comes over here to fight, then we'll fight. The trouble with America is that when the dollar only earns 6 percent over here, then it gets restless and goes overseas to get 100 percent. Then the flag follows the dollar and the soldiers follow the flag. Smedley Darlington Butler
+
+
+Let us be frank: provoking military-political instability and other regional conflicts is also a convenient way of deflecting people's attention from mounting social and economic problems. Regrettably, further attempts of this kind cannot be ruled out. Vladimir Putin
+
+
+
+From the utopian viewpoint, the United States constitution is a singularly hard-bitten and cautious document, for it breathes the spirit of skepticism about human altruism and incorporates a complex system of checks, balances and restrictions, so that everybody is holding the reins on everybody else. Chad Walsh
+
+
+
+The Constitution was made to guard the people against the dangers of good intentions. Daniel Webster
+
+
+
+The whole modern world has divided itself into Conservatives and Progressives. The business of Progressives is to go on making mistakes. The business of Conservatives is to prevent mistakes from being corrected. Even when the revolutionist might himself repent of his revolution, the traditionalist is already defending it as part of his tradition. Thus we have two great types --- the advanced person who rushes us into ruin, and the retrospective person who admires the ruins. He admires them especially by moonlight, not to say moonshine. Each new blunder of the progressive or prig becomes instantly a legend of immemorial antiquity for the snob. Gilbert Keith Chesterton
+
+
+
+It isn't so much that liberals are ignorant. It's just that they know so many things that aren't so. Ronald Reagan
+
+
+
+Most of the major ills of the world have been caused by well-meaning people who ignored the principle of individual freedom, except as applied to themselves, and who were obsessed with fanatical zeal to improve the lot of mankind-in-the-mass through some pet formula of their own. The harm done by ordinary criminals, murderers, gangsters, and thieves is negligible in comparison with the agony inflicted upon human beings by the professional do-gooders, who attempt to set themselves up as gods on earth and who would ruthlessly force their views on all others --- with the abiding assurance that the end justifies the means. Henry Grady Weaver
+
+
+
+To include freedom in the very definition of democracy is to define a process not by its actual characteristics as a process but by its hoped for results. This is not only intellectually invalid, it is, in practical terms, blinding oneself in advance to some of the unwanted consequences of the process. Thomas Sowell
+
+
+
+Democracy, then, in the centralizing, pattern-making, absolutist shape which we have given to it is, it is clear, the time of tyranny's incubation. Bertrand de Jouvenel
+
+
+
+Ultimately, however, as the Austrian economist Joseph Schumpeter pointed out, a powerful bureaucratic class is in the same relation to commerce as was the scorpion in Aesop to the dog on whose back he crossed the river. They will destroy commerce and establish socialism, even if it kills them, because that is their nature. John Derbyshire
+
+
+
+[Human Rights are Property Rights](https://fee.org/articles/human-rights-are-property-rights/)
+
+
+
+The law has been perverted by the influence of two entirely different causes: stupid greed and false philanthropy. Frederic Bastiat
+
+
+
+The most dangerous man to any government is the man who is able to think things out. without regard to the prevailing superstitions and taboos. Almost inevitably he comes to the conclusion that the government he lives under is dishonest, insane, intolerable. H. L. Mencken
+
+
+
+It is collectivism that is the unrealistic expression of utopian belief systems. In its worst form --- the state --- collectivism is the institutionalized exertion of violence to compel living beings to behave contrary to their natural self-interest inclinations. So strong are the motivations for individual preferences that the state must resort to attacks upon the very nature of life to satisfy the ambitions of those who see others as nothing more than resources to be exploited for such ends. Butler D. Shaffer
+
+
+If the political-correctness fascists get their way, we can safely assume it will be correct-thinking, "political cleansing" squads deciding what we can or cannot say on the Intenet. These people fear public debate and demand homogenization of "acceptable" attitudes compatible with their emotional, utopian idealism. Charles W. Moore
+
+
+A bore is a person who deprives you of solitude without providing you with company. John D. MacDonald
+
+
+Make no mistake about it --- and tell it to your Republican friends: Capitalism and altruism cannot coexist in the same man or in the same society. Tell it to anyone who attempts to justify capitalism on the ground of the "public good" or the "general welfare" or "service to society" or the benefit it brings to the poor. All these things are true, but they are the by-products, the secondary consequences of capitalism --- not its goal, purpose or moral justification. The moral justification of capitalism is man's right to exist for his own sake, neither sacrificing himself to others nor sacrificing others to himself; it is the recognition that man --- every man --- is an end in himself, not a means to the ends of others, not a sacrificial animal serving anyone's need. Ayn Rand
+
+
+Uniformity, therefore, is an essential built-in element of utopian existence, and it is no less important that this uniformity remain permanent. Thomas Molnar
+
+
+From the fact that people are very different it follows that, if we treat them equally, the result must be inequality in their actual position, and that the only way to place them in an equal position would be to treat them differently. Equality before the law and material equality are therefore not only different but are in conflict with each other; and we can achieve either one or the other, but not both at the same time. Friedrich August von Hayek

@@ -1,5 +1,5 @@
 ---
-title: "The rule of the people"
+title: "Mob rule"
 layout: post
 categories:
 - democracy
