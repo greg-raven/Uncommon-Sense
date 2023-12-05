@@ -2,6 +2,9 @@ Happiness is good health and a bad memory. Ingrid Bergman
 
 Friends may come and go, but enemies accumulate. Thomas Jones
 
+A bore is a person who deprives you of solitude without providing you with company. John D. MacDonald
+
+
 
 No duty, however, binds us to these so-called laws, whose corrupting influence menaces what is noblest in our being ... Benjamin Constant
 
@@ -1260,19 +1263,19 @@ Only two things are infinite, the universe and human stupidity, and I'm not sure
 
 I find that the harder I work, the more luck I seem to have. Thomas Jefferson
 
-I have often thought that nothing would do more extensive good at small expense than the establishment of a small circulating library in every county, to consist of a few well-chosen books, to be lent to the people of the country under regulations as would secure their safe return in due time.
+I have often thought that nothing would do more extensive good at small expense than the establishment of a small circulating library in every county, to consist of a few well-chosen books, to be lent to the people of the country under regulations as would secure their safe return in due time. Thomas Jefferson
 
-I have sworn upon the altar of God eternal hostility against every form of tyranny over the mind of man.
+I have sworn upon the altar of God eternal hostility against every form of tyranny over the mind of man. Thomas Jefferson
 
-It is left, therefore, to the juries, if they think the permanent judges are under any bias whatever in any cause, to take on themselves to judge the law as well as the fact. They never exercise this power but when they suspect partiality in the judges, and by the exercise of this power they have been the firmest bulwarks of English liberty.
+It is left, therefore, to the juries, if they think the permanent judges are under any bias whatever in any cause, to take on themselves to judge the law as well as the fact. They never exercise this power but when they suspect partiality in the judges, and by the exercise of this power they have been the firmest bulwarks of English liberty. Thomas Jefferson
 
-Question with boldness even the existence of a God; because, if there be one, he must more approve of the homage of reason, than that of blind-folded fear ... Do not be frightened from this inquiry from any fear of its consequences. If it ends in the belief that there is no God, you will find incitements to virtue in the comfort and pleasantness you feel in its exercise ...
+Question with boldness even the existence of a God; because, if there be one, he must more approve of the homage of reason, than that of blind-folded fear ... Do not be frightened from this inquiry from any fear of its consequences. If it ends in the belief that there is no God, you will find incitements to virtue in the comfort and pleasantness you feel in its exercise ... Thomas Jefferson
 
-That government is best which governs the least, because its people discipline themselves.
+That government is best which governs the least, because its people discipline themselves. Thomas Jefferson
 
-The error seems not sufficiently eradicated, that the operations of the mind, as well as the acts of the body, are subject to the coercion of the laws. But our rulers can have authority over such natural rights only as we have submitted to them. The rights of conscience we never submitted, we could not submit. We are answerable for them to our God. The legitimate powers of government extend to such acts only as are injurious to others ... Was the government to prescribe to us our medicine and diet, our bodies would be in such keeping as our souls are now. Thus in France the emetic was once forbidden as a medicine, and the potatoe as an article of food.
+The error seems not sufficiently eradicated, that the operations of the mind, as well as the acts of the body, are subject to the coercion of the laws. But our rulers can have authority over such natural rights only as we have submitted to them. The rights of conscience we never submitted, we could not submit. We are answerable for them to our God. The legitimate powers of government extend to such acts only as are injurious to others ... Was the government to prescribe to us our medicine and diet, our bodies would be in such keeping as our souls are now. Thus in France the emetic was once forbidden as a medicine, and the potatoe as an article of food. Thomas Jefferson
 
-There is no act, however virtuous, for which ingenuity may not find some bad motive.
+There is no act, however virtuous, for which ingenuity may not find some bad motive. Thomas Jefferson
 
 
 Each problem that I solved became a rule which served afterwards to solve other problems. Rene Descartes
@@ -1453,22 +1456,3 @@ The law has been perverted by the influence of two entirely different causes: st
 
 
 The most dangerous man to any government is the man who is able to think things out. without regard to the prevailing superstitions and taboos. Almost inevitably he comes to the conclusion that the government he lives under is dishonest, insane, intolerable. H. L. Mencken
-
-
-
-It is collectivism that is the unrealistic expression of utopian belief systems. In its worst form --- the state --- collectivism is the institutionalized exertion of violence to compel living beings to behave contrary to their natural self-interest inclinations. So strong are the motivations for individual preferences that the state must resort to attacks upon the very nature of life to satisfy the ambitions of those who see others as nothing more than resources to be exploited for such ends. Butler D. Shaffer
-
-
-If the political-correctness fascists get their way, we can safely assume it will be correct-thinking, "political cleansing" squads deciding what we can or cannot say on the Intenet. These people fear public debate and demand homogenization of "acceptable" attitudes compatible with their emotional, utopian idealism. Charles W. Moore
-
-
-A bore is a person who deprives you of solitude without providing you with company. John D. MacDonald
-
-
-Make no mistake about it --- and tell it to your Republican friends: Capitalism and altruism cannot coexist in the same man or in the same society. Tell it to anyone who attempts to justify capitalism on the ground of the "public good" or the "general welfare" or "service to society" or the benefit it brings to the poor. All these things are true, but they are the by-products, the secondary consequences of capitalism --- not its goal, purpose or moral justification. The moral justification of capitalism is man's right to exist for his own sake, neither sacrificing himself to others nor sacrificing others to himself; it is the recognition that man --- every man --- is an end in himself, not a means to the ends of others, not a sacrificial animal serving anyone's need. Ayn Rand
-
-
-Uniformity, therefore, is an essential built-in element of utopian existence, and it is no less important that this uniformity remain permanent. Thomas Molnar
-
-
-From the fact that people are very different it follows that, if we treat them equally, the result must be inequality in their actual position, and that the only way to place them in an equal position would be to treat them differently. Equality before the law and material equality are therefore not only different but are in conflict with each other; and we can achieve either one or the other, but not both at the same time. Friedrich August von Hayek
