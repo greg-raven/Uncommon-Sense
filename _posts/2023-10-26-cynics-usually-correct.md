@@ -2,7 +2,7 @@
 title: "Cynics are usually correct"
 layout: post
 categories:
-- <#category#>
+- truth
 tags:
 - H. L. Mencken
 ---
