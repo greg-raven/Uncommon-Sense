@@ -1374,11 +1374,6 @@ The delegation of the government, in [a republic], to a small number of citizens
 The alternate domination of one faction over another, sharpened by the spirit of revenge, natural to party dissension, which in different ages and countries has perpetrated the most horrid enormities, is itself a frightful despotism … The disorders and miseries, which result, gradually incline the minds of men to seek security and repose in the absolute power of an individual; and sooner or later the chief of some prevailing faction, more able or more fortunate than his competitors, turns this disposition to the purposes of his own elevation, on the ruins of Public Liberty. George Washington
 
 
-
-The Constitution is not neutral. It was designed to take the government off the backs of people. William O. Douglas
-
-
-
 Nothing whatever but the constitutional law, the political structure, of these United States protects any American from arbitrary seizure of his property and his person, from the Gestapo and the Storm Troops, from the concentration camp, the torture chamber, the revolver at the back of his neck in a cellar. Rose Wilder Lane
 
 
@@ -1388,8 +1383,6 @@ Our whole political system rests on the distinction between constitutional and o
 
 We have a lot of goodness in this country. And we should promote it, but never through the barrel of a gun. We should do it by setting good standards, motivating people and have them want to emulate us. But you can't enforce our goodness, like the neocons preach, with an armed force. It doesn't work. Dr. Ron Paul
 
-From the utopian viewpoint, the United States constitution is a singularly hard-bitten and cautious document, for it breathes the spirit of skepticism about human altruism and incorporates a complex system of checks, balances and restrictions, so that everybody is holding the reins on everybody else. Chad Walsh
-
 [Human Rights are Property Rights](https://fee.org/articles/human-rights-are-property-rights/)
 
 
@@ -1397,3 +1390,15 @@ The most dangerous man to any government is the man who is able to think things 
 
 
 The only kind of freedom that the mob can imagine is freedom to annoy and oppress its betters, and that is precisely the kind that we mainly have. H. L. Mencken
+
+
+---
+title: "A complex system of checks and balances"
+layout: post
+categories:
+- Constitution
+tags:
+- Chad Walsh
+---
+
+From the utopian viewpoint, the United States Constitution is a singularly hard-bitten and cautious document, for it breathes the spirit of skepticism about human altruism and incorporates a complex system of checks, balances, and restrictions, so that everybody is holding the reins on everybody else.
