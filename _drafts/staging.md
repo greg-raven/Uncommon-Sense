@@ -4,6 +4,7 @@ Friends may come and go, but enemies accumulate. Thomas Jones
 
 A bore is a person who deprives you of solitude without providing you with company. John D. MacDonald
 
+Disney has a major content problem. Almost their entire upcoming slate is unwatchable. They are the world's biggest example of go woke, go broke lol. Elon Musk
 
 
 No duty, however, binds us to these so-called laws, whose corrupting influence menaces what is noblest in our being ... Benjamin Constant
@@ -11,10 +12,6 @@ No duty, however, binds us to these so-called laws, whose corrupting influence m
 
 As to Jesus of Nazareth, my opinion of whom you particularly desire, I think the system of Morals and his Religion, as he left them to us, the best the World ever saw or is likely to see; but I apprehend it has received various corrupting Changes; and I have, with most of the present Dissenters in England, some doubts as to his divinity. Benjamin Franklin
 
-
-We enact many laws that manufacture criminals, and then a few that punish them. Benjamin R. Tucker
-
-Advances are made by answering questions. Discoveries are made by questioning answers. Bernhard Haisch
 
 Do not fear to be eccentric in opinion, for every opinion now accepted was once eccentric. Bertrand Russell
 
@@ -194,8 +191,6 @@ Toleration is good for all, or it is good for none. Edmund Burke
 
 The general object was to produce a cure for the evils under which the United States labored; that in tracing these evils to their origins, every man had found it in the turbulence and follies of democracy. Edmund Randolph
 
-A patriot must always be ready to defend his country against his government. Edward Abbey
-
 Personal liberty is the paramount essential to human dignity and human happiness. Edward G. Bulwer-Lytton
 
 The Great Depression was not caused by laissez faire but by the actions of well-intended politicians and bureaucrats. The Federal Reserve System, after all, was not created in response to the Great Depression, but in 1913. Soon thereafter it began experimenting with its awesome powers, expanding the money supply during the roaring '20s, propping up the pound sterling in London, extending credit so Europeans could buy American agricultural products. All the while, Congress was becoming more and more protectionist. When the Fed reversed policies in 1929 and actually shrunk the money supply by a third over the next three years and Congress culminated its protectionist tendencies with the Smoot-Hawley tariff, the collapse was underway. The fact that Hoover then raised taxes and Roosevelt kept wages artificially high guaranteed the massive unemployment that marked the 1930s. Government caused and exacerbated the Great Depression. Edward H. Crane
@@ -351,8 +346,6 @@ Under the surface, the Rothschilds long had a powerful influence in dictating Am
 When a legislature decides to steal some of our rights and plans to use police force to accomplish it, what's the real difference between them and the thief? Darn little! They hide behind the excuse that they're legislating democratically. The fact they do it by a majority vote has no moral significance whatsoever. Numerical might does not constitute right, no more than a lynch mob can justify its act because a majority participated. H. L. Richardson
 
 The banks do create money. They have been doing it for a long time, but they didn't realise it, and they did not admit it. Very few did. You will find it in all sorts of documents, financial textbooks, etc. But in the intervening years, and we must be perfectly frank about these things, there has been a development of thought, until today I doubt very much whether you would get many prominent bankers to attempt to deny that banks create it. H. W. White
-
-The law itself is on trial quite as much as the cause which is to be decided. Harlan F. Stone
 
 The law itself is on trial quite as much as the cause which is to be decided. Harlan F. Stone
 
@@ -890,15 +883,11 @@ I have always believed that government had a limited capacity to do good and a v
 
 The function of socialism is to raise suffering to a higher level. Norman Mailer
 
-I have no respect for the passion of equality, which seems to me merely idealizing envy --- I don't disparage envy but I don't accept it as legitimately my master. Oliver Wendell Holmes, Jr.
-
 If there is any principle of the Constitution that more imperatively calls for attachment than any other it is the principle of free thought --- not free thought for those who agree with us but freedom for the thought that we hate. Oliver Wendell Holmes, Jr.
 
 One of the eternal conflicts out of which life is made up is that between the effort of every man to get the most he can for his services, and that of society, disguised under the name of capital, to get his services for the least possible return. Oliver Wendell Holmes, Jr.
 
 The jury has the power to bring a verdict in the teeth of both law and fact. Oliver Wendell Holmes, Jr.
-
-Liberty is often a heavy burden on a man. It involves the necessity for perpetual choice which is the kind of labor men have always dreaded. Oliver Wendell Holmes, Sr.
 
 Liberty is often a heavy burden on a man. It involves the necessity for perpetual choice which is the kind of labor men have always dreaded. Oliver Wendell Holmes, Sr.
 
@@ -1069,8 +1058,6 @@ If you add to the truth, you subtract from it. The Talmud
 The creation of money exclusively as debt is the critical, destabilizing flaw in the American Economy. Theodore R. Thoren
 
 Behind the ostensible government sits enthroned an invisible government owing no allegiance and acknowledging no responsibility to the people. To destroy this invisible government, to befoul the unholy alliance between corrupt business and corrupt politics is the first task of the statesmanship of the day. Theodore Roosevelt
-
-There is no room in this country for hyphenated Americanism. Theodore Roosevelt
 
 The man who loves other countries as much as his own stands on a level with the man who loves other women as much as he loves his own wife. Theodore Roosevelt
 
@@ -1399,60 +1386,14 @@ Nothing whatever but the constitutional law, the political structure, of these U
 Our whole political system rests on the distinction between constitutional and other laws. The former are the solemn principles laid down by the people in its ultimate sovereignty; the latter are regulations made by its representatives within the limits of their authority, and the courts can hold unauthorized and void any act which exceeds those limits. The courts can do this because they are maintaining against the legislature the fundamental principles which the people themselves have determined to support, and they can do it only so long as the people feel that the constitution is something more sacred and enduring than ordinary laws, something that derives its force from a higher authority. Walter F. Dodd
 
 
-
-Newspaper editors separate the wheat from the chaff --- and print the chaff. Adlai E. Stevenson II
-
-
-
 We have a lot of goodness in this country. And we should promote it, but never through the barrel of a gun. We should do it by setting good standards, motivating people and have them want to emulate us. But you can't enforce our goodness, like the neocons preach, with an armed force. It doesn't work. Dr. Ron Paul
 
-
-
-I believe in adequate defense at the coastline and nothing else. If a nation comes over here to fight, then we'll fight. The trouble with America is that when the dollar only earns 6 percent over here, then it gets restless and goes overseas to get 100 percent. Then the flag follows the dollar and the soldiers follow the flag. Smedley Darlington Butler
-
-
-Let us be frank: provoking military-political instability and other regional conflicts is also a convenient way of deflecting people's attention from mounting social and economic problems. Regrettably, further attempts of this kind cannot be ruled out. Vladimir Putin
-
-
-
 From the utopian viewpoint, the United States constitution is a singularly hard-bitten and cautious document, for it breathes the spirit of skepticism about human altruism and incorporates a complex system of checks, balances and restrictions, so that everybody is holding the reins on everybody else. Chad Walsh
-
-
-
-The Constitution was made to guard the people against the dangers of good intentions. Daniel Webster
-
-
-
-The whole modern world has divided itself into Conservatives and Progressives. The business of Progressives is to go on making mistakes. The business of Conservatives is to prevent mistakes from being corrected. Even when the revolutionist might himself repent of his revolution, the traditionalist is already defending it as part of his tradition. Thus we have two great types --- the advanced person who rushes us into ruin, and the retrospective person who admires the ruins. He admires them especially by moonlight, not to say moonshine. Each new blunder of the progressive or prig becomes instantly a legend of immemorial antiquity for the snob. Gilbert Keith Chesterton
-
-
-
-It isn't so much that liberals are ignorant. It's just that they know so many things that aren't so. Ronald Reagan
-
-
-
-Most of the major ills of the world have been caused by well-meaning people who ignored the principle of individual freedom, except as applied to themselves, and who were obsessed with fanatical zeal to improve the lot of mankind-in-the-mass through some pet formula of their own. The harm done by ordinary criminals, murderers, gangsters, and thieves is negligible in comparison with the agony inflicted upon human beings by the professional do-gooders, who attempt to set themselves up as gods on earth and who would ruthlessly force their views on all others --- with the abiding assurance that the end justifies the means. Henry Grady Weaver
-
-
-
-To include freedom in the very definition of democracy is to define a process not by its actual characteristics as a process but by its hoped for results. This is not only intellectually invalid, it is, in practical terms, blinding oneself in advance to some of the unwanted consequences of the process. Thomas Sowell
-
-
-
-Democracy, then, in the centralizing, pattern-making, absolutist shape which we have given to it is, it is clear, the time of tyranny's incubation. Bertrand de Jouvenel
-
-
-
-Ultimately, however, as the Austrian economist Joseph Schumpeter pointed out, a powerful bureaucratic class is in the same relation to commerce as was the scorpion in Aesop to the dog on whose back he crossed the river. They will destroy commerce and establish socialism, even if it kills them, because that is their nature. John Derbyshire
-
-
 
 [Human Rights are Property Rights](https://fee.org/articles/human-rights-are-property-rights/)
 
 
-
-The law has been perverted by the influence of two entirely different causes: stupid greed and false philanthropy. Frederic Bastiat
-
+The most dangerous man to any government is the man who is able to think things out, without regard to the prevailing superstitions and taboos. Almost inevitably he comes to the conclusion that the government he lives under is dishonest, insane, intolerable. H. L. Mencken
 
 
-The most dangerous man to any government is the man who is able to think things out. without regard to the prevailing superstitions and taboos. Almost inevitably he comes to the conclusion that the government he lives under is dishonest, insane, intolerable. H. L. Mencken
+The only kind of freedom that the mob can imagine is freedom to annoy and oppress its betters, and that is precisely the kind that we mainly have. H. L. Mencken
