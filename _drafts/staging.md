@@ -169,9 +169,7 @@ Our government has kept us in a perpetual state of fear --- kept us in a continu
 
 When a well-packaged web of lies has been sold gradually to the masses over generations, the truth will seem utterly preposterous and its speaker a raving lunatic. Dresden James
 
-Here in America we are descended in blood and in spirit from revolutionists and rebels --- men and women who dare to dissent from accepted doctrine. As their heirs, we may never confuse honest dissent with disloyal subversion. Dwight D. Eisenhower
-
-So long as we govern our nation by the letter and spirit of the Bill of Rights, we can be sure that our nation will grow in strength and wisdom and freedom. Dwight D. Eisenhower
+So long as we govern our nation by the letter and spirit of the Bill of Rights, we can be sure that our nation will grow in strength and wisdom and freedom. Harry S. Truman
 
 The people's right to obtain information does not, of course, depend on any assured ability to understand its significance or use it wisely. Facts belong to the people simply because they relate to interests that are theirs, government that is theirs, and votes that they may desire to cast, for they are entitled to an active role in shaping every fundamental decision of state. Edmond Cahn
 
