@@ -1228,9 +1228,6 @@ The prohibition is general. No clause in the Constitution could by any rule of c
 
 Criminal justice was originally intended to protect society from the lawbreaker. By the time the Warren Court had finished with it, its chief function was to protect the lawbreaker from society. Needless to say, the Court's exaggerated magnification of criminal rights worked directly to the advantage of minorities that shelter criminal castes within their ranks. Wilmot Robertson
 
-We have what is known as the Federal Reserve Bank System. That system is not owned by the Government. Many people think that it is because it says 'Federal Reserve.' It belongs to private banks, private corporations. So we have farmed out to the Federal Reserve Banking System that which is owned exclusively, wholly, one hundred percent to the private banks --- we have farmed out to them the privilege of issuing the Government's money! Wright Patman
-
-The dollar represents a one dollar debt to the Federal Reserve System. The Federal Reserve Banks create money out of thin air to buy Government Bonds from the U.S. Treasury ... and has created out of nothing a ... debt which the American people are obliged to pay with interest. Wright Patman
 
 Glory is fleeting, but obscurity is forever. Napoleon Bonaparte
 
@@ -1251,11 +1248,7 @@ I have often thought that nothing would do more extensive good at small expense 
 
 I have sworn upon the altar of God eternal hostility against every form of tyranny over the mind of man. Thomas Jefferson
 
-It is left, therefore, to the juries, if they think the permanent judges are under any bias whatever in any cause, to take on themselves to judge the law as well as the fact. They never exercise this power but when they suspect partiality in the judges, and by the exercise of this power they have been the firmest bulwarks of English liberty. Thomas Jefferson
-
 Question with boldness even the existence of a God; because, if there be one, he must more approve of the homage of reason, than that of blind-folded fear ... Do not be frightened from this inquiry from any fear of its consequences. If it ends in the belief that there is no God, you will find incitements to virtue in the comfort and pleasantness you feel in its exercise ... Thomas Jefferson
-
-That government is best which governs the least, because its people discipline themselves. Thomas Jefferson
 
 The error seems not sufficiently eradicated, that the operations of the mind, as well as the acts of the body, are subject to the coercion of the laws. But our rulers can have authority over such natural rights only as we have submitted to them. The rights of conscience we never submitted, we could not submit. We are answerable for them to our God. The legitimate powers of government extend to such acts only as are injurious to others ... Was the government to prescribe to us our medicine and diet, our bodies would be in such keeping as our souls are now. Thus in France the emetic was once forbidden as a medicine, and the potatoe as an article of food. Thomas Jefferson
 
@@ -1271,8 +1264,6 @@ Obstacles are those frightful things you see when you take your eyes off your go
 My advice to you is get married: if you find a good wife you'll be happy; if not, you'll become a philosopher. Socrates
 
 Egotist: A person more interested in himself than in me. Ambrose Bierce
-
-It has become appallingly obvious that our technology has exceeded our humanity. Albert Einstein
 
 Any man who is under 30, and is not a liberal, has no heart; and any man who is over 30, and is not a conservative, has no brains. Winston Churchill
 
@@ -1291,136 +1282,3 @@ Well-timed silence hath more eloquence than speech. Martin Fraquhar Tupper
 The graveyards are full of indispensable men. Charles de Gaulle
 
 You can pretend to be serious; you can't pretend to be witty. Sacha Guitry
-
-You want to know my definition of gun control? Being able to stand at 25 meters and put two rounds in the same hole. That's gun control. Jesse Ventura
-
-
-
-We feel that an American citizen of voting age and good character should have the right to purchase without restriction a handgun, pistol, revolver, rifle, shotgun, or like item without interference by a government body. National Police Officers' Association of America
-
-
-
-Are we at last brought to such a humiliating and debasing degradation, that we cannot be trusted with arms for our own defence? Where is the difference between having our arms in our own possession and under our own direction, and having them under the management of Congress? If our defence be the *real* object of having those arms, in whose hands can they be trusted with more propriety, or equal safety to us, as in our own hands? Patrick Henry
-
-
-
-What, Sir, is the use of a militia? It is to prevent the establishment of a standing army, the bane of liberty. ... Whenever Governments mean to invade the rights and liberties of the people, they always attempt to destroy the militia, in order to raise an army upon their ruins. Elbridge Gerry
-
-
-
-America united with a handful of troops, or without a single soldier, exhibits a more forbidding posture to foreign ambition than America disunited, with a hundred thousand veterans ready for combat. James Madison
-
-
-
-By calling attention to a well-regulated militia for the security of the Nation, and the right of each citizen to keep and bear arms, our founding fathers recognized the essentially civilian nature of our economy. Although it is extremely unlikely that the fear of governmental tyranny, which gave rise to the 2nd amendment, will ever be a major danger to our Nation, the amendment still remains an important declaration of our basic military-civilian relationship, in which every citizen must be ready to participate in the defense of his country. For that reason I believe the 2nd Amendment will always be important. John F. Kennedy
-
-
-
-The great object is that every man be armed. Everyone who is able may have a gun. Patrick Henry
-
-
-
-The next time you read or hear about a murder victim, a rape victim or an assault victim, I want you to preface it with the word 'unarmed' so that murder victims become 'unarmed murder victims'; this is especially true in rape. How many times have you read, 'An unidentified woman, heavily armed with a semi-automatic weapon was raped by a man wielding a knife.' No answer is necessary, right? The Liberty Pole
-
-
-
-A person has the right to keep and bear arms for the defense of self, family, home and state, and for lawful hunting and recreational use. West Virginia Constitution
-
-
-
-The framers gave us the Second Amendment not so we could go deer or duck hunting but to give us a modicum of protection against congressional tyranny. Walter E. Williams
-
-
-
-A truly independent life, in fact life itself, pivots on the right and implementation of keeping and bearing arms. Unarmed and helpless is unarmed and helpless, and no man has any right whatsoever to force that upon another man. Case closed. Ted Nugent
-
-
-
-What country can preserve its liberties, if its rulers are not warned from time to time that this people preserve the spirit of resistance? Let them take arms. Thomas Jefferson
-
-
-
-Nothing makes sense in this country --- crime, poverty, welfare, policing, school performance, urban decay --- if we deliberately close our eyes to the reality of race. Jared Taylor
-
-If we insist races are equal, every black shortcoming has to be blamed on white supremacy, the legacy of slavery, white privilege, systemic racism, or whatever name we give to the latest explanation that denies reality. It's all the fault of white people. Blaming whites does two things:
-It teaches blacks to hate us --- and boy, do they.
-It also manipulates guilty whites into supporting "diversity, equity, and inclusion," which means taking from whites and giving to blacks. Equal outcomes are not possible, so DEI will never end. We are turning our country inside out --- weakening it terribly. Jared Taylor
-
-
-
-He therefore is the truest friend to the liberty of his country who tries most to promote its virtue, and who, so far as his power and influence extend, will not suffer a man to be chosen into any office of power and trust who is not a wise and virtuous man ... The sum of all is, if we would most truly enjoy this gift of Heaven, let us become a virtuous people. Samuel Adams
-
-
-
-No pecuniary consideration is more urgent, than the regular redemption and discharge of the public debt: on none can delay be more injurious, or an economy of time more valuable. George Washington
-
-
-
-We are thus in the position of having to borrow from Europe to defend Europe, of having to borrow from China and Japan to defend Chinese and Japanese access to Gulf oil, and of having to borrow from Arab emirs, sultans and monarchs to make Iraq safe for democracy. We borrow from the nations we defend so that we may continue to defend them. To question this is an unpardonable heresy called "isolationism." Patrick J. Buchanan
-
-
-
-So low and hopeless are the finances of the United States, that, the year before last Congress was obliged to borrow money even, to pay the interest of the principal which we had borrowed before. This wretched resource of turning interest into principal, is the most humiliating and disgraceful measure that a nation could take, and approximates with rapidity to absolute ruin: Yet it is the inevitable and certain consequence of such a system as the existing Confederation. William Richardson Davie
-
-
-
-The delegation of the government, in [a republic], to a small number of citizens elected by the rest ... [is] to refine and enlarge the public views by passing them through the medium of a chosen body of citizens, whose wisdom may best discern the true interest of their country and whose patriotism and love of justice will be least likely to sacrifice it to temporary or partial considerations. James Madison
-
-
-
-The alternate domination of one faction over another, sharpened by the spirit of revenge, natural to party dissension, which in different ages and countries has perpetrated the most horrid enormities, is itself a frightful despotism … The disorders and miseries, which result, gradually incline the minds of men to seek security and repose in the absolute power of an individual; and sooner or later the chief of some prevailing faction, more able or more fortunate than his competitors, turns this disposition to the purposes of his own elevation, on the ruins of Public Liberty. George Washington
-
-
-Nothing whatever but the constitutional law, the political structure, of these United States protects any American from arbitrary seizure of his property and his person, from the Gestapo and the Storm Troops, from the concentration camp, the torture chamber, the revolver at the back of his neck in a cellar. Rose Wilder Lane
-
-
-
-Our whole political system rests on the distinction between constitutional and other laws. The former are the solemn principles laid down by the people in its ultimate sovereignty; the latter are regulations made by its representatives within the limits of their authority, and the courts can hold unauthorized and void any act which exceeds those limits. The courts can do this because they are maintaining against the legislature the fundamental principles which the people themselves have determined to support, and they can do it only so long as the people feel that the constitution is something more sacred and enduring than ordinary laws, something that derives its force from a higher authority. Walter F. Dodd
-
-
-We have a lot of goodness in this country. And we should promote it, but never through the barrel of a gun. We should do it by setting good standards, motivating people and have them want to emulate us. But you can't enforce our goodness, like the neocons preach, with an armed force. It doesn't work. Dr. Ron Paul
-
-[Human Rights are Property Rights](https://fee.org/articles/human-rights-are-property-rights/)
-
-
-The most dangerous man to any government is the man who is able to think things out, without regard to the prevailing superstitions and taboos. Almost inevitably he comes to the conclusion that the government he lives under is dishonest, insane, intolerable. H. L. Mencken
-
-
-The only kind of freedom that the mob can imagine is freedom to annoy and oppress its betters, and that is precisely the kind that we mainly have. H. L. Mencken
-
-
-It is dangerous to be right in matters on which the established authorities are wrong. Voltaire
-
-It is the common fate of the indolent to see their rights become prey to the active. The conditions upon which God hath given liberty to man is eternal vigilance; which condition if he break, servitude is at once the consequence of his crime, and the punishment of his guilt. John Philpot Curran
-
-To be ignorant of what occurred before you were born is to remain always a child. Marcus Tullius Cicero
-
-It has been said that all Government is an evil. It would be more proper to say that the necessity of any Government is a misfortune. This necessity however exists; and the problem to be solved is, not what form of Government is perfect, but which of the forms is least imperfect. James Madison
-
-We are corrupted by prosperity. And when the state is corrupt, then the laws are most multiplied. Publius Cornelius Tacitus
-
-It would seem that not only is religion lacking in the schools --- so is common sense. I wonder what a teacher is supposed to say if a kid asks about those four words on a dime --- "In God We Trust." Or maybe that's why they aren't being taught how to read these days. Ronald Reagan
-
-Capitalism and communism stand at opposite poles. Their essential difference is this: The communist seeing the rich man and his fine home says, "No man should have so much." The capitalist seeing the same thing says, "All men should have as much." Phelps Adams
-
-Those who lack the capacity to achieve much in an atmosphere of freedom will clamor for power. Eric Hoffer
-
-
-The way to have good and safe government is not to trust it all to one, but to divide it among the many, distributing to everyone exactly the functions in which he is competent ...
-
-- To let the National Government be entrusted with the defense of the nation, and its foreign and federal relations ...
-
-- The State Governments with the Civil Rights, Laws, Police, and administration of what concerns the State generally.
-
-- The Counties with the local concerns, and each ward direct the interests within itself.
-
-It is by dividing and subdividing these Republics from the great national one down through all its subordinations until it ends in the administration of everyman's farm by himself, by placing under everyone what his own eye may superintend, that all will be done for the best. Thomas Jefferson
-
-
-Whatever government is not a government of laws, is a despotism, let it be called what they may. Daniel Webster
-
-
-Our federal government, which was intended to operate as a very limited constitutional republic, has instead become a virtually socialist leviathan that redistributes trillions of dollars. We can hardly be surprised when countless special interests fight for the money. The only true solution to the campaign money problem is a return to a proper constitutional government that does not control the economy. Big government and big campaign money go hand-in-hand. Ron Paul
-
-
-Democracies have ever been spectacles of turbulence and contention; have ever been found incompatible with personal security or the rights of property; and have in general been as short in their lives as they have been violent in their death. James Madison
