@@ -7,7 +7,7 @@ tags:
 - Harry Reid
 ---
 
-- Immigration: A senator offers a 'stabilization' bill.
+- Immigration: A senator offers a "stabilization" bill.
 
 The federal government has been grossly irresponsible in its neglect of mounting immigration problems, even as these problems place unbearable burdens on states like California. It is regrettable that states have reached a point where the only avenue they have for justice is the courts. It is even more regrettable that this Administration and this Congress stand by and allow the federal courts to decide the nation's immigration policies.
 

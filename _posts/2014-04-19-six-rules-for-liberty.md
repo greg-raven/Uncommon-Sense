@@ -21,7 +21,7 @@ In our personal lives, using force to take from someone else is called stealing.
 
 **3. Take Responsibility**
 
-The government can't mandate compassion, they can't outsource charity, and they certainly can't force volunteerism. It is the individual who steps up to help our neighbors when bad things happen. It's the individuals who work together cooperatively to defend, sometimes at great personal sacrifice, what makes America so special. This is the 'I' in community.
+The government can't mandate compassion, they can't outsource charity, and they certainly can't force volunteerism. It is the individual who steps up to help our neighbors when bad things happen. It's the individuals who work together cooperatively to defend, sometimes at great personal sacrifice, what makes America so special. This is the "I" in community.
 
 **4. Work for It**
 
@@ -41,7 +41,7 @@ While others may disagree with my live-and-let-live attitude, the real question 
 
 The fight for liberty is a burden that requires eternal vigilance. Americans have a healthy distrust of big, obtrusive government that seems to be genetically encoded in our DNA.
 
-In fact, our system of constitutional checks and balances on separate branches of government is intended to limit a monopoly on power. But notice it's not about finding a better benevolent dictator to use power for the 'right reasons.' The problem lies within the unchecked authority itself, not the person using it.
+In fact, our system of constitutional checks and balances on separate branches of government is intended to limit a monopoly on power. But notice it's not about finding a better benevolent dictator to use power for the "right reasons." The problem lies within the unchecked authority itself, not the person using it.
 
 There is a renewed and heated debate about the future of America going on right now.
 

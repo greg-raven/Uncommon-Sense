@@ -18,7 +18,7 @@ Why is this important to know? Because we have a political and social class that
 
 They believe Ronald Reagan was wrong when he said, 'the nine most terrifying words in the English language are: <q>I'm from the government, and I'm here to help.</q>' No truer words have ever been uttered by a human being on this planet.
 
-This was more than a warning issued by President Reagan. It was a true vision of the future – the future which is now the present.
+This was more than a warning issued by President Reagan. It was a true vision of the future --- the future which is now the present.
 
 We are now living in a day when we have a growing number of Americans that actually believe the lie that the government is here to help. In fact, too many Americans now believe that only the government can help.
 

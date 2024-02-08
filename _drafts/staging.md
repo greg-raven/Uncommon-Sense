@@ -35,7 +35,7 @@ The whole secret of existence is to have no fear. Never fear what will become of
 
 There are only two mistakes one can make along the road to truth; not going all the way, and not starting. Buddha
 
-Because we fear the responsibility for our actions, we have allowed ourselves to develop the mentality of slaves. Contrary to the stirring sentiments of the Declaration of Independence, we now pledge 'our Lives, our Fortunes and our sacred Honor' not to one another for our mutual protection, but to the state, whose actions continue to exploit, despoil, and destroy us. Butler D. Shaffer
+Because we fear the responsibility for our actions, we have allowed ourselves to develop the mentality of slaves. Contrary to the stirring sentiments of the Declaration of Independence, we now pledge "our Lives, our Fortunes and our sacred Honor" not to one another for our mutual protection, but to the state, whose actions continue to exploit, despoil, and destroy us. Butler D. Shaffer
 
 Our lack of constant awareness has also permitted us to accept definitions of freedom that are not necessarily consistent with the actuality of being free. Because we have learned to confuse the word with the reality the word seeks to describe, our vocabulary has become riddled with distorted and contradictory meanings smuggled into the language. Butler D. Shaffer
 
@@ -647,7 +647,7 @@ The cry of the soul is for freedom. It longs for liberty, from the date of its f
 
 The right of ordinary citizens to possess weapons is the most extraordinary, most controversial, and least understood of those liberties secured by Englishmen and bequeathed to their American colonists. It lies at the very heart of the relationship between the individual and his fellows, and between the individual and his government. Joyce Lee Malcolm
 
-It's kind of hard to beat gasoline. A lot of the technologies that we think of as being clean ... are not better than gasoline. – Julian Marshall
+It's kind of hard to beat gasoline. A lot of the technologies that we think of as being clean ... are not better than gasoline. --- Julian Marshall
 
 In a small Swiss city sits an international organization so obscure and secretive ... Control of the institution, the Bank for International Settlements, lies with some of the world's most powerful and least visible men: the heads of 32 central banks, officials able to shift billions of dollars and alter the course of economies at the stroke of a pen. Keith Bradsher
 
@@ -1424,11 +1424,3 @@ Our federal government, which was intended to operate as a very limited constitu
 
 
 Democracies have ever been spectacles of turbulence and contention; have ever been found incompatible with personal security or the rights of property; and have in general been as short in their lives as they have been violent in their death. James Madison
-
-Republics are formed only after revolution. The change to the empire is slow and gradual. One of the saddest lessons of history is that whenever these schools of politics have met in the republics of old, the imperial school, with its dazzling influence of wealth and power, has always won. John F. Shafroth
-
-
-The first ten amendments were proposed and adopted largely because of fear that Government might unduly interfere with prized individual liberties. The people wanted and demanded a Bill of Rights written into their Constitution. The amendments embodying the Bill of Rights were intended to curb all branches of the Federal Government in the fields touched by the amendments --- Legislative, Executive, and Judicial. Hugo L. Black
-
-
-Racism is not dead, but it is on life support --- kept alive by politicians, race hustlers, and people who get a sense of superiority by denouncing others as racists. Thomas Sowell

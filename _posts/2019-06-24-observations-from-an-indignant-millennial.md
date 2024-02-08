@@ -13,7 +13,7 @@ We live in the most privileged time in the most prosperous nation and we've beco
 
 Virtually no one in the United States is considered poor by global standards. Yet, in a time where we can order a product off of Amazon with one click and have it at our doorstep the next day, we are unappreciative, unsatisfied, and ungrateful. Our lack of appreciation is evident as the popularity of socialist policies among my generation continues to grow.
 
-Democratic Congresswoman Alexandria Ocasio-Cortez recently said to Newsweek talking about the millennial generation, 'An entire generation, which is now becoming one of the largest electorates in America, came of age and never saw American prosperity.'
+Democratic Congresswoman Alexandria Ocasio-Cortez recently said to Newsweek talking about the millennial generation, "An entire generation, which is now becoming one of the largest electorates in America, came of age and never saw American prosperity."
 
 Never saw American prosperity. Let that sink in. When I first read that statement, I thought to myself, that was quite literally the most entitled and factually illiterate thing I've ever heard in my 26 years on this earth. Now, I'm not attributing Miss Ocasio-Cortez's words to outright dishonesty. I do think she wholeheartedly believes the words she said to be true.
 

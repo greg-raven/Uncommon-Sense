@@ -19,7 +19,7 @@ In his renowned 1785 pamphlet, "Memorial and Remonstrance Against Religious Asse
 
 It has been over 230 years since that small group of colonial lawyers led a Revolution and launched what they viewed as a great experiment, establishing a society fundamentally different than those that had gone before.
 
-They crafted a magnificent Charter of Freedom – the United States Constitution – which provides for limited government, while leaving "the People" broadly at liberty to pursue our lives both as individuals and through free associations.
+They crafted a magnificent Charter of Freedom --- the United States Constitution --- which provides for limited government, while leaving "the People" broadly at liberty to pursue our lives both as individuals and through free associations.
 
 This quantum leap in liberty has been the mainspring of unprecedented human progress, not only for Americans but for people around the world.
 
@@ -45,7 +45,7 @@ No society can exist without some means for restraining individual rapacity.
 
 But, if you rely on the coercive power of government to impose restraints, this will inevitably lead to a government that is too controlling, and you will end up with no liberty, just tyranny.
 
-On the other hand, unless you have some effective restraint, you end up with something equally dangerous – licentiousness – the unbridled pursuit of personal appetites at the expense of the common good. This is just another form of tyranny – where the individual is enslaved by his appetites, and the possibility of any healthy community life crumbles.
+On the other hand, unless you have some effective restraint, you end up with something equally dangerous --- licentiousness --- the unbridled pursuit of personal appetites at the expense of the common good. This is just another form of tyranny --- where the individual is enslaved by his appetites, and the possibility of any healthy community life crumbles.
 
 Edmund Burke summed up this point in his typically colorful language:
 
@@ -61,9 +61,9 @@ This is really what was meant by "self-government." It did not mean primarily th
 
 But what was the source of this internal controlling power? In a free Republic those restraints could not be handed down from above by philosopher kings.
 
-Instead, social order must flow up from the people themselves – freely obeying the dictates of inwardly-possessed and commonly-shared moral values. And to control willful human beings, with an infinite capacity to rationalize, those moral values must rest on authority independent of men's will – they must flow from a transcendent Supreme Being.
+Instead, social order must flow up from the people themselves --- freely obeying the dictates of inwardly-possessed and commonly-shared moral values. And to control willful human beings, with an infinite capacity to rationalize, those moral values must rest on authority independent of men's will --- they must flow from a transcendent Supreme Being.
 
-In short, in the Framers' view, free government was only suitable and sustainable for a religious people – a people who recognized that there was a transcendent moral order antecedent to both the state and manmade law and who had the discipline to control themselves according to those enduring principles.
+In short, in the Framers' view, free government was only suitable and sustainable for a religious people --- a people who recognized that there was a transcendent moral order antecedent to both the state and manmade law and who had the discipline to control themselves according to those enduring principles.
 
 As John Adams put it: "We have no government armed with the power which is capable of contending with human passions unbridled by morality and religion. Our Constitution was made only for a moral and religious people. It is wholly inadequate for the government of any other."
 
@@ -73,9 +73,9 @@ As Father John Courtney Murray observed, the American tenet was not that:
 
 How does religion promote the moral discipline and virtue needed to support free government?
 
-First, it gives us the right rules to live by. The Founding generation were Christians. They believed that the Judeo-Christian moral system corresponds to the true nature of man. Those moral precepts start with the Two Great Commandments – to Love God with your whole heart, soul, and mind; and to Love Thy Neighbor as Thyself.
+First, it gives us the right rules to live by. The Founding generation were Christians. They believed that the Judeo-Christian moral system corresponds to the true nature of man. Those moral precepts start with the Two Great Commandments --- to Love God with your whole heart, soul, and mind; and to Love Thy Neighbor as Thyself.
 
-But they also include the guidance of Natural Law – a real, transcendent moral order which flows from God's eternal law – the Divine wisdom by which the whole Creation is ordered. The eternal law is impressed upon, and reflected in, all created things.
+But they also include the guidance of Natural Law --- a real, transcendent moral order which flows from God's eternal law --- the Divine wisdom by which the whole Creation is ordered. The eternal law is impressed upon, and reflected in, all created things.
 
 From the nature of things we can, through reason, experience, discern standards of right and wrong that exist independent of human will.
 
@@ -87,7 +87,7 @@ By the same token, violations of these moral laws have bad, real-world consequen
 
 Religion helps promote moral discipline within society. Because man is fallen, we don't automatically conform ourselves to moral rules even when we know they are good for us.
 
-But religion helps teach, train, and habituate people to want what is good. It does not do this primarily by formal laws – that is, through coercion. It does this through moral education and by informing society's informal rules – its customs and traditions which reflect the wisdom and experience of the ages.
+But religion helps teach, train, and habituate people to want what is good. It does not do this primarily by formal laws --- that is, through coercion. It does this through moral education and by informing society's informal rules --- its customs and traditions which reflect the wisdom and experience of the ages.
 
 In other words, religion helps frame moral culture within society that instills and reinforces moral discipline.
 
@@ -123,7 +123,7 @@ What we call values today is really nothing more than mere sentimentality, still
 
 Now, there have been times and places where the traditional moral order has been shaken.
 
-In the past, societies – like the human body – seem to have a self-healing mechanism – a self-correcting mechanism that gets things back on course if things go too far.
+In the past, societies --- like the human body --- seem to have a self-healing mechanism --- a self-correcting mechanism that gets things back on course if things go too far.
 
 The consequences of moral chaos become too pressing. The opinion of decent people rebels. They coalesce and rally against obvious excess. Periods of moral entrenchment follow periods of excess.
 
@@ -135,9 +135,9 @@ First is the force, fervor, and comprehensiveness of the assault on religion we 
 
 These instruments are used not only to affirmatively promote secular orthodoxy, but also drown out and silence opposing voices, and to attack viciously and hold up to ridicule any dissenters.
 
-One of the ironies, as some have observed, is that the secular project has itself become a religion, pursued with religious fervor. It is taking on all the trappings of a religion – including inquisitions and excommunication.
+One of the ironies, as some have observed, is that the secular project has itself become a religion, pursued with religious fervor. It is taking on all the trappings of a religion --- including inquisitions and excommunication.
 
-Those who defy the creed risk a figurative burning at the stake – social, educational, and professional ostracism and exclusion waged through lawsuits and savage social-media campaigns.
+Those who defy the creed risk a figurative burning at the stake --- social, educational, and professional ostracism and exclusion waged through lawsuits and savage social-media campaigns.
 
 The pervasiveness and power of our high-tech popular culture fuels apostasy in another way. It provides an unprecedented degree of distraction.
 
@@ -145,11 +145,11 @@ Part of the human condition is that there are big questions that should stare us
 
 Indeed, we now live in the age of distraction where we can envelop ourselves in a world of digital stimulation and universal connectivity. And we have almost limitless ways of indulging all our physical appetites.
 
-There is another modern phenomenon that suppresses society's self-corrective mechanisms – that make it harder for society to restore itself.
+There is another modern phenomenon that suppresses society's self-corrective mechanisms --- that make it harder for society to restore itself.
 
 In the past, when societies are threatened by moral chaos, the overall social costs of licentiousness and irresponsible personal conduct becomes so high that society ultimately recoils and reevaluates the path they are on.
 
-But today – in the face of all the increasing pathologies – instead of addressing the underlying cause, we have the State in the role of Alleviator of Bad Consequences. We call on the State to mitigate the social costs of personal misconduct and irresponsibility.
+But today --- in the face of all the increasing pathologies --- instead of addressing the underlying cause, we have the State in the role of Alleviator of Bad Consequences. We call on the State to mitigate the social costs of personal misconduct and irresponsibility.
 
 So the reaction to growing illegitimacy is not sexual responsibility, but abortion.
 
@@ -191,7 +191,7 @@ For example, the last Administration sought to force religious employers, includ
 
 This refusal to accommodate the free exercise of religion is relatively recent. Just 25 years ago, there was broad consensus in our society that our laws should accommodate religious belief.
 
-In 1993, Congress passed the Religious Freedom Restoration Act – RFRA. The purpose of the statute was to promote maximum accommodation to religion when the government adopted broad policies that could impinge on religious practice.
+In 1993, Congress passed the Religious Freedom Restoration Act --- RFRA. The purpose of the statute was to promote maximum accommodation to religion when the government adopted broad policies that could impinge on religious practice.
 
 At the time, RFRA was not controversial: it was introduced by Chuck Schumer with 170 cosponsors in the House, and was introduced by Ted Kennedy and Orrin Hatch with 59 additional cosponsors in the Senate. It passed by voice vote in the House and by a vote of 97-3 in the Senate.
 
@@ -229,9 +229,9 @@ This lawsuit clearly infringes the First Amendment rights of the Archdiocese, by
 
 Taken together, these cases paint a disturbing picture. We see the state requiring local public schools to insert themselves into contentious social debates, without regard for the religious views of their students or parents. In effect, these states are requiring local communities to make their public schools inhospitable to families with traditional religious values; those families are implicitly told that they should conform or leave.
 
-At the same time, pressure is placed on religious schools to abandon their religious convictions. Simply because of their religious character, they are starved of funds – students who would otherwise choose to attend them are told they may only receive scholarships if they turn their sights elsewhere.
+At the same time, pressure is placed on religious schools to abandon their religious convictions. Simply because of their religious character, they are starved of funds --- students who would otherwise choose to attend them are told they may only receive scholarships if they turn their sights elsewhere.
 
-Simultaneously, they are threatened in tort – and, eventually, will undoubtedly be threatened with denial of accreditation – if they adhere to their religious character. If these measures are successful, those with religious convictions will become still more marginalized.
+Simultaneously, they are threatened in tort --- and, eventually, will undoubtedly be threatened with denial of accreditation --- if they adhere to their religious character. If these measures are successful, those with religious convictions will become still more marginalized.
 
 I do not mean to suggest that there is no hope for moral renewal in our country.
 
@@ -251,7 +251,7 @@ Education is not vocational training. It is leading our children to the recognit
 
 We cannot have a moral renaissance unless we succeed in passing to the next generation our faith and values in full vigor.
 
-The times are hostile to this. Public agencies – including public schools – are becoming secularized and increasingly are actively promoting moral relativism.
+The times are hostile to this. Public agencies --- including public schools --- are becoming secularized and increasingly are actively promoting moral relativism.
 
 \[...\]
 

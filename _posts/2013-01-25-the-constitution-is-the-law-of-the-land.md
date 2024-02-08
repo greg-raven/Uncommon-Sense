@@ -1,10 +1,10 @@
 ---
-title: "The Constitution is the law of the land"
+title: "Republics are formed only after revolution"
 layout: post
 categories:
-- Constitution
+- rebellion
 tags:
-- George Washington
+- John F. Shafroth
 ---
 
-The basis of our political systems is the right of the people to make and to alter their Constitutions of Government. But the Constitution which at any time exists, 'till changed by an explicit and authentic act of the whole People, is sacredly obligatory upon all.
+Republics are formed only after revolution. The change to the empire is slow and gradual. One of the saddest lessons of history is that whenever these schools of politics have met in the republics of old, the imperial school, with its dazzling influence of wealth and power, has always won.
