@@ -1390,13 +1390,139 @@ The most dangerous man to any government is the man who is able to think things 
 The only kind of freedom that the mob can imagine is freedom to annoy and oppress its betters, and that is precisely the kind that we mainly have. H. L. Mencken
 
 
----
-title: "A complex system of checks and balances"
-layout: post
-categories:
-- Constitution
-tags:
-- Chad Walsh
----
+It is dangerous to be right in matters on which the established authorities are wrong. Voltaire
 
-From the utopian viewpoint, the United States Constitution is a singularly hard-bitten and cautious document, for it breathes the spirit of skepticism about human altruism and incorporates a complex system of checks, balances, and restrictions, so that everybody is holding the reins on everybody else.
+It is the common fate of the indolent to see their rights become prey to the active. The conditions upon which God hath given liberty to man is eternal vigilance; which condition if he break, servitude is at once the consequence of his crime, and the punishment of his guilt. John Philpot Curran
+
+To be ignorant of what occurred before you were born is to remain always a child. Marcus Tullius Cicero
+
+It has been said that all Government is an evil. It would be more proper to say that the necessity of any Government is a misfortune. This necessity however exists; and the problem to be solved is, not what form of Government is perfect, but which of the forms is least imperfect. James Madison
+
+We are corrupted by prosperity. And when the state is corrupt, then the laws are most multiplied. Publius Cornelius Tacitus
+
+It would seem that not only is religion lacking in the schools --- so is common sense. I wonder what a teacher is supposed to say if a kid asks about those four words on a dime --- "In God We Trust." Or maybe that's why they aren't being taught how to read these days. Ronald Reagan
+
+Capitalism and communism stand at opposite poles. Their essential difference is this: The communist seeing the rich man and his fine home says, "No man should have so much." The capitalist seeing the same thing says, "All men should have as much." Phelps Adams
+
+Those who lack the capacity to achieve much in an atmosphere of freedom will clamor for power. Eric Hoffer
+
+
+The way to have good and safe government is not to trust it all to one, but to divide it among the many, distributing to everyone exactly the functions in which he is competent ...
+
+- To let the National Government be entrusted with the defense of the nation, and its foreign and federal relations ...
+
+- The State Governments with the Civil Rights, Laws, Police, and administration of what concerns the State generally.
+
+- The Counties with the local concerns, and each ward direct the interests within itself.
+
+It is by dividing and subdividing these Republics from the great national one down through all its subordinations until it ends in the administration of everyman's farm by himself, by placing under everyone what his own eye may superintend, that all will be done for the best. Thomas Jefferson
+
+
+Whatever government is not a government of laws, is a despotism, let it be called what they may. Daniel Webster
+
+
+Our federal government, which was intended to operate as a very limited constitutional republic, has instead become a virtually socialist leviathan that redistributes trillions of dollars. We can hardly be surprised when countless special interests fight for the money. The only true solution to the campaign money problem is a return to a proper constitutional government that does not control the economy. Big government and big campaign money go hand-in-hand. Ron Paul
+
+
+Democracies have ever been spectacles of turbulence and contention; have ever been found incompatible with personal security or the rights of property; and have in general been as short in their lives as they have been violent in their death. James Madison
+
+Republics are formed only after revolution. The change to the empire is slow and gradual. One of the saddest lessons of history is that whenever these schools of politics have met in the republics of old, the imperial school, with its dazzling influence of wealth and power, has always won. John F. Shafroth
+
+
+The first ten amendments were proposed and adopted largely because of fear that Government might unduly interfere with prized individual liberties. The people wanted and demanded a Bill of Rights written into their Constitution. The amendments embodying the Bill of Rights were intended to curb all branches of the Federal Government in the fields touched by the amendments --- Legislative, Executive, and Judicial. Hugo L. Black
+
+
+Racism is not dead, but it is on life support --- kept alive by politicians, race hustlers, and people who get a sense of superiority by denouncing others as racists. Thomas Sowell
+
+
+When you see that in order to produce, you need to obtain permission from men who produce nothing --- When you see that money is flowing to those who deal, not in goods, but in favors --- When you see that men get richer by graft and by pull than by work, and your laws don't protect you against them, but protect them against you --- When you see corruption being rewarded and honesty becoming a self-sacrifice --- You may know that your society is doomed. Ayn Rand
+
+
+The most fundamental fact about the ideas of the political left is that they do not work. Therefore we should not be surprised to find the left concentrated in institutions where ideas do not have to work in order to survive. Thomas Sowell
+
+
+Did I say "republic?" By God, yes, I said "republic!" Long live the glorious republic of the United States of America. Damn democracy. It is a fraudulent term used, often by ignorant persons but no less often by intellectual fakers, to describe an infamous mixture of socialism, graft, confiscation of property and denial of personal rights to individuals whose virtuous principles make them offensive. Westbrook Pegler
+
+
+Next to the right of liberty, the right of property is the most important individual right guaranteed by the Constitution and the one which, united with that of personal liberty, has contributed more to the growth of civilization than any other institution established by the human race. William Howard Taft
+
+For every complex problem there is an answer that is clear, simple, and wrong. H. L. Mencken
+
+
+Temperatures went up first, and then there was the increase in carbon dioxide. You can't say that A causes B if B happens first ... But [the scientists] who are pushing global warming are doing their damnedest to make sure that those who believe the opposite don't get heard in the public. Thomas Sowell
+
+
+It is not my intention to do away with government. It is, rather, to make it work --- work with us, not over us; to stand by our side, not ride on our back. Government can and must provide opportunity, not smother it; foster productivity, not stifle it. It is no coincidence that our present troubles parallel and are proportionate to the intervention and intrusion in our lives that result from unnecessary and excessive growth of government. ... We shall reflect the compassion that is so much a part of your makeup. How can we love our country and not love our countrymen, and loving them, not reach out a hand when they fall, heal them when they are sick, and provide opportunities to make them self-sufficient so they will be equal in fact and not just in theory? ... We are a nation under God, and I believe God intended for us to be free. It would be fitting and good, I think, if on each Inauguration Day in future years it should be declared a day of prayer. Ronald Reagan
+
+
+The one absolute certain way to bring this nation to ruin ... would be to permit it to become a tangle of squabbling nationalities. Theodore Roosevelt
+
+
+I am entirely persuaded that the American public is more reasonable, restrained, and mature than most of the broadcast industry's planners believe. Their fear of controversy is not warranted by the evidence. Edward R. Murrow
+
+
+Each State, in ratifying the Constitution, is considered as a sovereign body, independent of all others, and only to be bound by its own voluntary act. In this relation, then, the new Constitution will, if established, be a FEDERAL, and not a NATIONAL constitution. James Madison
+
+
+A nation that forgets its past is doomed to repeat it. Sir Winston Churchill
+
+
+Even though they are a relatively recent policy development, civil rights laws are considered necessary to insure rights for blacks. But they are, in fact, among the most draconian forms of intervention into the free market. They attack the essence of private property, the ability to exercise control over it. Such laws have resulted in lessened economic freedom, lowered prosperity, heightened social tension, and more trouble for the groups the laws are supposed to help. ... A Korean grocer may want to employ only Korean clerks, a magazine for black professionals only black editors and writers, and a German restaurant only German cooks and waiters. An employer may think that Iraqi-Americans have been unfairly treated and want to favor them. A women's health club may want only women customer's and a men's bar may want only men. There is nothing wrong with any of these behaviors, although civil rights laws seek to end them. In addition to violating the free labor contract, civil rights laws guarantee everyone the right of "access" to "public accommodations" like restaurants, movie theaters, and shops. In fact, what the civil rights laws call public is really private. These businesses are established by private entrepreneurs with private money. The owners should no more be required to serve everyone who comes into their place than they are required to invite everyone to their home for dinner. A large downtown restaurant is as private as a small house in the country. The real difference between private and public is one of ownership, not function or location. Lew Rockwell
+
+
+Let me explain this. There are, fundamentally, only two causes of the progress of the nineteenth century --- the same two causes which you will find at the root of any happy, benevolent, progressive era in human history. One cause is psychological, the other existential --- or: one pertains to man's consciousness, the other to the physical conditions of his existence. The first is reason, the second is freedom. And when I say "freedom," I do not mean poetic sloppiness, such as "freedom from want" or "freedom from fear" or "freedom from the necessity of earning a living." I mean "freedom from compulsion --- freedom from rule by physical force." Which means: political freedom. Ayn Rand
+
+
+I feel obliged to withhold my approval of the plan to indulge in benevolent and charitable sentiment through the appropriation of public funds ... I find no warrant for such an appropriation in the Constitution. Grover Cleveland
+
+
+
+According to the Tax Foundation, the average American worker works 127 days of the year just to pay his taxes. That means that government owns 36 percent of the average American's output—which is more than feudal serfs owed the robber barons. That 36 percent is more than the average American spends on food, clothing and housing. In other words, if it were not for taxes, the average American's living standard would at least double. Paul Craig Roberts
+
+
+The consequences arising from the continual accumulation of public debts in other countries ought to admonish us to be careful to prevent their growth in our own. John Adams
+
+
+Why is it when times get rough only the people have to look for ways to cut back? Why is this always just absolutely impossible for government? Neal Boortz
+
+
+The real destroyer of the liberties of the people is he who spreads among them bounties, donations and benefits. Plutarch
+
+
+Democracy is a form of government that cannot long survive, for as soon as the people learn that they have a voice in the fiscal policies of the government, they will move to vote for themselves all the money in the treasury, and bankrupt the nation. Karl Marx
+
+
+Every government interference in the economy consists of giving an unearned benefit, extorted by force, to some men at the expense of others. Ayn Rand
+
+
+A large number of people, certainly the majority of the political looter class, think the best way to deal with the rapidly deepening economic crisis is via 'stimulus packages' with money plucked off the magic money tree ... which is to say, by trying to re-inflate the credit bubble that actually caused the crisis. This is a bit like treating alcoholics by urging them to buy more whiskey. Perry de Havilland
+
+
+The federal government claims the right to regulate everything, and also the right to ignore any law, selectively, whenever it wants. That's a bureaucratic dictatorship by people who hate you. Charlie Kirk
+
+
+There are two methods, or means, and only two, whereby man's needs and desires can be satisfied. One is the production and exchange of wealth; this is the economic means. The other is the uncompensated appropriation of wealth produced by others; this is the political means. Albert Jay Nock
+
+
+The Fascist State lays claim to rule in the economic field no less than in others; it makes its action felt throughout the length and breadth of the country by means of its corporate, social, and educational institutions, and all the political, economic, and spiritual forces of the nation, organised in their respective associations, circulate within the State. Benito Mussolini
+
+
+American money was never more sound, or banking more free, than 200 years ago. Since then, it's been a long steady decline from the gold standard and competitive banking to our Fed-run system of inflated paper currency, deposit insurance, and perpetually shaky banks on the dole. Lew Rockwell
+
+
+
+We are in danger of being overwhelmed with irredeemable paper, mere paper, representing not gold nor silver; no sir, representing nothing but broken promises, bad faith, bankrupt corporations, cheated creditors and a ruined people. Daniel Webster
+
+
+A system of capitalism presumes sound money, not fiat money manipulated by a central bank. Capitalism cherishes voluntary contracts and interest rates that are determined by savings, not credit creation by a central bank. It's not capitalism when the system is plagued with incomprehensible rules regarding mergers, acquisitions, and stock sales, along with wage controls, price controls, protectionism, corporate subsidies, international management of trade, complex and punishing corporate taxes, privileged government contracts to the military-industrial complex, and a foreign policy controlled by corporate interests and overseas investments. Add to this centralized federal mismanagement of farming, education, medicine, insurance, banking and welfare. This is not capitalism! Dr. Ron Paul
+
+
+The monetary managers are fond of telling us that they have substituted "responsible money management" for the gold standard. But there is no historic record of responsible paper money management ... The record taken as a whole is one of hyperinflation, devaluation and monetary chaos. Henry Hazlitt
+
+
+
+Some people think the Federal Reserve Banks are U.S. government institutions. They are not ... they are private credit monopolies which prey upon the people of the US for the benefit of themselves and their foreign and domestic swindlers, and rich and predatory money lenders. The sack of the United States by the Fed is the greatest crime in history. Every effort has been made by the Fed to conceal its powers, but the truth is the Fed has usurped the government. It controls everything here and it controls all our foreign relations. It makes and breaks governments at will. Louis McFadden
+
+
+
+This (Federal Reserve) Act establishes the most gigantic trust on earth. When the President signs this bill, the invisible government by the Monetary Power will be legalized. The people may not know it immediately, but the day of reckoning is only a few years removed. The trusts will soon realize that they have gone too far even for their own good. The people must make a declaration of independence to relieve themselves from the Monetary Power. This they will be able to do by taking control of Congress. Wall Streeters could not cheat us if you Senators and Representatives did not make a humbug of Congress ... The greatest crime of Congress is its currency system. The worst legislative crime of the ages is perpetrated by this banking bill. The caucus and the party bosses have again operated and prevented the people from getting the benefit of their own government. Charles A. Lindbergh Sr.
