@@ -1229,8 +1229,6 @@ The prohibition is general. No clause in the Constitution could by any rule of c
 Criminal justice was originally intended to protect society from the lawbreaker. By the time the Warren Court had finished with it, its chief function was to protect the lawbreaker from society. Needless to say, the Court's exaggerated magnification of criminal rights worked directly to the advantage of minorities that shelter criminal castes within their ranks. Wilmot Robertson
 
 
-Glory is fleeting, but obscurity is forever. Napoleon Bonaparte
-
 Don't be so humble --- you are not that great. Golda Meir
 
 His ignorance is encyclopedic. Abba Eban
