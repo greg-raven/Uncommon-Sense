@@ -68,7 +68,7 @@ This combustible mixture of ignorance and power sooner or later is going to blow
 
 The new law will create inflation whenever the trusts want inflation ... they can unload the stocks on the people at high prices during the excitement and then bring on a panic and buy them back at low prices ... the day of reckoning is only a few years removed. Charles A. Lindbergh, Sr.
 
-When the President signs this act [Federal Reserve Act of 1913], the invisible government by the money power --- proven to exist by the Monetary Trust Investigation --- will be legalized. The new law will create inflation whenever the trusts want inflation. From now on, depressions will be scientifically created. Charles A. Lindbergh, Sr.
+When the President signs this act \[Federal Reserve Act of 1913\], the invisible government by the money power --- proven to exist by the Monetary Trust Investigation --- will be legalized. The new law will create inflation whenever the trusts want inflation. From now on, depressions will be scientifically created. Charles A. Lindbergh, Sr.
 
 We believe that human happiness requires freedom and that freedom requires limited government. Charles Alan Murray
 
@@ -112,7 +112,7 @@ The lust for power, for dominating others, inflames the heart more than any othe
 
 The more corrupt the state, the more numerous the laws. Cornelius Tacitus
 
-... [I]t was the calculated 'shearing' of the public by the World-Money powers triggered by the planned sudden shortage of call money in the New York Market. Curtis Dall
+... \[I\]t was the calculated 'shearing' of the public by the World-Money powers triggered by the planned sudden shortage of call money in the New York Market. Curtis Dall
 
 Most of his thoughts, his political 'ammunition,' ... were carefully manufactured for him in advance by the CFR-One World Money group. Brilliantly ... he exploded that prepared 'ammunition' in the middle of an unsuspecting target, the American people --- and thus paid off and retained his internationalist political support. Curtis Dall
 
@@ -239,7 +239,7 @@ Liberty cannot be caged into a charter or handed on ready-made to the next gener
 
 Freedom is like taking a bath --- you have to keep doing it every day! Florynce KennedyAmerican lawyer, activist, civil rights advocate, feminist
 
-... [F]or that nothing doth more hurt in a state, than that cunning men pass for wise. Francis Bacon
+... \[F\]or that nothing doth more hurt in a state, than that cunning men pass for wise. Francis Bacon
 
 I pledge allegiance to my Flag and to the Republic for which it stands; one Nation, indivisible, with Liberty and Justice for all. Francis Bellamy
 
@@ -315,7 +315,7 @@ Fanaticism consists in redoubling your effort when you have forgotten your aim. 
 
 Those who cannot remember the past are condemned to repeat it. George Santayana
 
-Do the people of this land ... desire to preserve those [liberties] protected by the First Amendment? If so, let them withstand all beginnings of encroachment. For the saddest epitaph which can be carved in memory of a vanquished liberty is that it was lost because its possessors failed to stretch for a saving hand while yet there was time. George Sutherland
+Do the people of this land ... desire to preserve those \[liberties\] protected by the First Amendment? If so, let them withstand all beginnings of encroachment. For the saddest epitaph which can be carved in memory of a vanquished liberty is that it was lost because its possessors failed to stretch for a saving hand while yet there was time. George Sutherland
 
 And our security will require all Americans to be forward-looking and resolute, to be ready for pre-emptive action. George W. Bush
 
@@ -339,7 +339,7 @@ The secret of life is honesty and fair dealing. If you can fake that, you've got
 
 I can find no warrant for such an appropriation in the Constitution, and I do not believe that the power and duty of the General Government ought to be extended to the relief of individual suffering which is in no manner properly related to the public service or benefit. Grover Cleveland
 
-Under the surface, the Rothschilds long had a powerful influence in dictating American financial laws. The law records show that they were powers in the old Bank of the United States [abolished by Andrew Jackson]. Gustav Myers
+Under the surface, the Rothschilds long had a powerful influence in dictating American financial laws. The law records show that they were powers in the old Bank of the United States \[abolished by Andrew Jackson\]. Gustav Myers
 
 When a legislature decides to steal some of our rights and plans to use police force to accomplish it, what's the real difference between them and the thief? Darn little! They hide behind the excuse that they're legislating democratically. The fact they do it by a majority vote has no moral significance whatsoever. Numerical might does not constitute right, no more than a lynch mob can justify its act because a majority participated. H. L. Richardson
 
@@ -438,7 +438,7 @@ The consolidation of power at the federal level in the guise of public safety is
 
 [D]ecade after decade, through taxes and regulations, governments at all levels took ever-increasing control over people?s lives, wealth, and property. The control grew exponentially, decade after decade. The rationale was that the control was necessary --- for society, for the poor, for the nation, even for freedom itself. Americans continued living their life of the lie: they continued believing that the more control government exercised over their lives and property, the freer they became. Jacob G. Hornberger
 
-The biggest threat to the American people today lies with the United States government. ... [T]he long-term solution is to dismantle, not reform, the iron fist of the welfare state and the controlled economy. This includes the end (not the reform) of the IRS, the DEA, the BATF, the SEC, the FDA, HUD, the departments of HHS, Labor, Agriculture, and energy, and every other agency that takes money from some and gives it to others or interferes with peaceful behavior. Jacob G. Hornberger
+The biggest threat to the American people today lies with the United States government. ... \[T\]he long-term solution is to dismantle, not reform, the iron fist of the welfare state and the controlled economy. This includes the end (not the reform) of the IRS, the DEA, the BATF, the SEC, the FDA, HUD, the departments of HHS, Labor, Agriculture, and energy, and every other agency that takes money from some and gives it to others or interferes with peaceful behavior. Jacob G. Hornberger
 
 Communism and fascism or nazism, although poles apart in their intellectual content, are similar in this, that both have emotional appeal to the type of personality that takes pleasure in being submerged in a mass movement and submitting to superior authority. James A. C. Brown
 
@@ -466,7 +466,7 @@ Let us by wise and constitutional measures promote intelligence among the people
 
 There can be no prescription old enough to supersede the Law of Nature and the grant of God Almighty, who has given to all men a natural right to be free, and they have it ordinarily in their power to make themselves so, if they please. James Otis
 
-... [I]n all countries where personal freedom is valued, however much each individual may rely on legal redress, the right of each to carry arms --- and these the best and the sharpest --- for his own protection in case of extremity, is a right of nature indelible and irrepressible, and the more it is sought to be repressed the more it will recur. James Paterson
+... \[I\]n all countries where personal freedom is valued, however much each individual may rely on legal redress, the right of each to carry arms --- and these the best and the sharpest --- for his own protection in case of extremity, is a right of nature indelible and irrepressible, and the more it is sought to be repressed the more it will recur. James Paterson
 
 Toward no crimes have men shown themselves so cold-bloodedly cruel as in punishing differences of opinion. James Russell Lowell
 
@@ -667,7 +667,7 @@ Each day, it seemed, another law was passed to impoverish and diminish them, pun
 
 To pretend to know when you do not know is a disease. Lao-Tzu
 
-... [W]e insist on the principle that no danger or crisis, foreign or domestic, will be solved by Americans surrendering more of their constitutional liberties, in the foolish hope that a bigger government will provide greater security. Larry P. Arnn
+... \[W\]e insist on the principle that no danger or crisis, foreign or domestic, will be solved by Americans surrendering more of their constitutional liberties, in the foolish hope that a bigger government will provide greater security. Larry P. Arnn
 
 The drive of the Rockefellers and their allies is to create a one-world government combining supercapitalism and communism under the same tent, all under their control ... Do I mean conspiracy? Yes I do. I am convinced there is such a plot, international in scope, generations old in planning, and incredibly evil in intent. Larry P. McDonald
 
@@ -690,9 +690,9 @@ Even though they are a relatively recent policy development, civil rights laws a
 
 What is needed here is a return to the Constitution of the United States. We need to have a complete divorce of Bank and State. The old struggle that was fought out here in Jackson's day must be fought over again ... The Federal Reserve Act should be repealed and the Federal Reserve Banks, having violated their charters, should be liquidated immediately. Faithless Government officers who have violated their oaths of office should be impeached and brought to trial. Louis McFadden
 
-And remember, where you have a concentration of power in a few hands, all too frequently men with the mentality of gangstersget control. History has proven that. All power corrupts; absolute power corrupts absolutely. Lord Acton [John Emerich Edward Dalberg Acton]
+And remember, where you have a concentration of power in a few hands, all too frequently men with the mentality of gangstersget control. History has proven that. All power corrupts; absolute power corrupts absolutely. Lord Acton \[John Emerich Edward Dalberg Acton\]
 
-Power tends to corrupt, and absolute power corrupts absolutely. Lord Acton [John Emerich Edward Dalberg Acton]
+Power tends to corrupt, and absolute power corrupts absolutely. Lord Acton \[John Emerich Edward Dalberg Acton\]
 
 Liberty is the prevention of control by others. This requires self-control and, therefore, religious and spiritual influences; education, knowledge, well-being. Lord Acton
 
@@ -837,7 +837,7 @@ If Big Brother comes to America, he will not be a fearsome, foreboding figure wi
 
 The worst forms of tyranny, or certainly the most successful ones, are not those we rail against but those that so insinuate themselves into the imagery of our consciousness, and the fabric of our lives, as not to be perceived as tyranny. Michael Parenti
 
-It was the Republican Party that demolished the shining city on the hill my father built. It was the Republican Party that was 100 percent responsible for the end of the Reagan Revolution ... [T]he Republican Party abandoned the trail leading to that shining city on the hill to become itself a quasi-Left-wing organization which looks at the Democrats' welfare programs and says "me too." Michael Reagan
+It was the Republican Party that demolished the shining city on the hill my father built. It was the Republican Party that was 100 percent responsible for the end of the Reagan Revolution ... \[T\]he Republican Party abandoned the trail leading to that shining city on the hill to become itself a quasi-Left-wing organization which looks at the Democrats' welfare programs and says "me too." Michael Reagan
 
 Most people prefer to believe that their leaders are just and fair, even in the face of evidence to the contrary, because once a citizen acknowledges that the government under which he lives is lying and corrupt, the citizen has to choose what he or she will do about it. To take action in the face of corrupt government entails risks of harm to life and loved ones. To choose to do nothing is to surrender one's self-image of standing for principles. Most people do not have the courage to face that choice. Hence, most propaganda is not designed to fool the critical thinker but only to give moral cowards an excuse not to think at all. Michael Rivero
 
@@ -852,7 +852,7 @@ I'm in favor of legalizing drugs. According to my value system, if people want t
 
 The Fed was largely responsible for converting what might have been a garden-variety recession, although perhaps a fairly severe one, into a major catastrophe. Instead of using its powers to offset the depression, it presided over a decline in the quantity of money by one-third from 1929 to 1933 ... Far from the depression being a failure of the free-enterprise system, it was a tragic failure of government. Milton Friedman
 
-The power to determine the quantity of money ... is too important, too pervasive, to be exercised by a few people, however public-spirited, if there is any feasible alternative. There is no need for such arbitrary power ... Any system which gives so much power and so much discretion to a few men, [so] that mistakes --- excusable or not --- can have such far reaching effects, is a bad system. It is a bad system to believers in freedom just because it gives a few men such power without any effective check by the body politic --- this is the key political argument against an independent central bank. Milton Friedman
+The power to determine the quantity of money ... is too important, too pervasive, to be exercised by a few people, however public-spirited, if there is any feasible alternative. There is no need for such arbitrary power ... Any system which gives so much power and so much discretion to a few men, \[so\] that mistakes --- excusable or not --- can have such far reaching effects, is a bad system. It is a bad system to believers in freedom just because it gives a few men such power without any effective check by the body politic --- this is the key political argument against an independent central bank. Milton Friedman
 
 The strongest argument for free enterprise is that it prevents anybody from having too much power. Whether that person is a government official, a trade union official, or a business executive. If forces them to put up or shut up. They either have to deliver the goods, produce something that people are willing to pay for, are willing to buy, or else they have to go into a different business. Milton Friedman
 
@@ -888,7 +888,7 @@ The jury has the power to bring a verdict in the teeth of both law and fact. Oli
 
 Liberty is often a heavy burden on a man. It involves the necessity for perpetual choice which is the kind of labor men have always dreaded. Oliver Wendell Holmes, Sr.
 
-Be assured that if this new provision [the 14th Amendment] be engrafted in the Constitution, it will, in time, change the entire structure and texture of our government, and sweep away all the guarantees of safety devised and provided by our patriotic Sires of the Revolution. Orville Browning
+Be assured that if this new provision \[the 14th Amendment\] be engrafted in the Constitution, it will, in time, change the entire structure and texture of our government, and sweep away all the guarantees of safety devised and provided by our patriotic Sires of the Revolution. Orville Browning
 
 All authority is quite degrading. Oscar Wilde
 
@@ -950,7 +950,7 @@ The central premise of constitutional governance is that 'We the people' have th
 
 I am afraid that the ordinary citizen will not like to be told that the banks can and do create and destroy money. And they who control the credit of a nation direct the policy of governments, and hold in the hollow of their hands the destiny of the people. Reginald McKenna
 
-To the extent that these [New Deal policies] developed, they were tortured interpretations of a document [the Constitution] intended to prevent them. Rexford Tugwell
+To the extent that these \[New Deal policies\] developed, they were tortured interpretations of a document \[the Constitution\] intended to prevent them. Rexford Tugwell
 
 The first duty of government is to protect the citizen from assault. Unless it does this, all the civil rights and civil liberties in the world aren't worth a dime. Richard A. Viguerie
 
@@ -978,7 +978,7 @@ There is no worse tyranny than to force a man to pay for what he does not want m
 
 The fundamental principle is this: No matter how worthwhile an end may be, if there is no constitutional authority to pursue it, then the federal government must step aside and leave the matter to the states or to private parties. The president and Congress can proceed only from constitutional authority, not from good intentions alone. If Congress thinks it necessary to expand its powers, the Framers crafted an amendment process for that purpose. But too often, rather than follow that process, Congress has disregarded the limits set by the Constitution and gutted our frontline defense against overweening federal government. Robert A. Levy
 
-Because this right [of self-defense] cannot be effectively exercised with bare hands, the right to keep and bear arms is the only efficient way to secure the fundamental right of self-defense. Robert Dowlut
+Because this right \[of self-defense\] cannot be effectively exercised with bare hands, the right to keep and bear arms is the only efficient way to secure the fundamental right of self-defense. Robert Dowlut
 
 The problem of power is how to achieve its responsible use rather than its irresponsible and indulgent use --- of how to get men of power to live for the public rather than off the public. Robert F. Kennedy
 
@@ -1002,7 +1002,7 @@ Over the 20th century, the federal government has assumed a vast and unprecedent
 
 Today, of course, the redistributive powers of Congress are everywhere --- except in the Constitution. The result is the feeding frenzy that is modern Washington, the Hobbesian war of all against all as each tries to get his share and more of the common pot the tax system fills. ... It is unseemly and wrong. More than that, it is unconstitutional, whatever the slim and cowed majority on the New Deal Court may have said. Roger Pilon
 
-It's a mistake to think that poor people get the benefit from the welfare system. It's a total fraud. Most welfare go to the rich of this country: the military-industrial complex, the bankers, the foreign dictators, it's totally out of control. [...] This idea that the government has services or goods that they can pass on is a complete farce. Governments have nothing. They can't create anything, they never have. All they can do is steal from one group and give it to another at the destruction of the principles of freedom, and we ought to challenge that concept. Ron Paul
+It's a mistake to think that poor people get the benefit from the welfare system. It's a total fraud. Most welfare go to the rich of this country: the military-industrial complex, the bankers, the foreign dictators, it's totally out of control. \[...\] This idea that the government has services or goods that they can pass on is a complete farce. Governments have nothing. They can't create anything, they never have. All they can do is steal from one group and give it to another at the destruction of the principles of freedom, and we ought to challenge that concept. Ron Paul
 
 Why is patriotism thought to be blind loyalty to the government and the politicians who run it, rather than loyalty to the principles of liberty and support for the people? Real patriotism is a willingness to challenge the government when it's wrong. Ron Paul
 
@@ -1022,7 +1022,7 @@ What we don't see is that freedom is not a concept in which people can do anythi
 
 Few men desire liberty; most men wish only for a just master. Sallust
 
-Among the natural rights [of the people] are these: first, a right to life; secondly, to liberty; thirdly to property; together with the right to support and defend them in the best manner they can. Samuel Adams
+Among the natural rights \[of the people\] are these: first, a right to life; secondly, to liberty; thirdly to property; together with the right to support and defend them in the best manner they can. Samuel Adams
 
 Among the innumerable mortifications which waylay human arrogance on every side may well be reckoned our ignorance of the most common objects and effects, a defect of which we become more sensible by every attempt to supply it. Vulgar and inactive minds confound familiarity with knowledge and conceive themselves informed of the whole nature of things when they are shown their form or told their use; but the speculatist, who is not content with superficial views, harasses himself with fruitless curiosity, and still, as he inquires more, perceives only that he knows less. Samuel Johnson
 
@@ -1104,7 +1104,7 @@ The Congress shall have power: To coin money, regulate the value thereof, and of
 
 We recognize, as appellants urge, the undisputed power of the jury to acquit, even if its verdict is contrary to the law as given by the judge, and contrary to the evidence. This is a power that must exist as long as we adhere to the general verdict in criminal cases, for the courts cannot search the minds of the jurors to find the basis upon which they judge. If the jury feels that the law under which the defendant is accused, is unjust, or that exigent circumstances justified the actions of the accused, or for any reason which appeals to their logic of passion, the jury has the power to acquit, and the courts must abide by that decision. U.S. Court of Appeals for the District of Maryland
 
-Since it was first recognized in [the] Magna Carta, trial by jury has been a prized shield against oppression ... U.S. Supreme Court
+Since it was first recognized in \[the\] Magna Carta, trial by jury has been a prized shield against oppression ... U.S. Supreme Court
 
 Mind Your Business U.S. Treasury
 
@@ -1152,7 +1152,7 @@ When men are brought face to face with their opponents, forced to listen and lea
 
 Our lives improve only when we take chances --- and the first and most difficult risk we can take is to be honest with ourselves. Walter Truett Anderson
 
-... [O]urs is a sick profession marked by incompetence, lack of training, misconduct and bad manners. Ineptness, bungling, malpractice, and bad ethics can be observed in court houses all over this country every day ... these incompetents have a seeming unawareness of the fundamental ethics of the profession. ... the harsh truth is that ... we may well be on our way to a society, overrun by hordes of lawyers, hungry as locusts, and brigades of judges in numbers never before contemplated. Warren E. Burger
+... \[O\]urs is a sick profession marked by incompetence, lack of training, misconduct and bad manners. Ineptness, bungling, malpractice, and bad ethics can be observed in court houses all over this country every day ... these incompetents have a seeming unawareness of the fundamental ethics of the profession. ... the harsh truth is that ... we may well be on our way to a society, overrun by hordes of lawyers, hungry as locusts, and brigades of judges in numbers never before contemplated. Warren E. Burger
 
 No free people can lose their liberties while they are jealous of liberty. But the liberties of the freest people are in danger when they set up symbols of liberty as fetishes, worshipping the symbol instead of the principle it represents. Wendell Phillips
 
@@ -1196,7 +1196,7 @@ The greatest Glory of a free-born People, Is to transmit that Freedom to their C
 
 The only vice that can not be forgiven is hypocrisy. William Hazlitt
 
-All ideas having even the slightest redeeming social importance --- unorthodox ideas, controversial ideas, even ideas hateful to the prevailing climate of opinion, have the full protection of the guarantees [of the First Amendment]. William J. Brennan
+All ideas having even the slightest redeeming social importance --- unorthodox ideas, controversial ideas, even ideas hateful to the prevailing climate of opinion, have the full protection of the guarantees \[of the First Amendment\]. William J. Brennan
 
 If there is a bedrock principle of the First Amendment, it is that the government may not prohibit the expression of an idea simply because society finds the idea itself offensive or disagreeable. William J. Brennan
 
