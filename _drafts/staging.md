@@ -331,7 +331,7 @@ It is proof of a base and low mind for one to wish to think with the masses or m
 
 [T]he people as ultimate sovereigns, retain the ultimate power --- and even the duty --- to overthrow any government that fails to respect their authority. Glenn Harlan Reynolds
 
-The antipode of individualism is collectivism, which subordinates the individual to the group --- be it the "community," the tribe, the race, the proletariat, etc. A person's moral worth is judged by how much he sacrifices himself to the group. [Under collectivism] the more emergencies (and victims) the better, because they provide more opportunity for "virtue." Glenn Woiceshyn
+The antipode of individualism is collectivism, which subordinates the individual to the group --- be it the "community," the tribe, the race, the proletariat, etc. A person's moral worth is judged by how much he sacrifices himself to the group. \[Under collectivism\] the more emergencies (and victims) the better, because they provide more opportunity for "virtue." Glenn Woiceshyn
 
 A heretic is a man who sees with his own eyes. Gotthold Ephraim Lessing
 
