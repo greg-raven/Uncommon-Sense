@@ -67,7 +67,7 @@ Free and fair elections are a crucial aspect of our Constitutional republic. Wea
 
 Allowing the private takeover of government election offices undermines trust in government at the deepest levels. Everyone in Congress, regardless of party, should see this as the threat that it is and come together and put a stop to it.
 
-Source: Mollie Hemingway, https://docs.house.gov/meetings/HA/HA00/20240207/116804/HHRG-118-HA00-Wstate-HemingwayM-20240207-U1.pdf
+Source: [Mollie Hemingway](https://docs.house.gov/meetings/HA/HA00/20240207/116804/HHRG-118-HA00-Wstate-HemingwayM-20240207-U1.pdf)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/hmxu9k3yPDo?si=Ob_G9YcR9e-iKsbe" title="Mollie Hemingway testimony before the House Administration Committee" allowfullscreen></iframe>
 
@@ -92,7 +92,6 @@ Source: Mollie Hemingway, https://docs.house.gov/meetings/HA/HA00/20240207/11680
 9. [https://www.influencewatch.org/non-profit/center-for-tech-and-civic-life/](https://www.influencewatch.org/non-profit/center-for-tech-and-civic-life/)
 
 10. [https://www.realclearinvestigations.com/articles/2022/06/07/team_zuckerberg_masks_the_heavily_pro-democrat_tilt_of_2020_election_zuck_bucks_study_finds_835470.html](https://www.realclearinvestigations.com/articles/2022/06/07/team_zuckerberg_masks_the_heavily_pro-democrat_tilt_of_2020_election_zuck_bucks_study_finds_835470.html)
-
 
 11. *Ibid.*
 
