@@ -438,8 +438,6 @@ The consolidation of power at the federal level in the guise of public safety is
 
 [D]ecade after decade, through taxes and regulations, governments at all levels took ever-increasing control over people?s lives, wealth, and property. The control grew exponentially, decade after decade. The rationale was that the control was necessary --- for society, for the poor, for the nation, even for freedom itself. Americans continued living their life of the lie: they continued believing that the more control government exercised over their lives and property, the freer they became. Jacob G. Hornberger
 
-The biggest threat to the American people today lies with the United States government. ... \[T\]he long-term solution is to dismantle, not reform, the iron fist of the welfare state and the controlled economy. This includes the end (not the reform) of the IRS, the DEA, the BATF, the SEC, the FDA, HUD, the departments of HHS, Labor, Agriculture, and energy, and every other agency that takes money from some and gives it to others or interferes with peaceful behavior. Jacob G. Hornberger
-
 Communism and fascism or nazism, although poles apart in their intellectual content, are similar in this, that both have emotional appeal to the type of personality that takes pleasure in being submerged in a mass movement and submitting to superior authority. James A. C. Brown
 
 The chief duty of the National Government in connection with the currency of the country is to coin money and declare its value. Grave doubts have been entertained whether Congress is authorized by the Constitution to make any form of paper money legal tender. The present issue of United States notes has been sustained by the necessities of war; but such paper should depend for its value and currency upon its convenience in use and its prompt redemption in coin at the will of the holder, and not upon its compulsory circulation. These notes are not money, but promises to pay money. If the holders demand it, the promise should be kept. James A. Garfield
@@ -1210,13 +1208,10 @@ Outwardly we have a Constitutional government. We have operating within our gove
 
 Enslave the liberty of but one human being and the liberties of the world are put in peril. William Lloyd Garrison
 
-Once a nation parts with the control of its currency and credit, it matters not who makes the nations laws. Usury, once in control, will wreck any nation. Until the control of the issue of currency and credit is restored to government and recognized as its most sacred responsibility, all talk of the sovereignty of parliament and of democracy is idle and futile. William Lyon Mackenzie King
 
 Freedom of movement is the very essence of our free society --- once the right to travel is curtailed, all other rights suffer. William O. Douglas
 
 Restriction of free thought and free speech is the most dangerous of all subversions. It is the one un-American act that could most easily defeat us. William O. Douglas
-
-When a legislature undertakes to proscribe the exercise of a citizen's constitutional rights it acts lawlessly and the citizen can take matters into his own hands and proceed on the basis that such a law is no law at all. William O. Douglas
 
 If ... our bureaucratic masters are becoming more akin to Soviet-style or Eastern European counterparts, it was rarely seen as a plus that those central schemers had wonderful intentions with their five-year plans. Such goals as 'job safety,' 'equality,' and freedom from 'discrimination,' depending on their definitions, may be good things for society, but they were never intended to be the business of the federal government. William P. Hoar
 
@@ -1224,12 +1219,6 @@ The bank hath benefit of interest on all moneys which it creates out of nothing.
 
 Let the people think they govern and they will be governed. William Penn
 
-The prohibition is general. No clause in the Constitution could by any rule of construction be conceived to give congress a power to disarm the people. Such a flagitious attempt could only be made under some general pretense by a state legislature. But if in any blind pursuit of inordinate power, either should attempt it, this amendment may be appealed to as a restraint on both. William Rawle
-
-Criminal justice was originally intended to protect society from the lawbreaker. By the time the Warren Court had finished with it, its chief function was to protect the lawbreaker from society. Needless to say, the Court's exaggerated magnification of criminal rights worked directly to the advantage of minorities that shelter criminal castes within their ranks. Wilmot Robertson
-
-
-Don't be so humble --- you are not that great. Golda Meir
 
 His ignorance is encyclopedic. Abba Eban
 
@@ -1249,34 +1238,3 @@ I have sworn upon the altar of God eternal hostility against every form of tyran
 Question with boldness even the existence of a God; because, if there be one, he must more approve of the homage of reason, than that of blind-folded fear ... Do not be frightened from this inquiry from any fear of its consequences. If it ends in the belief that there is no God, you will find incitements to virtue in the comfort and pleasantness you feel in its exercise ... Thomas Jefferson
 
 The error seems not sufficiently eradicated, that the operations of the mind, as well as the acts of the body, are subject to the coercion of the laws. But our rulers can have authority over such natural rights only as we have submitted to them. The rights of conscience we never submitted, we could not submit. We are answerable for them to our God. The legitimate powers of government extend to such acts only as are injurious to others ... Was the government to prescribe to us our medicine and diet, our bodies would be in such keeping as our souls are now. Thus in France the emetic was once forbidden as a medicine, and the potatoe as an article of food. Thomas Jefferson
-
-There is no act, however virtuous, for which ingenuity may not find some bad motive. Thomas Jefferson
-
-
-Each problem that I solved became a rule which served afterwards to solve other problems. Rene Descartes
-
-Moral indignation is jealousy with a halo. H. G. Wells
-
-Obstacles are those frightful things you see when you take your eyes off your goal. Henry Ford
-
-My advice to you is get married: if you find a good wife you'll be happy; if not, you'll become a philosopher. Socrates
-
-Egotist: A person more interested in himself than in me. Ambrose Bierce
-
-Any man who is under 30, and is not a liberal, has no heart; and any man who is over 30, and is not a conservative, has no brains. Winston Churchill
-
-I would have made a good Pope. Richard M. Nixon
-
-Make everything as simple as possible, but not simpler. Albert Einstein
-
-It is dangerous to be sincere unless you are also stupid. George Bernard Shaw
-
-A man can't be too careful in the choice of his enemies. Oscar Wilde
-
-Forgive your enemies, but never forget their names. John F. Kennedy
-
-Well-timed silence hath more eloquence than speech. Martin Fraquhar Tupper
-
-The graveyards are full of indispensable men. Charles de Gaulle
-
-You can pretend to be serious; you can't pretend to be witty. Sacha Guitry
