@@ -1,66 +1,14 @@
-Happiness is good health and a bad memory. Ingrid Bergman
-
-Friends may come and go, but enemies accumulate. Thomas Jones
-
-A bore is a person who deprives you of solitude without providing you with company. John D. MacDonald
-
-Disney has a major content problem. Almost their entire upcoming slate is unwatchable. They are the world's biggest example of go woke, go broke lol. Elon Musk
-
-
-No duty, however, binds us to these so-called laws, whose corrupting influence menaces what is noblest in our being ... Benjamin Constant
-
-
-As to Jesus of Nazareth, my opinion of whom you particularly desire, I think the system of Morals and his Religion, as he left them to us, the best the World ever saw or is likely to see; but I apprehend it has received various corrupting Changes; and I have, with most of the present Dissenters in England, some doubts as to his divinity. Benjamin Franklin
-
-
-Do not fear to be eccentric in opinion, for every opinion now accepted was once eccentric. Bertrand Russell
-
-
-
-Militia: The body of citizens in a state, enrolled for discipline as a military force, but not engaged in actual service except in emergencies, as distinguished from regular troops or a standing army. Black's Law Dictionary, 3rd Edition
-
-
-The strength of a man's virtue should not be measured by his special exertions, but by his habitual acts. Blaise Pascal
-
-A lie doesn't become truth, wrong doesn't become right, and evil doesn't become good, just because it's accepted by a majority. Booker T. Washington
-
-When you or I write a check there must be sufficient funds in our account to cover that check, but when the Federal Reserve writes a check, it is creating money. Boston Federal Reserve Bank
-
-
-Be a lamp unto yourself. Work out your liberation with diligence. Buddha
-
 Believe nothing merely because you have been told it. Do not believe what your teacher tells you merely out of respect for the teacher. But whatsoever, after due examination and analysis, you find to be kind, conducive to the good, the benefit, the welfare of all beings --- that doctrine believe and cling to, and take it as your guide. Buddha
 
 The whole secret of existence is to have no fear. Never fear what will become of you, depend on no one. Only the moment you reject all help are you freed. Buddha
 
 There are only two mistakes one can make along the road to truth; not going all the way, and not starting. Buddha
 
-Because we fear the responsibility for our actions, we have allowed ourselves to develop the mentality of slaves. Contrary to the stirring sentiments of the Declaration of Independence, we now pledge "our Lives, our Fortunes and our sacred Honor" not to one another for our mutual protection, but to the state, whose actions continue to exploit, despoil, and destroy us. Butler D. Shaffer
-
 Our lack of constant awareness has also permitted us to accept definitions of freedom that are not necessarily consistent with the actuality of being free. Because we have learned to confuse the word with the reality the word seeks to describe, our vocabulary has become riddled with distorted and contradictory meanings smuggled into the language. Butler D. Shaffer
-
-No one is fit to be trusted with power. ... No one. ... Any man who has lived at all knows the follies and wickedness he's capable of. ... And if he does know it, he knows also that neither he nor any man ought to be allowed to decide a single human fate. C. P. Snow
-
-'Useful,' and 'necessity' was always 'the tyrant's plea'. C. S. Lewis
-
-A man may have to die for our country: but no man must, in any exclusive sense, live for his country. He who surrenders himself without reservation to the temporal claims of a nation, or a party, or a class is rendering to Caesar that which, of all things, most emphatically belongs to God: himself. C. S. Lewis
-
-For who can endure a doctrine which would allow only dentists to say whether our teeth were aching, only cobblers to say whether our shoes hurt us, and only governments to tell us whether we were being well governed? C. S. Lewis
-
-
-It is easy to think the State has a lot of different objects --- military, political, economic, and what not. But in a way things are much simpler than that. The State exists simply to promote and to protect the ordinary happiness of human beings in this life. A husband and wife chatting over a fire, a couple of friends having a game of darts in a pub, a man reading a book in his own room or digging in his own garden --- that is what the State is there for. And unless they are helping to increase and prolong and protect such moments, all the laws, parliaments, armies, courts, police, economics, etc., are simply a waste of time. C. S. Lewis
-
-That is the key to history. Terrific energy is expended --- civilizations are built up --- excellent institutions devised; but each time something goes wrong. Some fatal flaw always brings the selfish and cruel people to the top, and then it all slides back into misery and ruin. In fact, the machine conks. It seems to start up all right and runs a few yards, and then it breaks down. C. S. Lewis
-
-Freedom is not merely the opportunity to do as one pleases; neither is it merely the opportunity to choose between set alternatives. Freedom is, first of all, the chance to formulate the available choices, to argue over them --- and then, the opportunity to choose. C. Wright Mills
-
-Unless the people, through unified action, arise and take charge of their government, they will find that their government has taken charge of them. Independence and liberty will be gone, and the general public will find itself in a condition of servitude to an aggregation of organized and selfish interest. Calvin Coolidge
 
 Every form of addiction is bad, no matter whether the narcotic be alcohol or morphine or idealism. Carl Jung
 
 Rational argument can be conducted with some prospect of success only so long as the emotionality of a given situation does not exceed a certain critical degree. If the affective temperature rises above this level, the possibility of reason's having any effect ceases and its place is taken by slogans and chimerical wish fantasies. That is to say, a sort of collective possession results which rapidly develops into a psychic epidemic. Carl Jung
-
-Whenever justice is uncertain and police spying and terror are at work, human beings fall into isolation, which, of course, is the aim and purpose of the dictator state, since it is based on the greatest possible accumulation of depotentiated social units. Carl Jung
 
 Finding the occasional straw of truth awash in a great ocean of confusion and bamboozle requires intelligence, vigilance, dedication and courage. But if we don't practice these tough habits of thought, we cannot hope to solve the truly serious problems that face us --- and we risk becoming a nation of suckers, up for grabs by the next charlatan who comes along. Carl Sagan
 
@@ -1227,9 +1175,6 @@ If a man does his best, what else is there? George S. Patton
 Not everything that can be counted counts, and not everything that counts can be counted. Albert Einstein
 
 Only two things are infinite, the universe and human stupidity, and I'm not sure about the former. Albert Einstein
-
-
-I find that the harder I work, the more luck I seem to have. Thomas Jefferson
 
 I have often thought that nothing would do more extensive good at small expense than the establishment of a small circulating library in every county, to consist of a few well-chosen books, to be lent to the people of the country under regulations as would secure their safe return in due time. Thomas Jefferson
 
