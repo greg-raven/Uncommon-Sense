@@ -1297,37 +1297,3 @@ We've been asleep for about 50 years. Ever since the end of World War II we just
 
 
 After having thus successively taken each member of the community in its powerful grasp and fashioned him at will, the supreme power then extends its arm over the whole community. It covers the surface of society with a network of small complicated rules, minute and uniform, through which the most original minds and the most energetic characters cannot penetrate, to rise above the crowd. The will of man is not shattered, but softened, bent, and guided; men are seldom forced by it to act, but they are constantly restrained from acting. Such a power does not destroy, but it prevents existence; it does not tyrannize, but it compresses, enervates, extinguishes, and stupefies a people, till each nation is reduced to nothing better than a flock of timid and industrious animals, of which the government is the shepherd. Alexis de Tocqueville
-
-
-
-By the experience of commercial nations in all ages it has been found that gold and silver afford the only safe foundation for a monetary system. Confusion has recently been created by variations in the relative value of the two metals, but I confidently believe that arrangements can be made between the leading commercial nations which will secure the general use of both metals. Congress should provide that the compulsory coinage of silver now required by law may not disturb our monetary system by driving either metal out of circulation. If possible, such an adjustment should be made that the purchasing power of every coined dollar will be exactly equal to its debt-paying power in all the markets of the world. James A. Garfield
-
-
-
-The value of paper money is precisely the value of a politician's promise, as high or low as you put that; the value of gold is protected by the inability of politicians to manufacture it. William Rees-Mogg
-
-
-It is said, mostly by Libertarians, that "taxation is theft." Theft is too mild a word. Typically, a thief strikes only once, and doesn’t pretend that his robbery is legitimate. Taxation is actually slavery. Rick Tompkins
-
-
-
-Anyone who says that economic security is a human right, has been too much babied. While he babbles, other men are risking and losing their lives to protect him. They are fighting the sea, fighting the land, fighting disease and insects and weather and space and time, for him, while he chatters that all men have a right to security and that some pagan god --- Society, The State, The Government, The Commune --- must give it to them. Let the fighting men stop fighting this inhuman earth for one hour, and he will learn how much security there is. Rose Wilder Lane
-
-
-
-Among other grand achievements, F. A. Hayek had a remarkable career pointing out the flaws in collectivism. One of his keenest insights was that, paradoxically, any collectivist system necessarily depends on one individual (or small group) to make key social and economic decisions. In contrast, a system based on individualism takes advantage of the aggregate, or "collective," information of the whole society; through his actions each participant contributes his own particular, if incomplete, knowledge --- information that could never be tapped by the individual at the head of a collectivist state. Sheldon Richman
-
-
-
-
-
-
-
-
-
-The statist objective, always, is to make as many persons as possible, as dependent as possible, on a government as big as possible. Robert W. Lee
-
-Do not blame Caesar, blame the people of Rome who have so enthusiastically acclaimed and adored him and rejoiced in their loss of freedom and danced in his path and given him triumphal processions. Blame the people who hail him when he speaks in the Forum of the new wonderful good society which shall now be Rome's, interpreted to mean more money, more ease, more security, and more living fatly at the expense of the industrious. Millard Fillmore Caldwell
-
-
-The task of weaning various people and groups from the national nipple will not be easy. The sound of whines, bawls, screams and invective will fill the air as the agony of withdrawal pangs finds voice. Linda Bowles
