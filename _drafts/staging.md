@@ -1183,3 +1183,151 @@ I have sworn upon the altar of God eternal hostility against every form of tyran
 Question with boldness even the existence of a God; because, if there be one, he must more approve of the homage of reason, than that of blind-folded fear ... Do not be frightened from this inquiry from any fear of its consequences. If it ends in the belief that there is no God, you will find incitements to virtue in the comfort and pleasantness you feel in its exercise ... Thomas Jefferson
 
 The error seems not sufficiently eradicated, that the operations of the mind, as well as the acts of the body, are subject to the coercion of the laws. But our rulers can have authority over such natural rights only as we have submitted to them. The rights of conscience we never submitted, we could not submit. We are answerable for them to our God. The legitimate powers of government extend to such acts only as are injurious to others ... Was the government to prescribe to us our medicine and diet, our bodies would be in such keeping as our souls are now. Thus in France the emetic was once forbidden as a medicine, and the potatoe as an article of food. Thomas Jefferson
+
+When the same man, or set of men, holds the sword and the purse, there is an end of liberty. George Mason
+
+
+
+We recognize the force of the argument that the effects of war under modern conditions may be felt in the economy for years and years, and that if the war power can be used in days of peace to treat all the wounds which war inflicts on our society, it may not only swallow up all other powers of Congress but largely obliterate the Ninth and the Tenth Amendments as well. William O. Douglas
+
+
+
+The blame for \[the national debt\] lies with the Congress and the President, with Democrats and Republicans alike, most all of whom have been unwilling to make the hard choices or to explain to the American people that there is no such thing as a free lunch. Warren Rudman
+
+
+An economy cannot long remain prosperous by government's taxing and spending more, now absorbing national output at a rate equal to the entire income of every American living west of the Mississippi. If this trend continues, America will gradually sink into the status of a Third World nation --- more unemployment, more shackles on production, more poverty. John Hospers
+
+
+
+As a rule, panics do not destroy capital; they merely reveal the extent to which it has been destroyed by its betrayal into hopelessly unproductive works. John Mills
+
+
+
+With the monetary system we have now, the careful saving of a lifetime can be wiped out in an eyeblink. Larry Parks
+
+
+
+Today government touches everything in America and harms almost everything it touches. Federal, state, and local governments together spend 42 out of every 100 dollars we earn. Those who do the taxing and spending have long since ceased to work for the people as a whole. Rather, they work for themselves and for their clients—the education industry, the welfare culture, public-employee unions, etc. Malcolm Wallop
+
+
+
+If you put the federal government in charge of the Sahara Desert, in 5 years there'd be a shortage of sand. Milton Friedman
+
+
+I am for a government rigorously frugal and simple. Were we directed from Washington when to sow, when to reap, we should soon want bread. Thomas Jefferson
+
+
+He that goes a borrowing goes a sorrowing. Benjamin Franklin
+
+
+No one spends someone else's money as carefully as he spends his own. Mark Skousen
+
+
+
+A depression is a large-scale decline in production and trade ... there is nothing in the nature of a free-market economy to cause such an event. Nathaniel Branden
+
+
+
+Why be thrifty when your old age and health care are provided for, no matter how profligate you act in your youth? Why be prudent when the state insures your bank deposits, replaces your flooded-out house, buys all the wheat you can grow? ... Why be diligent when half of your earnings are taken from you and given to the idle? David Frum
+
+
+Welfarism and excessive spending and deficits and socialism divide us, because everybody has to go to Washington. Those who have the biggest clout, those who are the best lobbyists, those who go and they grab. And whether it's the medical industrial complex, or the banking industry, or the military industrial complex, that's who ends up controlling our government ... For so long, conservatives and constitutionalists have lost the argument, they lost the moral high ground. Because those who want to give things away, not talking about where they steal it from, but they want to give things and take care of people, they get the moral high ground and they come by as being compassionate. And we who believe in liberty, we lack compassion. But the truth is, there's only one compassionate system known to man, and that is freedom and personal responsibility, then there's enough wealth, and then we will all have personal responsibility to use this compassion that we have, first to take care of our families and friends and neighbors, and there would be so much wealth that we could spread this wealth around the world. Ron Paul
+
+
+The best way to put more money in people's wallets is to leave it there in the first place. Edwin Feulner
+
+
+
+Spending by government currently amounts to about 45 percent of national income. By that test, government owns 45 percent of the means of production that produce the national income. The U.S. is now 45 percent socialist. Milton Friedman
+
+
+In 1983 $21 billion was spent in agricultural subsidies --- almost equal to the net income of all American farmers. Patrick Detches
+
+
+It would take little more than $50 billion to raise every poor person above the official poverty line, yet the percentage of the population classified as poor hardly budges, while annual welfare spending amounts to four times that much. Where's the money going? Robert Higgs
+
+
+The heart of the wise inclines to the right, but the heart of the fool to the left. Ecclesiastes
+
+
+Without the confidence factor, many believe a paper money system is liable to collapse eventually. Federal Reserve Bank of Philadelphia
+
+
+The banks --- commercial banks and the Federal Reserve --- create all the money of this nation and its people pay interest on every dollar of that newly created money. Which means that private banks exercise unconstitutionally, immorally, and ridiculously the power to tax the people. For every newly created dollar dilutes to some extent the value of every other dollar already in circulation. Jerry Voorhis
+
+
+
+Inflation is a quiet but effective way for the government to transfer resources from the people to itself, without raising taxes. A hundred-dollar bill would buy less in 1998 than a $20 bill would buy in the 1960s. This means that anyone who kept his money in a safe over those years would have lost 80 percent of its value, because no safe can keep your money safe from politicians who control the printing presses. Thomas Sowell
+
+
+Joe Biden is spiritually, mentally, physically, and socially retarded. Ted Nugent
+
+
+Immigration is a privilege, not a right, and the safety of our citizens must come first, without question. Donald J. Trump
+
+
+
+I hope we never find life on another planet because if we do there's no doubt that the United States will start sending them money! Donald J. Trump
+
+
+
+Hundreds of thousands of rouble notes are being issued daily by our treasury. This is done, not in order to fill the coffers of the State with practically worthless paper, but with the deliberate intention of destroying the value of money as a means of payment. ... Experience has taught us it is impossible to root out the evils of capitalism merely by conﬁscation and expropriation… The simplest way to exterminate the very spirit of capitalism is therefore to ﬂood the country with notes of a high face-value without financial guarantees of any sort. ... \[T\]he great illusion of the value and power of money, on which the capitalist state is based will have been definitely destroyed. Vladimir Ilyich Lenin
+
+
+
+The Latin American drug cartels have stretched their tentacles much deeper into our lives than most people believe. It's possible they are calling the shots at all levels of government. William Colby
+
+
+All governments suffer a recurring problem: Power attracts pathological personalities. It is not that power corrupts but that it is magnetic to the corruptible. Frank Herbert
+
+
+https://youtu.be/ah9XkA9zxpM?si=HybxYK12idXMx-JG
+
+https://www.youtube.com/watch?v=wbsfpeMELGE&list=WL&index=13&pp=gAQBiAQB
+
+https://youtu.be/pxyvJzeO7mI?si=W-TjDA3pDiq_D4SQ
+
+
+Fascist intellectuals, such as Ugo Spirito, made the round of conferences preaching the virtues of post-capitalism fascism and in fact tried to nudge the structure in a "leftist" direction by calling for more collective control and even corporative ownership of the economy. Mussolini looked abroad to find that Franklin Roosevelt was merely seeking to emulate Italy's innovations. Charles S. Maier
+
+
+
+We've been asleep for about 50 years. Ever since the end of World War II we just steadily handed our future and our bank accounts and now our children, handed them all over to the federal government ... Michael Moriarty
+
+
+
+After having thus successively taken each member of the community in its powerful grasp and fashioned him at will, the supreme power then extends its arm over the whole community. It covers the surface of society with a network of small complicated rules, minute and uniform, through which the most original minds and the most energetic characters cannot penetrate, to rise above the crowd. The will of man is not shattered, but softened, bent, and guided; men are seldom forced by it to act, but they are constantly restrained from acting. Such a power does not destroy, but it prevents existence; it does not tyrannize, but it compresses, enervates, extinguishes, and stupefies a people, till each nation is reduced to nothing better than a flock of timid and industrious animals, of which the government is the shepherd. Alexis de Tocqueville
+
+
+
+By the experience of commercial nations in all ages it has been found that gold and silver afford the only safe foundation for a monetary system. Confusion has recently been created by variations in the relative value of the two metals, but I confidently believe that arrangements can be made between the leading commercial nations which will secure the general use of both metals. Congress should provide that the compulsory coinage of silver now required by law may not disturb our monetary system by driving either metal out of circulation. If possible, such an adjustment should be made that the purchasing power of every coined dollar will be exactly equal to its debt-paying power in all the markets of the world. James A. Garfield
+
+
+
+The value of paper money is precisely the value of a politician's promise, as high or low as you put that; the value of gold is protected by the inability of politicians to manufacture it. William Rees-Mogg
+
+
+It is said, mostly by Libertarians, that "taxation is theft." Theft is too mild a word. Typically, a thief strikes only once, and doesn’t pretend that his robbery is legitimate. Taxation is actually slavery. Rick Tompkins
+
+
+
+Anyone who says that economic security is a human right, has been too much babied. While he babbles, other men are risking and losing their lives to protect him. They are fighting the sea, fighting the land, fighting disease and insects and weather and space and time, for him, while he chatters that all men have a right to security and that some pagan god --- Society, The State, The Government, The Commune --- must give it to them. Let the fighting men stop fighting this inhuman earth for one hour, and he will learn how much security there is. Rose Wilder Lane
+
+
+
+Among other grand achievements, F. A. Hayek had a remarkable career pointing out the flaws in collectivism. One of his keenest insights was that, paradoxically, any collectivist system necessarily depends on one individual (or small group) to make key social and economic decisions. In contrast, a system based on individualism takes advantage of the aggregate, or "collective," information of the whole society; through his actions each participant contributes his own particular, if incomplete, knowledge --- information that could never be tapped by the individual at the head of a collectivist state. Sheldon Richman
+
+
+
+
+
+
+
+
+
+The statist objective, always, is to make as many persons as possible, as dependent as possible, on a government as big as possible. Robert W. Lee
+
+Do not blame Caesar, blame the people of Rome who have so enthusiastically acclaimed and adored him and rejoiced in their loss of freedom and danced in his path and given him triumphal processions. Blame the people who hail him when he speaks in the Forum of the new wonderful good society which shall now be Rome's, interpreted to mean more money, more ease, more security, and more living fatly at the expense of the industrious. Millard Fillmore Caldwell
+
+
+The task of weaning various people and groups from the national nipple will not be easy. The sound of whines, bawls, screams and invective will fill the air as the agony of withdrawal pangs finds voice. Linda Bowles
