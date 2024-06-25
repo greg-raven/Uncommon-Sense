@@ -2,7 +2,7 @@
 title: "Natural rights of the colonists"
 layout: post
 categories:
-- <#category#>
+- rights
 tags:
 - Samuel Adams
 ---

@@ -2,7 +2,8 @@
 title: "A near-perfect republic"
 layout: post
 categories:
-- <#category#>
+- liberty
+- morals
 tags:
 - Thomas Jefferson
 ---

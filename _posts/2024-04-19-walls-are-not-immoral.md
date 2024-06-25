@@ -2,7 +2,8 @@
 title: "Walls are not immoral"
 layout: post
 categories:
-- <#category#>
+- immigration
+- nationalism
 tags:
 - Donald J. Trump
 ---

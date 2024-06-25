@@ -2,7 +2,7 @@
 title: "Unconstitutional laws"
 layout: post
 categories:
-- <#category#>
+- laws
 tags:
 - American Jurisprudence, 2nd Edition
 ---

@@ -2,7 +2,7 @@
 title: "Supreme power enervates"
 layout: post
 categories:
-- <#category#>
+- corruption
 tags:
 - Alexis de Tocqueville
 ---

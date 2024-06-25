@@ -2,7 +2,7 @@
 title: "What is fair to illegals"
 layout: post
 categories:
-- <#category#>
+- immigration
 tags:
 - Donald J. Trump
 ---

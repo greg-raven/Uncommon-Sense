@@ -2,7 +2,7 @@
 title: "We have met the enemy"
 layout: post
 categories:
-- <#category#>
+- culture
 tags:
 - Walt Kelly
 ---

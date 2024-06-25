@@ -2,7 +2,7 @@
 title: "Teacher expectations"
 layout: post
 categories:
-- <#category#>
+- education
 tags:
 - Charlie Sykes
 ---

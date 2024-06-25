@@ -2,7 +2,7 @@
 title: "Prohibition vs. temperance"
 layout: post
 categories:
-- <#category#>
+- morals
 tags:
 - Abraham Lincoln
 ---

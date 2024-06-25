@@ -2,7 +2,9 @@
 title: "Positive laws are tyrannical"
 layout: post
 categories:
-- <#category#>
+- laws
+- liberty
+- property
 tags:
 - Mark Da Vee
 ---

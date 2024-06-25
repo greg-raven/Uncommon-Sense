@@ -2,7 +2,7 @@
 title: "Supporting evil"
 layout: post
 categories:
-- <#category#>
+- evil
 tags:
 - Dwight Longenecker
 ---

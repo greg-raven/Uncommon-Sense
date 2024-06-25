@@ -2,7 +2,8 @@
 title: "Violating the Constitution"
 layout: post
 categories:
-- <#category#>
+- Constitution
+- laws
 tags:
 - State v. Sutton
 ---

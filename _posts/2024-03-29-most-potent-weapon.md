@@ -2,7 +2,7 @@
 title: "Most potent weapon of oppression"
 layout: post
 categories:
-- <#category#>
+- external authority
 tags:
 - Steve Biko
 ---

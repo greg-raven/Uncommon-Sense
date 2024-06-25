@@ -2,7 +2,8 @@
 title: "Undermining the most important principles"
 layout: post
 categories:
-- <#category#>
+- liberty
+- socialism
 tags:
 - Lyle H. Rossiter Jr.
 ---

@@ -2,7 +2,7 @@
 title: "Schools can be damaging"
 layout: post
 categories:
-- <#category#>
+- education
 tags:
 - Seymour Papert
 ---

@@ -2,7 +2,7 @@
 title: "Same rules for all"
 layout: post
 categories:
-- <#category#>
+- equality
 tags:
 - Louis D. Brandeis
 ---

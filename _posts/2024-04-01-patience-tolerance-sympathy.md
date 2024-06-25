@@ -2,7 +2,8 @@
 title: "No patience, no tolerance, no sympathy"
 layout: post
 categories:
-- <#category#>
+- corruption
+- waste
 tags:
 - Donald J. Trump
 ---

@@ -2,7 +2,7 @@
 title: "Rights are not given"
 layout: post
 categories:
-- <#category#>
+- rights
 tags:
 - Ramsey Clark
 ---

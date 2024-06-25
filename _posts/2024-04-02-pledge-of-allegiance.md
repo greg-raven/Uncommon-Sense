@@ -2,7 +2,7 @@
 title: "Pledge of allegiance"
 layout: post
 categories:
-- <#category#>
+- patriotism
 tags:
 - 4 U.S.C. §4
 ---

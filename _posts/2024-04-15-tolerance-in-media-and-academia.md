@@ -2,7 +2,7 @@
 title: "'Tolerance' in the media and academia"
 layout: post
 categories:
-- <#category#>
+- intolerance
 tags:
 - Thomas Sowell
 ---

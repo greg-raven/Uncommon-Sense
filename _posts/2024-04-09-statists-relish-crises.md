@@ -2,7 +2,7 @@
 title: "Statists relish 'crises'"
 layout: post
 categories:
-- <#category#>
+- demagogues
 tags:
 - William P. Hoar
 ---

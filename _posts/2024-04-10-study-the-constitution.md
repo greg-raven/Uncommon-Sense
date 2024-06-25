@@ -2,7 +2,7 @@
 title: "Study the Constitution"
 layout: post
 categories:
-- <#category#>
+- Constitution
 tags:
 - Robert Bork
 ---

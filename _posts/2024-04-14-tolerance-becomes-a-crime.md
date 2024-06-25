@@ -2,7 +2,7 @@
 title: "Tolerance becomes a crime"
 layout: post
 categories:
-- <#category#>
+- evil
 tags:
 - Thomas Mann
 ---

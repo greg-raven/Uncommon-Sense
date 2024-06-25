@@ -2,7 +2,7 @@
 title: "Protecting God-given rights"
 layout: post
 categories:
-- <#category#>
+- rights
 tags:
 - William J. Brennan
 ---
