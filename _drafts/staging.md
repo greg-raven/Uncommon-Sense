@@ -1,3 +1,8 @@
+https://www.youtube.com/watch?v=KZOtEbwwfOM
+
+Honey. what do you want to he when you grow up?
+A threat to the New World Order.
+
 Believe nothing merely because you have been told it. Do not believe what your teacher tells you merely out of respect for the teacher. But whatsoever, after due examination and analysis, you find to be kind, conducive to the good, the benefit, the welfare of all beings --- that doctrine believe and cling to, and take it as your guide. Buddha
 
 The whole secret of existence is to have no fear. Never fear what will become of you, depend on no one. Only the moment you reject all help are you freed. Buddha
@@ -33,8 +38,6 @@ There are two freedoms --- the false, where a man is free to do what he likes; t
 A reasonable action on the part of the majority is very rare, while the evidence of mob stupidity and brutality is overwhelming. The majority in power make laws for their own financial benefit, disregarding the interests of the minority, and when the weak minority, by adding to its numbers, becomes powerful, it, in turn, does the same thing; thus, by appealing to power to settle their conflicting interests, the conflict would go on forever. Charles T. Sprading
 
 The deterioration of every government begins with the decay of the principles on which it was founded. Charles-Louis de Secondat
-
-There is no crueler tyranny than that which is perpetrated under the shield of law and in the name of justice. Charles-Louis de Secondat
 
 What orators lack in depth they make up for in length. Charles-Louis de Secondat
 
@@ -189,8 +192,6 @@ Freedom is like taking a bath --- you have to keep doing it every day! Florynce 
 
 ... \[F\]or that nothing doth more hurt in a state, than that cunning men pass for wise. Francis Bacon
 
-I pledge allegiance to my Flag and to the Republic for which it stands; one Nation, indivisible, with Liberty and Justice for all. Francis Bellamy
-
 If the author of the Declaration of Independence were to utter such a sentiment today, the Post Office Department could exclude him from the mail, grand juries could indict him for sedition and criminal syndicalism, legislative committees could seize his private papers ... and United States Senators would be clamoring for his deportation that he ... should be sent back to live with the rest of the terrorists. Frank I. Cobb
 
 A sure sign of a genius is that all of the dunces are in a confederacy against him. Frank Lloyd Wright
@@ -257,7 +258,7 @@ Men sleep peacefully in their beds at night because rough men stand ready to do 
 
 To see what is in front of one's nose requires a constant struggle. George Orwell
 
-It is foolish and wrong to mourn the men who died. Rather we should thank God that such men lived. George S. Patton, Jr.
+It is foolish and wrong to mourn the men who died. Rather we should thank God that such men lived. George S. Patton Jr.
 
 Fanaticism consists in redoubling your effort when you have forgotten your aim. George Santayana
 
@@ -300,8 +301,6 @@ Every State is known by the rights it maintains. Harold J. Laski
 The one thing that doesn't abide by majority rule is a person's conscience. Harper Lee
 
 The problem is, of course, that not only is economics bankrupt but it has always been nothing more than politics in disguise ... economics is a form of brain damage. Hazel Henderson
-
-Any formal attack on ignorance is bound to fail because the masses are always ready to defend their most precious possession --- their ignorance. --- Hendrik van Loon
 
 Absolute liberty is absence of restraint; responsibility is restraint; therefore, the ideally free individual is responsible to himself. Henry Brooks Adams
 
@@ -358,8 +357,6 @@ We have stricken the shackles from 4,000,000 human beings and brought all labour
 
 The oppression of any people for opinion's sake has rarely had any other effect than to fix those opinions deeper, and render them more important. Hosea Ballou
 
-Freedom to publish means freedom for all and not for some. Freedom to publish is guaranteed by the constitution but freedom to continue to prevent others from publishing is not. Hugo L. Black
-
 The Press was protected so that it could bare the secrets of the government and inform the people. Only a free and unrestrained press can effectively expose deception in government. And paramount among the responsibilities of a free press is the duty to prevent any part of the government from deceiving the people. Hugo L. Black
 
 Ever since Croesus, the first millionaire, invented gold coins, money has depreciated. And the face of the coin has been debased as fast as its value. First the faces of gods were on the coins. Then the faces of kings. Then of presidents. Now there's no face at all. Today it's only paper, with a picture of a public building and the signature of a cashier. Muck! The miracle is that you can still buy things with it. Ian Fleming
@@ -392,7 +389,7 @@ The chief duty of the National Government in connection with the currency of the
 
 The chief duty of the National Government in connection with the currency of the country is to coin money and declare its value. Grave doubts have been entertained whether Congress is authorized by the Constitution to make any form of paper money legal tender. The present issue of United States notes has been sustained by the necessities of war; but such paper should depend for its value and currency upon its convenience in use and its prompt redemption in coin at the will of the holder, and not upon its compulsory circulation. These notes are not money, but promises to pay money. If the holders demand it, the promise should be kept. James A. Garfield
 
-America is in trouble ... not from without, but from within! The Central Government has become too powerful. Citizens fear the Government. This is wrong. This is dangerous! I know the Government covered-up and promulgated LIES about Waco, Ruby Ridge, Pan Am Flight 103, Hoffa, and J.F.K. The Government knew I was right when I called Janet Reno a traitor. Janet Reno sold us out when she refused to investigate a $10-million payoff to the Democratic Party from a general in the Red Chinese Army (no less!). Think about it! And the Government knew that I had known why Reno was forced to betray America! I'm proud that I tried to do something about it! Someday the truth will come out. (I hope China never attacks us!) James A. Traficant, Jr.
+America is in trouble ... not from without, but from within! The Central Government has become too powerful. Citizens fear the Government. This is wrong. This is dangerous! I know the Government covered-up and promulgated LIES about Waco, Ruby Ridge, Pan Am Flight 103, Hoffa, and J.F.K. The Government knew I was right when I called Janet Reno a traitor. Janet Reno sold us out when she refused to investigate a $10-million payoff to the Democratic Party from a general in the Red Chinese Army (no less!). Think about it! And the Government knew that I had known why Reno was forced to betray America! I'm proud that I tried to do something about it! Someday the truth will come out. (I hope China never attacks us!) James A. Traficant Jr.
 
 Assault weapons laws resemble hate speech laws. Hate speech laws usually begin by targeting a few words that almost no one approves. Once the system for controlling and punishing "hate speech" is put into place, there is little or nothing to stop it from expanding to punish more and more types of everyday speech. Similarly, once an assault weapons law is on the books, there is little to prevent politicians from vastly increasing the number of weapons banned under the law. The main effect of banning assault weapons is to give government an excuse to arrest and imprison millions of Americans while doing little or nothing to reduce crime. America has a limited number of police, and politicians must decide who the real public enemies are. If Mr. Clinton signs an assault weapons ban, it could signal the start of an attack on gun owners' constitutional rights that could far surpass all previous gun bans. James Bovard
 
@@ -482,7 +479,7 @@ The Revolution was effected before the War commenced. The Revolution was in the 
 
 There is danger from all men. The only maxim of a free government ought to be to trust no man living with power to endanger the public liberty. John Adams
 
-Let us revise our views and work from the premise that all laws should be for the welfare of society as a whole and not directed at the punishment of sins. John Biggs, Jr.
+Let us revise our views and work from the premise that all laws should be for the welfare of society as a whole and not directed at the punishment of sins. John Biggs Jr.
 
 Stripped of all its covering, the naked question is, whether ours is a federal or consolidated government; a constitutional or absolute one; a government resting solidly on the basis of the sovereignty of the States, or on the unrestrained will of a majority; a form of government, as in all other unlimited ones, in which injustice, violence, and force must ultimately prevail. John C. Calhoun
 
@@ -567,8 +564,6 @@ The True Gentleman is the man whose conduct proceeds from good will and an acute
 
 Do all the good you can. By all the means you can. In all the ways you can. In all the places you can. At all the times you can. To all the people you can. As long as ever you can. John Wesley
 
-The test for whether one is living in a police state is that those who are charged with enforcing the law are allowed to break the laws with impunity. Jon Roland
-
 To say that subjects in general are not proper judges (of the law) when their governors oppress them and play the tyrant, and when they defend their rights ... is as great a treason as ever a man uttered. Tis treason not against one single man, but against the state --- against the whole body politic; tis treason against mankind; tis treason against Common sense; tis treason against God; And this impious principle lays the foundation for justifying all the tyranny and oppression that ever any prince was guilty of. The people know for what end they set up and maintain their governors, and they are the proper judges when governors execute their trust as they ought to do it. Jonathan Mayhew
 
 It is a maxim among lawyers that whatever hath been done before may be done again, and therefore they take special care to record all the decisions formerly made against common justice and the general reason of mankind. These, under the name of precedents, they produce as authorities to justify the most iniquitous opinions, and the judges never fail of directing them accordingly. Jonathan Swift
@@ -603,9 +598,9 @@ Liberty is not a cruise ship full of pampered passengers. Liberty is a man-of-wa
 
 Absolute, arbitrary power over the lives, liberty and property of freemen exists nowhere in a republic, not even in the largest majority. Kentucky Declaration of Rights
 
-Do not be merciful, but be just, for mercy is bestowed upon the guilty criminal, while Justice is all that the innocent man requires. Khalil Gibran
+Do not be merciful, but be just, for mercy is bestowed upon the guilty criminal, while justice is all that the innocent man requires. Khalil Gibran
 
-The purpose of the Bill of Rights was to limit what the federal government could do. Any interpretation of a provision of the Bill of Rights as a grant of federal power is ipso facto wrong. L. A. Powe, Jr.
+The purpose of the Bill of Rights was to limit what the federal government could do. Any interpretation of a provision of the Bill of Rights as a grant of federal power is ipso facto wrong. L. A. Powe Jr.
 
 Politicians need human misery. ... Government's a disease masquerading as its own cure. L. Neil Smith
 
@@ -655,8 +650,6 @@ At the foundation of our civil liberties lies the principle that denies to gover
 At the foundation of our civil liberties lies the principle that denies to government officials an exceptional position before the law and which subjects them to the same rules of conduct that are commands to the citizen. Louis D. Brandeis
 
 Experience should teach us to be most on our guard to protect liberty when the Government's purposes are beneficent. Men born to freedom are naturally alert to repel invasion of their liberty by evil-minded rulers. The greatest dangers to liberty lurk in insidious encroachment by men of zeal, well-meaning but without understanding. Louis D. Brandeis
-
-The government is the potent omnipresent teacher. For good or ill it teaches the whole people by its example. Crime is contagious. If the government becomes a lawbreaker, it breeds contempt for law; it invites every man to become a law unto himself; it invites anarchy. To declare that the end justifies the means --- to declare that the government may commit crimes --- would bring terrible retribution. Louis D. Brandeis
 
 The makers of our constitution undertook to secure conditions favorable to the pursuit of happiness ... They sought to protect Americans in their beliefs, their thoughts, their emotions and their sensations. They conferred, as against the government, the right to be let alone --- the most comprehensive of the rights and the right most valued by civilized men. Louis D. Brandeis
 
@@ -745,17 +738,15 @@ Nothing so needs reforming as other people's habits. Mark Twain
 
 The mania for giving the Government power to meddle with the private affairs of cities or citizens is likely to cause endless trouble, through the rivaly of schools and creeds that are anxious to obtain official recognition, and there is great danger that our people will lose our independence of thought and action which is the cause of much of our greatness, and sink into the helplessness of the Frenchman or German who expects his government to feed him when hungry, clothe him when naked, to prescribe when his child may be born and when he may die, and, in time, to regulate every act of humanity from the cradle to the tomb, including the manner in which he may seek future admission to paradise. Mark Twain
 
-There is no distinctly native American criminal class save Congress. Mark Twain
-
 Twenty years from now you will be more disappointed by the things you didn't do than by the ones you did. So throw off the bowlines, Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Mark Twain
 
 The public is hedged about by so many goddam bookkeepers that no time is left in which to produce. More time is spent in carrying out garbage than in carrying in food. Martin H. Fischer
 
-It is precisely because education is the road to equality and citizenship, that it has been made more elusive for Negroes than many other rights. The walling off of Negroes from equal education is part of the historical design to submerge him in second class status. Therefore, as Negroes have struggled to be free they have had to fight for the opportunity for a decent education. Martin Luther King, Jr.
+It is precisely because education is the road to equality and citizenship, that it has been made more elusive for Negroes than many other rights. The walling off of Negroes from equal education is part of the historical design to submerge him in second class status. Therefore, as Negroes have struggled to be free they have had to fight for the opportunity for a decent education. Martin Luther King Jr.
 
-The group consisting of mother, father and child is the main educational agency of mankind. Martin Luther King, Jr.
+The group consisting of mother, father and child is the main educational agency of mankind. Martin Luther King Jr.
 
-The Negro has no room to make any substantial compromises because his store of advantages is too small. He must press unrelentingly for quality, integrated education or his whole drive for freedom will be undermined by the absence of a most vital and indispensable element --- learning. Martin Luther King, Jr.
+The Negro has no room to make any substantial compromises because his store of advantages is too small. He must press unrelentingly for quality, integrated education or his whole drive for freedom will be undermined by the absence of a most vital and indispensable element --- learning. Martin Luther King Jr.
 
 Ask the first man you meet what he means by defending freedom, and he'll tell you privately he means defending the standard of living. Martin Niemoeller
 
@@ -826,11 +817,11 @@ I have always believed that government had a limited capacity to do good and a v
 
 The function of socialism is to raise suffering to a higher level. Norman Mailer
 
-If there is any principle of the Constitution that more imperatively calls for attachment than any other it is the principle of free thought --- not free thought for those who agree with us but freedom for the thought that we hate. Oliver Wendell Holmes, Jr.
+If there is any principle of the Constitution that more imperatively calls for attachment than any other it is the principle of free thought --- not free thought for those who agree with us but freedom for the thought that we hate. Oliver Wendell Holmes Jr.
 
-One of the eternal conflicts out of which life is made up is that between the effort of every man to get the most he can for his services, and that of society, disguised under the name of capital, to get his services for the least possible return. Oliver Wendell Holmes, Jr.
+One of the eternal conflicts out of which life is made up is that between the effort of every man to get the most he can for his services, and that of society, disguised under the name of capital, to get his services for the least possible return. Oliver Wendell Holmes Jr.
 
-The jury has the power to bring a verdict in the teeth of both law and fact. Oliver Wendell Holmes, Jr.
+The jury has the power to bring a verdict in the teeth of both law and fact. Oliver Wendell Holmes Jr.
 
 Liberty is often a heavy burden on a man. It involves the necessity for perpetual choice which is the kind of labor men have always dreaded. Oliver Wendell Holmes, Sr.
 
@@ -904,11 +895,11 @@ Three groups spend other people's money: children, thieves, politicians. All thr
 
 There are no mistakes. The events we bring upon ourselves, no matter how unpleasant, are necessary in order to learn what we need to learn; whatever steps we take, they're necessary to reach the places we've chosen to go. Richard Bach
 
-In a free society, standards of public morality can be measured only by whether physical coercion --- violence against persons or property --- occurs. There is no right not to be offended by words, actions or symbols. Richard E. Sincere, Jr.
+In a free society, standards of public morality can be measured only by whether physical coercion --- violence against persons or property --- occurs. There is no right not to be offended by words, actions or symbols. Richard E. Sincere Jr.
 
 I think that every true reformer, every real friend of liberty, will agree with me in saying that if we must erect safeguards, they should be rather for the security of the individual than of the mass, and that our chiefest care must be to train the majority to respect the rights of the minority, to prevent the claims of the few from being trampled under foot by the caprice or passion of the many. Richard John Cartwright
 
-In a free society, standards of public morality can be measured only by whether physical coercion --- violence against persons or property --- occurs. There is no right not to be offended by words, actions or symbols. Richard E. Sincere, Jr.
+In a free society, standards of public morality can be measured only by whether physical coercion --- violence against persons or property --- occurs. There is no right not to be offended by words, actions or symbols. Richard E. Sincere Jr.
 
 It doesn't matter how beautiful your theory is, it doesn't matter how smart you are. If it doesn't agree with experiment, it's wrong.' ― Richard Feynman
 
@@ -932,7 +923,7 @@ At the heart of western freedom and democracy is the belief that the individual 
 
 It is not the function of the government to keep the citizen from falling into error; it is the function of the citizen to keep the government from falling into error. Robert H. Jackson
 
-The very purpose of a Bill of Rights was to withdraw certain subjects from the vicissitudes of political controversy, to place them beyond the reach of majorities and officials and to establish them as legal principles to be applied by the courts. One's right to life, liberty, and property, to free speech, a free press, freedom of worship and assembly, and other fundamental rights may not be submitted to vote; they depend on the outcome of no elections. Justice Robert H. Jackson
+The very purpose of a Bill of Rights was to withdraw certain subjects from the vicissitudes of political controversy, to place them beyond the reach of majorities and officials and to establish them as legal principles to be applied by the courts. One's right to life, liberty, and property, to free speech, a free press, freedom of worship and assembly, and other fundamental rights may not be submitted to vote; they depend on the outcome of no elections. Robert H. Jackson
 
 Very commonly in ages when civil rights of one kind are in evidence --- those pertaining to freedom of speech and thought in, say, theater, press, and forum, with obscenity and libel laws correspondingly loosened --- very real constrictions of individual liberty take place in other, more vital areas: political organization, voluntary association, property, and the right to hold jobs, for example. Robert Nisbet
 
@@ -1132,7 +1123,7 @@ The only freedom worth possessing is that which gives enlargement to a people's 
 
 The spirit of liberty is not merely, as multitudes imagine, a jealousy of our own particular rights, but a respect for the rights of others, and an unwillingness that any man, whether high or low, should be wronged and trampled under foot. William Ellery Channing
 
-Marijuana is not much more difficult to obtain than beer. The reason for this is that a liquor store selling beer to a minor stands to lose its liquor license. Marijuana salesmen don't have expensive overheads, and so are not easily punished. William F. Buckley, Jr.
+Marijuana is not much more difficult to obtain than beer. The reason for this is that a liquor store selling beer to a minor stands to lose its liquor license. Marijuana salesmen don't have expensive overheads, and so are not easily punished. William F. Buckley Jr.
 
 We cannot choose freedom established on a hierarchy of degrees of freedom, on a caste system of equality like military rank. We must be free not because we claim freedom, but because we practice it. William Faulkner
 
@@ -1294,6 +1285,36 @@ Fascist intellectuals, such as Ugo Spirito, made the round of conferences preach
 
 We've been asleep for about 50 years. Ever since the end of World War II we just steadily handed our future and our bank accounts and now our children, handed them all over to the federal government ... Michael Moriarty
 
+No man's life, liberty or property are safe while the legislature is in session. Gideon J. Tucker
 
+The crucial distinction between systems ... was no longer ideological. The main political difference was between those who did, and those who did not, believe that the citizen could --- or should --- be the property of the state. Christopher Hitchens
 
-After having thus successively taken each member of the community in its powerful grasp and fashioned him at will, the supreme power then extends its arm over the whole community. It covers the surface of society with a network of small complicated rules, minute and uniform, through which the most original minds and the most energetic characters cannot penetrate, to rise above the crowd. The will of man is not shattered, but softened, bent, and guided; men are seldom forced by it to act, but they are constantly restrained from acting. Such a power does not destroy, but it prevents existence; it does not tyrannize, but it compresses, enervates, extinguishes, and stupefies a people, till each nation is reduced to nothing better than a flock of timid and industrious animals, of which the government is the shepherd. Alexis de Tocqueville
+Your understanding and consent are not required for someone to take your life, kill your loved ones, and destroy all you hold dear. William April
+
+\[A\] deep-rooted culture of incompetence and corruption has made it virtually impossible for government to function fairly and efficiently. And because most government employees are shielded by layers of protection, they couldn't care less. Never before in the history of this nation has there been a greater divide between a self-serving federal leviathan and millions of Americans ... 'Government is not the solution to our problem; government is the problem,' Ronald Reagan reminded us during his inaugural address in 1981. Nothing's changed since then, with one exception: It's gotten far worse. Arnold Ahlert
+
+The real reason to abolish departments like Energy and Education is not to promote efficiency, nor even to save taxpayers' money. It is that many agencies perform functions that are not Federal responsibility. The founders delegated to the Government only strictly defined authority in Article I, Section 8, of the Constitution. Search the entire Constitution, and you will find no authorization for Congress to subsidize the arts, finance and regulate education, or invest tax revenues in energy research. David Boaz
+
+Since the State necessarily lives by the compulsory confiscation of private capital, and since its expansion necessarily involves ever-greater incursions on private individuals and private enterprise, we must assert that the state is profoundly and inherently anti-capitalist. Murray N. Rothbard
+
+To own firearms is to affirm that freedom and liberty are not gifts from the state. It is to reserve final judgment about whether the state is encroaching on freedom and liberty, to stand ready to defend that freedom with more than mere words, and to stand outside the state's totalitarian reach. Jeffrey R. Snyder
+
+The state calls its own violence law, but that of the individual crime. Max Stirner
+
+In America it is the so-called capitalist who is to blame for the fulfillment of Marx's prophecies. Beguiled by the state's siren song of special privilege, the capitalists have abandoned capitalism. Frank Chodorov
+
+What, actually, is the difference between communism and fascism? Both are forms of statism, authoritarianism. The only difference between Stalin's communism and Mussolini's fascism is an insignificant detail in organizational structure. Leonard E. Read
+
+The Radical Centre seem to have the same obsession with control that the fascists and communists had, but unlike them, it is control for control's sake rather than in the service of some clear ideology ... They do not seek the triumph of Volk or the dictatorship of the proletariat, they just seek to replace all social interactions with politically mediated interactions. They seek to regulate everything via a total state that ... just wants a world in which nothing whatsoever is private, everything is political. Their symbol is not the Hammer and Sickle or the Swastika, it is the CCTV camera. Perry de Havilland
+
+We should ... be able to see that our interest would be best served not by asking the state to promulgate our values but by forbidding the state to promulgate any values at all. If the state can espouse some value that we love, it can, with equal justice, espouse others we do not love. Richard Mitchell
+
+When any government, or any church for that matter, undertakes to say to its subjects, "This you may not read, this you may not see, this you are forbidden to know," the end result is tyranny and oppression, no matter how holy the motives. Mighty little force is needed to control a man whose mind has been hoodwinked; contrariwise, no amount of force can control a free man, a man whose mind is free. No, not the rack, not fission bombs, not anything --- you can't conquer a free man; the most you can do is kill him. Robert A. Heinlein
+
+COLLECTIVISM: Collectivism is defined as the theory and practice that makes some sort of group rather than the individual the fundamental unit of political, social, and economic concern. In theory, collectivists insist that the claims of groups, associations, or the state must normally supersede the claims of individuals. Stephen Grabill
+
+It is hard to imagine a more stupid or more dangerous way of making decisions than by putting those decisions in the hands of people who pay no price for being wrong. Thomas Sowell
+
+In existing criminology there are concepts: a criminal man, a criminal profession, a criminal society, a criminal sect, and a criminal tribe, but there is no concept of a criminal state, or a criminal government, or criminal legislation. Consequently, the biggest crimes actually escape being called crimes. P. D. Ouspensky
+
+We only pass laws against people who obey the law. Drug dealers, bank robbers and rapists don’t care what we do because they willfully violate the law anyway. Rod Wright

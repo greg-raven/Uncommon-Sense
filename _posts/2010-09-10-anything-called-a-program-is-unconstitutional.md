@@ -436,8 +436,6 @@ The craziest part of the status quo regarding Israel is that American Christians
 
 The crude policy of forcing people on each other has had the effect (it shouldn't have been unexpected, but it was) of driving them apart.
 
-The difference between a politician and a pickpocket is that the pickpocket doesn't get indignant when you tell him to keep his hands to himself.
-
 The enforcement of intellectual conformity among the educated classes is a fascinating and neglected subject for two reasons: (1) it isn't supposed to happen, and (2) it happens all the time.
 
 The faith of the Enlightenment was that once man cast off the superstitions of religion, rational common sense and general harmony would prevail. "Reason" and "science" would improve on tradition and create a better world. That attitude may have been understandable after centuries of religious war. But some people still hold it after a century of wars that make the Reformation wars seem like the Era of Good Feeling.
