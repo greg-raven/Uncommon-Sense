@@ -16,6 +16,7 @@ url: "https://www.gregraven.website" # the base hostname & protocol for your sit
 plugins:
   - jekyll-archives
   - jekyll-feed
+  - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap
 
@@ -36,7 +37,7 @@ minima:
   # Minima date format.
   # Refer to https://shopify.github.io/liquid/filters/date/ if you want to customize this.
   #
-  # date_format: "%b %-d, %Y"
+  # date_format: "%B %-d, %Y"
 
   skin: auto
 
