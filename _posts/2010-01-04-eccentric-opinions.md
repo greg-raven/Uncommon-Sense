@@ -1,5 +1,5 @@
 ---
-title: "Eccentry opinions"
+title: "Eccentric opinions"
 layout: post
 categories:
 - individualism
