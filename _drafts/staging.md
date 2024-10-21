@@ -1317,4 +1317,154 @@ It is hard to imagine a more stupid or more dangerous way of making decisions th
 
 In existing criminology there are concepts: a criminal man, a criminal profession, a criminal society, a criminal sect, and a criminal tribe, but there is no concept of a criminal state, or a criminal government, or criminal legislation. Consequently, the biggest crimes actually escape being called crimes. P. D. Ouspensky
 
-We only pass laws against people who obey the law. Drug dealers, bank robbers and rapists don’t care what we do because they willfully violate the law anyway. Rod Wright
+We only pass laws against people who obey the law. Drug dealers, bank robbers and rapists don't care what we do because they willfully violate the law anyway. Rod Wright
+
+If someone enters your house, they are making that conscious decision. They are there to steal from you or hurt you in other ways. You have that right to protect yourself and use deadly force. Nate Bible
+
+The only purpose for which power can be righttully exercised over any member of a civilized community, against his will, is to prevent harm to others. John Stuart Mill
+
+---
+
+Progressivism isn't about uplifting those who have less. It's about bringing down those who have more
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Progressivism isn't about uplifting those who have less. It's about bringing down those who have more</p>&mdash; Son of Dr. Spengler (unintentional self-parody) (@spengjr) <a href="https://twitter.com/spengjr/status/1804094450462753250?ref_src=twsrc%5Etfw">June 21, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+---
+
+We don't have inflation because the people are living too well. We have inflation because the Government is living too well. Ronald Reagan
+
+If you're in your house, and somebody kicks your door in, they're not coming in to give you a hug or to give you cookies. They're coming in to commit felonies. Bob Johnson
+
+We should never forget the Constitution wasn't written to restrain citizen's behavior. It was written to restrain the government's behavior. Rand Paul
+
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Happy <a href="https://twitter.com/hashtag/ConstitutionDay?src=hash&amp;ref_src=twsrc%5Etfw">#ConstitutionDay</a>. We should never forget the Constitution wasn't written to restrain citizen's behavior it was written to restrain the government's behavior. Protecting the Constitution protects our liberties. <a href="https://t.co/6siuXgTxl5">pic.twitter.com/6siuXgTxl5</a></p>&mdash; Rand Paul (@RandPaul) <a href="https://twitter.com/RandPaul/status/1173953050798710784?ref_src=twsrc%5Etfw">September 17, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Our survival, the future of our civilization, possibly the existence of mankind, depends on American leadership. Charles Lindbergh
+
+People keep looking to government for the answer and government is the problem. Ronald Reagan
+
+If liberty is worth keeping and free representative government worth saving, we must stand for all American fundamentals --- not some, but all. All are woven into the great fabric of our national well-being. We cannot hold fast to some only, and abandon others that, for the moment, we find inconvenient. If one American fundamental is prostrated, others in the end will surely fall. Albert J. Beveridge
+
+Man will ultimately be governed by God or by tyrants. Benjamin Franklin
+
+If we abide by the principles taught in the Bible, our country will go on prospering. Daniel Webster
+
+Good government generally begins in the family, and if the moral character of a people once degenerate, their political character must soon follow. Elias Boudinot
+
+The Americans of 1776 were among the first men in modern society to defend rather than to seek an open society and constitutional liberty. ... Perhaps the most remarkable characteristic of this political theory sits in its deep-seated conservatism. However radical the principles of the Revolution may have seemed to the rest of the world, in the minds of the colonists they were thoroughly preservative and respectful of the past. Clinton Lawrence Rossiter III
+
+The people of the U.S. owe their Independence & their liberty, to the wisdom of descrying in the minute tax of 3 pence on tea, the magnitude of the evil comprised in the precedent. Let them exert the same wisdom, in watching against every evil lurking under plausible disguises, and growing up from small beginnings. James Madison
+
+America will never be destroyed from the outside. If we falter and lose our freedoms, it will be because we destroyed ourselves. Abraham Lincoln
+
+The United States shall guarantee to every State in this Union a Republican Form of Government. Constitution for the United States, Art. IV, 1789
+
+The conscious and intelligent manipulation of the organized habits and opinions of the masses is an important element in democratic society. Those who manipulate this unseen mechanism of society constitute an invisible government which is the true ruling power of our country. Edward Bernays
+
+Too many Americans have twisted the sensible right to pursue happiness into the delusion that we are entitled to a guarantee of happiness. If we don't get exactly what we want, we assume someone must be violating our rights. We're no longer willing to write off some of life's disappointments to simple bad luck. Susan Jacoby
+
+What we need to do in this country is make sure the majority of the American people really want their freedoms back again,  We have to have people once again believe in liberty, foreign policy that defends America, but is not the policeman of the world. We don't have the right nor the facilities to throw our weight around and tell the rest of the world how to live. Ron Paul
+
+If all that Americans want is security, they can go to prison. They'll have enough to eat, a bed and a roof over their heads. But if an American wants to preserve his dignity and his equality as a human being, he must not bow his neck to any dictatorial government Dwight D. Eisenhower
+
+An able, disinterested, public-spirited press, with trained intelligence to know the right and courage to do it, can preserve that public virtue without which popular government is a sham and a mockery. A cynical, mercenary, demagogic press will produce in time a people as base as itself. Joseph Pulitzer
+
+In the United States there is no phenomenon more threatening to popular government than the unwillingness of newspapers to give the facts to their readers. Nelson Antrim Crawford
+
+Liberty without virtue would be no blessing to us. Dr. Benjamin Rush
+
+In politics, nothing happens by accident. If it happened, you can bet it was planned that way. Franklin D. Roosevelt
+
+I believe that if the people of this nation fully understood what Congress has done to them over the last 49 years, they would move on Washington; they would not wait for an election... It adds up to a preconceived plan to destroy the economic and social independence of the United States! George W. Malone
+
+The lesson that Americans today have forgotten or never learned --- the lesson which our ancestors tried so hard to teach -- is that the greatest threat to our lives, liberty, property, and security is not some foreign government, as our rulers so often tell us. The greatest threat to our freedom and well-being lies with our own government!. Jacob G. Hornberger
+
+Whenever the legislators endeavour to take away, and destroy the property of the people, or to reduce them to slavery under arbitrary power, they put themselves into a state of war with the people, who are thereupon absolved from any farther obedience, and are left to the common refuge, which God hath provided for all men, against force and violence. Whensoever therefore the legislative shall transgress this fundamental rule of society; and either by ambition, fear, folly or corruption, endeavour to grasp themselves, or put into the hands of any other, an absolute power over the lives, liberties, and estates of the people; by this breach of trust they forfeit the power the people had put into their hands for quite contrary ends, and it devolves to the people, who have a right to resume their original liberty ... John Locke
+
+The enormous gap between what U.S. leaders do in the world and what Americans think their leaders are doing is one of the great propaganda accomplishments of the dominant political mythology. Michael Parenti
+
+Freedom has its life in the hearts, the actions, the spirit of men and so it must be daily earned and refreshed --- else like a flower cut from its life-giving roots, it will wither and die. Dwight D. Eisenhower
+
+I apprehend no danger to our country from a foreign foe ... Our destruction, should it come at all, will be from another quarter. --- From the inattention of the people to the concerns of their government, from their carelessness and negligence, I must confess that I do apprehend some danger. I fear that they may place too implicit a confidence in their public servants, and fail properly to scrutinize their conduct; that in this way they may be made the dupes of designing men, and become the instruments of their own undoing. Make them intelligent, and they will be vigilant; give them the means of detecting the wrong, and they will apply the remedy. Daniel Webster
+
+But you must remember, my fellow-citizens, that eternal vigilance by the people is the price of liberty, and that you must pay the price if you wish to secure the blessing. Andrew Jackson
+
+In the struggle between those seeking power there is no middle course. Cornelius Tacitus
+
+Communism works only in heaven, where they don't need it, and in hell, where they already have it. Ronald Reagan
+
+A wholesome regard for the memory of the great men of long ago is the best assurance to a people of a continuation of great men to come, who shall be able to instruct, to lead, and to inspire. A people who worship at the shrine of true greatness will themselves be truly great. Calvin Coolidge
+
+As nightfall does not come all at once, neither does oppression. In both instances, there is a twilight when everything remains seemingly unchanged. And it is in such twilight that we all must be most aware of change in the air --- however slight --- lest we become unwitting victims of the darkness. William O. Douglas
+
+I want to make one thing clear. This war against our constitution is not being fought way off in Madagascar or in Mandalay. It is being fought here --- in our schools, our colleges, our churches, our women's clubs. It is being fought with our money, channeled through the State Department. It is being fought twenty-four hours a day --- while we remain asleep. How many of you Senators know what the UN is doing to change the teaching of the children in your own home town? The UN is at work there, every day and night, changing the teachers, changing the teaching materials, changing the very words and tones --- changing all the essential ideas which we imagine our schools are teaching to our young folks. How in the name of Heaven are we to sit here, approve these programs, appropriate our own people's money --- for such outrageous "orientation" of our own children, and of the men and women who teach our children, in this Nation's schools? William Jenner
+
+How prone all human institutions have been to decay; how subject the best-formed and most wisely organized governments have been to lose their check and totally dissolve; how difficult it has been for mankind, in all ages and countries, to preserve their dearest rights and best privileges, impelled as it were by an irresistible fate of despotism. James Monroe
+
+It is a great importance to set a resolution, not to be shaken, never to tell an untruth. There is no vice so mean, so pitiful, so contemptible and he who permits himself to tell a lie once, finds it much easier to do it a second and third time, till at length it becomes habitual, he tells lies without attending to it, and truths without the world's believing him. This falsehood of the tongue leads to that of the heart, and in time depraves all it's good dispositions. Thomas Jefferson
+
+Let the Constitution be taught in schools, seminaries, and in colleges; let it be written in primers, in spelling books, and in almanacs; let it be preached from the pulpit, proclaimed in legislative halls, enforced in courts of justice. In short, let it become the political religion of the nation. Abraham Lincoln
+
+Debate, it seems to me, is one of the most useful of human inventions. It is the mother and father of all free inquiry and honest thought. It tests ideas, detects errors and promotes clear thinking. A man cannot stand up before it without exposing his whole intellectual stock of goods. H. L. Mencken
+
+The penalty good men pay for indifference to public affairs, is to be ruled by evil men. Plato
+
+The Constitution shall never be construed…to prevent the people of the United States who are peaceable citizens from keeping their own arms. Samuel Adams
+
+Arms like laws discourage and keep the invader and the plunderer in awe, and preserve order in the world as well as property. The same balance would be preserved were all the world destitute of arms, for all would be alike; but since some will not, others dare not lay them aside ... Horrid mischief would ensue were one half the world deprived of the use of them. Thomas Paine
+
+To preserve liberty, it is essential that the whole body of people always possess arms, and be taught alike, especially when young, how to use them. Richard Henry Lee
+
+The supreme power in America cannot enforce unjust laws by the sword; because the whole body of the people are armed, and constitute a force superior to any band of regular troops that can be, on any pretense, raised in the United States. Noah Webster
+
+What country can preserve its liberties if their rulers are not warned from time to time that their people preserve the spirit of resistance? Let them take arms. Thomas Jefferson
+
+The ideology underlying all forms of American resistance to British usurpations and infringements was explicitly premised on the right of self-defense of all inalienable rights. From the self-defense foundation was constructed a political theory in which the people were the masters and government the servant, so that the people have the right to remove a disobedient servant. The philosophy was not novel but was directly derived from political and legal philosophers such as John Locke, Hugo Grotius, and Edward Coke. David Kopel
+
+
+Your Weaselly Words Translator
+
+A Gun Grabber–to-English Dictionary
+
+Here's a handy phrasebook that translates the gun grabbers' favorite clichés into everyday, honest English.
+
+Assault rifle = Any rifle with features that look scary to a liberal.
+
+Common-sense gun law = Any law the gun grabbers want to pass to restrict or remove your constitutional right to bear arms.
+
+Conversation = "Let's have a conversation about guns" means, "Let's agree to do it my way."
+
+Compromise = "After we have a conversation over wine, we will reach a compromise where you agree to give up your gun rights."
+
+Family fire = What happens when people are too nutty or too stupid, or both, to have guns in the home.
+
+Firearm death rate = A misleading statistic that conflates homicides with suicides; the number is then "age adjusted" to make it totally useless. The goal is to make gun-friendly states, like Vermont and New Hampshire, appear more dangerous than pro-gun control states like New Jersey, which has high violent crime areas, such as Camden and Newark.
+
+Firearm suicide rate = A statistic used to distract people from the real cause of suicide and to blame the gun, even though many countries "with restrictive gun laws have higher suicide rates than the United States does.
+
+Gun-free zone = A kill zone; a place that tells criminals, terrorists, and psychopaths, "Come and get us." The areas where 97 percent of the mass shootings since 1950 have occurred.
+
+Gun lobby = The six million lawful gun owners who are the dues-paying members of the NRA.
+
+Gun safety = What the left used to call "gun control," which was itself a euphemism. The real goal in either case is gun prohibition.
+
+Gun-show loophole = A term used to obfuscate where illegal guns come from and how to stop them. The term really refers to the right to sell your own property without first getting the government's permission.
+
+Gun violence = A free-floating abstraction to justify restrictions on guns and gun rights, ignoring the criminals and terrorists responsible for most of the violence. Usually paired with totally misleading statistics that mix suicides by gunshot together with (much less frequent) violent acts involving guns.
+
+High-capacity magazines = Any magazine larger than what Michael Bloomberg or Governor Andrew Cuomo thinks you ought to have. Also, the standard magazine that police, game wardens, and th. Department of Homeland Security carry for personal defense—and they carry multiples of them.
+
+"I support the Second Amendment" = "I support your right to own a Revolutionary War musket but hate your right to keep and bear modern arms developed many decades ago. Besides, the Second Amendment applies only to the militia, like the National Guard."
+
+Red flag laws = Laws that allow an angry neighbor or an angry ex-spouse to have your guns seized without due process or remedy.
+
+Safe-storage laws = Laws that ensure that you can't access your guns if you need them in an emergency. A better name for these laws would be the Turning Your Firearm into a Hammer laws.
+
+Universal background checks = Laws prohibiting your right to sell your own property without first getting the government's permission.
+
+"Weapon of war = Any rifle that looks scary to a liberal, whether it has ever been used in a war or not.
+
+"We don't want to take away your guns" = "We want to take away your guns." Mark W. Smith, *First They Came for the Gun Owners: The Campaign to Disarm You and Take Your Freedoms*
+
+if you love the First Amendment, you'd better cherish the Second. Mark W. Smith
+
