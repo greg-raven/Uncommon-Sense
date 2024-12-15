@@ -15,6 +15,6 @@ Nearly the entire white population of America from 1600 to 1970 came from a geog
 
 Until Teddy Kennedy struck, America was never less than 99 percent white Western European and West African black. That's 'biracial,' not 'diverse.'
 
-\[...\]
+[...]
 
 Two centuries after the first Europeans settled America, the white population was 80 percent British and 98 percent Protestant. A century after that, the populace was still overwhelmingly English-speaking, British, and Protestant, but, for an exciting change, also included Germans and Scandinavians. The colorful immigrants at the turn of the nineteenth century were wildly different from the original settlers in the sense that they were white people from a different part of Western Europe.

@@ -7,4 +7,4 @@ tags:
 - Thomas Jefferson
 ---
 
-The most sacred of the duties of a government \[is\] to do equal and impartial justice to all citizens.
+The most sacred of the duties of a government [is] to do equal and impartial justice to all citizens.

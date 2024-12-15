@@ -7,4 +7,4 @@ tags:
 - Thomas E. Woods Jr.
 ---
 
-\[N\]othing is more guaranteed to attract government money than repeated failure.
+[N]othing is more guaranteed to attract government money than repeated failure.

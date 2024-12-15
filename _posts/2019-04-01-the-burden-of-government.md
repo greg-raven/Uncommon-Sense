@@ -7,4 +7,4 @@ tags:
 - Milton Friedman
 ---
 
-\[T\]he burden of government is not measured by how much it taxes, but by how much it spends.
+[T]he burden of government is not measured by how much it taxes, but by how much it spends.

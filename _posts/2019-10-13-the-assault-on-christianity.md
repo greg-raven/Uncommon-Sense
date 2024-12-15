@@ -9,7 +9,7 @@ tags:
 
 Today, I would like to share some thoughts with you about religious liberty in America. It's an important priority in this Administration and for this Department of Justice.
 
-\[...\]
+[...]
 
 From the Founding Era onward, there was strong consensus about the centrality of religious liberty in the United States.
 
@@ -253,8 +253,8 @@ We cannot have a moral renaissance unless we succeed in passing to the next gene
 
 The times are hostile to this. Public agencies --- including public schools --- are becoming secularized and increasingly are actively promoting moral relativism.
 
-\[...\]
+[...]
 
 We must be vigilant to resist efforts by the forces of secularization to drive religious viewpoints from the public square and to impinge upon the free exercise of our faith.
 
-\[...\]
+[...]

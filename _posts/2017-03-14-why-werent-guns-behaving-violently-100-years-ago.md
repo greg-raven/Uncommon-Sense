@@ -17,6 +17,6 @@ Those and other historical facts should force us to ask ourselves: Why --- at a 
 
 Customs, traditions, moral values and rules of etiquette, not just laws and government regulations, are what make for a civilized society, not restraints on inanimate objects. These behavioral norms --- transmitted by example, word of mouth and religious teachings --- represent a body of wisdom distilled through ages of experience, trial and error, and looking at what works. The benefit of having customs, traditions and moral values as a means of regulating behavior is that people behave themselves even if nobody's watching. In other words, it's morality that is society's first line of defense against uncivilized behavior.
 
-\[...\]
+[...]
 
 Read more at wnd.com/2013/10/why-werent-guns-behaving-violently-100-years-ago/

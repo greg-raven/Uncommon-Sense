@@ -7,4 +7,4 @@ tags:
 - Thomas Jefferson
 ---
 
-\[The People\] are the ultimate, guardians of their own liberty.
+[The People] are the ultimate, guardians of their own liberty.

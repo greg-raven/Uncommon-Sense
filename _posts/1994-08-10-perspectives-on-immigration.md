@@ -21,7 +21,7 @@ Most politicians agree that illegal immigration should end. My legislation would
 
 My legislation calls for a reduction of legal immigrants from the current level of about 1 million admissions a year to approximately 325,000. Even that more realistic level means 25,000 newcomers entering every month, looking for jobs, housing and education.
 
-\[...\]
+[...]
 
 Opponents of immigration reform cry racism or point toward our historic role as a nation of immigrants. Charges of racial bias are unfounded. Unlike anything proposed before, my Immigration Stabilization Act explicitly prohibits discrimination in refugee admissions.
 

@@ -44,7 +44,7 @@ The Clintons are criminals. This is well-documented, and the establishment that 
 
 People who are capable of such crimes against our nation are capable of anything.
 
-\[...\] But I take all of these slings and arrows for you. I take them for our movement so that we can have our country back. Our great civilization, here in America and across the civilized world, has come upon a moment of reckoning.
+[...] But I take all of these slings and arrows for you. I take them for our movement so that we can have our country back. Our great civilization, here in America and across the civilized world, has come upon a moment of reckoning.
 
 We've seen it in the United Kingdom, where they voted to liberate themselves from global government and global trade deals and global immigration deals that have destroyed their sovereignty.
 

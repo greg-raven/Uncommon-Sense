@@ -7,4 +7,4 @@ tags:
 - Larry Klayman
 ---
 
-The racist \[Barack Hussein\] Obama and his henchmen like Eric Holder have succeeded in creating what in effect is a huge racial divide and race war in the nation, pitting black against white and vice versa. This race war has manifested itself not just through gratuitous comments that favor blacks over whites, but in his deeds.
+The racist [Barack Hussein] Obama and his henchmen like Eric Holder have succeeded in creating what in effect is a huge racial divide and race war in the nation, pitting black against white and vice versa. This race war has manifested itself not just through gratuitous comments that favor blacks over whites, but in his deeds.

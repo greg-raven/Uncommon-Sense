@@ -42,7 +42,7 @@ If one person in America had starved over the last 20 years, you, reader, would 
 
 If we need women in our defense forces, we must not need much defense.
 
-In a few more days we will celebrate Xmas, the day we commemorate the birth of you-know-who ... It seems the modern consensus of enlightened people that his name should be used in polite society only when cursing ... \[P\]oliticians are often eager to associate themselves personally with you-know-who, even --- and especially --- when they rather flagrantly ignore his injunctions ... He was out of step then, and he is out of step now. He is eternally out of step, and eternally more powerful than those who keep in step. You know who I mean.
+In a few more days we will celebrate Xmas, the day we commemorate the birth of you-know-who ... It seems the modern consensus of enlightened people that his name should be used in polite society only when cursing ... [P]oliticians are often eager to associate themselves personally with you-know-who, even --- and especially --- when they rather flagrantly ignore his injunctions ... He was out of step then, and he is out of step now. He is eternally out of step, and eternally more powerful than those who keep in step. You know who I mean.
 
 In the current political vocabulary, "need" means wanting to get someone else's money. "Greed," which used to mean what "need" now means, has come to mean wanting to keep your own. "Compassion" means the politician's willingness to arrange the transfer.
 

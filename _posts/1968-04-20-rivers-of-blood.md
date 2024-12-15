@@ -91,4 +91,4 @@ That tragic and intractable phenomenon which we watch with horror on the other s
 
 Only resolute and urgent action will avert it even now. Whether there will be the public will to demand and obtain that action, I do not know. All I know is that to see, and not to speak, would be the great betrayal.
 
-\[Given to a Conservative Association meeting in Birmingham on April 20, 1968.\]
+[Given to a Conservative Association meeting in Birmingham on April 20, 1968.]
