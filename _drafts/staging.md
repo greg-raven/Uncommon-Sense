@@ -5,10 +5,6 @@ A threat to the New World Order.
 
 What makes it so plausible to assume that hypocrisy is the vice of vices is that integrity can indeed exist under the cover of all other vices except this one. Only crime and the criminal, it is true, confront us with the perplexity of radical evil; but only the hypocrite is really rotten to the core. Hannah Arendt
 
-If you believe it reprehensible to possess the means and will to use lethal force to repel a criminal assault, how can you call upon another to do so for you? Jeffrey R. Snyder
-
-The militia of these free commonwealths, entitled and accustomed to their arms, when compared with any possible army, must be tremendous and irresistible. Who are the militia? Are they not ourselves? Is it feared, then, that we shall turn our arms each man against his own bosom. Congress have no power to disarm the militia. Their swords, and every other terrible implement of the soldier, are the birth-right of an American ... the unlimited power of the sword is not in the hands of either the federal or state governments, but, where I trust in God it will ever remain, in the hands of the people. Tench Coxe
-
 Keep your eye on how much the Government is spending, because that is the true tax. Milton Friedman
 
 Governments need armies to protect them against their enslaved and oppressed subjects. Leo Nikolaevich Tolstoi
