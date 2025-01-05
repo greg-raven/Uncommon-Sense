@@ -3,6 +3,257 @@ https://www.youtube.com/watch?v=KZOtEbwwfOM
 Honey. what do you want to he when you grow up?
 A threat to the New World Order.
 
+I tolerate with utmost latitude the right of others to differ with me in opinion without imputing to them criminality. I know too well all the weaknesses and uncertainty of human reason to wonder at its different results. Thomas Jefferson
+
+There are more instances of the abridgment of the freedom of the people by gradual and silent encroachments of those in power than by violent and sudden usurpations. James Madison
+
+One of the great mistakes is to judge policies and programs by their intentions rather than their results. Milton Friedman
+
+There is no art which one government sooner learns of another than that of draining money from the pockets of the people. Adam Smith
+
+Through the rapid proliferation of laws reaching every corner of human existence, "the government is manufacturing more criminals now than ever before." The list of illegal activities includes more minutiae than one would think possible. Beer-makers are barred from listing alcohol content on bottles, and liquor distilleries cannot advertise on TV. Filling one's own prairie pothole can land a property owner in jail, as can protecting private property from unlawful intruders. Placing handbills in neighbors' mailboxes is strictly prohibited, and attempting to sell nectarines of an improper size is a federal offense. Companies are no longer allowed to give salaried professionals partial days off without pay, and in Texas it is a crime to call oneself an interior designer without the government's permission. It is perhaps easier to recount all that remains legal than all that is now prohibited. Jonathan H. Adler
+
+What makes it so plausible to assume that hypocrisy is the vice of vices is that integrity can indeed exist under the cover of all other vices except this one. Only crime and the criminal, it is true, confront us with the perplexity of radical evil; but only the hypocrite is really rotten to the core. Hannah Arendt
+
+If you believe it reprehensible to possess the means and will to use lethal force to repel a criminal assault, how can you call upon another to do so for you? Jeffrey R. Snyder
+
+The militia of these free commonwealths, entitled and accustomed to their arms, when compared with any possible army, must be tremendous and irresistible. Who are the militia? Are they not ourselves? Is it feared, then, that we shall turn our arms each man against his own bosom. Congress have no power to disarm the militia. Their swords, and every other terrible implement of the soldier, are the birth-right of an American ... the unlimited power of the sword is not in the hands of either the federal or state governments, but, where I trust in God it will ever remain, in the hands of the people. Tench Coxe
+
+Keep your eye on how much the Government is spending, because that is the true tax. Milton Friedman
+
+Governments need armies to protect them against their enslaved and oppressed subjects. Leo Nikolaevich Tolstoi
+
+When you disarm peaceful citizens, crime and violence explode. Jarret Wollstein
+
+[T]he police do not and cannot protect law-abiding citizens from criminal violence. ... This thought may not occur to wealthy people who can shelter themselves in low-crime enclaves and who care not at all about their less fortunate neighbors. But no one knows it better than the police, who scrupulously preserve their own right to carry firearms on and off duty (and often after they retire as well) even while some of them advocate disarming those whom the police cannot protect. Nelson Lund
+
+Those who have sought the most in gun control have sought the least in the punishment of criminals. Robert J. Kukla
+
+The issue of this campaign --- it *is* that word socialism. Some people like it. Younger people like it. Those of us like me, who grew up in a cold war and saw some aspects of it while visiting places like Vietnam, like I have, and seeing countries like Cuba, being there. I'm seeing what socialism's like. I don't like it. OK? It's not only not free. It doesn't freakin' work! Chris Matthews
+
+Left has come to represent increasing government control. The extreme leftist typically seeks total government. Working their way toward total government power are the Communists, socialists, fascists, and modern liberals who advocate government solutions for every real or imagined problem. John F. McManus
+
+If you depart from moral absolutes, you go into a bottomless pit. Communism and Naziism were catastrophic evils which both derived from moral relativism. Their differences were minor compared to their similarities. Paul Bede Johnson
+
+It is becoming increasingly apparent that many --- arguably most --- of the problems that plague our nation have been aggravated rather than alleviated by federal intervention. In one area after another, massive infusions of tax dollars have been squandered on false solutions which, when they fail to achieve their stated objectives, are cited to justify even more spending on other futile schemes that result in bigger government. Examples include programs and laws supposedly intended to reduce racial animosity which have instead heightened race-related tensions; welfare schemes that, rather than reducing poverty, have enticed millions of Americans to become dependent on Washington for their daily bread; federal funding (and control) of education, which has spawned a monumental education crisis; a "war" on drugs which has done little to curb drug traffic, but which has eroded many personal liberties; a health-care finance system that has deteriorated as government meddling and regulation have increased; and a masochistic immigration policy larded with false "solutions" that, while failing to stop the inflow of illegal aliens, have paved the way for further government intrusion into the lives of nearly all Americans. Robert W. Lee
+
+If an American is to amount to anything he must rely upon himself, and not upon the State; he must take pride in his own work, instead of sitting idle to envy the luck of others. He must face life with resolute courage, win victory if he can, and accept defeat if he must, without seeking to place on his fellow man a responsibility which is not theirs. Theodore Roosevelt
+
+We cannot expect the American People to jump from Capitalism to Communism, but we can assist their elected leaders in giving them small doses of Socialism, until they awaken one day to find that they have Communism. Nikita Khrushchev
+
+---
+
+In 1847, Marx and Engels proposed ten steps to convert the Western nations to Communist countries without firing a shot. Most of these ideas have been successfully implemented in our own country with little, if any, resistance! ...
+
+One of the ten steps called for "centralization of credit in the hands of the state, by means of a national bank with state capital and an exclusive monopoly" just like our own Federal Reserve! ...
+
+Another of the ten steps called for instituting "a heavy progressive or graduated income tax" just like our own federal income tax! ...
+
+Another step proposed by Marx and Engels was "abolition of all right of inheritance," which we come ever closer to as inheritance taxes increase. Taking wealth at gunpoint, if necessary that one person has created and given to another person is theft. Whether the wealth creator is alive or dead, the act and the impact are the same.
+
+Another step was "free education for all children in public schools." Although our country still has many private schools in addition to the public ones, the content of both is dictated by aggression-through-government, to teach aggression.
+
+Marx and Engels also recommended the "extension of factories and instruments of production owned by the state." In the past century, more and more services have become exclusive, subsidized government monopolies (e.g., garbage collection, water distribution, mass transit, etc.). As a result, we pay twice as much for lower quality service!
+
+Marx also called for the "centralization of the means of communications and transport in the hands of the state." Television and radio stations are licensed by the Federal Communications Commission. A station that does not pursue programming considered "in the public interest" is stopped at gunpoint, if necessary from further broadcast. ...
+
+Radio stations have an elite ownership as well. Those who benefit from aggression-through-government have little incentive to tell the public that licensing is a tool of the rich! ...
+
+Another of the ten steps calls for "confiscation of the property of all emigrants and rebels" ...
+
+[O]ur law enforcement agents can seize the wealth of anyone suspected of drug crimes without a trial! ...
+
+[T]he Internal Revenue Service (IRS) has also been seizing the assets of taxpayers without a trial if the IRS thinks they might have underpaid their taxes! The wealth we have created can be taken from us at gunpoint, if necessary without a formal accusation or a chance to defend ourselves! ...
+
+In addition, Marx and Engels called for "abolition of property in land and application of all rents of land to public purposes." In other words, land would not be privately owned. No homesteading would be permitted.
+
+Our federal and local governments have title to 42% of the land mass of the United States. Most of the remaining land is under government control as well. For example, today's homeowners can pay off their mortgages, but must still pay property taxes to the local government. If they stop payments, their property is taken from them. They are, in essence, renting their home from the local government. Mary J. Ruwart
+
+---
+
+The time has come to recognize the United Nations for the anti-American, anti-freedom organization that it has become. The time has come for us to cut off all financial help, withdraw as a member, and ask the United Nations to find headquarters location outside the United States that is more in keeping with the philosophy of the majority of voting members, someplace like Moscow or Peking. Barry Goldwater
+
+Revelations: Mark of the Beast needed to buy or sell. Revelation 13:16-17
+
+Revelations: Truth will be lies, and lies will be the truth
+
+Our lack of constant awareness has also permitted us to accept definitions of freedom that are not necessarily consistent with the actuality of being free. Because we have learned to confuse the word with the reality the word seeks to describe, our vocabulary has become riddled with distorted and contradictory meanings smuggled into the language. Butler D. Shaffer
+
+He is free who knows how to keep in his own hand the power to decide, at each step, the course of his life, and who lives in a society which does not block the exercise of that power. Salvador de Madariaga
+
+There is no 'slippery slope' toward loss of liberty, only a long staircase where each step down must first be tolerated by the American people and their leaders. Alan K. Simpson
+
+
+The end cannot justify the means for the simple and obvious reason that the means employed determine the nature of the ends produced. Aldous Huxley
+
+Arbitrary power has seldom ... been introduced in any country at once. It must be introduced by slow degrees, and as it were step by step. Lord Chesterfield
+
+Very few established institutions, governments and constitutions ... are ever destroyed by their enemies until they have been corrupted and weakened by their friends. Walter Lippmann
+
+We cannot allow comrade Kamala Harris and the communist left to do to America what they did to California. Donald J. Trump 9/13/2024
+
+The deterioration of every government begins with the decay of the principles on which it was founded. Charles de Montesquieu
+
+Do you wish to know when that day is coming? Watch money. Money is the barometer of a society's virtue. When you see that trading is done, not by consent, but by Compulsion --- when you see that in order to produce, you need to obtain permission from men who produce nothing --- when you see that money is flowing to those who deal, not in goods, but in favors --- when you see that men get richer by graft and by pull than by work, and your laws don't protect you against them, but protect them against you --- when you see corruption being rewarded and honesty becoming self-sacrifice --- you may know that your society is doomed. Money is so noble a medium that it does not compete with guns and it does not make terms with brutality. It will not permit a country to survive as half-property, half-loot. Ayn Rand
+
+Where there is no law there is no Liberty. Benjamin Rush
+
+There is no such thing as gun control. There is only centralizing gun ownership in the hands of a small political elite and their minions. Stefan Molyneux
+
+A government that is big enough to give you all you want is big enough to take it all away. Barry Goldwater
+
+Washington, of course, aside from being one of the most mismanaged, crime-ridden cities on the planet, is a place where 535 federal legislators and about 38,000 lobbyists work at confiscating and redistributing the incomes of the American people. Charley Reese
+
+Practice does not make perfect. Only perfect practice makes perfect. Vince Lombardi
+
+Democracy in itself does not define or guarantee a free society. History has told many stories of democratic societies that have degenerated into corruption, plunder, and tyranny. Richard M. Ebeling
+
+Institutions purely democratic must, sooner, or later, destroy liberty or civilization or both. Thomas Babington Macaulay
+
+There is a certain class of race-problem solvers who do not want the patient to get well, because as long as the disease holds out they have not only an easy means of making a living, but also an easy medium through which to make themselves prominent before the public. Booker T. Washington
+
+It has been said that the greatest threat to our liberty is from well-meaning, and almost imperceptible encroachments upon our personal freedom. John Louis Coffey
+
+At home, fellow citizens, you best know whether we have done well or ill. The suppression of unnecessary offices, of useless establishments and expenses, enabled us to discontinue our internal taxes. These covering our land with officers, and opening our doors to their intrusions, had already begun that process of domiciliary vexation which, once entered, is scarcely to be restrained from reaching successively every article of produce and property. Thomas Jefferson
+
+A democratic despotism is like a theocracy: It assumes its own correctness. Walter Bagehot
+
+The only people strongly against voter ID in America are those who want to commit fraud. Elon Musk
+
+Fidelity to the public requires that the laws be as plain and explicit as possible, that the less knowing may understand, and not be ensnared by them, while the artful evade their force. Samuel Cooke
+
+Those who can make you believe in absurdities can make you commit atrocities! Voltaire
+
+Politicians need human misery. ... Government's a disease masquerading as its own cure. L. Neil Smith
+
+Do not blame Caesar, blame the people of Rome who have so enthusiastically acclaimed and adored him and rejoiced in their loss of freedom and danced in his path and given him triumphal processions. Blame the people who hail him when he speaks in the Forum of the new wonderful good society which shall now be Rome's, interpreted to mean more money, more ease, more security, and more living fatly at the expense of the industrious. Marcus Tullius Cicero
+
+When the leader is morally weak and his discipline not strict, when his instructions and guidance are not enlightened, when there are no consistent rules, neighboring rulers will take advantage of this. Sun Tzu
+
+When buying and selling are controlled by legislation, the first things bought and sold are legislators. P. J. O'Rourke
+
+Experts and the educated elite have replaced what worked with what sounded good. Society was far more civilized before they took over our schools, prisons, welfare programs, police departments and courts. It's high time we ran these people out of our lives and went back to common sense. Walter E. Williams
+
+All over the Union, people are coming to feel that they have no control over the course of affairs ... "We vote; we are offered the platform we want; we elect the men who stand on that platform; and we get absolutely nothing." So they begin to ask: "What is the use of voting? We know that the machines of both parties are subsidized by the same persons, and therefore it is useless to turn in either direction." Woodrow Wilson
+
+Socialists desire to practice legal plunder, not illegal plunder. Socialists, like all other monopolists, desire to make the law their own weapon. And when once the law is on the side of socialism, how can it be used against socialism? For when plunder is abetted by the law, it does not fear your courts, your gendarmes, and your prisons. Rather, it may call upon them for help. Frederic Bastiat
+
+If one understands that Socialism is not a "share the wealth" program but is in reality a method to consolidate and control the wealth, then the seeming paradox of super rich men promoting Socialism becomes no paradox at all. Instead it becomes logical, even the perfect tool of power-seeking megalomaniacs. Communism, or more accurately Socialism, is not a movement of the down-trodden masses but of the economic elite. Gary Allen
+
+As long as I count the votes, what are you going to do about it? William Marcy Tweed
+
+The history books say that during the Progressive era, government trustbusters reined in business. Nonsense. Progressive "reforms" --- railroad regulation, meat inspection, drug certification and the rest --- were done at the behest of big companies that wanted competition managed. They knew regulation would burden smaller companies more than themselves. The strategy works. John Stossel
+
+A pure democracy ... can admit no cure for the mischiefs of faction. A common passion or interest will, in almost every case, be felt by a majority, and there is nothing to check the inducements to sacrifice the weaker party ... Hence it is that democracies have ever been found incompatible with personal security or the rights of property; and have, in general, been as short in their lives as they have been violent in thier deaths. James Madison
+
+The growth of federal power and programs over this century --- involving the regulation of business, the expansion of "civil rights," the production of environmental goods, and much else --- has taken place in large measure through the power of Congress to regulate "commerce among the states." That power has been read so broadly by the modern Court that Congress today can regulate anything that even "affects" commerce, which in principle is everything. As a result, save for the restraints imposed by the Bill of Rights, the commerce power is now essentially plenary, which is hardly what the Framers intended when they enumerated Congress's powers. Indeed, if they had meant for Congress to be able to do anything it wanted under the commerce power, the enumeration of Congress's other powers --- to say nothing of the defense of the doctrine of enumerated powers throughout the Federalist Papers --- would have been pointless. The purpose of the commerce clause quite simply, was to enable Congress to ensure the free flow of commerce among the states. Under the Articles of Confederation, state legislatures had enacted tariffs and other protectionist measures that impeded interstate commerce. To break the logjam, Congress was empowered to make commerce among the states "regular." In fact, the need to do so was one of the principal reasons behind the call for a new constitution. Roger Pilon
+
+It is a known fact that the policies of the government today, whether Republican or Democrat are closer to the 1932 platform of the Communist Party than they are to either of their own party platforms in that critical year. Walter Trohan
+
+It's the misfortune of all Countries, that they sometimes lie under a unhappy necessity to defend themselves by Arms against the ambition of their Governors, and to fight for what's their own. If those in government are heedless of reason, the people must patiently submit to Bondage, or stand upon their own Defence. John Trenchard
+
+No victim of crime should be required to surrender his life, health, safety, personal dignity, or property to a criminal, nor should a victim be required to retreat in the face of an attack. Wayne LaPierre
+
+---
+
+I am not among those who fear the people. They, and not the rich, are our dependence for continued freedom.
+
+And to preserve their independence, We must not let our rulers load us with perpetual debt. We must make our election between economy and liberty or profusion and servitude.
+
+If we run into such debt, as that we must be taxed in our meat and in our drink, in our necessaries and our comforts, in our labors and our amusements, for our calling and our creeds as the people of England are, our people, like them, must come to labor sixteen hours in the twenty-four, give the earnings of fifteen of these to the government for their debts and daily expenses; and the sixteenth being insufficient to afford us bread, we must live, as they now do, on oatmeal and potatoes; have no time to think, no means of calling our miss-managers to account but be glad to obtain subsistence by hiring ourselves to rivet their chains on the necks of our fellow-sufferers.
+
+Our land-holders, too, like theirs, retaining indeed the title and stewardship of estates called theirs but held really in trust for the treasury, must wander, like theirs, in foreign countries, and be contented with penury, obscurity, exile, and the glory of the nation.
+
+This example reads to us the salutary lesson, that private fortunes are destroyed by public as well as by private extravagances.
+
+And this is the tendency of all human governments. A departure from principle in one instance becomes a precedent for the second; that second for a third; and so on, till the bulk of society is reduced to be mere automatons of misery, to have no sensibilities left but for sinning and suffering.
+
+Then begins, indeed, the bellum omnium in omnia, which some philosophers observing to be so general in this world, have mistaken for the natural, instead of the abusive state of man.
+
+And the fore-horse of this frightful team is public debt. Taxation follows that, and in its train wretchedness and oppression. Thomas Jefferson
+
+---
+
+A man is none the less a slave because he is allowed to choose a new master once in a term of years. Lysander Spooner
+
+I think if you were to go back and try to find and review the ratification of the 16th amendment, which was the internal revenue, income tax, I think if you went back and examined that carefully, you would find that a sufficient number of states never ratified that amendment ... And nonetheless, I think it's fair to say that it is part of the Constitution of the United States, and I don't think any court would ever ... set it aside. James C. Fox
+
+Barack Obama isn't a socialist, technically, I suppose, because socialism usually means government ownership of the means of production. The pattern he's following is much more like that of the fascists, where the government leaves the means of production in private hands and the politicians tell them what to do. That's much more politically viable, because after the government forces the private industry to do something and it turns out disastrously, you can always haul the people from private industry up before congressional committees, denounce them on television, and so forth, leaving out the fact that it was YOU who forced them to do what they did. Thomas Sowell
+
+People come first, and government is their servant ... Government is formed to protect the individual's life, property, and rights, and to help the helpless --- not to dominate a person's life or rob him of his self-respect. Richard Nixon
+
+Always vote for principle, though you may vote alone, and you may cherish the sweetest reflection that your vote is never lost. John Quincy Adams
+
+An election is nothing more than the advanced auction of stolen goods. Ambrose Bierce
+
+To permit every interest group, especially those who claim to be victimized by unfair expression, their own legislative exceptions to the First Amendment so long as they succeed in obtaining a majority of legislative votes in their favor demonstrates the potentially predatory nature of what defendants seek through this Ordinance. Sarah Evans Barker
+
+Without bigots, eccentrics, cranks and heretics the world would not progress. Frank Gelett Burgess
+
+The power system continues only as long as individuals try to get something for nothing. The day when a majority of individuals declares or acts as if it wants nothing from the government, declares that it will look after its own welfare and interests, then on that day the power elites are doomed. Anthony Sutton
+
+We hold that what one man cannot morally do, a million men cannot morally do, and government, representing many millions of men, cannot do. Auberon Herbert
+
+Totalitarianism begins in contempt for what you have. The second step is the notion: “Things must change—no matter how, Anything is better than what we have.” Totalitarian rulers organize this kind of mass sentiment, and by organizing it articulate it, and by articulating it make the people somehow love it. They were told before, thou shalt not kill; and they didn’t kill. Now they are told, thou shalt kill; and although they think it’s very difficult to kill, they do it because it's now part of the code of behavior. They learn whom to kill and how to kill and how to do it together. This is the much talked about Gleichschaltung—the coordination process. You are coordinated not with the powers that be, but with your neighbor—coordinated with the majority. But instead of communicating with the other you are now glued to him. And you feel of course marvelous. Totalitarianism appeals to the very dangerous emotional needs of people who live in complete isolation and in fear of one another. Hannah Arendt
+
+There is no such thing as a majority right. Only those who understand and act according to this principle can promote true freedom. Harry H. Hoiles
+
+The most dangerous man, to any government, is the man who is able to think things out for himself, without regard to the prevailing superstitions and taboos. Almost invariably he comes to the conclusion that the government he lives under is dishonest, insane and intolerable, and so, if he is romantic, he tries to change it. And if he is not romantic personally, he is apt to spread discontent among those who are. H. L. Mencken
+
+The basic problem is simply that the Congress has become professionalized. It has interest much higher than ever existed before in remaining in office. It has a bureaucracy that is serving it. It is much more subject to the power of individualized pressure groups as opposed to the unorganized feelings of the majority of the citizens. Antonin Scalia
+
+What we obtain too cheap, we esteem too lightly. Heaven knows how to put a proper price upon its goods; and it would be strange indeed, if so celestial an article as Freedom should not be highly rated. Thomas Paine
+
+Life is a gift. Freedom is a responsibility. Eric Schaub
+
+Liberty is not a right but a duty. Ezra Pound
+
+In the end, more than freedom, they wanted security. They wanted a comfortable life, and they lost it all --- security, comfort, and freedom. When the Athenians finally wanted not to give to society but for society to give to them, when the freedom they wished for most was freedom from responsibility then Athens ceased to be free and was never free again. Edward Gibbon
+
+The real freedom of any individual can always be measured by the amount of responsibility which he must assume for his own welfare and security. Robert Welch
+
+The proverb warns that 'You should not bite the hand that feeds you.' But maybe you should if it prevents you from feeding yourself. Thomas Szasz
+
+Liberty is often a heavy burden on a man. It involves the necessity for perpetual choice which is the kind of labor men have always dreaded. Oliver Wendell Holmes, Sr.
+
+Most people do not really want freedom, because freedom involves responsibility, and most people are frightened of responsibility. Sigmund Freud
+
+Liberty means responsibility. That is why most men dread it. George Bernard Shaw
+
+America would be better off as a country and Americans happier and more prosperous as a people if half of our government boards, bureaus, and commissions were Abolished, hundreds of thousands of our government officials, agents and employees were discharged, and two-thirds of our government regulations, restrictions, inhibitions were removed. Albert J. Beveridge
+
+You will never understand bureaucracies until you understand that for bureaucrats procedure is everything and outcomes are nothing. Thomas Sowell
+
+History shows that over a long period of time government will spend whatever the tax system raises plus as much more as it can get away with. Milton Friedman
+
+The experience that was had in ... the taking away of private property, and the possession of it in community, by a commonwealth ... was found to breed much confusion and discontent; and retard much employment which would have been to the general benefit. ... For the young men that were most able and fit for labor and service objected that they should spend their time and strength to work for other men's wives and children, without any recompense. ... The strong man or the resourceful man had no more share of food, clothes, etc., than the weak man who was not able to do a quarter the other could; this was thought injustice. The aged and graver men, who were ranked and equalized in labor, food, clothes, etc., with the meaner and younger ones, thought it some indignity and disrespect to them. William Bradford
+
+There is a class of colored people who make a business of keeping the troubles, the wrongs, and the hardships of the Negro race before the public. Some of these people do not want the Negro to lose his grievances, because they do not want to lose their jobs. There is a certain class of race-problem solvers who don't want the patient to get well. Booker T. Washington
+
+A man must first govern himself ere he is fit to govern a family; and his family ere he be fit to bear the government of the commonwealth. Walter Raleigh
+
+The secret of happiness is freedom, and the secret of freedom, courage. Thucydides
+
+Destroy the family, you destroy the country. Vladimir Ilyich Lenin
+
+Morality cannot exist one minute without freedom ... Only a free man can possibly be moral. Unless a good deed is voluntary, it has no moral significance. Everett Dean Martin
+
+Among a people generally corrupt liberty cannot long exist. Edmund Burke
+
+The only freedom which deserves the name, is that of pursuing our own good in our own way, so long as we do not attempt to deprive others of theirs, or impede their efforts to obtain it. John Stuart Mill
+
+I believe that liberty is the only genuinely valuable thing that men have invented, at least in the field of government, in a thousand years. I believe that it is better to be free than to be not free, even when the former is dangerous and the latter safe. I believe that the finest qualities of man can flourish only in free air --- that progress made under the shadow of the policeman's club is false progress, and of no permanent value. I believe that any man who takes the liberty of another into his keeping is bound to become a tyrant, and that any man who yields up his liberty, in however slight the measure, is bound to become a slave. H. L. Mencken
+
+Then what is freedom? It is the will to be responsible to ourselves. Friedrich Nietzsche
+
+Liberty is worth whatever the country is worth. It is by liberty that man has a country; it is by liberty he has rights. Henry Giles
+
+Most of the major ills of the world have been caused by well-meaning people who ignored the principle of individual freedom, except as applied to themselves, and who were obsessed with fanatical zeal to improve the lot of mankind. Henry Grady Weaver
+
+To change masters is not to be free. Jose Marti y Perez
+
+
+
 Believe nothing merely because you have been told it. Do not believe what your teacher tells you merely out of respect for the teacher. But whatsoever, after due examination and analysis, you find to be kind, conducive to the good, the benefit, the welfare of all beings --- that doctrine believe and cling to, and take it as your guide. Buddha
 
 The whole secret of existence is to have no fear. Never fear what will become of you, depend on no one. Only the moment you reject all help are you freed. Buddha
@@ -526,12 +777,6 @@ All men by nature are equal in that equal right that every man hath to his natur
 
 Freedom of men under government is to have a standing rule to live by, common to every one of that society and made by the legislative power vested in it and not to be subject to the inconstant, uncertain, arbitrary will of another man. John Locke
 
-I have no reason to suppose that he, who would take away my Liberty, would not when he had me in his Power, take away everything else. John Locke
-
-The right to privacy is one of the most cherished rights an American citizen has; the right to privacy sets America apart from totalitarian states in which the interests of the state prevail over individual rights. A fundamental part of our concept of ordered liberty is the right to protect one?s home and family against dangerous intrusions subject to the criminal law. John Louis Coffey
-
-An unlimited power to tax involves, necessarily, a power to destroy; because there is a limit beyond which no institution and no property can bear taxation. John Marshall
-
 By a continuing process of inflation, governments can confiscate, secretly and unobserved, an important part of the wealth of their citizens. There is no subtler, no surer means of overturning the existing basis of society than to debauch the currency. The process engages all the hidden forces of economic law on the side of destruction, and does it in a manner which not one man in a million is able to diagnose. John Maynard Keynes
 
 The whole freedom of man consists either in spiritual or civil liberty. John Milton
@@ -956,8 +1201,6 @@ Is it not ironical that in a planned society of controlled workers given compuls
 Nobody can be trusted with unlimited power. The more power a regime has, the more likely people will be killed. This is a major reason for promoting freedom. Rudolph Rummel
 
 What we don't see is that freedom is not a concept in which people can do anything they want, be anything they can be. Freedom is about authority. Freedom is about the willingness of every single human being to cede to lawful authority a great deal of discretion about what you do. Rudolph W. Giuliani
-
-Few men desire liberty; most men wish only for a just master. Sallust
 
 Among the natural rights [of the people] are these: first, a right to life; secondly, to liberty; thirdly to property; together with the right to support and defend them in the best manner they can. Samuel Adams
 
