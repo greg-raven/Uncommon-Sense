@@ -3,16 +3,6 @@ https://www.youtube.com/watch?v=KZOtEbwwfOM
 Honey. what do you want to he when you grow up?
 A threat to the New World Order.
 
-I tolerate with utmost latitude the right of others to differ with me in opinion without imputing to them criminality. I know too well all the weaknesses and uncertainty of human reason to wonder at its different results. Thomas Jefferson
-
-There are more instances of the abridgment of the freedom of the people by gradual and silent encroachments of those in power than by violent and sudden usurpations. James Madison
-
-One of the great mistakes is to judge policies and programs by their intentions rather than their results. Milton Friedman
-
-There is no art which one government sooner learns of another than that of draining money from the pockets of the people. Adam Smith
-
-Through the rapid proliferation of laws reaching every corner of human existence, "the government is manufacturing more criminals now than ever before." The list of illegal activities includes more minutiae than one would think possible. Beer-makers are barred from listing alcohol content on bottles, and liquor distilleries cannot advertise on TV. Filling one's own prairie pothole can land a property owner in jail, as can protecting private property from unlawful intruders. Placing handbills in neighbors' mailboxes is strictly prohibited, and attempting to sell nectarines of an improper size is a federal offense. Companies are no longer allowed to give salaried professionals partial days off without pay, and in Texas it is a crime to call oneself an interior designer without the government's permission. It is perhaps easier to recount all that remains legal than all that is now prohibited. Jonathan H. Adler
-
 What makes it so plausible to assume that hypocrisy is the vice of vices is that integrity can indeed exist under the cover of all other vices except this one. Only crime and the criminal, it is true, confront us with the perplexity of radical evil; but only the hypocrite is really rotten to the core. Hannah Arendt
 
 If you believe it reprehensible to possess the means and will to use lethal force to repel a criminal assault, how can you call upon another to do so for you? Jeffrey R. Snyder
