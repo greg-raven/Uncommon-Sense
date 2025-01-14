@@ -3,7 +3,7 @@ title: "The commonwealth militia"
 layout: post
 categories:
 - Second Amendment
-tags: 
+tags:
 - Tench Coxe
 ---
 

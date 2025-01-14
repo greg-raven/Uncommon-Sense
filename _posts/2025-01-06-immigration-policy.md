@@ -3,7 +3,7 @@ title: "Credibility in immigration policy"
 layout: post
 categories:
 - immigration
-tags: 
+tags:
 - Barbara Jordan
 ---
 

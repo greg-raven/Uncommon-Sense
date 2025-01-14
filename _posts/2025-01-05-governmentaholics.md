@@ -3,7 +3,7 @@ title: "Governmentaholics"
 layout: post
 categories:
 - government
-tags: 
+tags:
 - Will Spencer
 ---
 

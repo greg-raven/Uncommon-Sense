@@ -3,7 +3,7 @@ title: "Unlimited taxation power"
 layout: post
 categories:
 - taxation
-tags: 
+tags:
 - John Marshall
 ---
 

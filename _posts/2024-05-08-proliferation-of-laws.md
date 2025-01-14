@@ -4,7 +4,7 @@ layout: post
 categories:
 - government
 - liberty
-tags: 
+tags:
 - Jonathan H. Adler
 ---
 

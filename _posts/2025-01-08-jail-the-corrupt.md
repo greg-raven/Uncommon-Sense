@@ -3,7 +3,7 @@ title: "Jail corrupt politicians"
 layout: post
 categories:
 - government
-tags: 
+tags:
 - anonymous
 ---
 

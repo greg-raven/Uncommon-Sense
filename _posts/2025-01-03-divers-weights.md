@@ -3,7 +3,7 @@ title: "Divers weights"
 layout: post
 categories:
 - money
-tags: 
+tags:
 - Leviticus 27:13-15
 ---
 

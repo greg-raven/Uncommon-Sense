@@ -4,7 +4,7 @@ layout: post
 categories:
 - individualism
 - liberty
-tags: 
+tags:
 - Patricia Sampson
 ---
 

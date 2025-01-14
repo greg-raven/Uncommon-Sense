@@ -3,7 +3,7 @@ title: "Tolerate the right of others to differ"
 layout: post
 categories:
 - speech
-tags: 
+tags:
 - Thomas Jefferson
 ---
 

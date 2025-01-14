@@ -3,7 +3,7 @@ title: "Paying people to be poor"
 layout: post
 categories:
 - economics
-tags: 
+tags:
 - Milton Friedman
 ---
 

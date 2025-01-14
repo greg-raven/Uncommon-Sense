@@ -4,7 +4,7 @@ layout: post
 categories:
 - individualism
 - government
-tags: 
+tags:
 - Glenn Harlan Reynolds
 ---
 

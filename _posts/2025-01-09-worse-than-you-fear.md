@@ -3,7 +3,7 @@ title: "Government is worse than you imagine"
 layout: post
 categories:
 - government
-tags: 
+tags:
 - William Blum
 ---
 

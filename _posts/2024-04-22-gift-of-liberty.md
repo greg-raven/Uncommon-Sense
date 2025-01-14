@@ -3,7 +3,7 @@ title: "The gift of liberty"
 layout: post
 categories:
 - liberty
-tags: 
+tags:
 - Cervantes
 ---
 

@@ -3,7 +3,7 @@ title: "The function of the true state"
 layout: post
 categories:
 - government
-tags: 
+tags:
 - Immanuel Kant
 ---
 

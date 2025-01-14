@@ -3,7 +3,7 @@ title: "Free speech is all speech"
 layout: post
 categories:
 - speech
-tags: 
+tags:
 - Rob Scheider
 ---
 

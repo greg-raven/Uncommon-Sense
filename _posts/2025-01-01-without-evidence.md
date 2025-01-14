@@ -3,7 +3,7 @@ title: "Without evidence"
 layout: post
 categories:
 - truth
-tags: 
+tags:
 - Christopher Hitchens
 ---
 

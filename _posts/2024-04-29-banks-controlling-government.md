@@ -3,7 +3,7 @@ title: "Banks attempting to control government"
 layout: post
 categories:
 - money
-tags: 
+tags:
 - Andrew Jackson
 ---
 

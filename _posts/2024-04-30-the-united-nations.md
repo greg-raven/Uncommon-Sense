@@ -3,7 +3,7 @@ title: "United Nations is a fraud"
 layout: post
 categories:
 - external authority
-tags: 
+tags:
 - John E. Rankin
 ---
 

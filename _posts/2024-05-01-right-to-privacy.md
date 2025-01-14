@@ -3,7 +3,7 @@ title: "The right to privacy"
 layout: post
 categories:
 - rights
-tags: 
+tags:
 - John Louis Coffey
 ---
 

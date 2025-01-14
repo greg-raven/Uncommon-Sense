@@ -3,7 +3,7 @@ title: "He who would take away my liberty"
 layout: post
 categories:
 - liberty
-tags: 
+tags:
 - John Locke
 ---
 

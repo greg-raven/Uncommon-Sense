@@ -3,7 +3,7 @@ title: "Democracy or republic?"
 layout: post
 categories:
 - democracy
-tags: 
+tags:
 - anonymous
 ---
 

@@ -4,7 +4,7 @@ layout: post
 categories:
 - liberty
 - speech
-tags: 
+tags:
 - Max Lerner
 ---
 

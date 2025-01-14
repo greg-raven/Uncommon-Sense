@@ -3,7 +3,7 @@ title: "The strongest minority"
 layout: post
 categories:
 - speech
-tags: 
+tags:
 - John Stuart Mill
 ---
 

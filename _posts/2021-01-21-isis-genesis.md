@@ -3,7 +3,7 @@ title: "The creation of ISIS"
 layout: post
 categories:
 - foreign policy
-tags: 
+tags:
 - Spike Cohen
 ---
 

@@ -3,7 +3,7 @@ title: "Encroachments on freedom"
 layout: post
 categories:
 - liberty
-tags: 
+tags:
 - James Madison
 ---
 
