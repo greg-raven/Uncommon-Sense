@@ -5,7 +5,7 @@ A threat to the New World Order.
 
 What makes it so plausible to assume that hypocrisy is the vice of vices is that integrity can indeed exist under the cover of all other vices except this one. Only crime and the criminal, it is true, confront us with the perplexity of radical evil; but only the hypocrite is really rotten to the core. Hannah Arendt
 
-Keep your eye on how much the Government is spending, because that is the true tax. Milton Friedman
+Keep your eye on how much the Government is spending, because that is the true tax. [...] If you're not paying for it in the form of explicit taxes, you're paying for it indirectly in the form of inflation or in the form of borrowing. Milton Friedman
 
 Governments need armies to protect them against their enslaved and oppressed subjects. Leo Nikolaevich Tolstoi
 
