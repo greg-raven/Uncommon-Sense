@@ -29,9 +29,9 @@ jekyll-archives:
     - tags
   layouts:
     category: category-archive
-    tags: tag-archive
+    tag: tag-archive
   permalinks:
-    tags: "/tag/:name/"
+    tag: "/tag/:name/"
     category: "/category/:name/"
 
 # Theme-specific settings
