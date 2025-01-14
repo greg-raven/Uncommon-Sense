@@ -1,72 +1,27 @@
 ---
-title: Topic categories
-layout: page
+layout: base
 ---
 
-<ul>
-	<li><a href="/category/adulthood/">adulthood</a></li>
-	<li><a href="/category/capitalism/">capitalism</a></li>
-	<li><a href="/category/citizenship/">citizenship</a></li>
-	<li><a href="/category/climate/">climate</a></li>
-	<li><a href="/category/collectivization/">collectivization</a></li>
-	<li><a href="/category/conservatism/">conservatism</a></li>
-	<li><a href="/category/constitution/">Constitution</a></li>
-	<li><a href="/category/conviction/">conviction</a></li>
-	<li><a href="/category/corruption/">corruption</a></li>
-	<li><a href="/category/culture/">culture</a></li>
-	<li><a href="/category/debt/">debt</a></li>
-	<li><a href="/category/decentralization/">decentralization</a></li>
-	<li><a href="/category/demagogues/">demagogues</a></li>
-	<li><a href="/category/democracy/">democracy</a></li>
-	<li><a href="/category/diversity/">diversity</a></li>
-	<li><a href="/category/economics/">economics</a></li>
-	<li><a href="/category/education/">education</a></li>
-	<li><a href="/category/environment/">environment</a></li>
-	<li><a href="/category/equality/">equality</a></li>
-	<li><a href="/category/evil/">evil</a></li>
-	<li><a href="/category/evolution/">evolution</a></li>
-	<li><a href="/category/external-authority/">external authority</a></li>
-	<li><a href="/category/foreign-policy/">foreign policy</a></li>
-	<li><a href="/category/government/">government</a></li>
-	<li><a href="/category/history/">history</a></li>
-	<li><a href="/category/hope/">hope</a></li>
-	<li><a href="/category/immigration/">immigration</a></li>
-	<li><a href="/category/individualism/">individualism</a></li>
-	<li><a href="/category/informed-electorate/">informed electorate</a></li>
-	<li><a href="/category/intolerance/">intolerance</a></li>
-	<li><a href="/category/juries/">juries</a></li>
-	<li><a href="/category/knowledge/">knowledge</a></li>
-	<li><a href="/category/language/">language</a></li>
-	<li><a href="/category/laws/">laws</a></li>
-	<li><a href="/category/liberalism/">liberalism</a></li>
-	<li><a href="/category/liberty/">liberty</a></li>
-	<li><a href="/category/money/">money</a></li>
-	<li><a href="/category/morals/">morals</a></li>
-	<li><a href="/category/nationalism/">nationalism</a></li>
-	<li><a href="/category/obamacare/">Obamacare</a></li>
-	<li><a href="/category/patriotism/">patriotism</a></li>
-	<li><a href="/category/perfection/">perfection</a></li>
-	<li><a href="/category/politics/">politics</a></li>
-	<li><a href="/category/press/">press</a></li>
-	<li><a href="/category/property/">property</a></li>
-	<li><a href="/category/prosperity/">prosperity</a></li>
-	<li><a href="/category/race/">race</a></li>
-	<li><a href="/category/reason/">reason</a></li>
-	<li><a href="/category/rebellion/">rebellion</a></li>
-	<li><a href="/category/regulations/">regulations</a></li>
-	<li><a href="/category/religion/">religion</a></li>
-	<li><a href="/category/rights/">rights</a></li>
-	<li><a href="/category/second-amendment/">Second Amendment</a></li>
-	<li><a href="/category/self-improvement/">self-improvement</a></li>
-	<li><a href="/category/service/">service</a></li>
-	<li><a href="/category/socialism/">socialism</a></li>
-	<li><a href="/category/speech/">speech</a></li>
-	<li><a href="/category/strength/">strength</a></li>
-	<li><a href="/category/taxation/">taxation</a></li>
-	<li><a href="/category/truth/">truth</a></li>
-	<li><a href="/category/virtue/">virtue</a></li>
-	<li><a href="/category/voting/">voting</a></li>
-	<li><a href="/category/war/">war</a></li>
-	<li><a href="/category/waste/">waste</a></li>
-	<li><a href="/category/welfare/">welfare</a></li>
+<h1>Categories</h1>
+
+{% assign categories_sorted = site.categories | sort %}
+{% assign posts_sorted = site.posts | sort: 'title' %}
+
+{% for category in categories_sorted %}
+<!-- for each category, create an anchor by using the category name as an id -->
+<div id="{{ category[0] }}">
+  <h2> {{ category[0] }} </h2> <!-- create a category heading -->
+
+  <ul> <!-- create the list of posts -->
+    <!-- iterate through all the posts on the site sorted by alphabet-->
+    {% for post in posts_sorted %}
+      <!-- list only those which contain the current category -->
+      {% if post.categories contains category[0] %}
+      <li>
+        <a href="{{ post.url }}">{{ post.title | smartify }}</a>
+      </li>
+      {% endif %}
+    {% endfor %}
 </ul>
+</div>
+{% endfor %}
