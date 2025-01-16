@@ -7,8 +7,8 @@ layout: page
 {% assign posts_sorted = site.posts | sort: 'title' %}
 {% for tagitem in tags_sorted %}
 <!-- for each tag, create an anchor by using the tag name as an id -->
-<div id="{{ tagitem[0] }}">
-  <h2> {{ tagitem[0] }} </h2>  <!-- for create a heading -->
+<div id="{{ tagitem[0] | slugify }}">
+  <h2> {{ tagitem[0] }} </h2>  <!-- create a tag heading -->
 
   <ul> <!-- create the list of posts -->
     <!-- iterate through all the posts on the site sorted by alphabet-->
@@ -16,7 +16,7 @@ layout: page
       <!-- list only those which contain the current tag -->
       {% if post.tags contains tagitem[0] %}
           <li>
-            <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title | smartify }}</a>
           </li>
       {% endif %}
     {% endfor %}
