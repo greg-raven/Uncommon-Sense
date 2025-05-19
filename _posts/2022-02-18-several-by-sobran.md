@@ -88,18 +88,12 @@ So when the wolf pounces on your lamb, just ignore the pitiful bleating and remi
 
 Some people don't mind a little constitutional sophistry in a good cause; and for liberals, centralizing all power in the federal government is always a good cause. Since most Americans don't know or care what the Constitution says, let alone what their ancestors thought it meant, the great liberal snow job has been very successful.
 
-Tax time approaches, and Americans are as always paying H &amp; R Block billions to help them save some of their wealth from their ravenous government. Pitiful, in a way: it underlines the grim but unacknowledged fact that the government is their enemy and they have to hire protection from it. But don't we enjoy "self-government"? Well, if we have it, I'd hardly say we enjoy it. True, we aren't being taxed by the monarch of Great Britain, but our American-born rulers claim far more of our wealth than the British monarchs ever did.
-
-The chances of your being harmed by terrorists are mathematically minute. The chance of your being robbed by your own government? That's easy: 100 per cent.
+Tax time approaches, and Americans are as always paying H & R Block billions to help them save some of their wealth from their ravenous government. Pitiful, in a way: it underlines the grim but unacknowledged fact that the government is their enemy and they have to hire protection from it. But don't we enjoy "self-government"? Well, if we have it, I'd hardly say we enjoy it. True, we aren't being taxed by the monarch of Great Britain, but our American-born rulers claim far more of our wealth than the British monarchs ever did.
 
 The hypocrite recognizes the honest man as his deadly enemy.
 
 The liberal understanding of "the separation of church and state" means that as the area of politics expands, the area of private freedom --- religious and otherwise --- shrinks.
 
 The measure of the state's success is that the word anarchy frightens people, while the word state does not.
-
-The most fundamental purpose of government is defense, not empire.
-
-The most successful revolutions aren't those that are celebrated with parades and banners, drums and trumpets, cannons and fireworks. The really successful revolutions are those that occur quietly, unnoticed, uncommemorated. We don't celebrate the day the United States Constitution was destroyed; it didn't happen on a specific date, and most Americans still don't realize it happened at all. We don't say the Constitution has ceased to exist; we merely say that it's a "living document." But it amounts to the same thing.
 
 The prevailing notion is that the state should be neutral as to religion, and furthermore, that the best way to be neutral about it is to avoid all mention of it. By this sort of logic, nudism is the best compromise among different styles of dress. The secularist version of "pluralism" amounts to theological nudism.
