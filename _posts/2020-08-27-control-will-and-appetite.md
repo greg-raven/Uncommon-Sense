@@ -2,7 +2,7 @@
 title: "Control will and appetite"
 layout: post
 categories:
-- regulations
+- laws
 tags:
 - Edmund Burke
 ---

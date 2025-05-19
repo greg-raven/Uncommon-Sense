@@ -2,7 +2,7 @@
 title: "True cost of government"
 layout: post
 categories:
-- regulations
+- laws
 tags:
 - Lawrence W. Reed
 ---

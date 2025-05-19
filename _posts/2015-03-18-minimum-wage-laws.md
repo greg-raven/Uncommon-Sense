@@ -3,7 +3,7 @@ title: "Minimum-wage laws"
 layout: post
 categories:
 - economics
-- regulations
+- laws
 tags:
 - Thomas Sowell
 ---

@@ -2,7 +2,7 @@
 title: "Small-minded rulers"
 layout: post
 categories:
-- regulations
+- laws
 tags:
 - Joe Sobran
 ---

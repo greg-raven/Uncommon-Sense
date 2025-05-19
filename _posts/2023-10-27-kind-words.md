@@ -2,7 +2,7 @@
 title: "Kind word and a gun"
 layout: post
 categories:
-- regulations
+- laws
 tags:
 - Al Capone
 ---

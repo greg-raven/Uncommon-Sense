@@ -103,33 +103,3 @@ The most fundamental purpose of government is defense, not empire.
 The most successful revolutions aren't those that are celebrated with parades and banners, drums and trumpets, cannons and fireworks. The really successful revolutions are those that occur quietly, unnoticed, uncommemorated. We don't celebrate the day the United States Constitution was destroyed; it didn't happen on a specific date, and most Americans still don't realize it happened at all. We don't say the Constitution has ceased to exist; we merely say that it's a "living document." But it amounts to the same thing.
 
 The prevailing notion is that the state should be neutral as to religion, and furthermore, that the best way to be neutral about it is to avoid all mention of it. By this sort of logic, nudism is the best compromise among different styles of dress. The secularist version of "pluralism" amounts to theological nudism.
-
-The prospect of a government that treats all its citizens as criminal suspects is more terrifying than any terrorist. And even more frightening is a citizenry that can accept the surrender of its freedoms as the price of "freedom."
-
-The real triumph of the state occurs when its subjects refer to it as "we," like football fans talking about the home team.
-
-The Second Amendment, like the rest of the Bill of Rights, was meant to inhibit only the federal government, not the states. The framers, as The Federalist Papers attest (see No. 28), saw the state militias as forces that might be summoned into action against the federal government itself, if it became tyrannical.
-
-The U.S. Constitution serves the same function as the British royal family: it offers a comforting symbol of tradition and continuity, thereby masking a radical change in the actual system of power.
-
-The welfare state is institutionalized crime --- "organized plunder," as the French economist Frederic Bastiat called it. It systematizes what is intrinsically wrong: forcing some people to support others. The Democrats favor the indefinite expansion of the welfare state, perpetually increasing the ratio of force to freedom in society.
-
-The words of Jesus, including those Jefferson and the Jesus Seminar have blue-pencilled, have a unique permanence. They don't merely survive as aphoristic wisdom; they have an authority in our hearts, even when we try to deny them. They command. We can obey or rebel. That is why Jesus is still not only loved but hated --- and why those who hate him feel they have to profess to love him.
-
-There has never been a humane communist regime. Marxism is inherently totalitarian. It recognizes no moral limits on the state. It's the most convenient ideology for aspiring tyrants; it also retains its appeal for intellectuals, who have proved equally skillful at rationalizing abuses of power and at exculpating themselves.
-
-Voters who live off taxpayers are the Democrats" ace in the hole. The Democrats created big programs and never let the recipients forget it. This gives them an initial advantage of tens of millions of votes in any presidential election.
-
-War has all the characteristics of socialism most conservatives hate: Centralized power, state planning, false rationalism, restricted liberties, foolish optimism about intended results, and blindness to unintended secondary results.
-
-War is just one more big government program.
-
-Wartime always brings expansions of state power, together with erosions of moral and constitutional standards.
-
-We have been living amidst one of the great revolutions of human history, and we hardly know it: the penetration of the State into every aspect of human life and society. Some people regard this as good and "progressive," others regard it as tyrannical; but either way, it's a fact, a transformation as great as, say, the Industrial Revolution. Absolutely nothing is now beyond the scope of State power.
-
-We would be much worse without Christianity; but we wouldn't know it.
-
-What a blessing "terrorism" is for the state! It's the ideal distraction from the day-to-day reality of the state's chief activity: wringing from its subjects the wealth they produce. Last September (2001) a handful of fanatics, armed only with box-cutters, provided a new rationale for the trillion-dollar swindle. A bonanza! I don't know what these "terrorists" thought they were achieving: Making the infidel respect Allah? If so, they were wrong. You might as well try to make the U.S. government respect the U.S. Constitution.
-
-When you internalize an author whose vision or philosophy is both rich and out of fashion, you gain a certain immunity from the pressures of the contemporary. The modern world, with its fads, propaganda, and advertising, is forever trying to herd us into conformity. Great literature can help us to remain fad-proof.

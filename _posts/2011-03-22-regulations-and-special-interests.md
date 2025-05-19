@@ -2,7 +2,7 @@
 title: "Regulations and special interests"
 layout: post
 categories:
-- regulations
+- laws
 tags:
 - James Madison
 ---
