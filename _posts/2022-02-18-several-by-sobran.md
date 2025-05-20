@@ -81,19 +81,3 @@ Now whatever you think of the liberal agenda on its merits, until very recently 
 Politics is the conspiracy of the unproductive but organized against the productive but unorganized.
 
 Power tempts even the best of men to take liberties with the truth.
-
-Since outright slavery has been discredited, "democracy" is the only remaining rationale for state compulsion that most people will accept.
-
-So when the wolf pounces on your lamb, just ignore the pitiful bleating and remind yourself that this is a democracy, where every sheep can freely express its preference for which kind of wolf it wants to be eaten by. Many sheep, perhaps understandably, prefer a wolf in sheep's clothing, which is after all the basic idea of democracy. So far it has worked pretty well. The wolves all agree on that, and they want to spread democracy everywhere.
-
-Some people don't mind a little constitutional sophistry in a good cause; and for liberals, centralizing all power in the federal government is always a good cause. Since most Americans don't know or care what the Constitution says, let alone what their ancestors thought it meant, the great liberal snow job has been very successful.
-
-Tax time approaches, and Americans are as always paying H & R Block billions to help them save some of their wealth from their ravenous government. Pitiful, in a way: it underlines the grim but unacknowledged fact that the government is their enemy and they have to hire protection from it. But don't we enjoy "self-government"? Well, if we have it, I'd hardly say we enjoy it. True, we aren't being taxed by the monarch of Great Britain, but our American-born rulers claim far more of our wealth than the British monarchs ever did.
-
-The hypocrite recognizes the honest man as his deadly enemy.
-
-The liberal understanding of "the separation of church and state" means that as the area of politics expands, the area of private freedom --- religious and otherwise --- shrinks.
-
-The measure of the state's success is that the word anarchy frightens people, while the word state does not.
-
-The prevailing notion is that the state should be neutral as to religion, and furthermore, that the best way to be neutral about it is to avoid all mention of it. By this sort of logic, nudism is the best compromise among different styles of dress. The secularist version of "pluralism" amounts to theological nudism.
