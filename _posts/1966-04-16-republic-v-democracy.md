@@ -1,8 +1,9 @@
 ---
-title: ""A Constitutional Republic, not a Democracy"
+title: "A Constitutional Republic, not a Democracy"
 layout: post
 categories:
 - Constitution
+- democracy
 tags:
 - Dan Smoot
 ---
