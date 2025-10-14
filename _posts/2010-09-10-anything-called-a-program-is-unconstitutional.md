@@ -536,7 +536,7 @@ The word cheating is applied only to recalcitrant taxpayers. It's never applied 
 
 The word minority is not numerical, but moral: it implies those with just grievances against the white majority.
 
-The world is truly going to hell. When I was in college, you had to be able to read Cliffs Notes in the original.
+The world is truly going to hell. When I was in college, you had to be able to read *CliffsNotes* in the original.
 
 There is no "new" morality. There is only the systematic pretense that sexual vice is not vice.
 
