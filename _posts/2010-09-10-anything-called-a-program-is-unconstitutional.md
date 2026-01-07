@@ -578,25 +578,15 @@ When a histrionic politician feels someone's pain, some agency will be required 
 
 When a politician talks of civil rights, peace, defense, abortion, or anything else, we always have to ask what his words do to the field of power.
 
-When black "leaders" and their white allies say in effect that blacks can't meet racially neutral standards, the Klan's services seem to be superfluous.
-
-When church and state clash, anyone who loves freedom --- even a nonbeliever --- should instinctively side with the church. The whole purpose of separating church and state is to limit the state.
-
 When the Lewinsky scandal broke, Mrs. Albright led the cabinet in declaring their belief in Clinton's denials. Now we're supposed to trust their judgment and honesty when they tell us that the retaliatory airstrikes were based on solid intelligence that a Sudanese pharmaceutical factory was producing a component of nerve gas. This isn't just a chain of command; it's a chain of faith. We are expected to put our faith in people who put their faith in Clinton.
 
 When we watch the old film noirs these days, we aren't seeing an underworld. We're seeing something more like a utopia.
 
 When you seduce a child, you can expect that to upstage your good deeds --- and for that matter, most of your bad deeds.
 
-Whenever a taxpayer lives a nightmare, someone else's dream is coming true.
-
 Why are rustic "cults" and "separatists" who don't bother their neighbors, rather than urban criminal gangs who do, the targets of so much federal attention?
 
 Why do we expect a man whose only adult experience has been politics to be able to run something as huge and sprawling as the executive branch of the federal government, let alone "the country"?
-
-Why does Bill Clinton carry a Bible with him wherever he goes? Probably in case he feels a sudden need to commit perjury.
-
-Why has liberalism provided useful camouflage for Communism? To put it another way, why didn't Communists bother passing themselves off as conservatives too? Was the border between liberalism and Communism especially porous? If so, and if many liberals accepted Communists as worthy allies, why should we be severe with antiCommunists who didn't or couldn't make fine distinctions between them?
 
 Why is diversity the favorite word of monotonous people? The instant you hear it, your nervous system braces itself for a torrent of cliches, Liberals are lucky the rest of us don't demand reparations for decades of boredom. If boredom were officially recognized as a form of suffering, the full extent of liberal guilt would be incalculable.
 
