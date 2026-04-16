@@ -2416,8 +2416,6 @@ No free government was ever founded or ever preserved its liberty, without uniti
 
 It is unclear how disarming law-abiding citizens would better protect them from the dangers and threats posed by those who would flout the law. It is at just such times that the constitutional right to self-defense is most precious and must be protected from government overreach. Rick Scott
 
-This may be considered as the true palladium of liberty. ... The right of self defence is the first law of nature: in most governments it has been the study of rulers to confine this right within the narrowest limits possible. Wherever standing armies are kept up, and the right of the people to keep and bear arms is, under any colour or pretext whatsoever, prohibited, liberty, if not already annihilated, is on the brink of destruction. St. George Tucker
-
 One of the sad signs of our times is that we have demonized those who produce, subsidized those who refuse to produce, and canonized those who complain. Thomas Sowell
 
 They would be the shepherds over us, their sheep. Certainly such an arrangement presupposes that they are naturally superior to the rest of us. And certainly we are fully justified in demanding from the legislators and organizers proof of this natural superiority. Frederic Bastiat
