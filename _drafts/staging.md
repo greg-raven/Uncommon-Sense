@@ -80,8 +80,6 @@ We cannot allow comrade Kamala Harris and the communist left to do to America wh
 
 The deterioration of every government begins with the decay of the principles on which it was founded. Charles de Montesquieu
 
-Do you wish to know when that day is coming? Watch money. Money is the barometer of a society's virtue. When you see that trading is done, not by consent, but by Compulsion --- when you see that in order to produce, you need to obtain permission from men who produce nothing --- when you see that money is flowing to those who deal, not in goods, but in favors --- when you see that men get richer by graft and by pull than by work, and your laws don't protect you against them, but protect them against you --- when you see corruption being rewarded and honesty becoming self-sacrifice --- you may know that your society is doomed. Money is so noble a medium that it does not compete with guns and it does not make terms with brutality. It will not permit a country to survive as half-property, half-loot. Ayn Rand
-
 Where there is no law there is no Liberty. Benjamin Rush
 
 There is no such thing as gun control. There is only centralizing gun ownership in the hands of a small political elite and their minions. Stefan Molyneux

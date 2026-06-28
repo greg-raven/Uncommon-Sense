@@ -1,5 +1,5 @@
 ---
-title: "Gun control"
+title: "Gun control is a tool"
 layout: post
 categories:
 - Second Amendment

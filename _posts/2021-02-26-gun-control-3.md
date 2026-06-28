@@ -1,5 +1,5 @@
 ---
-title: "Gun control"
+title: "Gun control for federal agents"
 layout: post
 categories:
 - Second Amendment
