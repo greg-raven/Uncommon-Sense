@@ -60,13 +60,9 @@ Bill and Hillary Clinton are like members of a trapeze act who hate each other's
 
 Bill Clinton grew up in the gambling town of Hot Springs, not exactly a pastoral setting (it's more like a Mafia Shangrila), where playing the angles is a way of life. If he knows any hog-calls, they're probably Sicilian. Of all the kids in his class, he was both most likely to succeed and most likely to be indicted.
 
-Black hatred of whites, obvious enough in such phenomena as inter-racial crime ( which is overwhelmingly black-against-white), may sometimes be called "reverse" racism; but even this shows that the word racism isn't racially neutral. It implicitly refers to whites, unless a qualifier is added.
-
 Broadly speaking, the modern Court has redefined the Constitution to favor the agenda of liberal Democrats. With suspicious consistency, whatever they desire is ruled constitutionally permissible and may be enacted by the democratic process. Whatever liberal Democrats don't want is apt to be found constitutionally taboo, no matter how many voters want it.
 
 By a very conservative estimate, a hundred million people have died at the hands of their own governments in this century. Given that record, how bad could anarchy be?
-
-By now it should be clear to anyone with a brain that forced integration is to racial harmony what the shotgun wedding is to romance.
 
 Can it be an accident that back when people were more judgmental, they didn't shoot each other quite so often? When you have commonly accepted moral standards, you don't usually need to resort to force. But when moral rebuke no longer exerts its restraining influence, there is a human temptation to blow the offending party away, as it were.
 
@@ -75,10 +71,6 @@ Can you imagine the media politely pretending not to notice, say, neo-Nazis join
 Certain shoes, for some reason, are never put on the other foot.
 
 Chain gangs have been reintroduced by the state of Alabama. Prisoners are actually being shackled together again and sent out to bust rocks all day, just like in old movies. Bryant Gumbel called this "a shameful reminder of our nation's past." I'd call it a shameful reminder of our nation's present, when crime has reached levels that would not have been tolerated in the past.
-
-Christians are accused of belligerency whenever they notice that they are under attack.
-
-Civil rights no longer means freedom. It means the bureaucrats are coming.
 
 Clinton is amazingly, brazenly sucker-oriented.
 
