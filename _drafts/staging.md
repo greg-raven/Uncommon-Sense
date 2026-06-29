@@ -2930,6 +2930,12 @@ We have depended on government for so much for so long that we as people have be
 
 We have no more right to consume happiness without producing it than to consume wealth without producing it. George Bernard Shaw
 
+Creation comes before distribution or there will be nothing to distribute. The need of the creator comes before the need of any possible beneficiary. Ayn Rand
+
+And so, my fellow Americans: Ask not what your country can do for you --- ask what you can do for your country. My fellow citizens of the world: Ask not what America will do for you, but what together we can do for the freedom of man. John F. Kennedy
+
+Government can do something for the people only in proportion as it can do something to the people. Thomas Jefferson
+
 
 
 
