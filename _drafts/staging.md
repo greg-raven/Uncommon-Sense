@@ -2493,6 +2493,445 @@ There is no crime more infamous than the violation of truth. It is apparent that
 
 There can be no public or private virtue unless the foundation of action is the practice of truth. George Jacob Holyoake
 
+A truly American sentiment recognizes the dignity of labor and the fact that honor lies in honest toil. Grover Cleveland
+
+The dangers of a concentration of all power in the general government of a confederacy so vast as ours are too obvious to be disregarded. Franklin Pierce
+
+Man is not free unless government is limited ... As government expands, liberty contracts. Ronald Reagan
+
+We don't need more gun control laws. We need more people who obey the laws we already have. Ronald Reagan
+
+Nations crumble from within when the citizenry asks of government those things which the citizenry might better provide for itself. ... Man is not free unless government is limited. There's a clear cause and effect here that is as neat and predictable as a law of physics: As government expands, liberty contracts. Ronald Reagan
+
+Many now believe that with the rise of the totalitarian State the world has entered upon a new era of barbarism. It has not. The totalitarian State is only the State; the kind of thing it does is only what the State has always done with unfailing regularity, if it had the power to do it, wherever and whenever its own aggrandizement made that kind of thing expedient. Give any State like power hereafter, and put it in like circumstances, and it will do precisely the same kind of thing. The State will unfailingly aggrandize itself, if only it has the power, first at the expense of its own citizens, and then at the expense of anyone else in sight. It has always done so, and always will. Albert Jay Nock
+
+I sometimes think that the main difference between ourselves and the other side is we see an America where every day is the Fourth of July, and they see an America where every day is April 15th. Ronald Reagan
+
+When someone tries to lay a guilt trip on you for being successful, remember that your guilt is some politician's license to take what you worked for and give it to someone else who is more likely to vote for the politician who plays Santa Claus with your money. Thomas Sowell
+
+Civil rights used to be about treating everyone the same. But today some people are so used to special treatment that equal treatment is considered to be discrimination. Thomas Sowell
+
+Only traitors help invaders. Anonymous
+
+The essence of Government is power; and power, lodged as it must be in human hands, will ever be liable to abuse. James Madison
+
+Whether it's school choice or parents' rights, freedom is always the right answer. Tim Scott
+
+No society ever thrived because it had a large and growing class of parasites living off of those who produce. Thomas Sowell
+
+When plunder becomes a way of life for a group of men living together in society, they create for themselves in the course of time a legal system that authorizes it and a moral code that glorifies it. Frédéric Bastiat
+
+We seem to be getting closer and closer to a situation where nobody is responsible for what they did but we are all responsible for what somebody else did. Thomas Sowell
+
+It is usually futile to try to talk facts and analysis to people who are enjoying a sense of moral superiority in their ignorance. Thomas Sowell
+
+To disarm the people is the best and most effectual way to enslave them. George Mason
+
+It is our opinion that an ordinance may not deny the people the constitutionally guaranteed right to bear arms, and to that extent the ordinance under consideration is void. New Mexico Court of Appeals
+
+No kingdom can be secured otherwise than by arming the people. The possession of arms is the distinction between a freeman and a slave. He, who has nothing, and who himself belongs to another, must be defended by him, whose property he is, and needs no arms. But he, who thinks he is his own master, and has what he can call his own, ought to have arms to defend himself, and what he possesses; else he lives precariously, and at discretion. James Burgh
+
+No law shall abridge the right of the citizen to keep and bear arms for security and defense of themselves, their families, their property and the state. New Mexico Constitution
+
+To hold that Congress has general police power would be to hold that it may accomplish objects not intrusted to the general government, and to defeat the operation of the 10th Amendment, declaring that "the powers not delegated to the United States by the Constitution, nor prohibited by it to the states, are reserved to the states respectively, or to the people." Melville Fuller
+
+Socialism in America will come through the ballot box. Gus Hall
+
+"The general object was to produce a cure for the evils under which the United States labored; that in tracing these evils to their origins, every man had found it in the turbulence and follies of democracy. Edmund Randolph
+
+When it becomes dominated by a collectivist creed, democracy will inevitably destroy itself. Friedrich August von Hayek
+
+Some people have a depraved taste for equality, which impels the weak to lower the powerful to their own level, and reduces men to prefer equality in slavery to inequality with freedom. I believe that it is easier to establish an absolute and despotic government amongst a people in which the conditions of society are equal, than amongst any other; and I think that, if such a government were once established amongst such a people, it would not only oppress men, but would eventually strip each of them of several of the highest qualities of humanity. Despotism, therefore, appears to me peculiarly to be dreaded in democratic times. Alexis de Tocqueville
+
+Envy is the basis of democracy. Bertrand Russell
+
+If the right to vote were expanded to seven year olds ... its policies would most definitely reflect the "legitimate concerns" of children to have "adequate" and "equal" access to "free" french fries, lemonade and videos. Hans-Hermann Hoppe
+
+Socialism is the philosophy of failure, the creed of ignorance, and the gospel of envy. Winston Churchill
+
+Whoever claims the right to redistribute the wealth produced by others is claiming the right to treat human beings as chattel. Ayn Rand
+
+The more one considers the matter, the clearer it becomes that redistribution is in effect far less a redistribution of free income from the richer to the poorer, as we imagined, than a redistribution of power from the individual to the State. Bertrand de Jouvenel
+
+The Democratic constituency is just like a herd of cows. All you have to do is lay out enough silage and they come running. That’s why I became an operative working with Democrats. With Democrats all you have to do is make a lot of noise, lay out the hay, and be ready to use the ole cattle prod in case a few want to bolt the herd. James Carville
+
+Socialism in general has a record of failure so blatant that only an intellectual could ignore or evade it. Thomas Sowell
+
+The whole point of the liberal revolution that gave rise to the 1960s was to free us from somebody else’s dogma, but now the same people ... are striving to impose on others a secularized religion ... disguising it behind innocuous labels like "diversity training" and "respect for difference." Richard Bernstein
+
+The great non sequitur committed by defenders of the State, including classical Aristotelian and Thomist philosophers, is to leap from the necessity of society to the necessity of the State. Murray N. Rothbard
+
+The only purpose for which power can be rightfully exercised over any member of a civilized community, against his will, is to prevent harm to others. His own good, either physical or moral, is not sufficient warrant. John Stuart Mill
+
+For liberalism, the individual is the end, and society the means. For fascism, society is the end, individuals the means, and its whole life consists in using individuals as instruments for its social ends. Alfredo Rocco
+
+The man of system ... is apt to be very wise in his own conceit; and is often so
+enamoured with the supposed beauty of his own ideal plan of government, that he
+cannot suffer the smallest deviation from any part of it ... He seems to imagine
+that he can arrange the different members of a great society with as much ease
+as the hand arranges the different pieces upon a chess-board. He does not
+consider that in the great chess-board of human society, every single piece has
+a principle of motion of its own, altogether different from that which the
+legislature might choose to impress upon it. Adam Smith
+
+Fortunately, political freedom and economic progress are natural partners. Despite capitalism's lingering reputation as the source of all the world's evils, the fact remains that every single democracy is a capitalist country. Half a century of economic experimentation proved beyond doubt that tyranny cannot yield prosperity. ... Socialism collapsed because it is a policy of unrestrained intervention. It tries to fix what is "wrong" with the spontaneous, self-organizing phenomenon called capitalism. But, of course, a natural process cannot be "fixed." ... Socialism is an ideology. Capitalism is a natural phenomenon. Michael Rothschild
+
+There is in all of us a strong disposition to believe that anything lawful is also legitimate. This belief is so widespread that many persons have erroneously held that things are "just" because the law makes them so. Frederic Bastiat
+
+Open discussion of many major public questions has for some time now been taboo. We can’t open our mouths without being denounced as racists, misogynists, supremacists, imperialists, or fascists. As for the media, they stand ready to trash anyone so designated. Saul Bellow
+
+If we cannot live so as to be happy, let us at least live so as to deserve it. Immanuel Hermann von Fichte
+
+Nearly all men can withstand adversity; if you want to test a man's character, give him power. Abraham Lincoln
+
+Dignity does not come in possessing honors, but in deserving them. Aristotle
+
+A good end cannot sanctify evil means; nor must we ever do evil, that good may come of it. William Penn
+
+Shame on the men who can court exemption from present trouble and expense at the price of their own posterity's liberty! Samuel Adams
+
+A limited Constitution ... can be preserved in practice no other way than through the medium of courts of justice, whose duty it must be to declare all acts contrary to the manifest tenor of the Constitution void. Without this, all the reservations of particular rights or privileges would amount to nothing ... To deny this would be to affirm … that men acting by virtue of powers may do not only what their powers do not authorize, but what they forbid. Alexander Hamilton
+
+If you have 10,000 regulations, you destroy all respect for the law. Winston Churchill
+
+No matter what anyone may say about making the rich and the corporations pay taxes,
+in the end they come out of the people who toil. Calvin Coolidge
+
+It is easy to think the State has a lot of different objects --- military, political, economic, and what not. But in a way things are much simpler than that. The State exists simply to promote and to protect the ordinary happiness of human beings in this life. A husband and wife chatting over a fire, a couple of friends having a game of darts in a pub, a man reading a book in his own room or digging in his own garden --- that is what the State is there for. And unless they are helping to increase and prolong and protect such moments, all the laws, parliaments, armies, courts, police, economics, etc., are simply a waste of time. C. S. Lewis
+
+Subsidies entail politicians’ taking the citizen’s paycheck and then using it to buy his submission. James Bovard
+
+No taxation without representation. Jonathan Mayhew
+
+As all history informs us, there has been in every State & Kingdom a constant kind of warfare between the governing & governed: the one striving to obtain more for its support, and the other to pay less. And this has alone occasioned great convulsions, actual civil wars, ending either in dethroning of the Princes, or enslaving of the people. Generally indeed the ruling power carries its point, the revenues of princes constantly increasing, and we see that they are never satisfied, but always in want of more. The more the people are discontented with the oppression of taxes; the greater need the prince has of money to distribute among his partisans and pay the troops that are to suppress all resistance, and enable him to plunder at pleasure. There is scarce a king in a hundred who would not, if he could, follow the example of Pharaoh, get first all the peoples money, then all their lands, and then make them and their children servants for ever ... Benjamin Franklin
+
+Governments last as long as the undertaxed can defend themselves against the overtaxed. Bernard Berenson
+
+Be not intimidated ... nor suffer yourselves to be wheedled out of your liberties by any pretense of politeness, delicacy, or decency. These, as they are often used, are but three different names for hypocrisy, chicanery and cowardice. John Adams
+
+There is one thing in the world more wicked than the desire to command, and that is the will to obey. William Kingdon Clifford
+
+Socialists have a remarkable lack of interest in how wealth is created. As far as they know, wealth just exists somehow, and the only interesting question is how to redistribute it. Thomas Sowell
+
+Congress will ever exercise their powers to levy as much money as the people can pay. They will not be restrained from direct taxes by the consideration that necessity does not require them. Melancton Smith
+
+Our government has found that the most effective way to control a person is not by the ballot or the bullet, but rather by the "bucket." Today, in a country that fought a revolution to rid itself of a repressive government and excessive taxes, government takes 40 percent of everything we earn in the form of taxes. Byron C. Radaker
+
+Welfare mostly subsidizes people in poverty, helping few escape from it. In their hearts, most people who are poor would like to be rich, or at least self-sustaining, but this president never talks about how they might achieve that goal. Instead, he criticizes those who made the right choices and now enjoy the fruits of their labor. Rather than use successful people as examples for the poor to follow, the president seeks to punish the rich with higher taxes and more regulations on their businesses. Cal Thomas
+
+Real charity doesn’t mean giving away someone else’s money. Doug Bandow
+
+Men naturally rebel against the injustice of which they are victims. Thus, when plunder is organized by law for the profit of those who make the law, all the plundered classes try somehow to enter --- by peaceful or revolutionary means --- into the making of laws. According to their degree of enlightenment, these plundered classes may propose one of two entirely different purposes when they attempt to attain political power: Either they may wish to stop lawful plunder, or they may wish to share in it. Frederic Bastiat
+
+The government taxes you when you bring home a paycheck.
+It taxes you when you make a phone call.
+It taxes you when you turn on a light.
+It taxes you when you sell a stock.
+It taxes you when you fill your car with gas.
+It taxes you when you ride a plane.
+It taxes you when you get married.
+Then it taxes you when you die.
+This is taxual insanity and it must end. J. C. Watts, Jr.
+
+Let's see socialism for what it is. Not in the abstract, but in reality. Socialism is:
+- The taking of money (taxes) from some people who work for it and giving it to others who don't work for it. On a grand scale.
+- The vast expansion of freebies doled out by central government. In order to create and sustain dependence.
+- The government protection of favored persons and corporations, permitting them and aiding them to expand their fortunes without limit, regardless of what crimes they commit in the process. (Monsanto would be a fine example.)
+- The squeezing out of those who would compete with the favored persons and corporations.
+- The dictatorship by and for the very wealthy, pretending to be the servant of the masses.
+- The lie that the dictatorship is being run by the masses.
+- The gradual lowering of the standard of living for the overwhelming number of people.
+- The propaganda claiming socialism is the path to a better world for all.
+In other words, socialism is a protection racket and a long con and a heartless system of elite control, posing as the greatest good.
+It is just another form of top-down tyranny --- as old as the hills. Jon Rappoport
+
+Three groups spend other people's money: children, thieves, politicians. All three need supervision. Richard Armey
+
+At the start of this nation’s unique experiment with individual sovereignty and limited government, “Taxation without representation is tyranny” was the watchword of the American Revolution. For our Founding Fathers, a level of taxation of only a few cents on a dollar, siphoned off to a faraway and arrogant bureaucracy, was enough to ignite a revolution enough to grab the trusty musket off the wall. Today, in contrast, if we dare to startle the more panicky among us by buying a good rabbit gun, the government’s there at the cash register to check our papers and seize $46 on every $100. Ralph Reiland
+
+We contend that for a nation to try to tax itself into prosperity is like a man standing in a bucket and trying to lift himself up by the handle. Winston Churchill
+
+The income tax is incompatible with a free society. The IRS routinely intrudes on our basic civil liberties and privacy rights --- and its intrusions are getting worse all the time. I want an America where it is no longer the government's business how much money you make and what you do with it. Stephen Moore
+
+As long as our government is administered for the good of the people, and is regulated by their will; as long as it secures to us the rights of persons and of property, liberty of conscience and of the press, it will be worth defending. Andrew Jackson
+
+The fundamental principle is this: No matter how worthwhile an end may be, if there is no constitutional authority to pursue it, then the federal government must step aside and leave the matter to the states or to private parties. The president and Congress can proceed only from constitutional authority, not from good intentions alone. If Congress thinks it necessary to expand its powers, the Framers crafted an amendment process for that purpose. But too often, rather than follow that process, Congress has disregarded the limits set by the Constitution and gutted our frontline defense against overweening federal government. Robert A. Levy
+
+[If Parliament] may take from me one shilling in the pound, what security have I for the other nineteen? Richard Henry Lee
+
+Nine tenths of everything is tax. Everything you buy has a complicated history of robbery: land, raw materials, energy, tools, buildings, transport, storage, sales, profits. Don't forget the share you contribute toward the personal income tax of every worker who has anything to do with the process. Inflation by taxation: there are a hundred taxes on a loaf of bread. What kind of living standard would we enjoy if everything cost a tenth of what it does? What kind of world? Think of your home, your car, your TV, your shoes, your supper --- all at a 90% discount! Government can't fight poverty --- poverty is its proudest achievement! L. Neil Smith
+
+In general, the art of government consists in taking as much money as possible from one party of the citizens to give to the other. Voltaire
+
+Anyone may arrange his affairs so that his taxes shall be as low as possible; he is not bound to choose that pattern which best pays the treasury. There is not even a patriotic duty to increase one's taxes. Over and over again the Courts have said that there is nothing sinister in so arranging affairs as to keep taxes as low as possible. Everyone does it, rich and poor alike and all do right, for nobody owes any public duty to pay more than the law demands. Judge Learned Hand
+
+One of the most insidious consequences of the present burden of personal income tax is that it strips many middle-class families of financial reserves. It has made the individual vastly more dependent on the State. W. H. Chamberlin
+
+If a government were trying to squeeze as much money as possible out of a population, what would it do?
+1. The use of indirect rather than direct taxes, so that the tax is hidden in the price of goods.
+2. Inflation, by which the state reduces the value of everyone else's currency.
+3. Borrowing, so as to postpone the necessary taxation.
+4. Gift and luxury taxes, where the tax accompanies the receipt or purchase of something special, lessening the annoyance of the tax.
+5. "Temporary" taxes, which somehow never get repealed when the emergency passes.
+6. Taxes that exploit social conflict, by placing higher taxes on unpopular groups.
+7. The threat of social collapse or withholding monopoly government services if taxes are reduced.
+8. Collection of the total tax burden in relatively small increments over time, rather than in a yearly lump sum.
+9. Taxes whose exact incidence cannot be predicted in advance, thus keeping the taxpayer unaware of just how much he is paying.
+10. Extraordinary budget complexity to hide the budget process from public understanding.
+11. The use of generalized expenditure categories to make it difficult for outsiders to assess the individual components of the budget. Amilcare Puviani
+
+Taxation of earnings from labor is on a par with forced labor. Seizing the results of someone's labor is equivalent to seizing hours from him and directing him to carry on various activities. Robert Nozick
+
+Our U.S. government each year spends roughly 30 percent more money than it
+takes in. It took 39 Presidents and 200 years to accumulate a debt of $1
+trillion dollars. But it has taken only the past 12 years for that debt to
+triple to more than $5.9 trillion. Interest payments on the deficit alone add
+up to more than what our government pays for unemployment compensation,
+veteran's benefits, postal operations, housing, education, and highways
+combined. Saddled with this tremendous burden, it is impossible for our
+businesses to invest, harder for families to afford homes and medical care, and
+difficult for the United States to play its role in matters of national and
+international economic security. James Bilbray
+
+Taxes on capital, taxes on labor, inflation, bureaucratic regulation, minimum wage laws, are all --- to different degrees --- unnecessary slices of the wedge that stand between an individual's effort and reward for that effort. Jack Kemp
+
+When a government takes over a people's economic life it becomes absolute, and when it has become absolute it destroys the arts, the minds, the liberties and the meaning of the people it governs. Maxwell Anderson
+
+Those who support the death tax generally do so not for economic reasons but for political ones. They want to make the tax code "fair" by taxing away the lifetime wealth of others. William Beach
+
+Historians and economists are very good at creating and perpetuating myths that justify increasing the power placed in the hands of government. Reuven Brenner
+
+The creation of money exclusively as debt is the critical, destabilizing flaw in the American Economy. Theodore R. Thoren
+
+Wars in old times were made to get slaves. The modern implement of imposing slavery is debt. Ezra Pound
+
+Gold is the money of kings; silver is the money of gentlemen; barter is the money of peasants; but debt is the money of slaves. Norm Franz
+
+[R]evenues drive expenditures, not the inverse. ... tax evasion represents a net benefit to everybody ... A statue should be erected to the unknown tax evader. Pierre Lemieux
+
+Our federal tax system is, in short, utterly impossible, utterly unjust and completely counterproductive, [it] reeks with injustice and is fundamentally un-American ... it has earned a rebellion and it's time we rebelled. Ronald Reagan
+
+The government deficit is the difference between the amount of money the government spends and the amount it has the nerve to collect. Sam Ewing
+
+No free government, or the blessings of liberty, can be preserved to any people, but by a firm adherence to justice, moderation, temperance, frugality and virtue, and by frequent recurrence to fundamental principles. George Mason
+
+I, however, place economy among the first and most important republican virtues, and public debt as the greatest of the dangers to be feared. Thomas Jefferson
+
+The most sinister and anti-social feature about bank-deposit money is that it has no existence. The banks owe the public for a total amount of money which does not exist. In buying and selling, implemented by cheque transactions, there is a mere change in the party to whom the money is owed by the banks. As the one depositor's account is debited, the other is credited and the banks can go on owing for it all the time. The whole profit of the issuance of money has provided the capital of the great banking business as it exists today. Starting with nothing whatever of their own, they have got the whole world into their debt irredeemably, by a trick. This money comes into existence every time the banks "lend" and disappears every time the debt is repaid to them. So that if industry tries to repay, the money of the nation disappears. This is what makes prosperity so "dangerous" as it destroys money just when it is most needed and precipitates a slump. There is nothing left now for us but to get ever deeper and deeper into debt to the banking system in order to provide the increasing amounts of money the nation requires for its expansion and growth. An honest money system is the only alternative. Frederick Soddy
+
+You can imagine, then, how this inflation and debt-based system, over time, will begin to change the culture of a society and its behavior. We become more materialistic than under a natural monetary system. We can't just sit on our savings anymore, and we have to watch our investments constantly, and think about revenue constantly, because if it is not earning enough, we are actively getting poorer. Jorg Guido Hulsmann
+
+Not understanding the process of a spontaneously-ordered economy goes hand-in-hand with not understanding the creation of resources and wealth. Julian Simon
+
+It's a mistake to think that poor people get the benefit from the welfare system. It's a total fraud. Most welfare go to the rich of this country: the military-industrial complex, the bankers, the foreign dictators, it's totally out of control. ... This idea that the government has services or goods that they can pass on is a complete farce. Governments have nothing. They can't create anything, they never have. All they can do is steal from one group and give it to another at the destruction of the principles of freedom, and we ought to challenge that concept. Dr. Ron Paul
+
+He who will not economize will have to agonize. Confucius
+
+A billion here, a billion there, sooner or later it adds up to real money. Everett Dirksen
+
+It has often been found that profuse expenditures, heavy taxation, absurd commercial restrictions, corrupt tribunals, disastrous wars, seditions, persecutions, conflagrations, inundation, have not been able to destroy capital so fast as the exertions of private citizens have been able to create it. Thomas Babington Macaulay
+
+Fairness does not require the redistribution of wealth; it requires the creation of wealth, geared to an economy that can provide employment for everyone able and willing to work. Felix Rohatyn
+
+A socialist is somebody who doesn't have anything, and is ready to divide it up equally among everybody. George Bernard Shaw
+
+The economic disasters of socialism and communism come from assuming a blanket superiority of those who want to run a whole economy. Thomas Sowell
+
+I have no sympathy for the narrow, selfish notion of economy which assumes that every crumb of bread which goes into the mouth of one class is so much taken from the mouths of another class. Frederick Douglass
+
+If welfare and equality are to be primary aims of law, some people must necessarily possess a greater power of coercion in order to force redistribution of material goods. Political power alone should be equal among human beings; yet striving for other kinds of equality absolutely requires political inequality. Tibor Machan
+
+Inflation is not caused by the actions of private citizens, but by the government: by an artificial expansion of the money supply required to support deficit spending. No private embezzlers or bank robbers in history have ever plundered people's savings on a scale comparable to the plunder perpetrated by the fiscal policies of statist governments. Ayn Rand
+
+Government spending on business only aggravates the problem. Too many business have successfully lobbied for special favors and treatment by seeking mandates for their products, subsidies (in the form of cash payments from the government), and regulations and tariffs to keep more efficient competitors at bay. Crony capitalism is much easier than competing in an open market. But it erodes our overall standard of living and stifles entrepreneurs by rewarding the politically favored rather than those who provide what consumers want. Charles Koch
+
+When plunder becomes a way of life for a group of men living together in society, they create for themselves in the course of time a legal system that authorizes it and a moral code that glorifies it. Frederic Bastiat
+
+It is absolutely wrong for the Government to issue interest-bearing obligations. It is not only wrong: it is extravagant. It is not only extravagant, it is wasteful. It is absolutely unnecessary. Wright Patman
+
+In the 1950's [America was] the richest nation, the richest city on earth was Detroit. They voted for change and so now it is the poorest city in America. At the same time, the nation of South Korea, of all the nations on earth, was third from the bottom. Virtually the poorest nation on earth. It is now tenth from the top. If you understand the principle, the greater freedom, the greater the wealth, you can then put any nation [on this chart]. Now you can go to Tagusagopos, you can go to Buenos Aires, you can go to Cairo, you can go to Philadelphia and all you need to know is what percentage of the Gross Domestic Product is controlled by government, and the greater the government, the greater the poverty, and that's all politics is about. Every day politicians say, "I can make a better decision for you than you can for yourself, and let me take your money away from you and make it on your behalf" and thus make the nation poorer. Bob McEwen
+
+The chief duty of the National Government in connection with the currency of the country is to coin money and declare its value. Grave doubts have been entertained whether Congress is authorized by the Constitution to make any form of paper money legal tender. The present issue of United States notes has been sustained by the necessities of war; but such paper should depend for its value and currency upon its convenience in use and its prompt redemption in coin at the will of the holder, and not upon its compulsory circulation. These notes are not money, but promises to pay money. If the holders demand it, the promise should be kept. James A. Garfield
+
+I am myself persuaded, on the basis of extensive study of the historical evidence, that ... the severity of each of the contractions --- 1920--21, 1929--33, and 1937--38 --- is directly attributable to acts of commission and omission by the Reserve authorities and would not have occurred under earlier monetary and banking arrangements. Milton Friedman
+
+We also need to encourage Americans to become more fiscally responsible themselves. We can do this by redesigning our tax system into an expenditure tax with a single flat rate. ... We have to substantially reduce the size and scope of the federal government, fundamentally increase the role of the states in choosing their own practices, and bring decision-making closer to the people, not to unelected administrators. These steps are crucial to getting our nation on a path of fiscal, political and constitutional responsibility. Edwin Feulner
+
+True individual freedom cannot exist without economic security and independence. Franklin D. Roosevelt
+
+Ruff's Third Law of Economic Dynamics: "An economy in motion tends to stay in motion, and an economy at rest tends to stay at rest. A free market is constantly in motion. A centrally planned market slows until it eventually dies completely. Mike Ruff
+
+Christmas is a time when kids tell Santa what they want and adults pay for it.  Deficits are when adults tell the government what they want and their kids pay for it." Richard Lamm
+
+Government is not the generator of economic growth; working people are. Phil Gramm
+
+You cannot legislate the poor into freedom by legislating the wealthy out of freedom. What one person receives without working for, another person must work for without receiving. The government cannot give to anybody anything that the government does not first take from somebody else. When half of the people get the idea that they do not have to work because the other half is going to take care of them, and when the other half gets the idea that it does no good to work because somebody else is going to get what they work for, that my dear friend, is the end of any nation. You cannot multiply wealth by dividing it. Adrian Rogers
+
+After the 16th Amendment was ratified, an income tax was imposed starting in 1913 with rates ranging from 1 percent to 7 percent with the top rate applying only to incomes in excess of $500,000. By 1916 that top rate had risen to 15 percent, on income in excess of $2,000,000. The top rate exceeded 90 percent at its peak in the early 1950s. The first 1040 form --- instructions and all --- took up only four pages. Today there are some 4,000 pages of tax forms and instructions.  American workers and business are forced to spend more than 5.4 billion man-hours every year figuring out their taxes. Since those hours could be put to a more productive use, and almost surely would be in the absence of today's incomprehensible tax code, the result is a large dead-weight output loss of some $200 billion each year. ... The IRS now has more enforcement personnel than the EPA, BATF, OSHA, FDA, and DEA combined. With its 115,000-man workforce, it has the power to search the property and financial documents of American citizens without a search warrant and to seize property from American citizens without a trial. It routinely does both. Economist James L. Payne has written a most revealing analysis of the IRS, a 1993 book entitled Costly Returns. He arrives at a stunning conclusion, the total cost to collect our federal taxes, including the effects on the economy as a whole adds up to an amazing 65 percent of all the tax dollars received annually. The U.S. tax system, says Payne, has produced hundreds of thousands of victims of erroneous IRS penalties, liens, levies, and tax advice. In answering taxpayer questions, for example, the IRS telephone information service has in previous years given about one-third of all callers --- as many as 8.5 million Americans --- the wrong answers to their questions. A 1987 General Accounting Office study found that 47 percent of a random sample of IRS correspondence --- including demands for payments --- contained errors. Incredibly a GAO audit of the IRS in 1993 found widespread evidence of financial malfeasance and gross negligence at the agency. The IRS could not account for 64 percent of its congressional appropriation! Lawrence W. Reed
+
+Taxation with representation ain't so hot either. Gerald Barzan
+
+Force always attracts men of low morality. Albert Einstein
+
+Moral indignation is in most cases 2% moral, 48% indignation and 50% envy. Vittorio de Sica
+
+The Constitution is a written instrument. As such it's meaning does not alter. That which it meant when adopted, it means now. SCOTUS (South Carolina vs. United States)
+
+We must not permit our respect for the dead or our sympathy for the living to lead us into an act of injustice to the balance of the living. I will not attempt to prove that Congress has no power to appropriate this money as an act of charity. Every member upon this floor knows it. We have the right as individuals to give away as much of our own money as we please in charity; but as members of congress we have no right to appropriate a dollar of the public money. Davy Crockett
+
+There are 10^11 stars in the galaxy.  That used to be a huge number.  But it's only a hundred billion.  It's less than the national deficit!  We used to call them astronomical numbers.  Now we should call them economical numbers. Richard Feynman
+
+One of the common failings among honorable people is a failure to appreciate how thoroughly dishonorable some other people can be, and how dangerous it is to trust them. Thomas Sowell
+"Let every nation know, whether it wishes us well or ill, that we shall pay any price, bear any burden, meet any hardship, support any friend, oppose any foe to assure the survival and the success of liberty. John F. Kennedy
+
+We don't believe in gender, but we need a female president. Whitney Cummings 2026-01-10-gender-confusion.md
+
+... Virtue, morality, and religion. This is the armor, my friend, and this alone that renders us invincible. These are the tactics we should study. If we lose these, we are conquered, fallen indeed ... so long as our manners and principles remain sound, there is no danger. Patrick Henry
+
+Everything gets smaller as the government gets bigger. Liberty gets smaller, individuality gets smaller, goodness gets smaller, and human character gets smaller. Dennis Prager
+
+No man is justified in doing evil on the ground of expediency. Theodore Roosevelt
+
+The cost of liberty is less than the cost of repression. W. E. B. Du Bois
+
+Congress may not abdicate or transfer to others its legitimate functions. U.S. Supreme Court, Schechter Poultry v. U.S., 29 U.S. 495, 55 U.S. 837.842 (1935)
+
+It is an accepted maxim of international law that every sovereign nation has the power, as inherent in sovereignty, and essential to self-preservation, to forbid the entrance of foreigners within its dominions ... Justice Horace Gray
+
+The traditional power of the Nation over the alien is a power inherent in every sovereign state. Robert H. Jackson
+
+If it weren't for lawyers, we wouldn't need them. A. K. Griffin
+
+Useless laws weaken necessary laws. Charles-Louis de Secondat
+
+Many laws as certainly make bad men, as bad men make many bad laws. Walter Savage Landor
+
+Liberty is to the collective body, what health is to every individual body.  Without health no pleasure can be tasted by man; without liberty, no happiness can be enjoyed by society. Thomas Jefferson
+
+Though the flame of liberty may sometimes cease to shine, the coal can never expire. Thomas Paine
+
+Good intentions will always be pleaded for every assumption of authority. It is hardly too strong to say that the Constitution was made to guard the people against the dangers of good intentions. There are men in all ages who mean to govern well, but they mean to govern. They promise to be good masters, but they mean to be masters. Daniel Webster
+
+A communist system can be recognized by the fact that it spares the criminals and criminalizes the political opponent. Aleksandr Solzhenitsyn
+
+If you keep voting for people who think you're too dumb to get an ID, you're proving their point. Anonymous
+
+In principle, there are only two fundamental political viewpoints. That is, two contradictory ends of the "political spectrum." Those two principles are freedom and slavery. Mark Da Cunha
+
+If you are afraid to speak against tyranny, then you are already a slave. John "Birdman" Bryant
+
+Honest difference of views and honest debate are not disunity. They are the vital process of policy among free men. Herbert Hoover
+
+Stay away from liberals. They act like they're victims of the problems they created. Anonymous
+
+You can fool some of the people all of the time, and all of the people some of the time, and that's good enough. Dr. Edwin Vieira
+
+If a state by statute categorically banned drivers' licenses for 95 percent of the state's drivers, or for 95 percent of the roads in the state, it would be quite strange to characterize that as a mere "licensing" regime. We would have no trouble recognizing such a characterization as classic Orwellian doublespeak. Lawrence VanDyke, U.S. Court of Appeals for the Ninth Circuit, writing for the majority in Baird v. Bonta
+
+No State shall ... coin money; emit bills of credit; make any thing but gold and silver coin a tender in payment of debts ... United States Constitution, Article 1, Section 10, Clause 1
+
+The Second Amendment does not grant us the right to bear arms. The Second Amendment denies the government the authority to infringe upon our right to bear arms!
+
+The new law will create inflation whenever the trusts want inflation...they can unload the stocks on the people at high prices during the excitement and then bring on a panic and buy them back at low prices ... the day of reckoning is only a few years removed. Charles A. Lindbergh, Sr.
+
+[Handout H: Plessy v. Ferguson (1896) — Dissenting Opinion | National Leader in Civic Education Resources | Bill of Rights Institute](https://billofrightsinstitute.org/activities/handout-h-plessy-v-ferguson-dissenting-opinion/)
+In view of the constitution, in the eye of the law, there is in this country no superior, dominant, ruling class of citizens. There is no caste here. Our constitution is color-blind, and neither knows nor tolerates classes among citizens. In respect of civil rights, all citizens are equal before the law. The humblest is the peer of the most powerful.
+
+As I grow older, I pay less attention to what men say. I just watch what they do. Andrew Carnegie
+
+[Celebrate Pride Month With These 12 Inspiring Bible Passages About Pride | Babylon Bee](https://babylonbee.com/news/celebrate-pride-month-with-these-12-inspiring-bible-passages-about-pride)
+
+When we regard a man as morally responsible for an act, we regard him as a legitimate object of moral praise or blame in respect of it. But it seems plain that a man cannot be a legitimate object of moral praise or blame for an act unless in willing the act he is in some important sense a "free" agent.  Evidently free will in some sense, therefore, is a precondition of moral responsibility. C. Arthur Campbell
+
+I believe the best social program is a job. Ronald Reagan
+
+Let me offer you my definition of social justice: I keep what I earn and you keep what you
+earn. Do you disagree? Well then tell me how much of what I earn belongs to you --- and why?  Walter Williams
+
+Never forget that the press is the enemy. The establishment is the enemy. The professors are the enemy. Professors are the enemy. Write that on a blackboard 100 times and never forget it. Richard Nixon
+
+Idleness and lack of occupation tend --- nay are dragged --- toward evil. Hippocrates
+
+Liberty and happiness have a powerful enemy on each hand; on the one hand tyranny, on the other licentiousness [anarchy]. To guard against the latter, it is necessary to give the proper powers to government; and to guard against the former, it is necessary that those powers should be properly distributed. James Wilson
+
+The public welfare demands that constitutional cases must be decided according to the terms of the Constitution itself, and not according to judges' views of fairness, reasonableness, or justice. I have no fear of constitutional amendments properly adopted, but I do fear the rewriting of the Constitution by judges under the guise of interpretation. Hugo L. Black
+
+Once the government becomes the supplier of people's needs, there is no limit to the needs that will be claimed as a basic right. Lawrence Auster
+
+When government accepts responsibility for people, then people no longer take responsibility for themselves. George Pataki
+
+I can find no warrant for such an appropriation in the Constitution, and I do not believe that the power and duty of the general government ought to be extended to the relief of individual suffering which is in no manner properly related to the public service or benefit. Federal aid in such cases encourages the expectation of paternal care on the part of the government and weakens the sturdiness of our national character, while it prevents the indulgence among our people of that kindly sentiment and conduct which strengthens the bonds of a common brotherhood. Grover Cleveland
+
+The welfare state that is built upon this conception seems to prove precisely away from the conservative conception of authoritative and personal government, towards a labyrinthine privilege sodden structure of anonymous power, structuring a citizenship that is increasingly reluctant to answer for itself, increasingly parasitic on the dispensations of a bureaucracy towards which it can feel no gratitude. Roger Scruton
+
+How did it happen? How did our national government grow from a servant with sharply limited powers into a master with virtually unlimited power? In part, we were swindled. There are occasions when we have elevated men and political parties to power that promised to restore limited government and then proceeded, after their election, to expand the activities of government. But let us be honest with ourselves. Broken promises are not the major causes of our trouble. Kept promises are. All too often we have put men in office who have suggested spending a little more on this, a little more on that, who have proposed a new welfare program, who have thought of another variety of 'security.' We have taken the bait, preferring to put off to another day the recapture of freedom and the restoration of our constitutional system. We have gone the way of many a democratic society that has lost its freedom by persuading itself that if 'the people' rule, all is well. Barry Goldwater
+
+It’s about food. It’s about your home. It’s about your life. The government is worried about all of the above. All I’m saying is you should be worried they’re worried. Here’s why: They’re telling you that you can’t take care of yourself. You can’t be trusted with what you put in your mouth or what you sign on the mortgage dotted line. So they’ll tell you what to put in your mouth and they’ll save you from what you signed on that dotted line. Does anyone see a trend here? Personal responsibility has now become government responsibility. Neil Cavuto
+
+The welfare of humanity is always the alibi of tyrants. Albert Camus
+
+I cannot find any authority in the Constitution for public charity, ... [it] would be contrary to the letter and the spirit of the Constitution and subversive to the whole theory upon which the Union of these States is founded. Franklin Pierce
+
+Congress has not unlimited powers to provide for the general welfare, but only those specifically enumerated. Thomas Jefferson
+
+If a law to donate aid to any farmer or cattleman who has had poor crops or lost his cattle comes within the meaning of the phrase “to provide for the General Welfare of the United States,” why should not similar gifts be made to grocers, shopkeepers, miners, and other businessmen who have made losses through financial depression, or to wage earners out of employment? Why is not their property equally within the purview of the General Welfare? Charles Warren
+
+We have rights, as individuals, to give as much of our own money as we please to charity; but as members of Congress we have no right so to appropriate a dollar of public money. Davy Crockett
+
+Government is like a baby. An alimentary canal with a big appetite at one end and no sense of responsibility at the other. Ronald Reagan
+
+You and I are told we must choose between a left or right, but I suggest there is no such thing as a left or right. There is only an up or down. Up to man's age-old dream --- the maximum of individual freedom consistent with order --- or down to the ant heap of totalitarianism. Regardless of their sincerity, their humanitarian motives, those who would sacrifice freedom for security have embarked on this downward path. Plutarch warned, "The real destroyer of the liberties of the people is he who spreads among them bounties, donations and benefits." Ronald Reagan
+
+Welfare's purpose should be to eliminate, as far as possible, the need for its own existence. Ronald Reagan
+
+I prefer dangerous freedom over peaceful slavery. Thomas Jefferson
+
+You can't get rich in politics unless you're a crook. Harry S. Truman
+
+I am different from Washington; I have a higher, grander standard of principle. Washington could not lie. I can lie, but I won't. Mark Twain
+
+No people is wholly civilized where a distinction is drawn between stealing an office and stealing a purse. Theodore Roosevelt
+
+So, what the cultural elites are doing is what plenty of other authoritarian and totalitarian societies have done in the past. They are making the cost of telling the truth high enough that a general mass of people will be afraid to declare it publicly or even privately. Jarrett Stepman
+
+We cannot afford to differ on the question of honesty if we expect our republic permanently to endure. Honesty is not so much a credit as an absolute prerequisite to efficient service to the public. Unless a man is honest, we have no right to keep him in public life; it matters not how brilliant his capacity. Theodore Roosevelt
+
+One of the painfully sobering realizations that come from reading history is the utter incompetence that is possible among leaders of whole nations and empires --- and the blind faith that such leaders can nevertheless inspire among the people who are enthralled by their words or their posturing. Thomas Sowell
+
+There is but one straight course, and that is to seek truth and pursue it steadily. George Washington
+
+The moment we no longer have a free press, anything can happen. What makes it possible for a totalitarian or any other dictatorship to rule is that people are not informed; how can you have an opinion if you are not informed? If everybody always lies to you, the consequence is not that you believe the lies, but rather that nobody believes anything any longer. This is because lies, by their very nature, have to be changed, and a lying government has constantly to rewrite its own history. On the receiving end you get not only one lie --- a lie which you could go on for the rest of your days --- but you get a great number of lies, depending on how the political wind blows. And a people that no longer can believe anything cannot make up its mind. It is deprived not only of its capacity to act but also of its capacity to think and to judge. And with such a people you can then do what you please. Hannah Arendt
+
+Secrecy and a free, democratic government don’t mix. Harry S. Truman
+
+A people that values its privileges above its principles soon loses both. Dwight D. Eisenhower
+
+Any time we deny any citizen the full exercise of his constitutional rights, we are weakening our own claim to them. Dwight D. Eisenhower
+
+There is no maxim, in my opinion, which is more liable to be misapplied, and which, therefore, more needs elucidation, than the current, that the interest of the majority is the political standard of right and wrong. James Madison
+
+This is the gravest danger that today threatens civilization: State intervention, the absorption of all spontaneous social effort by the State; that is to say, of spontaneous historical action, which in the long-run sustains, nourishes and impels human destinies. José Ortega y Gasset
+
+Our government is backwards. We are private citizens. The government should know nothing about us. They are public servants. We should know everything about them. Anonymous
+
+---
+
+5 things 'progressives' will never understand
+
+1. Free does not mean free.
+2. You are not entitled to someone else's hard-earned money, ever.
+3. You cannot tax a nation into prosperity.
+4. The rich are not responsible for your financial situation, you are.
+5. More government always means less freedom.
+
+---
+
+We have depended on government for so much for so long that we as people have become less vigilant of our liberties. As long as the government provides largesse for the majority, the special interest lobbyists will succeed in continuing the redistribution of welfare programs that occupies most of Congress's legislative time. Ron Paul
+
+We have no more right to consume happiness without producing it than to consume wealth without producing it. George Bernard Shaw
+
+
+
 
 
 

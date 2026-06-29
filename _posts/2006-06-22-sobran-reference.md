@@ -77,7 +77,7 @@ liberation
 : release from constraints of nonsocialist traditions
 
 multiculturalism
-: the refusal to take <em>any</em> culture seriously
+: the refusal to take *any* culture seriously
 
 notorious
 : having only detractors [see *controversial*]

@@ -14,17 +14,11 @@ tags:
 
 - Confessions of a reactionary utopian
 
-"Isolationism" is the belief that the Department of Defense should be used for defense.
-
 "Outing" is accepted as a normal and legitimate political tactic. In other words, it's perfectly all right to blackmail a homosexual, as long as it's done for the sake of homosexual causes.
 
 "Those of us who care deeply about the arts" --- what a priggish self-description. As if you must be indifferent to Titian if you don't want Washington bankrolling "the arts."
 
 A chameleon has no true colors.
-
-A culture is almost by definition a set of things that can't mix, because they have their full meaning only in relation to each other and lose their meaning in any alien context.
-
-A culture without religion is hardly a culture at all, and to call it one is like calling nudism a "dress code."
 
 A deadpan delivery is no guarantee of impartiality. It may mean that the journalist is not suppressing his views but merely concealing them, the better to insinuate them into the mind of the reading and viewing public, like a butcher who hopes the customer won't notice his finger on the scales.
 
@@ -32,13 +26,9 @@ A few years ago liberalism bulletin-board orthodoxy (it changes weekly) held, un
 
 A good cause, with a good conscience, should show itself in good faith. It shouldn't need evasions and euphemisms to describe its own position.
 
-A politician is, in effect, a man who runs for the job of umpire on the promise that he will rule in favor of a certain team.
-
 A regime with trillion-dollar budgets forbids individuals to donate more than a thousand dollars to any candidate.
 
 A two-party system isn't a democracy; it's a dilemma.
-
-A voter is a public official exercising his share of power, and he is supposed to use that power for the common good. If he uses it for his own special benefit he is as corrupt as a judge who takes bribes.
 
 According to the Jesus Seminar, Jesus never claimed to be the Messiah and didn't rise from the dead. In fact, it seems he said very little that wouldn't fit comfortably into the Democratic Party platform.
 
@@ -54,25 +44,17 @@ An idea has really triumphed when people are no longer aware that there is any a
 
 An opinion poll may be defined, with only slight exaggeration, as a lie carried out to two decimal places.
 
-And don't forget: the tigress gives milk. Millions of people live off the modern state.
-
 Another corporation has been found guilty of bigotry --- that is, practicing anthropology without a license.
 
 Anyone can be an underdog; the trick is to be a registered, pedigreed underdog.
 
 Anything "medieval" is by definition bad, and of course there was no torture before the Middle Ages, give or take an occasional crucifixion.
 
-As long as there is a single Republican in Washington, nobody can say with any assurance that socialism is dead.
-
 As long as there is sin, there will be blackmail. No reform can get rid of it. It can take many forms, not all of them illegal or provable in court. And it will always remain a hidden factor. This means that we can never completely know who controls our nominal rulers.
-
-As President Clinton reminded us, "diversity" is our greatest strength. That must be why he wants the federal government to make sure all children get the same kind and degree of education.
 
 As you may have noticed, people who are big on "dialogue" usually expect to do most of the talking.
 
 At home, the U.S. Government was forced to "reinterpret" the Constitution, not as something it had to obey, but as something it had to enforce.
-
-At the end of the twentieth century, more people have been killed in the name of equality than for any other principle.
 
 Bill and Hillary Clinton are like members of a trapeze act who hate each other's guts, but can't let go: if one falls, the act is finished.
 
